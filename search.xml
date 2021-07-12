@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>阿里云盘桌面端正式版总算来了，快来尝鲜吧！</title>
+      <link href="posts/7c83cdf5/"/>
+      <url>posts/7c83cdf5/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>&emsp;&emsp;历经近半年的不断更新、内测，阿里云盘桌面端总算是迎来了正式版。不知道各位小伙伴还记不记得之前江小鑫之前给大家分享过的<a href="http://mp.weixin.qq.com/s?__biz=MzU3MDkzNjM3Ng==&mid=2247496540&idx=1&sn=5ad3d550747155c82a6e900b640b5181&chksm=fce56e0bcb92e71d0e41fef57bc65bafba6193d20361da7bcb5c49cc891e37360c5242e08075&scene=21#wechat_redirect">泄露的阿里云盘桌面端测试版</a>。相信已经有不少小伙伴体验过了吧，那么体验结果如何呢，留言告诉我吧~</p><h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>&emsp;&emsp;好了，正式进入今天的话题。前几天，阿里云盘官网正式发布了桌面端的正式版，这也表示阿里云盘在逐渐成长的路上又上了一个新台阶。本次发布的正式版版本号为：2.1.7。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img20210704131331.png"></p><p>&emsp;&emsp;软件外观风格跟以前一样，依旧还是以极简为主，目前暂时还没有什么捆绑的软件。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img20210704131359.png"></p><p>&emsp;&emsp;软件登陆界面，跟之前泄露的测试版差不多，支持三种方式登陆。<code>短信登陆、账号登陆、扫码登陆</code>。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img20210704131415.png"></p><p>&emsp;&emsp;账号登陆后，进入软件的主界面。在软件功能上，正式版比之前的内测版多了<code>相册、保险箱</code>和<code>我的分享</code>功能。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img20210704131427.png"></p><p>&emsp;&emsp;<code>相册功能</code>江小鑫已经在手机上体验好久了，感觉还不错，对于手机容量不太大的“摄影师”来说是一个福利。</p><p>&emsp;&emsp;而且<code>文件和相册是完全独立的两个功能</code>，备份到相册里的文件是不占用云盘容量的（相当于是无限容量了）。不过也正因为这个原因，你无法在文件里找到备份到相册里的内容。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img20210704131445.png"></p><p>&emsp;&emsp;查看详细信息， 阿里云盘的AI功能会对选中的内容进行<code>标签归类</code>，还能看到<code>文件位置、创建时间</code>和<code>修改时间</code>。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img20210704131502.png"></p><p>&emsp;&emsp;至于分享功能，目前除了<code>视频、图片、文本</code>，其他格式的文件均不支持分享，像熟悉的压缩包、文件夹、<strong>EXE文件</strong>（实名认证后可以分享）什么的都是不支持分享的，希望官方可以加快更新的速度~</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img20210704131520.png"></p><p>&emsp;&emsp;不过虽然不支持分享文件夹，但是如果用户需要<code>同时分享多个文件</code>，则可以<code>先按住键盘上的shift键，再手动选择需要分享的文件</code>，操作过程十分鸡肋。</p><p>&emsp;&emsp;分享界面做的非常简洁，虽然可以设置分享的有效期，但不能使用加密分享，与其他同类软件相比，这也是一个需要完善的功能。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img20210704131541.png"></p><p>&emsp;&emsp;在<code>我的分享</code>界面，可以看到你分享过的所有内容，右键可以取消分享。</p><p>&emsp;&emsp;细心的小伙伴发现了，在菜单栏里有个<code>提取码</code>，这也明确表示了未来会有设置提取码的功能。除此之外，在我的分享界面还可以看到分享内容的<code>浏览量、下载量</code>和<code>转存量</code>，以及<code>分享时间</code>和<code>有效期</code>。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img20210704131555.png"></p><p>&emsp;&emsp;打开分享链接，会出现下面这个界面。支持<code>文件下载</code>和<code>保存到我的云盘</code>，但在操作之前，会提示需要先登录自己的阿里云盘账号，<code>不支持游客下载</code>。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img20210704131618.png"></p><p>&emsp;&emsp;本次发布的正式版还有一个功能就是<code>保险箱</code>，这个功能和百度网盘的<code>隐藏空间</code>类似，可以把重要的文件放进去，查看的时候需要验证<code>二级密码</code>。</p><p>&emsp;&emsp;不过这个功能江小鑫用的并不太多，毕竟在这个互联网上没有什么是绝对安全的，相比于把重要文件放到互联网上，我还是觉得物理硬盘比较好。</p><p>&emsp;&emsp;首次使用会向绑定的手机号发送验证码来校验你的身份，验证通过后就可以设置保险箱的密码。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img20210704131632.png"></p><p>&emsp;&emsp;不知大家有没有发现，目前阿里云盘除了下载不限速，相比于其他网盘来说，功能算是非常的少了，而且还没有什么核心的竞争力，未来将会怎么发展呢？</p><p>&emsp;&emsp;最后，江小鑫给大家带来了阿里云盘的绿色版和官方安装包，需要的可以在公众号后台回复获取下载地址。</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】后在对话框中回复【2106191】即可获取下载地址</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>江小鑫的软件库</title>
+      <link href="posts/c96e70cf/"/>
+      <url>posts/c96e70cf/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>本页面所有软件均来自互联网，仅作学习交流使用，如有侵权请联系<a href="mailto:&#x61;&#x64;&#x6d;&#x69;&#110;&#x40;&#106;&#120;&#45;&#108;&#x6c;&#46;&#x63;&#110;">&#x61;&#x64;&#x6d;&#x69;&#110;&#x40;&#106;&#120;&#45;&#108;&#x6c;&#46;&#x63;&#110;</a>删除，谢谢！</p><h2 id="装机必备"><a href="#装机必备" class="headerlink" title="装机必备"></a>装机必备</h2><h3 id="办公三件套"><a href="#办公三件套" class="headerlink" title="办公三件套"></a>办公三件套</h3><div class="tabs" id="test1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test1-1">简介</button></li><li class="tab"><button type="button" data-href="#test1-2">OfficeTool</button></li><li class="tab"><button type="button" data-href="#test1-3">WPS2019专业版</button></li><li class="tab"><button type="button" data-href="#test1-4">考试专用版</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><p>这里收集了Ms Office Tool Plus、WPS2019专业增强版、WPS教育考试专用版</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-2"><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210529224439.gif"></p><p>GitHub：<a href="https://github.com/YerongAI/Office-Tool/">https://github.com/YerongAI/Office-Tool/</a></p><p>百度网盘：<a href="https://pan.baidu.com/s/15BMlkH-RKHRLh1PbiEiM7Q">https://pan.baidu.com/s/15BMlkH-RKHRLh1PbiEiM7Q</a></p><p>蓝奏网盘：<a href="https://xiaodao.lanzoux.com/b0dq63luf">https://xiaodao.lanzoux.com/b0dq63luf</a></p><p>天翼网盘：<a href="https://cloud.189.cn/t/i2m6byMruQNn">https://cloud.189.cn/t/i2m6byMruQNn</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-3"><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210529230342.png"></p><p>天翼网盘：<a href="https://cloud.189.cn/t/FJ7VRfvYVruy">https://cloud.189.cn/t/FJ7VRfvYVruy</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-4"><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210529230043.webp"></p><p>官方：<a href="http://ncre.neea.edu.cn/html1/report/1507/861-1.htm">http://ncre.neea.edu.cn/html1/report/1507/861-1.htm</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><h3 id="浏览器推荐"><a href="#浏览器推荐" class="headerlink" title="浏览器推荐"></a>浏览器推荐</h3><div class="tabs" id="test2"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test2-1">简介</button></li><li class="tab"><button type="button" data-href="#test2-2">chrome</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test2-1"><p>众所周知，chrome一直是市面上占有率最高的一款浏览器，不仅仅是因为颜值好看，更多的是看重它的实用性和兼容性。</p><p>就连新出来的edge浏览器，搭载的也是chrome的内核，这就更强了。什么意思呢，就是chrome支持的新版edge都支持，chrome不支持的，新版edge还支持。</p><p>江小鑫给大家带来了chrome和edge两款浏览器的增强版，均由大神<code>@耍下</code>制作，感兴趣的可以去他的网站看看。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test2-2"><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210603110943.png"></p><p><strong>功能：</strong></p><ul><li>双击关闭标签页</li><li>保留最后标签页（点X不行）（防止关闭最后一个标签页时关闭浏览器）</li><li>鼠标悬停标签栏滚动</li><li>按住右键时滚轮滚动标签栏</li><li>移除flash锁区，移除2020年过期警告（下载、加载flash需要你自己处理）</li><li>移除开发者模式警告</li><li>便携设计，程序放在App目录，数据放在Data目录<code>（不兼容原版数据，可以重装系统换电脑不丢数据）</code></li><li>移除更新错误警告（因为是绿色版没有自动更新功能）</li></ul><p><strong>使用：</strong></p><ol><li>解压后运行App/chrome.exe即可。</li><li>由于是便携版，不会和其它版本冲突，不想用了可以直接删掉整个文件夹。</li></ol><p><strong>更新：</strong></p><ol><li>升级先把老版本App重命名为App2。</li><li>然后把新下载的所有文件覆盖到老文件夹内。</li><li>包括App、Data和说明.txt。</li><li>运行测试正常后可以安全删除App2老版本。</li><li>建议保留上个版本压缩包以便出问题时还原。</li></ol><p><strong>下载：</strong></p><p><code>已同步更新到版本：91.0.4472.77</code></p><p>蓝奏网盘：<a href="https://shuax.lanzoux.com/b00t3vkmb#hgkw">https://shuax.lanzoux.com/b00t3vkmb#hgkw</a>  提取码：hgkw</p><p>本地网盘：<a href="https://assets.shuax.com/">https://assets.shuax.com/</a></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><div class="hide-toggle" style="border: 1px solid bg"><div class="hide-button toggle-title" style="background-color: bg;color: color"><i class="fas fa-caret-right fa-fw"></i><span>display</span></div>    <div class="hide-content"><p>content</p></div></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>超级详细的系统安装教程</title>
+      <link href="posts/970eea45/"/>
+      <url>posts/970eea45/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>如果有一天，由于不小心下载到了病毒文件，或者是系统垃圾太多，导致电脑卡顿。这时最好的方法就是重装系统，将电脑还原到最初。</p><p>说到装系统，觉得简单的同学认为简直易如反掌，觉得不会的同学又觉得简直难如登天。装系统真的很难吗？很多幺蛾子很多小陷阱？其实只要掌握了正确的方法，装系统一点都不难！不需要去街边电脑店、甚至不需要掌握太多的术语和专业知识！</p><p>今天江小鑫就来和大家聊一聊怎么自己在家给心爱的电脑装一个纯净的系统。</p><h2 id="所需工具"><a href="#所需工具" class="headerlink" title="所需工具"></a>所需工具</h2><ol><li>一个8G左右的U盘（最好是USB3.0的，这样安装速度会快点）；</li><li>制作PE系统；</li><li>系统镜像文件。</li></ol><h2 id="制作PE系统"><a href="#制作PE系统" class="headerlink" title="制作PE系统"></a>制作PE系统</h2><p>网上有很多的PE系统制作工具，但是大部分都内置广告，最后安装好的系统也有广告，所以在这里江小鑫给大家推荐的是<code>微PE工具箱</code>。这是一款完全无广告的PE系统制作工具，江小鑫自己也是用的这款软件。</p><ol><li><p>下载好微PE工具箱（下载地址：<a href="http://www.wepe.com.cn/download.html%EF%BC%89">http://www.wepe.com.cn/download.html）</a></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210421094853.png" alt="image-20210421094853121"></p><p>如果觉得这款工具还不错的可以支持一下开发者，当然你也可以点击<code>我已捐赠，继续查看下载地址</code>跳过捐赠。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210421095106.png" alt="image-20210421095106505"></p></li><li><p>下载好后打开<code>微PE工具箱</code>，软件默认是将PE工具箱装进电脑系统，我们可以在软件右下角选择其他安装方式，这里我们选择<code>安装PE到U盘</code>。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210421095611.png" alt="image-20210421095611315"></p></li><li><p>将我们的U盘插入到电脑，如果在待写入U盘选择栏没有找到你的U盘，可以点击后面的刷新图标，如果还是无法检测，建议将U盘拔出换一个USB接口插入。</p></li><li><p>安装选项建议全部选择默认，点击<code>立即安装进U盘</code>，然后点击<code>开始制作</code></p><p><code>注意：此操作会将U盘格式化，请提前做好备份。</code></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210421095838.png" alt="image-20210421095838797"></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210421100413.png" alt="image-20210421100412997"></p></li><li><p>这时候软件会自动执行安装程序，不需要我们手动操作，坐等安装完成即可。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210421100515.png" alt="image-20210421100515"></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210421100655.png" alt="image-20210421100655303"></p></li><li><p>可以看到我们的U盘现在变成了两个分区，一个是用来存储镜像文件，一个是PE系统工具箱。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210421100817.png" alt="image-20210421100817168"></p></li><li><p>将系统镜像复制到<code>微PE</code>这个分区里，以后其他的文件也是放在这个分区，不要去动<code>EFI分区</code>里面的内容。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210421101030.png" alt="image-20210421101030877"></p></li><li><p>到这里我们的<code>PE系统</code>就制作好了。</p></li></ol><h2 id="PE系统如何使用"><a href="#PE系统如何使用" class="headerlink" title="PE系统如何使用"></a>PE系统如何使用</h2><p>下面截图是我用虚拟机演示的，可能会跟实体机有点不一样，但大同小异。</p><ol><li><p>电脑开机狂按F2/Esc/Del/F8（任意一个键）进入主板BIOS设置，在启动顺序中将U盘改为第一启动项。</p><p>不会的可以看百度：<a href="https://jingyan.baidu.com/article/fea4511ad31699f7bb912501.html">https://jingyan.baidu.com/article/fea4511ad31699f7bb912501.html</a></p></li><li><p>将U盘改为第一启动项后，F10保存并重启电脑，就会出现以下这个界面，一般我们选择第一个然后按回车键即可（如果不选择，则是3秒后自动进入第一个）。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210421132131.png" alt="image-20210421132130527"></p></li><li><p>然后就会自动进入到PE系统。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210421132331.png" alt="image-20210421132331528"></p></li><li><p>进入到PE系统后，我们可以看到和一个Win10系统差不多的界面，桌面上有很多工具。如果只是装系统的话，建议使用<code>CGI备份还原</code>工具。我们打开<code>CGI备份还原</code>工具，可以看到以下这个界面。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@main/img/post_img/20210421132836.png" alt="image-20210421132836178"></p></li><li><p>由于我是用的虚拟机做的演示，所以这里没有分区和镜像文件，如果是实体机的话，我们只需要在第二步选择自己的<code>系统分区</code>，然后在第三步选择<code>镜像文件</code>，最后点击<code>执行</code>即可。我这里就不再作演示。</p></li><li><p>还原完成后，重启电脑并拔出U盘，就会自动进入Windows安装程序，跟着操作提示一步一步走就可以了。</p></li></ol><h2 id="镜像下载"><a href="#镜像下载" class="headerlink" title="镜像下载"></a>镜像下载</h2><h3 id="微云备份"><a href="#微云备份" class="headerlink" title="微云备份"></a>微云备份</h3><p><a href="https://share.weiyun.com/r8pOqSAT">https://share.weiyun.com/r8pOqSAT</a></p><p>以下镜像均来自MSDN I TELL YOU！保证绝对干净！当然你也可以在微软官方下载：<a href="https://www.microsoft.com/zh-cn/windows">https://www.microsoft.com/zh-cn/windows</a></p><p>下载方法：复制<code>ED2K</code>或者<code>BT链接</code>，建议使用专用下载工具下载。下载速度仅与您宽带环境和工具有关。</p><h3 id="Windows-10"><a href="#Windows-10" class="headerlink" title="Windows 10"></a>Windows 10</h3><p>Windows 10 （business editions）包含以下版本：专业版、企业版、教育版、专业工作站版、专业教育版</p><p>Windows 10 （consumer editions）包含以下版本：家庭版、专业版、教育版、家庭单语言版、专业工作站版、专业教育版</p><p><code>Windows 10 (business edition), version 20H2 (updated Feb 2021) (x64) - DVD (Chinese-Simplified)</code></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">ED2K：ed2k:&#x2F;&#x2F;|file|cn_windows_10_business_editions_version_20h2_updated_feb_2021_x64_dvd_be28e70d.iso|6060609536|6EE4C60193418417843D7A2F4518C9D7|&#x2F;</span><br><span class="line">BT：magnet:?xt&#x3D;urn:btih:D4088008828F2B7D95B3546D32C641B736001AF5&amp;dn&#x3D;cn_windows_10_business_editions_version_20h2_updated_feb_2021_x64_dvd_be28e70d.iso&amp;xl&#x3D;6060609536</span><br><span class="line">↓↓↓以下是校验信息↓↓↓</span><br><span class="line">文件：cn_windows_10_business_editions_version_20h2_updated_feb_2021_x64_dvd_be28e70d.iso</span><br><span class="line">大小：5.64GB</span><br><span class="line">MD5：6EE808B7E2851E9B98C3C78B80038353</span><br><span class="line">SHA1：9B8BA09EC4FC35D67BAA756E01D2CC563B856026</span><br><span class="line">SHA256：12CC190915EEA403CB376A7E0A3C38F7E23F68D8FE7AEE5DF890F6C002A4DF5F</span><br></pre></td></tr></table></figure><p><code>Windows 10 (consumer edition), version 20H2 (updated Feb 2021) (x64) - DVD (Chinese-Simplified)</code></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">ED2K：ed2k:&#x2F;&#x2F;|file|cn_windows_10_consumer_editions_version_20h2_updated_feb_2021_x64_dvd_8ddab99d.iso|6223781888|954B729026D6E420EE46FB2DC912F256|&#x2F;</span><br><span class="line">BT：magnet:?xt&#x3D;urn:btih:65AC835ABC26EA04F0CBF4B8D18F99C5633F6DF9&amp;dn&#x3D;cn_windows_10_consumer_editions_version_20h2_updated_feb_2021_x64_dvd_8ddab99d.iso&amp;xl&#x3D;6223781888</span><br><span class="line">↓↓↓以下是校验信息↓↓↓</span><br><span class="line">文件：cn_windows_10_consumer_editions_version_20h2_updated_feb_2021_x64_dvd_8ddab99d.iso</span><br><span class="line">大小：5.8GB</span><br><span class="line">MD5：6592A7F121FC2DFC31F6538D56573B86</span><br><span class="line">SHA1：B5CC14FA8C65FE176D148B855ED486A513E8616F</span><br><span class="line">SHA256：1276A749A5B9F646F750BC09FFA9A94A8058E97015B5BC15A609479BA2512C57</span><br></pre></td></tr></table></figure><p><code>Windows 10 (business edition), version 2004 (updated Sep 2020) (x64) - DVD (Chinese-Simplified)</code></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">ED2K：ed2k:&#x2F;&#x2F;|file|cn_windows_10_business_editions_version_2004_updated_sep_2020_x64_dvd_7134ba4b.iso|5313628160|7CF0E7C3324B4209663B8B971A5ACEF2|&#x2F;</span><br><span class="line">BT：magnet:?xt&#x3D;urn:btih:C74F64E50F4FACBA15D0870791E0CB09336D6057&amp;dn&#x3D;cn_windows_10_business_editions_version_2004_updated_sep_2020_x64_dvd_7134ba4b.iso&amp;xl&#x3D;5313628160</span><br><span class="line">↓↓↓以下是校验信息↓↓↓</span><br><span class="line">文件：cn_windows_10_business_editions_version_2004_updated_sep_2020_x64_dvd_7134ba4b.iso</span><br><span class="line">大小：4.95GB</span><br><span class="line">MD5：99D7C88AED369CFE8BA11F7B041BC044</span><br><span class="line">SHA1：BF0874FFE0FAE1C557E65F49B83B5E83BE7DBF24</span><br><span class="line">SHA256：E9872C5A571624E9FBB6B660B415FD214DD67364AE2A584ADBC4C1D037E565F7</span><br></pre></td></tr></table></figure><p><code>Windows 10 (consumer edition), version 2004 (updated Sep 2020) (x64) - DVD (Chinese-Simplified)</code></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">ED2K：ed2k:&#x2F;&#x2F;|file|cn_windows_10_consumer_editions_version_2004_updated_sep_2020_x64_dvd_049d70ee.iso|5424910336|9100F2CD41FED19B3314FFCF182DF026|&#x2F;</span><br><span class="line">BT：magnet:?xt&#x3D;urn:btih:38A3327AC2E4D57BA0E3ECC421588FA6B352C967&amp;dn&#x3D;cn_windows_10_consumer_editions_version_2004_updated_sep_2020_x64_dvd_049d70ee.iso&amp;xl&#x3D;5424910336</span><br><span class="line">↓↓↓以下是校验信息↓↓↓</span><br><span class="line">文件：cn_windows_10_consumer_editions_version_2004_updated_sep_2020_x64_dvd_049d70ee.iso</span><br><span class="line">大小：5.05GB</span><br><span class="line">MD5：38DBD445225034D39C8A9DA9030B2731</span><br><span class="line">SHA1：B5121926EF2FBBA7F198E30F3D7F293A20A1C144</span><br><span class="line">SHA256：B4306B451599A0B98BE02DAE5EA54D78CBC0F3CCFD7CEE6EB54F7744BE3350D8</span><br></pre></td></tr></table></figure><h3 id="Windows-7"><a href="#Windows-7" class="headerlink" title="Windows 7"></a>Windows 7</h3><p><code>Windows 7 Ultimate with Service Pack 1 (x64) - DVD (Chinese-Simplified)</code></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">ED2K：ed2k:&#x2F;&#x2F;|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|&#x2F;</span><br><span class="line">↓↓↓以下是校验信息↓↓↓</span><br><span class="line">文件：cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso</span><br><span class="line">大小：3.19GB</span><br><span class="line">SHA1：2CE0B2DB34D76ED3F697CE148CB7594432405E23</span><br></pre></td></tr></table></figure><p><code>Windows 7 Professional with Service Pack 1, VL Build (x64) - DVD (Chinese-Simplified)</code></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">ED2K：ed2k:&#x2F;&#x2F;|file|cn_windows_7_professional_with_sp1_vl_build_x64_dvd_u_677816.iso|3266004992|5A52F4CCEFA71797D58389B397038B2F|&#x2F;</span><br><span class="line">↓↓↓以下是校验信息↓↓↓</span><br><span class="line">文件：cn_windows_7_professional_with_sp1_vl_build_x64_dvd_u_677816.iso</span><br><span class="line">大小：3.04GB</span><br><span class="line">SHA1：647B26479A3A46C078F5B1364A89003A31F4AADA</span><br></pre></td></tr></table></figure><p><code>Windows 7 Professional with Service Pack 1 (x64) - DVD (Chinese-Simplified)</code></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">ED2K：</span><br><span class="line">ed2k:&#x2F;&#x2F;|file|cn_windows_7_professional_with_sp1_x64_dvd_u_677031.iso|3420557312|430BEDC0F22FA18001F717F7AF08C9D5|&#x2F;</span><br><span class="line">↓↓↓以下是校验信息↓↓↓</span><br><span class="line">文件：cn_windows_7_professional_with_sp1_x64_dvd_u_677031.iso</span><br><span class="line">大小：3.19GB</span><br><span class="line">SHA1：9B57E67888434C24DD683968A3CE2C72755AB148</span><br></pre></td></tr></table></figure><p><code>Windows 7 Home Premium with Service Pack 1 (x64) - DVD (Chinese-Simplified)</code></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">ED2K：ed2k:&#x2F;&#x2F;|file|cn_windows_7_home_premium_with_sp1_x64_dvd_u_676691.iso|3420557312|1A3CF44F3F5E0BE9BBC1A938706A3471|&#x2F;</span><br><span class="line">↓↓↓以下是校验信息↓↓↓</span><br><span class="line">文件：cn_windows_7_home_premium_with_sp1_x64_dvd_u_676691.iso</span><br><span class="line">大小：3.19GB</span><br><span class="line">SHA1：BB5A8A1480FE54C497601AA1DC7BE698A784BE1C</span><br></pre></td></tr></table></figure><p><code>Windows 7 Enterprise with Service Pack 1 (x64) - DVD (Chinese-Simplified)</code></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">ED2k：</span><br><span class="line">ed2k:&#x2F;&#x2F;|file|cn_windows_7_enterprise_with_sp1_x64_dvd_u_677685.iso|3265574912|E9DB2607EA3B3540F3FE2E388F8C53C4|&#x2F;</span><br><span class="line">↓↓↓以下是校验信息↓↓↓</span><br><span class="line">文件：cn_windows_7_enterprise_with_sp1_x64_dvd_u_677685.iso</span><br><span class="line">大小：3.04GB</span><br><span class="line">SHA1：9BA5E85596C2F25BE59F7E96139D83D4CB261A62</span><br></pre></td></tr></table></figure><h2 id="系统激活工具"><a href="#系统激活工具" class="headerlink" title="系统激活工具"></a>系统激活工具</h2><p>激活工具仅供学习交流，如需商用请购买正版！</p><ul><li><p>云萌 Windows 10 激活工具 v2.5.0.0</p></li><li><p>HEU KMS Activator(win+office激活) 22.3.0（推荐）</p></li></ul><p>下载地址：<a href="http://shandianpan.com/f/4EFI">http://shandianpan.com/f/4EFI</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 系统镜像 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> Windows </tag>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>来自吾爱大佬的又一款Bilibili视频下载神器</title>
+      <link href="posts/8d089640/"/>
+      <url>posts/8d089640/</url>
+      
+        <content type="html"><![CDATA[<h2 id="视频介绍"><a href="#视频介绍" class="headerlink" title="视频介绍"></a>视频介绍</h2><iframe src="//player.bilibili.com/player.html?aid=289615827&bvid=BV13f4y1t7JK&cid=309392804&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0"> </iframe><p><code>如视频不清晰请前往B站观看</code></p><p>链接：<a href="https://www.bilibili.com/video/BV13f4y1t7JK">https://www.bilibili.com/video/BV13f4y1t7JK</a></p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h3 id="1-0-1版本"><a href="#1-0-1版本" class="headerlink" title="1.0.1版本"></a>1.0.1版本</h3><p>修复bug：点击用户登录-&gt;扫码登录-&gt;关闭登录窗口会提示指定窗口尚未载入（52用户 他乡 反馈BUG）</p><h3 id="1-0-2版本"><a href="#1-0-2版本" class="headerlink" title="1.0.2版本"></a>1.0.2版本</h3><p>修复点击下载后提示目录创建失败（52用户 kent52712 反馈BUG）</p><p>修复下载时一直为正在解析的问题</p><p>新增如果此视频没有选择的分辨率会默认下载可以下载的分辨率最高的视频</p><h3 id="1-0-3版本"><a href="#1-0-3版本" class="headerlink" title="1.0.3版本"></a>1.0.3版本</h3><p>修改视频下载逻辑，临时文件与视频文件分离</p><p>新增：支持avid，直接输入avid或视频地址点击解析即可</p><h3 id="1-0-4版本"><a href="#1-0-4版本" class="headerlink" title="1.0.4版本"></a>1.0.4版本</h3><p>修复部分视频合并视频时可能会失败（感谢用户：EdLiya）</p><p>新增可以多选了，选择多个然后右键-&gt;选中</p><h3 id="1-0-5版本"><a href="#1-0-5版本" class="headerlink" title="1.0.5版本"></a>1.0.5版本</h3><p>修复部分视频提示无法创建目录（感谢用户：跳墙的爷）</p><h3 id="1-0-6版本"><a href="#1-0-6版本" class="headerlink" title="1.0.6版本"></a>1.0.6版本</h3><p>修复部分视频提示无法创建目录（感谢用户：shanhaijing）</p><p>修复登陆后选择视频质量提示未登录的问题（感谢用户：Fankilair、小生浩宁）</p><p>新增下载时会在标题前添加序号，从01开始（感谢用户：叶灵兮何）</p><h3 id="1-0-7版本"><a href="#1-0-7版本" class="headerlink" title="1.0.7版本"></a>1.0.7版本</h3><p>修复获取不到视频质量的问题</p><p>某些视频无声音时无法下载，会提示视频解析失败。</p><p>有些时候登录后选择清晰度后还是提示需要登录</p><p>吾爱链接：<a href="https://www.52pojie.cn/thread-1354179-1-2.html">https://www.52pojie.cn/thread-1354179-1-2.html</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】后在对话框中回复【bilibili视频下载器】即可获取下载地址</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+          <category> Windows软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电影 </tag>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> Windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【模板】婚礼开场PPT幻灯片模板66套</title>
+      <link href="posts/f6743b51/"/>
+      <url>posts/f6743b51/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>相信大家都有过想用视频来记录爱情，表达爱情的想法。但奈何网上的AE或PR模板操作方法太繁琐，模板质量也不高，对电脑配置要求还比较高，导致很多有想法的人就只能望而止步。</p><p>今天给大家带来的是由“醉清风影视制作”大佬分享的66套婚礼开场PPT幻灯片模板，注意哦，是PPT模板，不是AE或PR模板哦！只需要电脑有MS或者WPS即可操作。</p><p>PPT不只是幻灯片，还可将PPT内容导出为视频，随时随地都可以看。</p><h2 id="模板介绍"><a href="#模板介绍" class="headerlink" title="模板介绍"></a>模板介绍</h2><blockquote><ul><li>文件格式：PPT（可导出为视频）</li><li>文件数量：66套（带预览图）</li><li>文件大小：2.07GB</li></ul></blockquote><h2 id="模板截图"><a href="#模板截图" class="headerlink" title="模板截图"></a>模板截图</h2><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183652.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183712.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183721.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183728.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183736.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183742.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183748.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183814.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183835.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183845.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183922.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183936.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183949.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311183956.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311184006.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311184018.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311184026.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311184034.jpg" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210311184039.jpg" alt=" "></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】在对话框中回复【婚礼开场PPT幻灯片模板66套】即可获取下载地址</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 值得一看 </category>
+          
+          <category> 模板素材 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 素材 </tag>
+            
+            <tag> 模板 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分享一款第三方音乐下载神器：洛雪音乐助手，可下无损音乐！</title>
+      <link href="posts/c288664d/"/>
+      <url>posts/c288664d/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>随着国内音乐软件的版权之争，现在在音乐软件上下载歌曲要么就是需要VIP，要么就是需要付费下载，导致我们想下载歌曲非常不方便！而目前网上也出现了各种各样的音乐搜索、下载软件，但都不够优秀。</p><p>洛雪音乐助手基于 Electron + Vue 开发，是一款第三方的音乐搜索下载软件，内置多个接口。</p><p>软件的界面完全不比那些大厂的软件差，这UI的功底，绝对是国内数一数二的。非常值得推荐和使用！</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210310195613.png" alt=" "></p><h2 id="使用体验"><a href="#使用体验" class="headerlink" title="使用体验"></a>使用体验</h2><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210310195630.png" alt=" "></p><h3 id="界面简介明了"><a href="#界面简介明了" class="headerlink" title="界面简介明了"></a>界面简介明了</h3><p>软件的主界面如上图所示，左侧为功能列表，分别为：搜索、歌单、排行榜、我的列表、下载、设置。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210310195741.png" alt=" "></p><h3 id="变更音乐来源"><a href="#变更音乐来源" class="headerlink" title="变更音乐来源"></a>变更音乐来源</h3><p>软件的默认音乐来源是“临时接口”，我们在使用软件前需要先把音乐来源改成<code>“测试接口”</code>，不然很多功能都不能使用。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210310195805.png" alt=" "></p><h3 id="打开下载功能"><a href="#打开下载功能" class="headerlink" title="打开下载功能"></a>打开下载功能</h3><p>软件默认是将下载功能关闭的，我们要手动到设置里面将其打开。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210310195838.png" alt=" "></p><h3 id="多款皮肤自由切换"><a href="#多款皮肤自由切换" class="headerlink" title="多款皮肤自由切换"></a>多款皮肤自由切换</h3><p><code>软件内置多达13款皮肤</code>，可自由切换，每种皮肤都有别具一格的特色，让你有舒心的体验。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210310195854.png" alt=" "></p><h3 id="全局快捷键"><a href="#全局快捷键" class="headerlink" title="全局快捷键"></a>全局快捷键</h3><p><code>快捷键</code>功能，可以不用，但不能没有！</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210310195910.png" alt=" "></p><h3 id="聚合了超多歌单"><a href="#聚合了超多歌单" class="headerlink" title="聚合了超多歌单"></a>聚合了超多歌单</h3><p><code>歌单功能</code>是我最喜欢的，因为我平常听歌都是听歌单，从开电脑放到关电脑。这款软件的歌单非常丰富，聚集了多达6款音乐软件的歌单列表，简直是让我爱不释手！</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210310195923.png" alt=" "></p><h3 id="各大厂家的排行榜"><a href="#各大厂家的排行榜" class="headerlink" title="各大厂家的排行榜"></a>各大厂家的排行榜</h3><p><code>排行榜</code>功能也是非常不错的，6款音乐软件的所有排行榜，在这里都能看到，是不是非常方便？</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210310195935.png" alt=" "></p><h3 id="播放历史和收藏"><a href="#播放历史和收藏" class="headerlink" title="播放历史和收藏"></a>播放历史和收藏</h3><p><code>我的列表</code>功能记录了你的播放历史，你还可以将喜欢的歌曲收藏到这里，随时都能听，免去搜索的麻烦。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210310200013.png" alt=" "></p><h3 id="下载功能"><a href="#下载功能" class="headerlink" title="下载功能"></a>下载功能</h3><p><code>下载功能</code>就是这款软件的又一大亮点了。基本上能听的的歌曲都能下载，不管是要VIP还是要付费，在这里都能免费下载！</p><h3 id="总结一下"><a href="#总结一下" class="headerlink" title="总结一下"></a>总结一下</h3><p>总的来说这款软件是非常不错的，该有的功能都有，而且我觉得这款软件的UI已经比得上那些大厂的软件了，值得推荐！</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】在对话框中回复【洛雪音乐助手】即可获取下载地址</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+          <category> Windows软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 音乐 </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> Windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>央视出品的电视直播神器，你用过吗？不仅支持全平台，还有超多功能！</title>
+      <link href="posts/9ee4a336/"/>
+      <url>posts/9ee4a336/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>随着互联网的越来越发达，人们对于电视直播似乎看的越来越少了，更多的时间是花费在视频网站、影视APP、某音、某手上。</p><p>但每到逢年过年，不论是年轻人还是家里的长辈，都会聚在一起看看晚会节目，还有某些中小学学校规定在电视上看某某教育节目，这时候就需要用到电视了，那如果没电视或不方便怎么办呢？</p><p>所以，今天给大家推荐一款来自央视的电视直播神器：<strong>央视影音</strong></p><h2 id="使用体验"><a href="#使用体验" class="headerlink" title="使用体验"></a>使用体验</h2><p>软件支持各种客户端，基本上兼容所有设备。这里给大家简单说一下<code>Windows桌面版</code>的使用体验说明，但实际功能可远不止此。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210309192328.png" alt=" "></p><h3 id="界面简洁明了"><a href="#界面简洁明了" class="headerlink" title="界面简洁明了"></a>界面简洁明了</h3><p>软件主界面便如上图所示，左侧显示的是电视频道，各种央视、卫视、地方台都可以在这里找到，软件界面可以说是非常的简洁明了。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210309192347.png" alt=" "></p><h3 id="自由切换清晰度"><a href="#自由切换清晰度" class="headerlink" title="自由切换清晰度"></a>自由切换清晰度</h3><p>在观看过程中，软件默认是根据你的设备自动选择清晰度，但你也可以点击右下角的 <code>“自动”</code> 来手动选择清晰度，非常方便且播放中也不会出现卡顿的情况（网速慢情况除外）。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210309192400.png" alt=" "></p><h3 id="一周直播回看"><a href="#一周直播回看" class="headerlink" title="一周直播回看"></a>一周直播回看</h3><p>软件还支持<code>“一周直播回看”</code>功能，看了一次不过瘾还可以无限次回看！该功能在直播画面<code>底部状态栏</code>就能看到，也可以点击<code>软件左侧的节目单</code>来查看。有了这个功能，完全不用担心错过某场电视直播，还能无限次回看。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210309192405.png" alt=" "></p><h3 id="精选栏目"><a href="#精选栏目" class="headerlink" title="精选栏目"></a>精选栏目</h3><p>除了央视卫视电视直播节目之外，软件还提供了<code>“精选栏目”</code>，其内容包括：影视类、教育类、体育类、娱乐类、纪录片类等栏目，内容非常全面！如果你忘了某一档节目是哪一个频道，那么这个功能一定可以帮助到你。</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210309192416.png" alt=" "></p><h3 id="同步-amp-下载"><a href="#同步-amp-下载" class="headerlink" title="同步&amp;下载"></a>同步&amp;下载</h3><p>软件还支持<code>“登陆账号”</code>，享受同步观看历史、我的收藏、我的预定和下载功能。点击软件右上角的登陆图标，登陆后即可体验这些惊艳的功能！</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210309192541.png" alt=" "></p><h3 id="总结一下"><a href="#总结一下" class="headerlink" title="总结一下"></a>总结一下</h3><p>这是来自央视出品的一款非常良心的软件，软件不含任何套路和敏感信息，大家可以放心使用。</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】在对话框中回复【央视影音】即可获取下载地址</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+          <category> Windows软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> Windows </tag>
+            
+            <tag> iPhone </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>自定义QQ在线状态</title>
+      <link href="posts/cba6477e/"/>
+      <url>posts/cba6477e/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>小伙伴们期待已久的自定义修改QQ在线状态最新版来啦，无需SVIP超级会员也可一键自定义修改QQ在线机型状态的软件，成品已打包，还附带源码！</p><p>一次修改，永久有效！只要不换手机，就永远不会失效哟！使用教程在下面。安卓苹果都支持！</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210308163410.png" alt=" "></p><h2 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h2><h3 id="需要准备的工具"><a href="#需要准备的工具" class="headerlink" title="需要准备的工具"></a>需要准备的工具</h3><p>能登QQ能扫码的手机一部+联网的电脑一台+文章末尾下载的修改软件</p><h3 id="获取手机IMEI码"><a href="#获取手机IMEI码" class="headerlink" title="获取手机IMEI码"></a>获取手机IMEI码</h3><p><strong>IOS设备</strong>：用QQ扫描下方二维码或将下方链接在QQ里打开 -&gt; 点击进入 -&gt; 设备信息 -&gt; 复制 <code>&quot;msf_identifier&quot;</code> 后面的值</p><p>链接：<a href="https://1105583577.urlshare.cn/">https://1105583577.urlshare.cn</a></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210308163321.png" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210308163322.webp" alt=" "></p><p><strong>Android设备</strong>：与上面方法类似，只是需要复制的是<code>androidID</code>后面的值才是手机的IMEI码。</p><h3 id="修改软件使用方法"><a href="#修改软件使用方法" class="headerlink" title="修改软件使用方法"></a>修改软件使用方法</h3><p>修改软件的下载地址在文末已经打包好了，下载即可。</p><p><strong>使用方法</strong>：打开下载好的压缩包里面的 <code>“QQ修改在线型号.exe”</code> -&gt; 用手机QQ扫码登陆 -&gt; 将上面复制好的<code>IMEI码</code>粘贴到软件内 -&gt; 选择需要修改的手机型号 -&gt; 点击修改在线型号 -&gt; 打开手机QQ查看效果</p><p><img src="https://cdn.jsdelivr.net/gh/jxin526/images@v1.0/img/post_img/20210308163319.png" alt=" "></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号<strong>【美男子鑫鑫】</strong>在对话框中回复【自定义修改QQ在线状态】即可获取下载地址</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+          <category> Windows软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> iPhone </tag>
+            
+            <tag> QQ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>假期总结</title>
+      <link href="posts/335575a2/"/>
+      <url>posts/335575a2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>害~假期马上结束，明天就要收拾包袱去学校了，总结一下这个假期。</p><h2 id="假期收获"><a href="#假期收获" class="headerlink" title="假期收获"></a>假期收获</h2><h3 id="微信公众号"><a href="#微信公众号" class="headerlink" title="微信公众号"></a>微信公众号</h3><p>我自己创建的一个微信公众号：<code>美男子鑫鑫</code>，目前公众号由我自己一个人运营。因为每天都要推送文章，所以这件事还是占据了我假期去的大部分时间。</p><p>自<code>2021/2/1</code>开始，我每天都会推送文章，无论是转载还是原创，都保证了不会断更。</p><p>在这个假期，公众号一共推送了<code>86篇文章</code>，收获到了<code>341名粉丝</code>，说多也不多，说少也不少。毕竟我也没有在推广公众号方面下功夫，所以有这个成绩心里还是挺满足的。</p><h3 id="博客转移"><a href="#博客转移" class="headerlink" title="博客转移"></a>博客转移</h3><p><strong>你现在看到的这个博客是我转移过后的</strong></p><p>先来说一下现在相比于原来的<code>优点</code>：</p><ol><li>现在博客采用纯静态页面，网页的加载速度相较于以前有一定的改善；</li><li>将博客程序挂载在了<code>Github</code>，这样的好处就是不需要担心服务器的成本费用，且背靠大厂，比较放心；</li><li>现在的博客程序是Hexo，这是一个我以前从未接触过的程序，所以在某些方面上我会学到东西。</li></ol><p>当然，也不只有优点，还有<code>缺点</code>：</p><ol><li>没有找到转移文章的工具，所以原来博客发的<code>241篇文章</code>未进行转移；</li><li>以前百度收录的记录也没有了任何意义。</li></ol><p>最后，说一下现在的博客和以前的<code>区别</code>：</p><ol><li>现在的博客不会经常更新，主要内容还是在微信公众号推送；</li><li>现在的博客主要推送为一些热点、头条、技术性的文章等，一般不会推送破解版软件；</li><li>现在暂时不接受友链申请。</li></ol><p><del>虽然以前的博客不再更新，但暂时还不会关闭，有兴趣的可以访问看看：<a href="https://jx-ll.cn/">https://jx-ll.cn</a></del>（已关闭）</p><h2 id="假期游玩"><a href="#假期游玩" class="headerlink" title="假期游玩"></a>假期游玩</h2><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img" src='https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/photos/2021/20210301212010.JPG' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">2021点点滴滴</div>  <p>记录生活</p>  <a href='/photos/2021'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PotPlayer去广告绿色版</title>
+      <link href="posts/ef7dffce/"/>
+      <url>posts/ef7dffce/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>Daum PotPlayer，免费全能影音播放器，堪称Windows平台最强本地视频播放器。PotPlayer播放器，拥有强劲播放引擎加速，支持DXVA, CUDA, QuickSync，多媒体播放器支持蓝光3D，内置强大的解码器及滤镜/分离器，支持自定义添加解码器，对字幕的支持非常优秀，能够兼容特效字幕及在线搜索字幕实时翻译。 </p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210215184347.png"></p><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210215184436.png"></p><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210215184447.png"></p><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210215184509.gif"></p><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210215184518.gif"></p><h2 id="新版特性"><a href="#新版特性" class="headerlink" title="新版特性"></a>新版特性</h2><p><a href="https://www.videohelp.com/software/PotPlayer">https://www.videohelp.com/software/PotPlayer</a></p><p><strong>[210209] v1.7.21419正式版</strong><br>× 删除收藏频道的直播开始通知功能</p><p><strong>[210127] v1.7.21419正式版</strong><br>× 删除 Flash 播放功能<br>+ 添加荷兰语<br>+ 添加在窗口媒体可视化中使用皮肤可视化的功能<br>+ 添加 AV1 DXVA 播放功能<br>- 修正播放某些 MKV 视频时无法流畅播放的问题<br>- 修正时移工作异常的问题<br>- 修正系统音频采样率设置大于 192kHz 时没有声音产生的问题<br>- 修正使用密码观看直播时无法切换图像质量的问题<br>- 修正在某些情况下编辑书签时的错误<br>- 修正无法选择 SMI 集成字幕的问题</p><h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ol><li>去效验，杜绝联网广告请求，去右下角不定时广告弹窗<br>基于官方正式版64位，采用反汇编工具x64dbg徒手修改</li><li>杜绝TV直播信息推送弹窗、去界面直播/VOD列表及按钮</li><li>广告数据, 发送日志, 检测升级等联网请求，提升整体速度和性能</li><li>集成额外解码组件包Open Codec for PotPlayer内的FFmpeg解码器<br>S/W HEVC(H265)解码PotPlayer\Module\FFmpeg\FFmpeg64.dll<br>AAC音频解码PotPlayer\Module\FFmpeg\FFmpegMininum64.dll<br>自解压安装过程，启用自定义解码器H.265/HEVC及硬件加速(DXVA)<br>滤镜—视频解码器—内置解码器/DXVA设置—&gt;使用硬件加速(DXVA)<br>滤镜—视频解码器—内置解码器/DXVA设置—解码器—&gt;H.265/HEVC</li><li>加入第三方解码组件视骏HEVC/H.265解码器 (Module\Hevc\hevcdecfltr_x64.dll)</li><li>删除TV列表, 登陆程序,日志管理, 消息通知, WinXP支持程序, 多语言等不必要的文件</li></ol><h2 id="安装说明"><a href="#安装说明" class="headerlink" title="安装说明"></a>安装说明</h2><p>静默安装参数：/ai /gm2（绝对路径=D:\）<br>静默安装自定义位置：/ai /gm2 /InstallPath=“指定的路径”<br>例如：软件包.exe /ai /gm2 /InstallPath=“D:\MyProgram”<br>• 常规运行=安装版（含开始菜单快捷方式和程序卸载项的快捷方式）<br>• 右键解压=绿色版（本身不支持便携化的软件需手动运行绿化处理）</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>PotPlayer v210209(1.7.21419) x64 Stable 正式版去除广告绿色版<br>PotPlayer v191121(1.7.21204) x32 Dev 32位最终版去广告绿色版<br>PotPlayer v1.7.19955 | v1.6.63891 x32/x64 怀旧版无广告绿色版<br><a href="https://pan.lanzous.com/b0f1k59qh">https://pan.lanzous.com/b0f1k59qh</a><br><a href="https://pan.baidu.com/s/16StftDsfTKQMxGKpy1MHnA">https://pan.baidu.com/s/16StftDsfTKQMxGKpy1MHnA</a></p><hr><p>以下Daum PotPlayer官方所有链接需要梯子访问<br>官方主页 <a href="https://tv.kakao.com/guide/potplayer">https://tv.kakao.com/guide/potplayer</a><br>历史版本 <a href="http://cafe.daum.net/pot-tool/BHPW">http://cafe.daum.net/pot-tool/BHPW</a></p><p>Daum PotPlayer Dev 官方最新版 //测试版几乎三天两头更新<br>64位 <a href="http://t1.daumcdn.net/potplayer/beta/PotPlayerSetup64.exe">http://t1.daumcdn.net/potplayer/beta/PotPlayerSetup64.exe</a><br>32位无壳最终版t1.daumcdn.net/potplayer/beta/PotPlayerSetup.exe</p><p>Daum PotPlayer 210209 (1.7.21419) Stable 官方正式版 [2021/02/09]<br>64位 <a href="http://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe">http://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe</a><br>32位有壳被加固t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe</p><p>额外解码组件（Open Codec for PotPlayer）//只要取HEVC(H.265)解码器(FFmpeg.dll)<br>﹂由于版权原因自2019年8月v1.7.19955版之后内置解码器S/W HEVC(H.265)需额外下载<br>64位 <a href="http://t1.daumcdn.net/potplayer/PotPlayer/Codec/OpenCodecSetup64.exe">http://t1.daumcdn.net/potplayer/PotPlayer/Codec/OpenCodecSetup64.exe</a><br>32位 <a href="http://t1.daumcdn.net/potplayer/PotPlayer/Codec/OpenCodecSetup.exe">http://t1.daumcdn.net/potplayer/PotPlayer/Codec/OpenCodecSetup.exe</a></p><p>AAC/DTS音频解码器（FFmpegMininum.dll） //必须加入, 否则部分视频无法解码音频!<br>64位 <a href="http://get.daum.net/PotPlayer64/v4/Module/FFmpeg/FFmpegMininum64.dll">http://get.daum.net/PotPlayer64/v4/Module/FFmpeg/FFmpegMininum64.dll</a><br>32位 <a href="http://get.daum.net/PotPlayer/v4/Module/FFmpeg/FFmpegMininum.dll">http://get.daum.net/PotPlayer/v4/Module/FFmpeg/FFmpegMininum.dll</a></p><p>PotPlayer64去模块效验补丁通用版<br><a href="https://pan.lanzous.com/ij80Cjf181e">https://pan.lanzous.com/ij80Cjf181e</a></p><p>相关联网请求链接和关键词（去广告弹窗需手动逆向修改比填充链接0效果好）<br>广告请求：play.edge4k.com/status, play.kakao.com/svc/potplayer/api/dns<br>广告弹窗：startupAdvSec, daum.net/recommendations, polling/data.json<br>直播推送：DoGetNewForbiddenList_File, chat/prohibit_words.json<br>play.kakao.com/svc/potplayer/page/chat, play.kakao.com/cjcast/v2<br>检测版本升级：MajorVersion2%s.sig, svc/potplayer/api/channel/update<br>后台发送统计上传相关日志：stat.tiara.kakao.com, street/log_upload</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+          <category> Windows软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 音乐 </tag>
+            
+            <tag> 软件 </tag>
+            
+            <tag> Windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>iOS的键盘你真的会用吗？这里有一份给果粉的秘籍！</title>
+      <link href="posts/350215c8/"/>
+      <url>posts/350215c8/</url>
+      
+        <content type="html"><![CDATA[<p>最近在网上看到一个话题，iOS键盘与安卓键盘，到底哪个比较好用？ </p><p>如果要我选择，肯定是毫不犹豫的选择iOS，只是很多功能果粉们没有发现，又或者说是 iOS 键盘把一些功能隐藏得太深！</p><h2 id="摇一摇撤回功能"><a href="#摇一摇撤回功能" class="headerlink" title="摇一摇撤回功能"></a>摇一摇撤回功能</h2><p>我们在编辑内容的时候，如果不小心将编辑好的内容误删了，此时不要离开编辑页面，<strong>直接摇一摇手机</strong>，点击 <strong>撤销</strong> 或 <strong>重做</strong> 就可以恢复删除的内容。反之，如果发现编辑了很多内容，突然不想要了，也可以直接摇一摇，就能直接撤销刚刚编辑的内容，这样有个好处是，当你<strong>再次摇一摇的时候可以恢复所有内容</strong>，而如果按照传统的删除方式，就不可以恢复。</p><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210209163626.png" alt=" "></p><p>这个功能需要我们手动开启，进入<strong>设置 -&gt; 辅助功能 -&gt; 触控 -&gt; 震动以撤销</strong> 后面的开关按钮给打开便可以了。</p><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210209163746.png" alt=" "></p><h2 id="长按字母数字"><a href="#长按字母数字" class="headerlink" title="长按字母数字"></a>长按字母数字</h2><p>不知道这个功能的同学，可能觉得iOS的键盘功能很少，很多的特殊符号都没有，其实并不是这样的，只是功能被隐藏的太深。</p><p>那么江小鑫就在这里先做个示范，我们需要先把键盘切换到<strong>26键</strong>，长按左下角的 <strong>小地球</strong> 图标，轻轻滑动到 <strong>English(US)</strong> 。然后长按键盘即可，不管是长按字母还是数字都会出现一些特殊符号。</p><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210209163902.png" alt=" "></p><h2 id="切换单手键盘"><a href="#切换单手键盘" class="headerlink" title="切换单手键盘"></a>切换单手键盘</h2><p>大部分时间里，我们都是单手操作手机，但对于一些体型较大的机型，比如 Plus、Max系列，单手操作还是很不方便，特别是打字的时候，用着很不顺手。其实iOS键盘也隐藏着一个黑科技功能，不管你是习惯左右还是右手操作，都可以满足你。</p><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210209163959.png" alt=" "></p><p>长按左下角 <strong>小地球</strong> ，左手操作选左边，右手操作选右边，要恢复正常选中间即可。</p><h2 id="语音快捷输入"><a href="#语音快捷输入" class="headerlink" title="语音快捷输入"></a>语音快捷输入</h2><p>我们在跟别人聊天时，经常会遇到不方便打字，给别人发语音的话别人也可能不方便听语音，增加了不少沟通的成本。其实iOS还有一个 <strong>语音转文字</strong> 的功能，支持很多种语言，非常方便。</p><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210209164125.jpg" alt=" "></p><p>点击键盘右下角的麦克风图标，听到手机叮的一声后，就对着手机说话，手机就能自动把你的说的话转换成文字，这样不仅准确率高，并且转换速度还快，这是一个非常实用的功能，更多的小技巧还是需要自己去发现哦，毕竟实践得真理嘛。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 值得一看 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> iPhone </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>剪映Pro正式版来啦：轻而易剪 上演大幕！</title>
+      <link href="posts/69695e5f/"/>
+      <url>posts/69695e5f/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>剪映专业版是抖音推出的一款免费的全能易用的视频剪辑软件。剪映手机版由于背靠抖音大树再加上操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。 </p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210203185724.png" alt=" "></p><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210203185734.png" alt=" "></p><h2 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h2><h3 id="简单：界面布局清晰直观"><a href="#简单：界面布局清晰直观" class="headerlink" title="简单：界面布局清晰直观"></a>简单：界面布局清晰直观</h3><p>把时间线、素材库、播放器等界面布局化繁为简，让你能够得心应手地剪辑出精彩的视频。</p><h3 id="高效：多轨道剪辑"><a href="#高效：多轨道剪辑" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p><h3 id="专业：高阶功能"><a href="#专业：高阶功能" class="headerlink" title="专业：高阶功能"></a>专业：高阶功能</h3><p>曲线变速、蒙版、混合模式、色彩调节等强大功能覆盖剪辑全场景；音乐踩点功能，帮助你快速创作节奏感十足的镜头；更有语音识别功能，一键添加字幕与歌词，节省时间专注剪辑，尽情挥洒创意。</p><h3 id="高效：多轨道剪辑-1"><a href="#高效：多轨道剪辑-1" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网地址：<a href="https://lv.ulikecam.com/">https://lv.ulikecam.com/</a></p><p>关注公众号<code>【美男子鑫鑫】</code>，在对话框中回复【剪映Pro下载】，即可获取下载地址</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+          <category> Windows软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>YesPlayMusic：又一款高颜值的第三方网易云播放器！</title>
+      <link href="posts/8ce04600/"/>
+      <url>posts/8ce04600/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>由于官方客户端的界面和交互要么就是过于臃肿，要么就是歌曲版权不够，导致不少开发者喜欢自己去做一些符合自己需求的播放器。今天给大家带来的这款高颜值的第三方网易云播放器：YesPlayMusic 就将极简和版权通过多平台整合的方式做到了完美融合，做出来一款高颜值的播放器。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210202204343.png" alt=" "></p><h2 id="软件特征"><a href="#软件特征" class="headerlink" title="软件特征"></a>软件特征</h2><ul><li>✅ 使用 Vue.js 全家桶开发</li><li>🔴 网易云账号登录</li><li>📺 MV 播放</li><li>📃 支持歌词显示</li><li>🚫🤝 无任何社交功能</li><li>🌎️ 海外用户可直接播放（需要登录网易云账号）</li><li>🔐 支持 <a href="https://github.com/nondanee/UnblockNeteaseMusic">UnblockNeteaseMusic</a>，自动使用 QQ/酷狗/酷我音源替换变灰歌曲链接 （网页版不支持）</li><li>⏭️ 支持 MediaSession API，可以使用系统快捷键操作上一首下一首</li><li>✔️ 每日自动签到（手机端和电脑端同时签到）</li><li>🌚 Light/Dark Mode 自动切换</li><li>👆 支持 Touch Bar</li><li>🖥️ 支持 PWA，可在 Chrome/Edge 里点击地址栏右边的 ➕ 安装到电脑</li><li>🙉 支持显示歌曲和专辑的 Explicit 标志</li><li>🛠 更多特性开发中</li></ul><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>网页版：<a href="https://music.qier222.com/">https://music.qier222.com/</a></p><p>项目地址：<a href="https://github.com/qier222/YesPlayMusic">https://github.com/qier222/YesPlayMusic</a></p><p>桌面客户端：<a href="https://jxin.lanzous.com/ivB3ll8dlha">https://jxin.lanzous.com/ivB3ll8dlha</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件分享 </category>
+          
+          <category> Windows软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 音乐 </tag>
+            
+            <tag> 软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>最全2021支付宝集五福攻略</title>
+      <link href="posts/a3db79a2/"/>
+      <url>posts/a3db79a2/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/20210201180352.jpg" alt=" "></p><p>支付宝集福今天正式开始了，活动时间2月1日到2月11日，瓜分红包时间2月11日晚上22:18，以下是江小鑫手动整理的最简单最直观的方法，每天都可以多次参加，重复扫！每张福卡还可以抽奖，进入支付宝五福页面，点顶部我的福卡，点右下角刮奖抽不同的奖励！</p><h2 id="一：AR扫码"><a href="#一：AR扫码" class="headerlink" title="一：AR扫码"></a>一：AR扫码</h2><p>打开支付宝-&gt;扫一扫-&gt;选择AR-&gt;扫任意福字-&gt;抽取福卡-&gt;需要有两台设备的才可以</p><p>福卡图片：<a href="https://s.pc.qq.com/tousu/img/20210201/8539549_1612147746.jpg">https://sourl.cn/Nnz7Fm</a></p><h2 id="二：写福字"><a href="#二：写福字" class="headerlink" title="二：写福字"></a>二：写福字</h2><p>支付宝搜索“写福字”-&gt;点右边写福字进入-&gt;领取手写福卡-&gt;可以领取两次 </p><h2 id="三：蚂蚁森林和芭芭农场"><a href="#三：蚂蚁森林和芭芭农场" class="headerlink" title="三：蚂蚁森林和芭芭农场"></a>三：蚂蚁森林和芭芭农场</h2><p>支付宝搜索“蚂蚁森林”-&gt;进去后找能量-&gt;点福气球-&gt;抽取福卡-&gt;目前尚未开启-&gt;2月4日开启！</p><p>手机淘宝搜索“芭芭农场”-&gt;进入后施肥抽取福卡-&gt;目前尚未开启-&gt;2月7日开启！</p><h2 id="四：搜索关键字"><a href="#四：搜索关键字" class="headerlink" title="四：搜索关键字"></a>四：搜索关键字</h2><p>支付宝首页顶部搜索这些关机键字-&gt;就可以看见抽福卡入口：一汽大众、银泰百货、肯德基、麦当劳、星巴克、滴滴、蒙牛、爱琴海、星河、大悦城、砂之船奥莱</p><h2 id="五：扫专属图片"><a href="#五：扫专属图片" class="headerlink" title="五：扫专属图片"></a>五：扫专属图片</h2><p>打开支付宝-&gt;扫一扫-&gt;选择AR-&gt;然后打开链接：<a href="https://s.pc.qq.com/tousu/img/20210201/9995577_1612143284.jpg">https://sourl.cn/mnBtDE</a> 对着每张图片放大<strong>（貌似第二张图片很大概率会中沾沾福卡）</strong>-&gt;扫码抽取福卡-&gt;需要有两台设备的才可以</p><h2 id="六：消费券抽沾沾卡"><a href="#六：消费券抽沾沾卡" class="headerlink" title="六：消费券抽沾沾卡"></a>六：消费券抽沾沾卡</h2><p>支付宝搜索“消费券”-&gt;点进去后-&gt;翻卡片-&gt;几率得沾沾福卡</p><h2 id="七：找剪纸任务"><a href="#七：找剪纸任务" class="headerlink" title="七：找剪纸任务"></a>七：找剪纸任务</h2><p>打开地址：<a href="https://s.pc.qq.com/tousu/img/20210201/6491584_1612146431.jpg">https://sourl.cn/8McDJn</a> 支付宝扫码进入活动-&gt;每个任务依次按照提示操作-&gt;都做完后即可抽取-&gt;万能福或沾沾福（限部分用户，需要有商家码的才能进去）</p><h2 id="八：福气盲盒"><a href="#八：福气盲盒" class="headerlink" title="八：福气盲盒"></a>八：福气盲盒</h2><p>打开下面链接-&gt;需要验证手机号-&gt;领取随机福卡-&gt;领取后需要激活-&gt;到支付宝卡包-&gt;去使用-&gt;手动领取即可！</p><h3 id="1、天猫精灵"><a href="#1、天猫精灵" class="headerlink" title="1、天猫精灵"></a>1、天猫精灵</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=JING_LING">https://render.alipay.com/p/c/17yq18lq3slc?source=JING_LING</a></p><h3 id="2、飞猪"><a href="#2、飞猪" class="headerlink" title="2、飞猪"></a>2、飞猪</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=FEI_ZHU">https://render.alipay.com/p/c/17yq18lq3slc?source=FEI_ZHU</a></p><h3 id="3、优酷"><a href="#3、优酷" class="headerlink" title="3、优酷"></a>3、优酷</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=YOUKU_TV">https://render.alipay.com/p/c/17yq18lq3slc?source=YOUKU_TV</a></p><h3 id="4、淘票票"><a href="#4、淘票票" class="headerlink" title="4、淘票票"></a>4、淘票票</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=PIAO_PIAO">https://render.alipay.com/p/c/17yq18lq3slc?source=PIAO_PIAO</a></p><h3 id="5、手机天猫"><a href="#5、手机天猫" class="headerlink" title="5、手机天猫"></a>5、手机天猫</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=TIAN_MAO">https://render.alipay.com/p/c/17yq18lq3slc?source=TIAN_MAO</a></p><h3 id="6、考拉"><a href="#6、考拉" class="headerlink" title="6、考拉"></a>6、考拉</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=KAO_LA">https://render.alipay.com/p/c/17yq18lq3slc?source=KAO_LA</a></p><h3 id="7、菜鸟"><a href="#7、菜鸟" class="headerlink" title="7、菜鸟"></a>7、菜鸟</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=CAI_NIAO">https://render.alipay.com/p/c/17yq18lq3slc?source=CAI_NIAO</a></p><h3 id="8、新华社"><a href="#8、新华社" class="headerlink" title="8、新华社"></a>8、新华社</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=XINHUA_SHE">https://render.alipay.com/p/c/17yq18lq3slc?source=XINHUA_SHE</a></p><h3 id="9、江南百景图"><a href="#9、江南百景图" class="headerlink" title="9、江南百景图"></a>9、江南百景图</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=BAI_JINGTU">https://render.alipay.com/p/c/17yq18lq3slc?source=BAI_JINGTU</a></p><h3 id="10、科创中国"><a href="#10、科创中国" class="headerlink" title="10、科创中国"></a>10、科创中国</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=KE_CHUANG">https://render.alipay.com/p/c/17yq18lq3slc?source=KE_CHUANG</a></p><h3 id="11、科技工作者之家"><a href="#11、科技工作者之家" class="headerlink" title="11、科技工作者之家"></a>11、科技工作者之家</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=KEJI_ZHIJIA">https://render.alipay.com/p/c/17yq18lq3slc?source=KEJI_ZHIJIA</a></p><h3 id="12、上观新闻"><a href="#12、上观新闻" class="headerlink" title="12、上观新闻"></a>12、上观新闻</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=JIEFANG_RIBAO">https://render.alipay.com/p/c/17yq18lq3slc?source=JIEFANG_RIBAO</a></p><h3 id="13、新安晚报"><a href="#13、新安晚报" class="headerlink" title="13、新安晚报"></a>13、新安晚报</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=DA_WAN">https://render.alipay.com/p/c/17yq18lq3slc?source=DA_WAN</a></p><h3 id="14、南京紫金山新闻"><a href="#14、南京紫金山新闻" class="headerlink" title="14、南京紫金山新闻"></a>14、南京紫金山新闻</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=ZIJIN_SHAN">https://render.alipay.com/p/c/17yq18lq3slc?source=ZIJIN_SHAN</a></p><h3 id="15、中国蓝新闻"><a href="#15、中国蓝新闻" class="headerlink" title="15、中国蓝新闻"></a>15、中国蓝新闻</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=ZHONGGUO_LAN">https://render.alipay.com/p/c/17yq18lq3slc?source=ZHONGGUO_LAN</a></p><h3 id="16、大河财立方"><a href="#16、大河财立方" class="headerlink" title="16、大河财立方"></a>16、大河财立方</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=CAI_LIFANG">https://render.alipay.com/p/c/17yq18lq3slc?source=CAI_LIFANG</a></p><h3 id="17、正观APP"><a href="#17、正观APP" class="headerlink" title="17、正观APP"></a>17、正观APP</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=ZHENG_GUAN">https://render.alipay.com/p/c/17yq18lq3slc?source=ZHENG_GUAN</a></p><h3 id="18、江西新闻客户端"><a href="#18、江西新闻客户端" class="headerlink" title="18、江西新闻客户端"></a>18、江西新闻客户端</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=JIANGXI_XINWEN">https://render.alipay.com/p/c/17yq18lq3slc?source=JIANGXI_XINWEN</a></p><h3 id="19、羊城晚报"><a href="#19、羊城晚报" class="headerlink" title="19、羊城晚报"></a>19、羊城晚报</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=YANG_CHENG">https://render.alipay.com/p/c/17yq18lq3slc?source=YANG_CHENG</a></p><h3 id="20、N视频"><a href="#20、N视频" class="headerlink" title="20、N视频"></a>20、N视频</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=NAN_DU#www.x6k.com#">https://render.alipay.com/p/c/17yq18lq3slc?source=NAN_DU</a></p><h3 id="21、三亚日报"><a href="#21、三亚日报" class="headerlink" title="21、三亚日报"></a>21、三亚日报</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=SANYA_RIBAO">https://render.alipay.com/p/c/17yq18lq3slc?source=SANYA_RIBAO</a></p><h3 id="22、开屏新闻"><a href="#22、开屏新闻" class="headerlink" title="22、开屏新闻"></a>22、开屏新闻</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=CHUNCHENG_WANBAO">https://render.alipay.com/p/c/17yq18lq3slc?source=CHUNCHENG_WANBAO</a></p><h3 id="23、天眼新闻"><a href="#23、天眼新闻" class="headerlink" title="23、天眼新闻"></a>23、天眼新闻</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=GUIZHOU_DUSHIBAO">https://render.alipay.com/p/c/17yq18lq3slc?source=GUIZHOU_DUSHIBAO</a></p><h3 id="24、黄河plus"><a href="#24、黄河plus" class="headerlink" title="24、黄河plus"></a>24、黄河plus</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=HUANG_HE">https://render.alipay.com/p/c/17yq18lq3slc?source=HUANG_HE</a></p><h3 id="25、陕西头条"><a href="#25、陕西头条" class="headerlink" title="25、陕西头条"></a>25、陕西头条</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=SHANXI_TOUTIAO">https://render.alipay.com/p/c/17yq18lq3slc?source=SHANXI_TOUTIAO</a></p><h3 id="26、新京报"><a href="#26、新京报" class="headerlink" title="26、新京报"></a>26、新京报</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=XINJING_BAO">https://render.alipay.com/p/c/17yq18lq3slc?source=XINJING_BAO</a></p><h3 id="27、津云客户端"><a href="#27、津云客户端" class="headerlink" title="27、津云客户端"></a>27、津云客户端</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=JIN_YUN">https://render.alipay.com/p/c/17yq18lq3slc?source=JIN_YUN</a></p><h3 id="28、重庆日报"><a href="#28、重庆日报" class="headerlink" title="28、重庆日报"></a>28、重庆日报</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=CHONG_QING">https://render.alipay.com/p/c/17yq18lq3slc?source=CHONG_QING</a></p><h3 id="29、龙头新闻"><a href="#29、龙头新闻" class="headerlink" title="29、龙头新闻"></a>29、龙头新闻</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=LONGTOU_XINWEN">https://render.alipay.com/p/c/17yq18lq3slc?source=LONGTOU_XINWEN</a></p><h3 id="30、风口财经"><a href="#30、风口财经" class="headerlink" title="30、风口财经"></a>30、风口财经</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=FENGKOU_CAIJING">https://render.alipay.com/p/c/17yq18lq3slc?source=FENGKOU_CAIJING</a></p><h3 id="31、齐鲁晚报"><a href="#31、齐鲁晚报" class="headerlink" title="31、齐鲁晚报"></a>31、齐鲁晚报</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=QILU_WANBAO">https://render.alipay.com/p/c/17yq18lq3slc?source=QILU_WANBAO</a></p><h3 id="32、国家政务服务平台"><a href="#32、国家政务服务平台" class="headerlink" title="32、国家政务服务平台"></a>32、国家政务服务平台</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=GUOWU_YUAN">https://render.alipay.com/p/c/17yq18lq3slc?source=GUOWU_YUAN</a></p><h3 id="33、电子社保卡"><a href="#33、电子社保卡" class="headerlink" title="33、电子社保卡"></a>33、电子社保卡</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=REN_SHE">https://render.alipay.com/p/c/17yq18lq3slc?source=REN_SHE</a></p><h3 id="34、医保局"><a href="#34、医保局" class="headerlink" title="34、医保局"></a>34、医保局</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=YI_BAO">https://render.alipay.com/p/c/17yq18lq3slc?source=YI_BAO</a></p><h3 id="35、豫事办"><a href="#35、豫事办" class="headerlink" title="35、豫事办"></a>35、豫事办</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=YUSHI_BAN">https://render.alipay.com/p/c/17yq18lq3slc?source=YUSHI_BAN</a></p><h3 id="36、鄂汇办"><a href="#36、鄂汇办" class="headerlink" title="36、鄂汇办"></a>36、鄂汇办</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=EHUI_BAN">https://render.alipay.com/p/c/17yq18lq3slc?source=EHUI_BAN</a></p><h3 id="37、随申办"><a href="#37、随申办" class="headerlink" title="37、随申办"></a>37、随申办</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=SUISHEN_BAN">https://render.alipay.com/p/c/17yq18lq3slc?source=SUISHEN_BAN</a></p><h3 id="38、深圳交警"><a href="#38、深圳交警" class="headerlink" title="38、深圳交警"></a>38、深圳交警</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=SHENZHEN_JIAOJING">https://render.alipay.com/p/c/17yq18lq3slc?source=SHENZHEN_JIAOJING</a></p><h3 id="39、赣服通"><a href="#39、赣服通" class="headerlink" title="39、赣服通"></a>39、赣服通</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=GANFU_TONG">https://render.alipay.com/p/c/17yq18lq3slc?source=GANFU_TONG</a></p><h3 id="40、安徽税务局"><a href="#40、安徽税务局" class="headerlink" title="40、安徽税务局"></a>40、安徽税务局</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=ANHUI_SHUIWU">https://render.alipay.com/p/c/17yq18lq3slc?source=ANHUI_SHUIWU</a></p><h3 id="41、无锡公积金"><a href="#41、无锡公积金" class="headerlink" title="41、无锡公积金"></a>41、无锡公积金</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=WUXI_GONGJIJIN#www.x6k.com#">https://render.alipay.com/p/c/17yq18lq3slc?source=WUXI_GONGJIJIN</a></p><h3 id="42、上海公积金"><a href="#42、上海公积金" class="headerlink" title="42、上海公积金"></a>42、上海公积金</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=SHANGHAI_GONGJIJIN">https://render.alipay.com/p/c/17yq18lq3slc?source=SHANGHAI_GONGJIJIN</a></p><h3 id="43、天府通办"><a href="#43、天府通办" class="headerlink" title="43、天府通办"></a>43、天府通办</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=TIANFU_TONG">https://render.alipay.com/p/c/17yq18lq3slc?source=TIANFU_TONG</a></p><h3 id="44、青岛大数据局"><a href="#44、青岛大数据局" class="headerlink" title="44、青岛大数据局"></a>44、青岛大数据局</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=QINGDAN_DASHUJU">https://render.alipay.com/p/c/17yq18lq3slc?source=QINGDAN_DASHUJU</a></p><h3 id="45、皖事通"><a href="#45、皖事通" class="headerlink" title="45、皖事通"></a>45、皖事通</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=WANSHI_TONG">https://render.alipay.com/p/c/17yq18lq3slc?source=WANSHI_TONG</a></p><h3 id="46、闽政通"><a href="#46、闽政通" class="headerlink" title="46、闽政通"></a>46、闽政通</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=MINZHENG_TONG">https://render.alipay.com/p/c/17yq18lq3slc?source=MINZHENG_TONG</a></p><h3 id="47、美图秀秀"><a href="#47、美图秀秀" class="headerlink" title="47、美图秀秀"></a>47、美图秀秀</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=MEI_TU">https://render.alipay.com/p/c/17yq18lq3slc?source=MEI_TU</a></p><h3 id="48、美颜相机"><a href="#48、美颜相机" class="headerlink" title="48、美颜相机"></a>48、美颜相机</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=MEI_YAN">https://render.alipay.com/p/c/17yq18lq3slc?source=MEI_YAN</a></p><h3 id="49、芒果TV"><a href="#49、芒果TV" class="headerlink" title="49、芒果TV"></a>49、芒果TV</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=MANG_GUO">https://render.alipay.com/p/c/17yq18lq3slc?source=MANG_GUO</a></p><h3 id="50、快手"><a href="#50、快手" class="headerlink" title="50、快手"></a>50、快手</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=KUAI_SHOU">https://render.alipay.com/p/c/17yq18lq3slc?source=KUAI_SHOU</a></p><h3 id="51、网易云音乐"><a href="#51、网易云音乐" class="headerlink" title="51、网易云音乐"></a>51、网易云音乐</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=WANGYI_YUN">https://render.alipay.com/p/c/17yq18lq3slc?source=WANGYI_YUN</a></p><h3 id="52、书旗小说"><a href="#52、书旗小说" class="headerlink" title="52、书旗小说"></a>52、书旗小说</h3><p><a href="https://render.alipay.com/p/c/17yq18lq3slc?source=SHU_QI">https://render.alipay.com/p/c/17yq18lq3slc?source=SHU_QI</a></p><p>虽然瓜分不了多少，但是每年的集福咱们就图个热闹，重在参与，集完福，年就来了，大家开开心心最重要！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 值得一看 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 集五福 </tag>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 支付宝 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>腾讯QQ二代变无是什么意思？怎么避免？怎么解决？</title>
+      <link href="posts/d0eb61f9/"/>
+      <url>posts/d0eb61f9/</url>
+      
+        <content type="html"><![CDATA[<h2 id="二代变无"><a href="#二代变无" class="headerlink" title="二代变无"></a>二代变无</h2><p>二代变无，即二代变无保，QQ密保工具失效。QQ账号有密保工具，比如密保手机，QQ令牌等，但是某一天此QQ突然被冻结保护，解冻需要修改QQ密码，但是修改密码却不能验证密保工具，只能填写资料申诉。</p><h2 id="变无原因"><a href="#变无原因" class="headerlink" title="变无原因"></a>变无原因</h2><h3 id="原因1-怀疑号码被买卖了，冻结制裁"><a href="#原因1-怀疑号码被买卖了，冻结制裁" class="headerlink" title="原因1.怀疑号码被买卖了，冻结制裁"></a>原因1.怀疑号码被买卖了，冻结制裁</h3><p>比如从一个IP换成了另一个IP登录，同时进行了密保手机更换、头像昵称等资料的修改，以及好友的增删。基本可以断定号码被转让了，腾讯公司会采取二变无冻结的方式进行制裁。</p><h3 id="原因2-登录IP异常"><a href="#原因2-登录IP异常" class="headerlink" title="原因2.登录IP异常"></a>原因2.登录IP异常</h3><p>异常IP主要是指<code>敏感IP</code>，如经常被举报的IP，腾讯公司怀疑该QQ被盗用，会进行冻结保护。</p><h3 id="原因3-有多个异地IP登录"><a href="#原因3-有多个异地IP登录" class="headerlink" title="原因3.有多个异地IP登录"></a>原因3.有多个异地IP登录</h3><p>怀疑<code>多人共用账号</code>，腾讯会以违反使用条例进行冻结制裁，并且这种申诉基本是不给通过的。</p><h2 id="如何避免"><a href="#如何避免" class="headerlink" title="如何避免"></a>如何避免</h2><ol><li><p>更换密保手机时，尽量<code>避免异地登录</code>，更不能在密保手机更换前后进行修改QQ头像、资料、增删好友等敏感操作</p></li><li><p>不要在<code>敏感IP</code>登录，如经常有被举报封号的IP</p></li><li><p>避免<code>异地多IP来回切换</code>登录。</p></li></ol><h2 id="解决方式"><a href="#解决方式" class="headerlink" title="解决方式"></a>解决方式</h2><ul><li><p>由于<code>原因1</code>和<code>原因2</code>造成的二变无，验证资料正确、完整，申诉可以申诉成功的</p></li><li><p>由于<code>原因3</code>造成的二变无，基本无解，申诉通过概率小</p></li><li><p>刚收来的QQ不要去接着修改资料（心急吃不了热豆腐）以下是我对收来的QQ保养基本常识</p></li></ul><ol><li>登录安全中心找到异地登陆点击信任地区；</li><li>头像、网名、地区等一系列资料在3-7天内不要去着急修改，因为这样会检测到风险，轻者冻结，重者可能会导致二代变无（二代变无保）</li><li>在搜索界面搜索成长守护平台，查看是否拥有修改信息次数</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 值得一看 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> QQ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>利用又拍云实现Github Pages加速访问</title>
+      <link href="posts/acfbec66/"/>
+      <url>posts/acfbec66/</url>
+      
+        <content type="html"><![CDATA[<h2 id="文章导读"><a href="#文章导读" class="headerlink" title="文章导读"></a>文章导读</h2><p>在GitHubPages上搭建个人博客后，你会发现网站访问速度慢或者根本无法进入，这是由于Github服务器的原因，我们可以用CDN来进行加速访问，这里我用到的是国内的<a href="www.upaiyun.com">又拍云</a>。</p><h2 id="操作步骤"><a href="#操作步骤" class="headerlink" title="操作步骤"></a>操作步骤</h2><h3 id="创建CDN服务"><a href="#创建CDN服务" class="headerlink" title="创建CDN服务"></a>创建CDN服务</h3><ul><li>注册又拍云账号</li><li>进入又拍云CDN服务界面：<a href="https://console.upyun.com/services/cdn/">https://console.upyun.com/services/cdn/</a></li><li>选择<code>创建服务</code><ul><li><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/image-20210115141206993.png" alt="image-20210115141206993"></li><li>服务名称可自定义</li><li>加速域名需填写GitHub Pages的<code>自定义域名</code></li><li>源站地址填写Github给你<code>分配的域名</code></li><li><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/LDO(KWT_KOUZH%7DTWJ1~UTG1.png" alt=" "></li></ul></li><li>这样一个CDN服务就算创建好了</li></ul><hr><h3 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h3><ul><li>我们需要把<code>域名解析</code>到又拍云<ul><li>又拍云CDN后台查看<code>CNAME</code></li><li><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/image-20210115142425762.png" alt="image-20210115142425762"></li><li>到域名的解析商那把域名指向这个<code>CNAME</code></li><li><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/image-20210115142823090.png" alt="image-20210115142823090"></li></ul></li></ul><hr><h3 id="配置Github-Pages"><a href="#配置Github-Pages" class="headerlink" title="配置Github Pages"></a>配置Github Pages</h3><ul><li>最后是配置Github Pages的<code>自定义域名</code><ul><li>打开你的Github仓库</li><li>点击<code>Settings</code></li><li><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/image-20210115143216206.png" alt="image-20210115143216206"></li><li>然后往下滑找到<code>Github Pages</code></li><li>这里填入你的<code>自定义域名</code>即可</li><li>这里需要把HTTPS取消勾选，如非要使用请在<code>又拍云申请SSL</code></li><li><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/image-20210115143348981.png" alt="image-20210115143348981"></li></ul></li></ul><hr><h2 id="坐等生效"><a href="#坐等生效" class="headerlink" title="坐等生效"></a>坐等生效</h2><p>等域名解析生效后你就可以发现网站的来源改变了</p><p>可在本机Ping你的自定义域名，看IP地址是否发生变化</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> Github </tag>
+            
+            <tag> 加速 </tag>
+            
+            <tag> CDN </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>全国出行隔离政策查询，返乡回家先查查</title>
+      <link href="posts/71c07ef/"/>
+      <url>posts/71c07ef/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/post_img/202101140001.jpg" alt=" "></p><h2 id="本地宝出行隔离政策查询"><a href="#本地宝出行隔离政策查询" class="headerlink" title="本地宝出行隔离政策查询"></a>本地宝出行隔离政策查询</h2><p>本地宝是一个区域型工具，日常提供一些区域各类信息查询，最近因为河北，黑龙江等地小范围疫情不断，现在也临近春节，春运将至，大量人口流动开始，各地为防止疫情在本地爆发扩散，出台了各种针对外来返城返乡人员的隔离政策，但是各地政策不一。<br>本地宝这个“出行隔离政策查询”就是针对这个来帮助大家查询本地隔离政策，如果有需要返乡回家的朋友，可以参考查询当地出行隔离要求！<br>当然，因为工具是全国性的查询工具，但是具体到每个县城，可能政策都有不同，如果在工具中查询未果，可以微信搜索关注你家乡所在区域的政府公众号，基本都可以看到最新出行隔离政策，如果还是没有，可以电话咨询家人询问社区村委会等。<br>随着疫情的不断变化，相关隔离政策也在每天变化，回家前务必先行查询咨询，避免造成在某地滞留无法回家等情况！<br>当然，现在各地也在鼓励员工留守本地过年，大家可以根据自己具体情况具体安排！真的需要返乡的，路上做好防护工作，口罩戴好，一路平安！</p><p>查询地址：<a href="http://m.bj.bendibao.com/news/gelizhengce/all.php">http://m.bj.bendibao.com/news/gelizhengce/all.php</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 值得一看 </category>
+          
+          <category> 新闻趣事 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 疫情 </tag>
+            
+            <tag> 行程 </tag>
+            
+            <tag> 查询 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2020豆瓣电影榜单</title>
+      <link href="posts/644d8289/"/>
+      <url>posts/644d8289/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Jonxinxin/images@v1.0/img/413673626.jpg" alt=" "><br>因为疫情缘故，今年的榜单电影相较往年最大的不同就是线上电影的质量上乘，不论是国内还是海外流媒体，自制剧和限定剧都成了影视爆款，<code>《阳光普照》《一秒钟》《八佰》《极速车王》《信条》</code>等等。今年的豆瓣年度榜单有了大赞助商，万达广场冠名送电影观影券，财大气粗，豆瓣读书和音乐年度榜单将分别在<code>12月21日和23日</code>放出，届时即可查看榜单！ </p><p>豆瓣2020年度电影榜单：<a href="https://movie.douban.com/annual/2020">https://movie.douban.com/annual/2020</a></p><p>豆瓣2020年度音乐榜单：<a href="https://music.douban.com/annual/2020">https://music.douban.com/annual/2020</a></p><p>豆瓣2020年度图书榜单：<a href="https://book.douban.com/annual/2020">https://book.douban.com/annual/2020</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 值得一看 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 榜单 </tag>
+            
+            <tag> 豆瓣 </tag>
+            
+            <tag> 电影 </tag>
+            
+            <tag> 音乐 </tag>
+            
+            <tag> 图书 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
