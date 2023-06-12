@@ -44,26 +44,6 @@
       </categories>
   </entry>
   <entry>
-    <title>腾讯云2核4G8M轻量应用服务器免费升级配置</title>
-    <url>/posts/e97b05bf/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><div class="tip "><p>注意：无忧计划属于独立活动不支持本次升级</p>
-</div>
-<p>腾讯云又来免费活动了，存量境内地域<code>2核-4G内存-8M带宽-1200G流量包</code>的轻量应用服务器进行虎年回馈升级活动，可免费升级至<code>4核-4G内存-8M带宽-1200G流量包</code>，续费价不变！</p>
-<p><strong>活动截止时间2022年3月31日24点，具体升级操作方法如下。</strong></p>
-<h2 id="升级方法"><a href="#升级方法" class="headerlink" title="升级方法"></a>升级方法</h2><ol>
-<li>打开腾讯云轻量云服务器<a href="https://console.cloud.tencent.com/lighthouse/instance/index">控制台</a>，在服务器列表里找到符合条件的机器</li>
-<li>选择机器右上角的更多 -&gt; 升级套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030521.png" alt=""></li>
-<li>随后会弹出新窗口，可以看到免费升级活动的介绍以及支持的机器配置<br><img src="https://cdn.jx-ll.cn/post_img/2022030522.png" alt=""></li>
-<li>接着往下滑，在选择目标套餐里选择通用性套餐里的4H4G8M配置套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030523.png" alt=""></li>
-<li>随后点击下一步，并选择开始升级，然后提交订单即可<br><img src="https://cdn.jx-ll.cn/post_img/2022030524.png" alt=""></li>
-<li>待升级完成后，可以看到我们的机器配置已经变成了4H4G8M<br><img src="https://cdn.jx-ll.cn/post_img/2022030525.png" alt=""></li>
-</ol>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
-  </entry>
-  <entry>
     <title>360安全浏览器v13.1.6170.0优化便携版</title>
     <url>/posts/b69fdc9a/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>360安全浏览器(360SE)是基于IE内核和Chromium内核的双核浏览器。相比以前的版本，360SE13采用了Chromeium86稳定版的内核，在新标签页、皮肤等外观视觉上有着全新的改变，并且还支持夜间模式、自动模式动态内核切换以及各种实用的功能和安全保护技术，带你享受极致的浏览体验。</p>
@@ -169,6 +149,26 @@
       </tags>
   </entry>
   <entry>
+    <title>腾讯云2核4G8M轻量应用服务器免费升级配置</title>
+    <url>/posts/e97b05bf/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><div class="tip "><p>注意：无忧计划属于独立活动不支持本次升级</p>
+</div>
+<p>腾讯云又来免费活动了，存量境内地域<code>2核-4G内存-8M带宽-1200G流量包</code>的轻量应用服务器进行虎年回馈升级活动，可免费升级至<code>4核-4G内存-8M带宽-1200G流量包</code>，续费价不变！</p>
+<p><strong>活动截止时间2022年3月31日24点，具体升级操作方法如下。</strong></p>
+<h2 id="升级方法"><a href="#升级方法" class="headerlink" title="升级方法"></a>升级方法</h2><ol>
+<li>打开腾讯云轻量云服务器<a href="https://console.cloud.tencent.com/lighthouse/instance/index">控制台</a>，在服务器列表里找到符合条件的机器</li>
+<li>选择机器右上角的更多 -&gt; 升级套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030521.png" alt=""></li>
+<li>随后会弹出新窗口，可以看到免费升级活动的介绍以及支持的机器配置<br><img src="https://cdn.jx-ll.cn/post_img/2022030522.png" alt=""></li>
+<li>接着往下滑，在选择目标套餐里选择通用性套餐里的4H4G8M配置套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030523.png" alt=""></li>
+<li>随后点击下一步，并选择开始升级，然后提交订单即可<br><img src="https://cdn.jx-ll.cn/post_img/2022030524.png" alt=""></li>
+<li>待升级完成后，可以看到我们的机器配置已经变成了4H4G8M<br><img src="https://cdn.jx-ll.cn/post_img/2022030525.png" alt=""></li>
+</ol>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
+  </entry>
+  <entry>
     <title>EDGE浏览器双击即可关闭标签页，终于可以不用到处找增强版了</title>
     <url>/posts/2b2375e6/</url>
     <content><![CDATA[<p>很多人用国产浏览器或其他第三方增强版浏览器的重要原因就是这些浏览器功能比较丰富。其中，双击关闭标签页就是一个使用人数较多的一个功能</p>
@@ -187,25 +187,6 @@
       </categories>
       <tags>
         <tag>闲聊新闻</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>PotPlayer(网络播放器) v1.7.21760 绿色版</title>
-    <url>/posts/c45359f9/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>PotPlayer 是 KMPlayer 的原制作者姜龙喜（韩国）进入 Daum 公司后的新一代网络播放器。PotPlayer 的优势在于强大的内置解码器；而 KMPlayer 的优势在于强大的定制能力和个性化功能。PotPlayer 使用 VC++ 编写， KMPlayer 为 Delphi 编写。PotPlayer 是 Daum 公司的一款网络播放器，有自己的独立著作权，并非由姜龙喜先生原创，目前由 KMPlayer 的原始作者姜龙喜进行后续开发。目前(1428以后版本)的 KMPlayer 由 PandoraTV 团队负责集体开发。应 PandoraTV 的要求，PotPlayer 不会加入在 KMPlayer 中一些受欢迎功能，但作者答应加入一些近似的功能。</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030431.png" alt=""></p>
-<h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ul>
-<li><code>@闻雷、@果核剥壳</code>绿色便携制作</li>
-</ul>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123%E4%BA%91%E7%9B%98/%E8%B5%84%E6%BA%90%E6%9D%82%E4%BE%A9/%E8%BD%AF%E4%BB%B6/PotPlayer' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
-<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-Cizw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
-          </div>]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
       </tags>
   </entry>
   <entry>
@@ -257,17 +238,16 @@
       </tags>
   </entry>
   <entry>
-    <title>SublimeText 4.4126 汉化特别版</title>
-    <url>/posts/5909fb66/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>SublimeText是编辑器中的一款神级IDE，非常有名，虽然比较轻量，但是呢软件拓展性非常强大，适用于多种编程语言，当然，当一个编辑器，也是非常不错的。</p>
-<p>Sublime Text 是一个轻量、简洁、高效、跨平台的编辑器，方便的配色以及兼容vim快捷键等各种优点博得了很多前端开发人员的喜爱!Sublime Text 这款程序员必备代码编辑器，几乎每位程序员提到Sublime Text 2都是赞不绝口！它体积小巧，无需安装，绿色便携；它可跨平台支持Windows/Mac/Linux；支持32与64位操作系统，它在支持语法高亮、代 码补全、代码片段（Snippet）、代码折叠、行号显示、自定义皮肤、配色方案等所有其它代码编辑器所拥有的功能的同时，又保证了其飞快的速度！还有着 自身独特的功能，比如代码地图、多种界面布局以及全屏免打扰模式等，这些优秀特性让Sublime Text 2成了所有程序员眼中的神！</p>
-<p>SublimeText支持但不限于 C, C++, C#, CSS, D, Erlang, HTML, Groovy, Haskell, HTML, Java, JavaScript, LaTeX, Lisp, Lua, Markdown, Matlab, OCaml, Perl, PHP, Python, R, Ruby, SQL, TCL, Textile and XML 等主流编程语言的语法高亮。ST 拥有优秀的代码自动完成功能 (自动补齐括号，大括号等配对符号；自动补全已经出现的单词；自动补全函数名)，非常智能；</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022031511.png" alt=""></p>
+    <title>PotPlayer(网络播放器) v1.7.21760 绿色版</title>
+    <url>/posts/c45359f9/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>PotPlayer 是 KMPlayer 的原制作者姜龙喜（韩国）进入 Daum 公司后的新一代网络播放器。PotPlayer 的优势在于强大的内置解码器；而 KMPlayer 的优势在于强大的定制能力和个性化功能。PotPlayer 使用 VC++ 编写， KMPlayer 为 Delphi 编写。PotPlayer 是 Daum 公司的一款网络播放器，有自己的独立著作权，并非由姜龙喜先生原创，目前由 KMPlayer 的原始作者姜龙喜进行后续开发。目前(1428以后版本)的 KMPlayer 由 PandoraTV 团队负责集体开发。应 PandoraTV 的要求，PotPlayer 不会加入在 KMPlayer 中一些受欢迎功能，但作者答应加入一些近似的功能。</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030431.png" alt=""></p>
+<h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ul>
+<li><code>@闻雷、@果核剥壳</code>绿色便携制作</li>
+</ul>
 <h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/zh-CN/Blog/Sublime%20Text' title='本地下载'><img src='fas fa-download'>本地下载</a>
-<a class="button no-text-decoration" href='https://jxin.lanzouq.com/b02hhhbgb' title='蓝奏云盘'><img src='fas fa-download'>蓝奏云盘</a>
-<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-95zw' title='123云盘'><img src='fas fa-download'>123云盘</a>
-<a class="button no-text-decoration" href='https://pan.quark.cn/s/72eb39ae37f0' title='夸克云盘'><img src='fas fa-download'>夸克云盘</a>
+            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123%E4%BA%91%E7%9B%98/%E8%B5%84%E6%BA%90%E6%9D%82%E4%BE%A9/%E8%BD%AF%E4%BB%B6/PotPlayer' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
+<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-Cizw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
           </div>]]></content>
       <categories>
         <category>资源中心</category>
@@ -299,36 +279,65 @@
       </tags>
   </entry>
   <entry>
-    <title>来自吾爱大佬的又一款Bilibili视频下载神器</title>
-    <url>/posts/8d089640/</url>
-    <content><![CDATA[<h2 id="视频介绍"><a href="#视频介绍" class="headerlink" title="视频介绍"></a>视频介绍</h2><iframe src="//player.bilibili.com/player.html?aid=289615827&bvid=BV13f4y1t7JK&cid=309392804&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0"> </iframe>
-
-<p><code>如视频不清晰请前往B站观看</code></p>
-<p>链接：<a href="https://www.bilibili.com/video/BV13f4y1t7JK">https://www.bilibili.com/video/BV13f4y1t7JK</a></p>
-<h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h3 id="1-0-1版本"><a href="#1-0-1版本" class="headerlink" title="1.0.1版本"></a>1.0.1版本</h3><p>修复bug：点击用户登录-&gt;扫码登录-&gt;关闭登录窗口会提示指定窗口尚未载入（52用户 他乡 反馈BUG）</p>
-<h3 id="1-0-2版本"><a href="#1-0-2版本" class="headerlink" title="1.0.2版本"></a>1.0.2版本</h3><p>修复点击下载后提示目录创建失败（52用户 kent52712 反馈BUG）</p>
-<p>修复下载时一直为正在解析的问题</p>
-<p>新增如果此视频没有选择的分辨率会默认下载可以下载的分辨率最高的视频</p>
-<h3 id="1-0-3版本"><a href="#1-0-3版本" class="headerlink" title="1.0.3版本"></a>1.0.3版本</h3><p>修改视频下载逻辑，临时文件与视频文件分离</p>
-<p>新增：支持avid，直接输入avid或视频地址点击解析即可</p>
-<h3 id="1-0-4版本"><a href="#1-0-4版本" class="headerlink" title="1.0.4版本"></a>1.0.4版本</h3><p>修复部分视频合并视频时可能会失败（感谢用户：EdLiya）</p>
-<p>新增可以多选了，选择多个然后右键-&gt;选中</p>
-<h3 id="1-0-5版本"><a href="#1-0-5版本" class="headerlink" title="1.0.5版本"></a>1.0.5版本</h3><p>修复部分视频提示无法创建目录（感谢用户：跳墙的爷）</p>
-<h3 id="1-0-6版本"><a href="#1-0-6版本" class="headerlink" title="1.0.6版本"></a>1.0.6版本</h3><p>修复部分视频提示无法创建目录（感谢用户：shanhaijing）</p>
-<p>修复登陆后选择视频质量提示未登录的问题（感谢用户：Fankilair、小生浩宁）</p>
-<p>新增下载时会在标题前添加序号，从01开始（感谢用户：叶灵兮何）</p>
-<h3 id="1-0-7版本"><a href="#1-0-7版本" class="headerlink" title="1.0.7版本"></a>1.0.7版本</h3><p>修复获取不到视频质量的问题</p>
-<p>某些视频无声音时无法下载，会提示视频解析失败。</p>
-<p>有些时候登录后选择清晰度后还是提示需要登录</p>
-<p>吾爱链接：<a href="https://www.52pojie.cn/thread-1354179-1-2.html">https://www.52pojie.cn/thread-1354179-1-2.html</a></p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】后在对话框中回复【bilibili视频下载器】即可获取下载地址</p>
-]]></content>
+    <title>SublimeText 4.4126 汉化特别版</title>
+    <url>/posts/5909fb66/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>SublimeText是编辑器中的一款神级IDE，非常有名，虽然比较轻量，但是呢软件拓展性非常强大，适用于多种编程语言，当然，当一个编辑器，也是非常不错的。</p>
+<p>Sublime Text 是一个轻量、简洁、高效、跨平台的编辑器，方便的配色以及兼容vim快捷键等各种优点博得了很多前端开发人员的喜爱!Sublime Text 这款程序员必备代码编辑器，几乎每位程序员提到Sublime Text 2都是赞不绝口！它体积小巧，无需安装，绿色便携；它可跨平台支持Windows/Mac/Linux；支持32与64位操作系统，它在支持语法高亮、代 码补全、代码片段（Snippet）、代码折叠、行号显示、自定义皮肤、配色方案等所有其它代码编辑器所拥有的功能的同时，又保证了其飞快的速度！还有着 自身独特的功能，比如代码地图、多种界面布局以及全屏免打扰模式等，这些优秀特性让Sublime Text 2成了所有程序员眼中的神！</p>
+<p>SublimeText支持但不限于 C, C++, C#, CSS, D, Erlang, HTML, Groovy, Haskell, HTML, Java, JavaScript, LaTeX, Lisp, Lua, Markdown, Matlab, OCaml, Perl, PHP, Python, R, Ruby, SQL, TCL, Textile and XML 等主流编程语言的语法高亮。ST 拥有优秀的代码自动完成功能 (自动补齐括号，大括号等配对符号；自动补全已经出现的单词；自动补全函数名)，非常智能；</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022031511.png" alt=""></p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
+            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/zh-CN/Blog/Sublime%20Text' title='本地下载'><img src='fas fa-download'>本地下载</a>
+<a class="button no-text-decoration" href='https://jxin.lanzouq.com/b02hhhbgb' title='蓝奏云盘'><img src='fas fa-download'>蓝奏云盘</a>
+<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-95zw' title='123云盘'><img src='fas fa-download'>123云盘</a>
+<a class="button no-text-decoration" href='https://pan.quark.cn/s/72eb39ae37f0' title='夸克云盘'><img src='fas fa-download'>夸克云盘</a>
+          </div>]]></content>
       <categories>
         <category>资源中心</category>
       </categories>
       <tags>
         <tag>实用软件</tag>
-        <tag>哔哩哔哩</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>阿里云盘桌面端正式版总算来了，快来尝鲜吧！</title>
+    <url>/posts/7c83cdf5/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>历经近半年的不断更新、内测，阿里云盘桌面端总算是迎来了正式版。不知道各位小伙伴还记不记得之前江小鑫之前给大家分享过的<a href="http://mp.weixin.qq.com/s?__biz=MzU3MDkzNjM3Ng==&amp;mid=2247496540&amp;idx=1&amp;sn=5ad3d550747155c82a6e900b640b5181&amp;chksm=fce56e0bcb92e71d0e41fef57bc65bafba6193d20361da7bcb5c49cc891e37360c5242e08075&amp;scene=21#wechat_redirect">泄露的阿里云盘桌面端测试版</a>。相信已经有不少小伙伴体验过了吧，那么体验结果如何呢，留言告诉我吧~</p>
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>好了，正式进入今天的话题。前几天，阿里云盘官网正式发布了桌面端的正式版，这也表示阿里云盘在逐渐成长的路上又上了一个新台阶。本次发布的正式版版本号为：2.1.7。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131331.png" alt=""></p>
+<p>软件外观风格跟以前一样，依旧还是以极简为主，目前暂时还没有什么捆绑的软件。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131359.png" alt=""></p>
+<p>软件登陆界面，跟之前泄露的测试版差不多，支持三种方式登陆。<code>短信登陆、账号登陆、扫码登陆</code>。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131415.png" alt=""></p>
+<p>账号登陆后，进入软件的主界面。在软件功能上，正式版比之前的内测版多了<code>相册、保险箱</code>和<code>我的分享</code>功能。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131427.png" alt=""></p>
+<p><code>相册功能</code>江小鑫已经在手机上体验好久了，感觉还不错，对于手机容量不太大的“摄影师”来说是一个福利。</p>
+<p>而且<code>文件和相册是完全独立的两个功能</code>，备份到相册里的文件是不占用云盘容量的（相当于是无限容量了）。不过也正因为这个原因，你无法在文件里找到备份到相册里的内容。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131445.png" alt=""></p>
+<p>查看详细信息， 阿里云盘的AI功能会对选中的内容进行<code>标签归类</code>，还能看到<code>文件位置、创建时间</code>和<code>修改时间</code>。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131502.png" alt=""></p>
+<p>至于分享功能，目前除了<code>视频、图片、文本</code>，其他格式的文件均不支持分享，像熟悉的压缩包、文件夹、<strong>EXE文件</strong>（实名认证后可以分享）什么的都是不支持分享的，希望官方可以加快更新的速度~</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131520.png" alt=""></p>
+<p>不过虽然不支持分享文件夹，但是如果用户需要<code>同时分享多个文件</code>，则可以<code>先按住键盘上的shift键，再手动选择需要分享的文件</code>，操作过程十分鸡肋。</p>
+<p>分享界面做的非常简洁，虽然可以设置分享的有效期，但不能使用加密分享，与其他同类软件相比，这也是一个需要完善的功能。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131541.png" alt=""></p>
+<p>在<code>我的分享</code>界面，可以看到你分享过的所有内容，右键可以取消分享。</p>
+<p>细心的小伙伴发现了，在菜单栏里有个<code>提取码</code>，这也明确表示了未来会有设置提取码的功能。除此之外，在我的分享界面还可以看到分享内容的<code>浏览量、下载量</code>和<code>转存量</code>，以及<code>分享时间</code>和<code>有效期</code>。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131555.png" alt=""></p>
+<p>打开分享链接，会出现下面这个界面。支持<code>文件下载</code>和<code>保存到我的云盘</code>，但在操作之前，会提示需要先登录自己的阿里云盘账号，<code>不支持游客下载</code>。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131618.png" alt=""></p>
+<p>本次发布的正式版还有一个功能就是<code>保险箱</code>，这个功能和百度网盘的<code>隐藏空间</code>类似，可以把重要的文件放进去，查看的时候需要验证<code>二级密码</code>。</p>
+<p>不过这个功能江小鑫用的并不太多，毕竟在这个互联网上没有什么是绝对安全的，相比于把重要文件放到互联网上，我还是觉得物理硬盘比较好。</p>
+<p>首次使用会向绑定的手机号发送验证码来校验你的身份，验证通过后就可以设置保险箱的密码。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131632.png" alt=""></p>
+<p>不知大家有没有发现，目前阿里云盘除了下载不限速，相比于其他网盘来说，功能算是非常的少了，而且还没有什么核心的竞争力，未来将会怎么发展呢？</p>
+<p>最后，江小鑫给大家带来了阿里云盘的绿色版和官方安装包，需要的可以在公众号后台回复获取下载地址。</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】后在对话框中回复【2106191】即可获取下载地址</p>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
+      <tags>
+        <tag>阿里云盘</tag>
       </tags>
   </entry>
   <entry>
@@ -402,45 +411,56 @@
       </tags>
   </entry>
   <entry>
-    <title>阿里云盘桌面端正式版总算来了，快来尝鲜吧！</title>
-    <url>/posts/7c83cdf5/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>历经近半年的不断更新、内测，阿里云盘桌面端总算是迎来了正式版。不知道各位小伙伴还记不记得之前江小鑫之前给大家分享过的<a href="http://mp.weixin.qq.com/s?__biz=MzU3MDkzNjM3Ng==&amp;mid=2247496540&amp;idx=1&amp;sn=5ad3d550747155c82a6e900b640b5181&amp;chksm=fce56e0bcb92e71d0e41fef57bc65bafba6193d20361da7bcb5c49cc891e37360c5242e08075&amp;scene=21#wechat_redirect">泄露的阿里云盘桌面端测试版</a>。相信已经有不少小伙伴体验过了吧，那么体验结果如何呢，留言告诉我吧~</p>
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>好了，正式进入今天的话题。前几天，阿里云盘官网正式发布了桌面端的正式版，这也表示阿里云盘在逐渐成长的路上又上了一个新台阶。本次发布的正式版版本号为：2.1.7。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131331.png" alt=""></p>
-<p>软件外观风格跟以前一样，依旧还是以极简为主，目前暂时还没有什么捆绑的软件。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131359.png" alt=""></p>
-<p>软件登陆界面，跟之前泄露的测试版差不多，支持三种方式登陆。<code>短信登陆、账号登陆、扫码登陆</code>。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131415.png" alt=""></p>
-<p>账号登陆后，进入软件的主界面。在软件功能上，正式版比之前的内测版多了<code>相册、保险箱</code>和<code>我的分享</code>功能。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131427.png" alt=""></p>
-<p><code>相册功能</code>江小鑫已经在手机上体验好久了，感觉还不错，对于手机容量不太大的“摄影师”来说是一个福利。</p>
-<p>而且<code>文件和相册是完全独立的两个功能</code>，备份到相册里的文件是不占用云盘容量的（相当于是无限容量了）。不过也正因为这个原因，你无法在文件里找到备份到相册里的内容。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131445.png" alt=""></p>
-<p>查看详细信息， 阿里云盘的AI功能会对选中的内容进行<code>标签归类</code>，还能看到<code>文件位置、创建时间</code>和<code>修改时间</code>。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131502.png" alt=""></p>
-<p>至于分享功能，目前除了<code>视频、图片、文本</code>，其他格式的文件均不支持分享，像熟悉的压缩包、文件夹、<strong>EXE文件</strong>（实名认证后可以分享）什么的都是不支持分享的，希望官方可以加快更新的速度~</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131520.png" alt=""></p>
-<p>不过虽然不支持分享文件夹，但是如果用户需要<code>同时分享多个文件</code>，则可以<code>先按住键盘上的shift键，再手动选择需要分享的文件</code>，操作过程十分鸡肋。</p>
-<p>分享界面做的非常简洁，虽然可以设置分享的有效期，但不能使用加密分享，与其他同类软件相比，这也是一个需要完善的功能。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131541.png" alt=""></p>
-<p>在<code>我的分享</code>界面，可以看到你分享过的所有内容，右键可以取消分享。</p>
-<p>细心的小伙伴发现了，在菜单栏里有个<code>提取码</code>，这也明确表示了未来会有设置提取码的功能。除此之外，在我的分享界面还可以看到分享内容的<code>浏览量、下载量</code>和<code>转存量</code>，以及<code>分享时间</code>和<code>有效期</code>。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131555.png" alt=""></p>
-<p>打开分享链接，会出现下面这个界面。支持<code>文件下载</code>和<code>保存到我的云盘</code>，但在操作之前，会提示需要先登录自己的阿里云盘账号，<code>不支持游客下载</code>。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131618.png" alt=""></p>
-<p>本次发布的正式版还有一个功能就是<code>保险箱</code>，这个功能和百度网盘的<code>隐藏空间</code>类似，可以把重要的文件放进去，查看的时候需要验证<code>二级密码</code>。</p>
-<p>不过这个功能江小鑫用的并不太多，毕竟在这个互联网上没有什么是绝对安全的，相比于把重要文件放到互联网上，我还是觉得物理硬盘比较好。</p>
-<p>首次使用会向绑定的手机号发送验证码来校验你的身份，验证通过后就可以设置保险箱的密码。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131632.png" alt=""></p>
-<p>不知大家有没有发现，目前阿里云盘除了下载不限速，相比于其他网盘来说，功能算是非常的少了，而且还没有什么核心的竞争力，未来将会怎么发展呢？</p>
-<p>最后，江小鑫给大家带来了阿里云盘的绿色版和官方安装包，需要的可以在公众号后台回复获取下载地址。</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】后在对话框中回复【2106191】即可获取下载地址</p>
+    <title>来自吾爱大佬的又一款Bilibili视频下载神器</title>
+    <url>/posts/8d089640/</url>
+    <content><![CDATA[<h2 id="视频介绍"><a href="#视频介绍" class="headerlink" title="视频介绍"></a>视频介绍</h2><iframe src="//player.bilibili.com/player.html?aid=289615827&bvid=BV13f4y1t7JK&cid=309392804&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0"> </iframe>
+
+<p><code>如视频不清晰请前往B站观看</code></p>
+<p>链接：<a href="https://www.bilibili.com/video/BV13f4y1t7JK">https://www.bilibili.com/video/BV13f4y1t7JK</a></p>
+<h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h3 id="1-0-1版本"><a href="#1-0-1版本" class="headerlink" title="1.0.1版本"></a>1.0.1版本</h3><p>修复bug：点击用户登录-&gt;扫码登录-&gt;关闭登录窗口会提示指定窗口尚未载入（52用户 他乡 反馈BUG）</p>
+<h3 id="1-0-2版本"><a href="#1-0-2版本" class="headerlink" title="1.0.2版本"></a>1.0.2版本</h3><p>修复点击下载后提示目录创建失败（52用户 kent52712 反馈BUG）</p>
+<p>修复下载时一直为正在解析的问题</p>
+<p>新增如果此视频没有选择的分辨率会默认下载可以下载的分辨率最高的视频</p>
+<h3 id="1-0-3版本"><a href="#1-0-3版本" class="headerlink" title="1.0.3版本"></a>1.0.3版本</h3><p>修改视频下载逻辑，临时文件与视频文件分离</p>
+<p>新增：支持avid，直接输入avid或视频地址点击解析即可</p>
+<h3 id="1-0-4版本"><a href="#1-0-4版本" class="headerlink" title="1.0.4版本"></a>1.0.4版本</h3><p>修复部分视频合并视频时可能会失败（感谢用户：EdLiya）</p>
+<p>新增可以多选了，选择多个然后右键-&gt;选中</p>
+<h3 id="1-0-5版本"><a href="#1-0-5版本" class="headerlink" title="1.0.5版本"></a>1.0.5版本</h3><p>修复部分视频提示无法创建目录（感谢用户：跳墙的爷）</p>
+<h3 id="1-0-6版本"><a href="#1-0-6版本" class="headerlink" title="1.0.6版本"></a>1.0.6版本</h3><p>修复部分视频提示无法创建目录（感谢用户：shanhaijing）</p>
+<p>修复登陆后选择视频质量提示未登录的问题（感谢用户：Fankilair、小生浩宁）</p>
+<p>新增下载时会在标题前添加序号，从01开始（感谢用户：叶灵兮何）</p>
+<h3 id="1-0-7版本"><a href="#1-0-7版本" class="headerlink" title="1.0.7版本"></a>1.0.7版本</h3><p>修复获取不到视频质量的问题</p>
+<p>某些视频无声音时无法下载，会提示视频解析失败。</p>
+<p>有些时候登录后选择清晰度后还是提示需要登录</p>
+<p>吾爱链接：<a href="https://www.52pojie.cn/thread-1354179-1-2.html">https://www.52pojie.cn/thread-1354179-1-2.html</a></p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】后在对话框中回复【bilibili视频下载器】即可获取下载地址</p>
 ]]></content>
       <categories>
-        <category>转载内容</category>
+        <category>资源中心</category>
       </categories>
       <tags>
-        <tag>阿里云盘</tag>
+        <tag>实用软件</tag>
+        <tag>哔哩哔哩</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>剪映Pro正式版来啦：轻而易剪 上演大幕！</title>
+    <url>/posts/69695e5f/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>剪映专业版是抖音推出的一款免费的全能易用的视频剪辑软件。剪映手机版由于背靠抖音大树再加上操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。 </p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/20210203185724.png" alt=" "></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/20210203185734.png" alt=" "></p>
+<h2 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h2><h3 id="简单：界面布局清晰直观"><a href="#简单：界面布局清晰直观" class="headerlink" title="简单：界面布局清晰直观"></a>简单：界面布局清晰直观</h3><p>把时间线、素材库、播放器等界面布局化繁为简，让你能够得心应手地剪辑出精彩的视频。</p>
+<h3 id="高效：多轨道剪辑"><a href="#高效：多轨道剪辑" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
+<h3 id="专业：高阶功能"><a href="#专业：高阶功能" class="headerlink" title="专业：高阶功能"></a>专业：高阶功能</h3><p>曲线变速、蒙版、混合模式、色彩调节等强大功能覆盖剪辑全场景；音乐踩点功能，帮助你快速创作节奏感十足的镜头；更有语音识别功能，一键添加字幕与歌词，节省时间专注剪辑，尽情挥洒创意。</p>
+<h3 id="高效：多轨道剪辑-1"><a href="#高效：多轨道剪辑-1" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网地址：<a href="https://lv.ulikecam.com/">https://lv.ulikecam.com/</a></p>
+<p>关注公众号<code>【美男子鑫鑫】</code>，在对话框中回复【剪映Pro下载】，即可获取下载地址</p>
+]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
       </tags>
   </entry>
   <entry>
@@ -561,26 +581,6 @@
       </tags>
   </entry>
   <entry>
-    <title>剪映Pro正式版来啦：轻而易剪 上演大幕！</title>
-    <url>/posts/69695e5f/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>剪映专业版是抖音推出的一款免费的全能易用的视频剪辑软件。剪映手机版由于背靠抖音大树再加上操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。 </p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/20210203185724.png" alt=" "></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/20210203185734.png" alt=" "></p>
-<h2 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h2><h3 id="简单：界面布局清晰直观"><a href="#简单：界面布局清晰直观" class="headerlink" title="简单：界面布局清晰直观"></a>简单：界面布局清晰直观</h3><p>把时间线、素材库、播放器等界面布局化繁为简，让你能够得心应手地剪辑出精彩的视频。</p>
-<h3 id="高效：多轨道剪辑"><a href="#高效：多轨道剪辑" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
-<h3 id="专业：高阶功能"><a href="#专业：高阶功能" class="headerlink" title="专业：高阶功能"></a>专业：高阶功能</h3><p>曲线变速、蒙版、混合模式、色彩调节等强大功能覆盖剪辑全场景；音乐踩点功能，帮助你快速创作节奏感十足的镜头；更有语音识别功能，一键添加字幕与歌词，节省时间专注剪辑，尽情挥洒创意。</p>
-<h3 id="高效：多轨道剪辑-1"><a href="#高效：多轨道剪辑-1" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网地址：<a href="https://lv.ulikecam.com/">https://lv.ulikecam.com/</a></p>
-<p>关注公众号<code>【美男子鑫鑫】</code>，在对话框中回复【剪映Pro下载】，即可获取下载地址</p>
-]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>腾讯QQ二代变无是什么意思？怎么避免？怎么解决？</title>
     <url>/posts/d0eb61f9/</url>
     <content><![CDATA[<h2 id="二代变无"><a href="#二代变无" class="headerlink" title="二代变无"></a>二代变无</h2><p>二代变无，即二代变无保，QQ密保工具失效。QQ账号有密保工具，比如密保手机，QQ令牌等，但是某一天此QQ突然被冻结保护，解冻需要修改QQ密码，但是修改密码却不能验证密保工具，只能填写资料申诉。</p>
@@ -650,6 +650,39 @@
       <categories>
         <category>闲聊杂谈</category>
       </categories>
+  </entry>
+  <entry>
+    <title>Hexo错误：Spawn Failed的解决方法</title>
+    <url>/posts/e3433884/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近在部署部落格的时候出现了spawn failed错误，不管是挂梯子还是改代理，都部署不上。刚开始我以为是ssh key的问题，但后面重新设置了个key也还是链接不上。</p>
+<p>在网上找了各种方法，折腾了大半天，最后终于解决了，希望这篇文章能帮助有跟我相同问题的小伙伴。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210714221124.png" style="zoom: 80%;" /></p>
+<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><h3 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h3><p>重启电脑，也是最快的解决方法，但只有部分人可以。</p>
+<h3 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h3><ol>
+<li>删除hexo根目录下的<code>.deploy_git</code>文件夹</li>
+<li>打开git，输入<code>git config --gloabl core.autocrlf false</code>并回车</li>
+<li>hexo一键三连（hexo clean、hexo g 、hexo d）</li>
+</ol>
+<h3 id="方法三"><a href="#方法三" class="headerlink" title="方法三"></a>方法三</h3><p>打开Hexo根目录下的<code>_config.yml</code>配置文件，找到下面的这串代码</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">type: git</span><br><span class="line">repo: https://github.com/yourname/yourname.github.io.git</span><br><span class="line">branch: master</span><br></pre></td></tr></table></figure>
+<p>将其中<code>repo</code>后面的链接修改为下面这个链接并ctrl+s保存</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">repo: git@github.com:yourname/yourname.github.io.git</span><br></pre></td></tr></table></figure>
+<p>hexo一键三连（hexo clean、hexo g 、hexo d）</p>
+<h3 id="方法四（不推荐）"><a href="#方法四（不推荐）" class="headerlink" title="方法四（不推荐）"></a>方法四（不推荐）</h3><p>cd进<code>.deploy_git</code>文件夹，然后使用<code>git push -f</code>强制推送</p>
+<h3 id="方法五"><a href="#方法五" class="headerlink" title="方法五"></a>方法五</h3><p>打开<code>.deploy_git\.git\logs</code>路径下的<code>HEAD</code>查看最近一次正确的那次的<code>commitId</code>然后用<code>git reset --hard commitId</code>进行回滚</p>
+<h2 id="完美解决"><a href="#完美解决" class="headerlink" title="完美解决"></a>完美解决</h2><p>相信这五种方法里总有一种适合你的，点个赞吧~</p>
+<hr>
+<div class="note info disabled"><p>本文中提及的教程均来自互联网，整合自各位大佬的部落格：<a href="https://blog.zhheo.com/p/128998ac.html">张洪Heo</a>、<a href="https://1187100546.github.io/2019/11/24/spawn-failed/">huahua</a>、<a href="http://ciraos.top/">小青</a>、<a href="https://perry96.com/archives/882898e3.html">Perry</a>，感谢！如有侵权请联系我删除。</p>
+</div>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>GitHub</tag>
+        <tag>Hexo</tag>
+      </tags>
   </entry>
   <entry>
     <title>利用又拍云实现Github Pages加速访问</title>
@@ -751,39 +784,6 @@
       </categories>
       <tags>
         <tag>系统运维</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo错误：Spawn Failed的解决方法</title>
-    <url>/posts/e3433884/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近在部署部落格的时候出现了spawn failed错误，不管是挂梯子还是改代理，都部署不上。刚开始我以为是ssh key的问题，但后面重新设置了个key也还是链接不上。</p>
-<p>在网上找了各种方法，折腾了大半天，最后终于解决了，希望这篇文章能帮助有跟我相同问题的小伙伴。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210714221124.png" style="zoom: 80%;" /></p>
-<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><h3 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h3><p>重启电脑，也是最快的解决方法，但只有部分人可以。</p>
-<h3 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h3><ol>
-<li>删除hexo根目录下的<code>.deploy_git</code>文件夹</li>
-<li>打开git，输入<code>git config --gloabl core.autocrlf false</code>并回车</li>
-<li>hexo一键三连（hexo clean、hexo g 、hexo d）</li>
-</ol>
-<h3 id="方法三"><a href="#方法三" class="headerlink" title="方法三"></a>方法三</h3><p>打开Hexo根目录下的<code>_config.yml</code>配置文件，找到下面的这串代码</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">type: git</span><br><span class="line">repo: https://github.com/yourname/yourname.github.io.git</span><br><span class="line">branch: master</span><br></pre></td></tr></table></figure>
-<p>将其中<code>repo</code>后面的链接修改为下面这个链接并ctrl+s保存</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">repo: git@github.com:yourname/yourname.github.io.git</span><br></pre></td></tr></table></figure>
-<p>hexo一键三连（hexo clean、hexo g 、hexo d）</p>
-<h3 id="方法四（不推荐）"><a href="#方法四（不推荐）" class="headerlink" title="方法四（不推荐）"></a>方法四（不推荐）</h3><p>cd进<code>.deploy_git</code>文件夹，然后使用<code>git push -f</code>强制推送</p>
-<h3 id="方法五"><a href="#方法五" class="headerlink" title="方法五"></a>方法五</h3><p>打开<code>.deploy_git\.git\logs</code>路径下的<code>HEAD</code>查看最近一次正确的那次的<code>commitId</code>然后用<code>git reset --hard commitId</code>进行回滚</p>
-<h2 id="完美解决"><a href="#完美解决" class="headerlink" title="完美解决"></a>完美解决</h2><p>相信这五种方法里总有一种适合你的，点个赞吧~</p>
-<hr>
-<div class="note info disabled"><p>本文中提及的教程均来自互联网，整合自各位大佬的部落格：<a href="https://blog.zhheo.com/p/128998ac.html">张洪Heo</a>、<a href="https://1187100546.github.io/2019/11/24/spawn-failed/">huahua</a>、<a href="http://ciraos.top/">小青</a>、<a href="https://perry96.com/archives/882898e3.html">Perry</a>，感谢！如有侵权请联系我删除。</p>
-</div>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>GitHub</tag>
-        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -994,6 +994,73 @@
       </tags>
   </entry>
   <entry>
+    <title>国产AI又一新秀，讯飞星火认知大模型来了</title>
+    <url>/posts/7ee4dd5d/</url>
+    <content><![CDATA[<blockquote>
+<p>4月24日，科大讯飞星火认知大模型官网正式上线，用户可在官网填写企业、姓名、电话和申请理由，等审核通过后，便可以获取体验资格。</p>
+</blockquote>
+<p>4月27日，我在官网提交了申请，等待了8天后终于坐上了本次内测的末班车。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505185901.webp" alt=""></p>
+<p>针对从网上收集的一些问题，来试试讯飞星火、GPT3.5、NewBing的回答有哪些区别。</p>
+<h2 id="问题清单"><a href="#问题清单" class="headerlink" title="问题清单"></a>问题清单</h2><h3 id="爸爸和妈妈能结婚吗"><a href="#爸爸和妈妈能结婚吗" class="headerlink" title="爸爸和妈妈能结婚吗"></a>爸爸和妈妈能结婚吗</h3><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505192342.webp" alt=""></p>
+<blockquote>
+<p>通常情况下，父母是已经结婚的，因为他们是夫妻关系。在大多数国家和文化中，婚姻是两个成年人建立家庭并承担家庭和社会责任的方式。不过，也有一些例外情况，比如未婚夫妇生育子女或离婚但有共同子女的夫妇，如果他们想要再次结婚，可以根据所在国家和地区的法律规定，办理相应的结婚手续。</p>
+</blockquote>
+<details class="folding-tag" ><summary> GPT3.5 </summary>
+              <div class='content'>
+              <p><blockquote></p><p><p>一般来说，爸爸和妈妈不能结婚。在大多数国家和地区，近亲结婚是非法的，包括父母和子女之间的婚姻。这是为了避免基因缺陷和其他健康问题在家庭中遗传传播，以及维护家庭伦理和社会秩序。<br>此外，父母和子女之间的性关系也是非法的，并被视为性虐待和滥用行为，这可能会导致严重的法律后果和心理创伤。因此，我们应该尊重和遵守社会道德和法律法规，维护家庭和社会的和谐稳定。<br></p>
+              </div>
+            </details></p>
+</blockquote>
+<details class="folding-tag" ><summary> NewBing </summary>
+              <div class='content'>
+              <p><blockquote></p><p><p>根据中国的法律，无论双方父母和他们两人再怎么同意，他们的结婚都是都是不合法的，都是无效的。<br>希望这能回答您的问题。如果您有其他问题，请随时问我。<br></p>
+              </div>
+            </details></p>
+</blockquote>
+<h3 id="我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化"><a href="#我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化" class="headerlink" title="我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化"></a>我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化</h3><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505195801.webp" alt=""></p>
+<blockquote>
+<p>520情人节，是表达爱意的浪漫日子。为了吸引更多的顾客，我们可以推出以下营销方案：<br>1.鲜花礼盒：在520情人节这个特殊的日子里，我们可以推出一系列精美的鲜花礼盒，包括玫瑰、康乃馨、满天星等不同种类的花卉。每个礼盒都配有精美的包装和贺卡，让顾客感受到浓浓的爱意。此外，我们还可以提供定制服务，根据客户的需求来制作独一无二的礼盒。<br>2.花束定制：除了鲜花礼盒，我们还可以提供花束定制服务。顾客可以根据自己的喜好和需求，选择不同的花卉和搭配方式，定制出独一无二的花束。我们还可以提供现场速递服务，让顾客在最短的时间内收到自己心爱的花束。<br>3.社交媒体营销：在520情人节这个特殊的日子里，我们可以在社交媒体上进行营销推广。通过发布有关鲜花和爱情的内容，吸引更多的关注和转发。同时，我们还可以开展互动活动，例如抽奖、分享照片等，增加用户参与度和粘性。<br>4.优惠活动：为了吸引更多的顾客，我们可以推出一些优惠活动。例如，在520情人节当天购买鲜花礼盒或花束，可以享受一定的折扣或赠品。此外，我们还可以推出会员制度，为忠实顾客提供更多的优惠和服务。<br>总之，520情人节是一个非常适合销售鲜花的节日。通过以上营销方案的实施，我们可以吸引更多的顾客，提高销售额和品牌知名度。</p>
+</blockquote>
+<details class="folding-tag" ><summary> GPT3.5 </summary>
+              <div class='content'>
+              <p><blockquote></p><p><p>520情人节是一年一度的爱情盛典，也是鲜花销售的高峰期。作为一家卖鲜花的商家，你可以通过以下的营销方案来吸引潜在客户和增加销售额。<br>1.设计520情人节专属鲜花套餐<br>设计一系列情人节专属鲜花套餐，让客户可以轻松选择心仪的套餐。可以根据价格和花卉类型来区分不同的套餐，例如情人节经典款、豪华款、定制款等等。可以在网站和社交媒体上宣传这些套餐，吸引客户的关注。<br>2.创意营销<br>为了吸引更多的客户，可以结合时下流行的社交媒体，设计有趣的营销活动。例如，可以开展花艺大赛，鼓励客户分享自己的创意花艺，以及拍摄520情人节的浪漫照片，用鲜花营造浪漫氛围。<br>3.赠送小礼品<br>可以赠送一些小礼品，如精美贺卡、糖果、巧克力等，来提高客户的购买意愿。在购买情人节鲜花套餐时，附赠一些小礼品，让客户感受到品牌的贴心服务，增强客户对品牌的信任度。<br>4.预订优惠<br>可以提前推出情人节鲜花预订优惠，吸引客户提前预订，并为客户提供更好的服务。可以在预订时提供更多的选择，例如提供更多的花卉种类、颜色、配送时间等，让客户更有参与感和体验感。<br>5.客户关怀<br>在520情人节期间，可以加强与客户的沟通，发出祝福和关怀。例如，通过短信或微信向客户发送情人节祝福，或者发放优惠券、折扣码等，让客户感受到品牌的温暖和关心。<br>以上是一些可以用于营销的具体细节方案，卖鲜花的商家可以根据自己的情况和需求，选择适合自己的方案，并进行具体细化和操作。<br></p>
+              </div>
+            </details></p>
+</blockquote>
+<details class="folding-tag" ><summary> NewBing </summary>
+              <div class='content'>
+              <p><p>Q：我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化<br>A：好的，让我们来为您的鲜花店制定一份520情人节的营销方案。首先，我们需要了解您的目标受众是谁。您的鲜花店主要面向哪些人群？例如，年龄、性别、职业、收入等等。这些信息可以帮助我们更好地为您量身定制一份营销方案。<br>Q：面向大学生<br>好的，针对大学生这个目标受众，我们可以考虑以下几个方面：<br>鲜花种类：大学生喜欢的鲜花种类有哪些？可以考虑玫瑰、康乃馨、百合等。这些花卉都有着浪漫、温馨的寓意，非常适合情人节赠送。<br>花束包装：花束的包装也非常重要。可以考虑采用粉色、红色等浪漫色系，搭配可爱的小熊、小猫等元素，让花束更具有情人节氛围。<br>营销策略：可以在校园内张贴海报、发放传单等方式进行宣传。此外，可以考虑在社交媒体上发布相关内容，吸引更多的目标受众。<br>希望以上建议能够帮到您。如果您还有其他问题或需要更多帮助，请随时告诉我。<br></p>
+              </div>
+            </details></p>
+<h3 id="蒸一个包子要10分钟，蒸10个包子要多久"><a href="#蒸一个包子要10分钟，蒸10个包子要多久" class="headerlink" title="蒸一个包子要10分钟，蒸10个包子要多久"></a>蒸一个包子要10分钟，蒸10个包子要多久</h3><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505200132.webp" alt=""></p>
+<blockquote>
+<p>如果蒸一个包子需要10分钟，那么蒸10个包子的时间取决于以下几个因素：<br>1.蒸锅的大小和容量：如果你的蒸锅足够大，可以同时容纳10个包子，那么蒸10个包子的时间可能只需要5-6分钟。但如果你的蒸锅比较小，只能容纳5个或更少的包子，那么蒸10个包子的时间可能需要更长。<br>2.蒸汽的温度和压力：如果蒸汽的温度和压力足够高，可以更快地将包子蒸熟，那么蒸10个包子的时间可能只需要8-9分钟。但如果蒸汽的温度和压力不够高，需要更长时间才能将包子蒸熟，那么蒸10个包子的时间可能需要12-15分钟。<br>3.包子的厚度和大小：如果每个包子的厚度和大小都相同，那么它们在蒸煮过程中所需的时间也应该相同。但如果有些包子比其他包子更大或更厚，那么它们可能需要更长的时间才能熟透。<br>综上所述，蒸10个包子的时间取决于多个因素，无法给出一个准确的时间。建议在蒸包子之前先测量好水温，确保水开了再放入包子，这样可以保证包子能够均匀受热，同时也可以避免过早地熟透或者过晚地生疏。</p>
+</blockquote>
+<details class="folding-tag" ><summary> GPT3.5 </summary>
+              <div class='content'>
+              <p><blockquote></p><p><p>蒸一个包子需要10分钟，蒸10个包子需要的时间取决于蒸锅的大小和包子的大小，以及包子的层数等因素。一般情况下，蒸10个包子需要的时间可能会略微长一些，因为需要逐层蒸熟，同时也要注意不要让包子互相粘在一起。一般来说，蒸10个包子需要大约15-20分钟左右，具体时间可以根据包子的大小和材料调整。<br></p>
+              </div>
+            </details></p>
+</blockquote>
+<details class="folding-tag" ><summary> NewBing </summary>
+              <div class='content'>
+              <p><blockquote></p><p><p>如果蒸一个包子需要10分钟，那么蒸10个包子需要的时间是多少呢？答案是：10分钟。<br>这是因为，无论蒸多少个包子，蒸的时间都是一样的。当然，如果您同时蒸多个层，可能需要适当延长蒸的时间。但是一般情况下，蒸10个包子的时间和蒸1个包子的时间是一样的。<br>希望能够帮到您。如果您还有其他问题或需要更多帮助，请随时告诉我。<br></p>
+              </div>
+            </details></p>
+</blockquote>
+<p>总的来说，星火大模型的准确度和回答速度都还不错，基本上不会出现需要一直等待的情况，算得上是一个体验不错的产品了。</p>
+<p>此外，对于我们绝大多数普通用户来说，星火是能够满足我们的普通日常需求的。</p>
+]]></content>
+      <categories>
+        <category>闲聊杂谈</category>
+      </categories>
+      <tags>
+        <tag>闲聊新闻</tag>
+        <tag>AI模型</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>在VPS上安装哪吒面板，并用Caddy实现反向代理</title>
     <url>/posts/f1e2eb87/</url>
     <content><![CDATA[<p>哪吒监控是一个开源、轻量的服务器和网站监控、运维工具，能够实时监控并报告服务器的状态。</p>
@@ -1062,73 +1129,6 @@
       </categories>
       <tags>
         <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>国产AI又一新秀，讯飞星火认知大模型来了</title>
-    <url>/posts/7ee4dd5d/</url>
-    <content><![CDATA[<blockquote>
-<p>4月24日，科大讯飞星火认知大模型官网正式上线，用户可在官网填写企业、姓名、电话和申请理由，等审核通过后，便可以获取体验资格。</p>
-</blockquote>
-<p>4月27日，我在官网提交了申请，等待了8天后终于坐上了本次内测的末班车。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505185901.webp" alt=""></p>
-<p>针对从网上收集的一些问题，来试试讯飞星火、GPT3.5、NewBing的回答有哪些区别。</p>
-<h2 id="问题清单"><a href="#问题清单" class="headerlink" title="问题清单"></a>问题清单</h2><h3 id="爸爸和妈妈能结婚吗"><a href="#爸爸和妈妈能结婚吗" class="headerlink" title="爸爸和妈妈能结婚吗"></a>爸爸和妈妈能结婚吗</h3><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505192342.webp" alt=""></p>
-<blockquote>
-<p>通常情况下，父母是已经结婚的，因为他们是夫妻关系。在大多数国家和文化中，婚姻是两个成年人建立家庭并承担家庭和社会责任的方式。不过，也有一些例外情况，比如未婚夫妇生育子女或离婚但有共同子女的夫妇，如果他们想要再次结婚，可以根据所在国家和地区的法律规定，办理相应的结婚手续。</p>
-</blockquote>
-<details class="folding-tag" ><summary> GPT3.5 </summary>
-              <div class='content'>
-              <p><blockquote></p><p><p>一般来说，爸爸和妈妈不能结婚。在大多数国家和地区，近亲结婚是非法的，包括父母和子女之间的婚姻。这是为了避免基因缺陷和其他健康问题在家庭中遗传传播，以及维护家庭伦理和社会秩序。<br>此外，父母和子女之间的性关系也是非法的，并被视为性虐待和滥用行为，这可能会导致严重的法律后果和心理创伤。因此，我们应该尊重和遵守社会道德和法律法规，维护家庭和社会的和谐稳定。<br></p>
-              </div>
-            </details></p>
-</blockquote>
-<details class="folding-tag" ><summary> NewBing </summary>
-              <div class='content'>
-              <p><blockquote></p><p><p>根据中国的法律，无论双方父母和他们两人再怎么同意，他们的结婚都是都是不合法的，都是无效的。<br>希望这能回答您的问题。如果您有其他问题，请随时问我。<br></p>
-              </div>
-            </details></p>
-</blockquote>
-<h3 id="我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化"><a href="#我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化" class="headerlink" title="我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化"></a>我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化</h3><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505195801.webp" alt=""></p>
-<blockquote>
-<p>520情人节，是表达爱意的浪漫日子。为了吸引更多的顾客，我们可以推出以下营销方案：<br>1.鲜花礼盒：在520情人节这个特殊的日子里，我们可以推出一系列精美的鲜花礼盒，包括玫瑰、康乃馨、满天星等不同种类的花卉。每个礼盒都配有精美的包装和贺卡，让顾客感受到浓浓的爱意。此外，我们还可以提供定制服务，根据客户的需求来制作独一无二的礼盒。<br>2.花束定制：除了鲜花礼盒，我们还可以提供花束定制服务。顾客可以根据自己的喜好和需求，选择不同的花卉和搭配方式，定制出独一无二的花束。我们还可以提供现场速递服务，让顾客在最短的时间内收到自己心爱的花束。<br>3.社交媒体营销：在520情人节这个特殊的日子里，我们可以在社交媒体上进行营销推广。通过发布有关鲜花和爱情的内容，吸引更多的关注和转发。同时，我们还可以开展互动活动，例如抽奖、分享照片等，增加用户参与度和粘性。<br>4.优惠活动：为了吸引更多的顾客，我们可以推出一些优惠活动。例如，在520情人节当天购买鲜花礼盒或花束，可以享受一定的折扣或赠品。此外，我们还可以推出会员制度，为忠实顾客提供更多的优惠和服务。<br>总之，520情人节是一个非常适合销售鲜花的节日。通过以上营销方案的实施，我们可以吸引更多的顾客，提高销售额和品牌知名度。</p>
-</blockquote>
-<details class="folding-tag" ><summary> GPT3.5 </summary>
-              <div class='content'>
-              <p><blockquote></p><p><p>520情人节是一年一度的爱情盛典，也是鲜花销售的高峰期。作为一家卖鲜花的商家，你可以通过以下的营销方案来吸引潜在客户和增加销售额。<br>1.设计520情人节专属鲜花套餐<br>设计一系列情人节专属鲜花套餐，让客户可以轻松选择心仪的套餐。可以根据价格和花卉类型来区分不同的套餐，例如情人节经典款、豪华款、定制款等等。可以在网站和社交媒体上宣传这些套餐，吸引客户的关注。<br>2.创意营销<br>为了吸引更多的客户，可以结合时下流行的社交媒体，设计有趣的营销活动。例如，可以开展花艺大赛，鼓励客户分享自己的创意花艺，以及拍摄520情人节的浪漫照片，用鲜花营造浪漫氛围。<br>3.赠送小礼品<br>可以赠送一些小礼品，如精美贺卡、糖果、巧克力等，来提高客户的购买意愿。在购买情人节鲜花套餐时，附赠一些小礼品，让客户感受到品牌的贴心服务，增强客户对品牌的信任度。<br>4.预订优惠<br>可以提前推出情人节鲜花预订优惠，吸引客户提前预订，并为客户提供更好的服务。可以在预订时提供更多的选择，例如提供更多的花卉种类、颜色、配送时间等，让客户更有参与感和体验感。<br>5.客户关怀<br>在520情人节期间，可以加强与客户的沟通，发出祝福和关怀。例如，通过短信或微信向客户发送情人节祝福，或者发放优惠券、折扣码等，让客户感受到品牌的温暖和关心。<br>以上是一些可以用于营销的具体细节方案，卖鲜花的商家可以根据自己的情况和需求，选择适合自己的方案，并进行具体细化和操作。<br></p>
-              </div>
-            </details></p>
-</blockquote>
-<details class="folding-tag" ><summary> NewBing </summary>
-              <div class='content'>
-              <p><p>Q：我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化<br>A：好的，让我们来为您的鲜花店制定一份520情人节的营销方案。首先，我们需要了解您的目标受众是谁。您的鲜花店主要面向哪些人群？例如，年龄、性别、职业、收入等等。这些信息可以帮助我们更好地为您量身定制一份营销方案。<br>Q：面向大学生<br>好的，针对大学生这个目标受众，我们可以考虑以下几个方面：<br>鲜花种类：大学生喜欢的鲜花种类有哪些？可以考虑玫瑰、康乃馨、百合等。这些花卉都有着浪漫、温馨的寓意，非常适合情人节赠送。<br>花束包装：花束的包装也非常重要。可以考虑采用粉色、红色等浪漫色系，搭配可爱的小熊、小猫等元素，让花束更具有情人节氛围。<br>营销策略：可以在校园内张贴海报、发放传单等方式进行宣传。此外，可以考虑在社交媒体上发布相关内容，吸引更多的目标受众。<br>希望以上建议能够帮到您。如果您还有其他问题或需要更多帮助，请随时告诉我。<br></p>
-              </div>
-            </details></p>
-<h3 id="蒸一个包子要10分钟，蒸10个包子要多久"><a href="#蒸一个包子要10分钟，蒸10个包子要多久" class="headerlink" title="蒸一个包子要10分钟，蒸10个包子要多久"></a>蒸一个包子要10分钟，蒸10个包子要多久</h3><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505200132.webp" alt=""></p>
-<blockquote>
-<p>如果蒸一个包子需要10分钟，那么蒸10个包子的时间取决于以下几个因素：<br>1.蒸锅的大小和容量：如果你的蒸锅足够大，可以同时容纳10个包子，那么蒸10个包子的时间可能只需要5-6分钟。但如果你的蒸锅比较小，只能容纳5个或更少的包子，那么蒸10个包子的时间可能需要更长。<br>2.蒸汽的温度和压力：如果蒸汽的温度和压力足够高，可以更快地将包子蒸熟，那么蒸10个包子的时间可能只需要8-9分钟。但如果蒸汽的温度和压力不够高，需要更长时间才能将包子蒸熟，那么蒸10个包子的时间可能需要12-15分钟。<br>3.包子的厚度和大小：如果每个包子的厚度和大小都相同，那么它们在蒸煮过程中所需的时间也应该相同。但如果有些包子比其他包子更大或更厚，那么它们可能需要更长的时间才能熟透。<br>综上所述，蒸10个包子的时间取决于多个因素，无法给出一个准确的时间。建议在蒸包子之前先测量好水温，确保水开了再放入包子，这样可以保证包子能够均匀受热，同时也可以避免过早地熟透或者过晚地生疏。</p>
-</blockquote>
-<details class="folding-tag" ><summary> GPT3.5 </summary>
-              <div class='content'>
-              <p><blockquote></p><p><p>蒸一个包子需要10分钟，蒸10个包子需要的时间取决于蒸锅的大小和包子的大小，以及包子的层数等因素。一般情况下，蒸10个包子需要的时间可能会略微长一些，因为需要逐层蒸熟，同时也要注意不要让包子互相粘在一起。一般来说，蒸10个包子需要大约15-20分钟左右，具体时间可以根据包子的大小和材料调整。<br></p>
-              </div>
-            </details></p>
-</blockquote>
-<details class="folding-tag" ><summary> NewBing </summary>
-              <div class='content'>
-              <p><blockquote></p><p><p>如果蒸一个包子需要10分钟，那么蒸10个包子需要的时间是多少呢？答案是：10分钟。<br>这是因为，无论蒸多少个包子，蒸的时间都是一样的。当然，如果您同时蒸多个层，可能需要适当延长蒸的时间。但是一般情况下，蒸10个包子的时间和蒸1个包子的时间是一样的。<br>希望能够帮到您。如果您还有其他问题或需要更多帮助，请随时告诉我。<br></p>
-              </div>
-            </details></p>
-</blockquote>
-<p>总的来说，星火大模型的准确度和回答速度都还不错，基本上不会出现需要一直等待的情况，算得上是一个体验不错的产品了。</p>
-<p>此外，对于我们绝大多数普通用户来说，星火是能够满足我们的普通日常需求的。</p>
-]]></content>
-      <categories>
-        <category>闲聊杂谈</category>
-      </categories>
-      <tags>
-        <tag>闲聊新闻</tag>
-        <tag>AI模型</tag>
       </tags>
   </entry>
   <entry>
@@ -1277,101 +1277,6 @@
       </tags>
   </entry>
   <entry>
-    <title>无需服务器免费部署一个自己的主页，并套用CDN实现加速访问</title>
-    <url>/posts/31bccfd0/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天在 GitHub 无意间发现了 @imsyy 大佬开源的一款 <a href="https://github.com/imsyy/home">个人主页</a> ，整体界面非常好看，适合个人网站引导使用。下面就给大家演示一下怎么优雅地将这款个人主页程序部署到 <code>GitHub</code> 和 <code>vercel</code> 上，并套用 <code>免费CDN</code> 实现加速访问，追求零成本搭建网站。</p>
-<p>演示站：<a href="https://jx-ll.cn">https://jx-ll.cn</a></p>
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li>电脑能正常访问 <a href="https://github.com/">GitHub</a> ，如果不能访问请自行挂梯子或更改本地 hosts</li>
-<li>如果要使用国内 CDN 则需要准备一个已备案域名</li>
-<li>没了</li>
-</ul>
-<h2 id="下载源码"><a href="#下载源码" class="headerlink" title="下载源码"></a>下载源码</h2><p>进入<a href="https://github.com/imsyy/home">项目主页</a>，点击右上角的<code>Code</code>按钮，再点击<code>Download ZIP</code></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142043.png" alt=""></p>
-<p>下载好后将压缩包解压，解压出来的文件夹里面就是该项目的完整源码了</p>
-<h2 id="修改源码"><a href="#修改源码" class="headerlink" title="修改源码"></a>修改源码</h2><p>可以看到，这个项目是一个 HTML 纯静态网页，网页内的大部分内容都可以直接在 <code>index.html</code> 文件里直接修改</p>
-<p>由于引入字体的 cdn 开启了防盗链，所以我们要在 <code>index.html</code> 文件的 <code>24行左右</code> 将 href 修改为作者提供的链接</p>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- HarmonyOS Sans --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 本站 CDN 已开启防盗链，非本站域名不可访问，请更改链接为下方内容，否则自定义字体将失效 --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;https://cdn.imsyy.top/gh/imsyy/file/font/HarmonyOS_Sans/regular.min.css&quot;</span> /&gt;</span></span><br></pre></td></tr></table></figure>
-<p>为了防止cdn失效，你还可以将该css文件下载到本地，将其引入</p>
-<p>其中， <code>old</code> 文件夹是作者之前开发的 <a href="https://github.com/imsyy/Snavigation">Snavigation</a> ，也是一个起始页，有兴趣的可以看看。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142528.png" alt=""></p>
-<h3 id="自定义歌单"><a href="#自定义歌单" class="headerlink" title="自定义歌单"></a>自定义歌单</h3><p>本项目采用了基于 MetingJS 的 Aplayer 音乐播放器，可实现快速自定义歌单<br>默认仅支持 <strong>中国大陆地区</strong>，其他区域请将 <a href="https://cdn.jsdelivr.net/gh/imsyy/file/js/music/music-other.js">以下内容</a> 替换 <code>music.js</code> 以实现音乐播放器的正常使用</p>
-<p>如需自定义歌单，只需将 <code>/js/music.js</code> 文件的 <code>12-14行</code> 修改为你自己的信息即可</p>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> server = <span class="string">&quot;netease&quot;</span>; <span class="comment">//netease: 网易云音乐; tencent: QQ音乐; kugou: 酷狗音乐; xiami: 虾米; kuwo: 酷我</span></span><br><span class="line"><span class="keyword">let</span> type = <span class="string">&quot;playlist&quot;</span>; <span class="comment">//song: 单曲; playlist: 歌单; album: 唱片</span></span><br><span class="line"><span class="keyword">let</span> id = <span class="string">&quot;7452421335&quot;</span>; <span class="comment">//封面 ID / 单曲 ID / 歌单 ID</span></span><br></pre></td></tr></table></figure>
-<p>网易云的歌单 id 一般在网页链接的 <code>?id</code> 后面，其他平台大同小异</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145302.png" alt=""></p>
-<h2 id="部署到-GitHub"><a href="#部署到-GitHub" class="headerlink" title="部署到 GitHub"></a>部署到 GitHub</h2><p>进入到自己的 GitHub 后台，<a href="https://github.com/new">新建一个仓库</a></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Repository name: 仓库名称</span><br><span class="line">Description(可选): 仓库描述介绍,不是必填项</span><br><span class="line">Public, Private : 仓库权限。public 公开共享，private 私有或指定合作者</span><br><span class="line">Initialize this repository with a README: 添加一个README.md</span><br><span class="line">gitignore: 不需要进行版本管理的仓库类型，对应生成文件.gitignore</span><br><span class="line">license: 证书类型，对应生成文件LICENSE</span><br></pre></td></tr></table></figure>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145735.png" alt=""></p>
-<p>创建好仓库后就要将刚刚修改好的源码上传到仓库，有两种方法</p>
-<p>推荐使用 <code>Git Bash</code>，如果没有的话也可以手动上传</p>
-<h3 id="方法一、用-Git-Bash-上传"><a href="#方法一、用-Git-Bash-上传" class="headerlink" title="方法一、用 Git Bash 上传"></a>方法一、用 Git Bash 上传</h3><p>下载并安装好 <a href="https://git-scm.com/download/win">Git Bash</a></p>
-<p>在本地新建个空文件夹，打开文件夹，在空白处单击右键，选择 <code>Git Bash Here</code></p>
-<p>返回刚刚创建好的 GitHub 项目地址，点击右上角的<code>Code</code>按钮，将 git 地址复制下来</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816151255.png" alt=""></p>
-<p>切换到 <code>Git Bash软件</code> ，将项目克隆到本地。命令为：<code>git clone + 刚刚复制的 git 地址</code></p>
-<p>如果弹出需要连接的提示框，点击 <code>Sign in with your browser</code> ，在浏览器中授权即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152056.png" alt=""></p>
-<p>等一会儿后就能看到文件夹里多了一个项目名称的文件夹</p>
-<p>接下来将之前修改好的项目源码复制到这个项目文件夹中</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152440.png" alt=""></p>
-<p>返回到 <code>Git Bash软件</code> ，输入 <code>cd + 文件夹名称</code> ，切换目录</p>
-<p>依次输入以下命令，将整个文件夹上传到 GitHub</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git add .</span><br><span class="line">git commit -m “你的提交信息”</span><br></pre></td></tr></table></figure>
-<p>这时可能会要求你输入以下内容来确认你的身份</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;you@example.com&quot;</span><br><span class="line">git config --global user.name &quot;Your Name&quot;</span><br></pre></td></tr></table></figure>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153212.png" alt=""></p>
-<p>接着再输入<code>git pull</code>，就可以开始上传了</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153129.png" alt=""></p>
-<p>上传结束后，返回到你的项目主页，可以看到文件已成功上传</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154119.png" alt=""></p>
-<p>这时就可以进行访问了，地址是：<a href="https://username.github.io/repositories">https://username.github.io/repositories</a> （username是你的用户名，repositories是你的项目名）</p>
-<p>例如我的就是：<del><a href="https://jonxinxin.github.io/myhome">https://jonxinxin.github.io/myhome</a></del> （已删除）</p>
-<h3 id="方法二、手动上传"><a href="#方法二、手动上传" class="headerlink" title="方法二、手动上传"></a>方法二、手动上传</h3><p>如果电脑没有 <code>Git Bash</code> ，而且不想下载的话，也可以直接手动进行上传</p>
-<p>进入 GitHub 项目主页，点击右上角的 <code>Add file</code> -&gt; <code>Upload files</code> 进入到上传页面</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163342.png" alt=""></p>
-<p>直接将整个项目文件夹拖到上传框内，即可自动上传项目内的文件夹及文件</p>
-<p>如果点击 <code>choose your files</code> 就只能上传单个文件，不方便</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154731.png" alt=""></p>
-<p>全部上传完毕后点击 <code>Commit changes</code> 提交即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155239.png" alt=""></p>
-<h2 id="部署到Vercel"><a href="#部署到Vercel" class="headerlink" title="部署到Vercel"></a>部署到Vercel</h2><p>进入 Vercel 的 <a href="https://vercel.com/dashboard">控制台</a> ，点击右上角的 <code>New Project</code> 来新建一个项目</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155642.png" alt=""></p>
-<p>这里我已经将 Vercel 与 Github 绑定了，如果没有绑定的可按照说明绑定</p>
-<p>绑定好后这里会出现绑定的 GitHub 下的所有项目，点击 <code>Import</code> 可以直接导入到 Vercel</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155814.png" alt=""></p>
-<p>这里直接点击 <code>Deploy</code> 部署即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160127.png" alt=""></p>
-<p>过一会儿就会出现满屏的彩带，部署成功</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160308.png" alt=""></p>
-<p>点击 <code>Go to Dashboard</code> 进入控制台，可以看到 Vercel 默认给我们分配了一个域名</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160353.png" alt=""></p>
-<p>访问该域名就能看到我们部署好的项目</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160556.png" alt=""></p>
-<p>但是这段时间 Vercel 在国内的访问速度非常拉跨，如果不套用 cdn 的话往往需要加载很久</p>
-<h2 id="使用DogeCloud免费加速网站"><a href="#使用DogeCloud免费加速网站" class="headerlink" title="使用DogeCloud免费加速网站"></a>使用DogeCloud免费加速网站</h2><p>DogeCloud 为用户免费提供了每月 20GB 的 CDN 流量包，对于普通用户来说，完全足够</p>
-<p>但想使用国内 CDN 有一个缺点就是加速域名必须是已备案的</p>
-<p>如果域名未备案也可套用 cloudflare 的 cdn ，但速度就没那么理想</p>
-<p>首先 <a href="https://console.dogecloud.com/register.html">注册</a> 一个 DogeCloud 账号，并完成实名验证</p>
-<p>然后在 <a href="https://console.dogecloud.com/cdn/list">域名管理</a> 中添加一个已备案的域名</p>
-<p>其中， <code>源站域名</code> 为刚刚 Vercel 分配的域名，回源 HOST 可以不填</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816161610.png" alt=""></p>
-<p>添加好域名后到将域名解析到 DogeCloud ，记录值为 DogeCloud 提供的 CNAME 域名</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163716.png" alt=""></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162034.png" alt=""></p>
-<p>接着到 Vercel ，点击 <code>View Domains</code> 绑定刚刚添加的加速域名，等待生效即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162334.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>GitHub</tag>
-        <tag>CDN</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>学会使用油猴脚本，让你的浏览器秒变效率神器！</title>
     <url>/posts/f247ac05/</url>
     <content><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>说不知道你有没有听说过Tampermonkey，这是一款浏览器扩展插件，大家都喜欢把它叫做「油猴脚本」。</p>
@@ -1402,6 +1307,20 @@
       <tags>
         <tag>实用软件</tag>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>周杰伦新专辑《最伟大的作品》先行曲MV上线</title>
+    <url>/posts/edc08b46/</url>
+    <content><![CDATA[<div class="note green icon-padding simple"><i class="note-icon fas fa-fan"></i><p>视频来源于好看视频<a href="https://haokan.baidu.com/v?pd=wisenatural&amp;vid=9389182598621522419">@吃瓜少年刘小兔</a>，如有侵权请联系博主删除！</p>
+</div>
+<video playsinline="" controls="" preload="metadata" src="https://pan.jx-ll.cn/d/123%E4%BA%91%E7%9B%98/%E7%94%B5%E5%BD%B1%E5%89%A7%E9%9B%86/%E5%91%A8%E6%9D%B0%E5%80%AB%20Jay%20Chou%E3%80%90%E6%9C%80%E5%81%89%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81%20Greatest%20Works%20of%20Art%E3%80%91Official%20MV/%E5%91%A8%E6%9D%B0%E5%80%AB%20Jay%20Chou%E3%80%90%E6%9C%80%E5%81%89%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81%20Greatest%20Works%20of%20Art%E3%80%91Official%20MV.mp4" style="display: block; width: 100%;"></video>
+]]></content>
+      <categories>
+        <category>音乐推荐</category>
+      </categories>
+      <tags>
+        <tag>音乐推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -3549,17 +3468,98 @@
       </tags>
   </entry>
   <entry>
-    <title>周杰伦新专辑《最伟大的作品》先行曲MV上线</title>
-    <url>/posts/edc08b46/</url>
-    <content><![CDATA[<div class="note green icon-padding simple"><i class="note-icon fas fa-fan"></i><p>视频来源于好看视频<a href="https://haokan.baidu.com/v?pd=wisenatural&amp;vid=9389182598621522419">@吃瓜少年刘小兔</a>，如有侵权请联系博主删除！</p>
-</div>
-<video playsinline="" controls="" preload="metadata" src="https://pan.jx-ll.cn/d/123%E4%BA%91%E7%9B%98/%E7%94%B5%E5%BD%B1%E5%89%A7%E9%9B%86/%E5%91%A8%E6%9D%B0%E5%80%AB%20Jay%20Chou%E3%80%90%E6%9C%80%E5%81%89%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81%20Greatest%20Works%20of%20Art%E3%80%91Official%20MV/%E5%91%A8%E6%9D%B0%E5%80%AB%20Jay%20Chou%E3%80%90%E6%9C%80%E5%81%89%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81%20Greatest%20Works%20of%20Art%E3%80%91Official%20MV.mp4" style="display: block; width: 100%;"></video>
+    <title>无需服务器免费部署一个自己的主页，并套用CDN实现加速访问</title>
+    <url>/posts/31bccfd0/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天在 GitHub 无意间发现了 @imsyy 大佬开源的一款 <a href="https://github.com/imsyy/home">个人主页</a> ，整体界面非常好看，适合个人网站引导使用。下面就给大家演示一下怎么优雅地将这款个人主页程序部署到 <code>GitHub</code> 和 <code>vercel</code> 上，并套用 <code>免费CDN</code> 实现加速访问，追求零成本搭建网站。</p>
+<p>演示站：<a href="https://jx-ll.cn">https://jx-ll.cn</a></p>
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li>电脑能正常访问 <a href="https://github.com/">GitHub</a> ，如果不能访问请自行挂梯子或更改本地 hosts</li>
+<li>如果要使用国内 CDN 则需要准备一个已备案域名</li>
+<li>没了</li>
+</ul>
+<h2 id="下载源码"><a href="#下载源码" class="headerlink" title="下载源码"></a>下载源码</h2><p>进入<a href="https://github.com/imsyy/home">项目主页</a>，点击右上角的<code>Code</code>按钮，再点击<code>Download ZIP</code></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142043.png" alt=""></p>
+<p>下载好后将压缩包解压，解压出来的文件夹里面就是该项目的完整源码了</p>
+<h2 id="修改源码"><a href="#修改源码" class="headerlink" title="修改源码"></a>修改源码</h2><p>可以看到，这个项目是一个 HTML 纯静态网页，网页内的大部分内容都可以直接在 <code>index.html</code> 文件里直接修改</p>
+<p>由于引入字体的 cdn 开启了防盗链，所以我们要在 <code>index.html</code> 文件的 <code>24行左右</code> 将 href 修改为作者提供的链接</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- HarmonyOS Sans --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 本站 CDN 已开启防盗链，非本站域名不可访问，请更改链接为下方内容，否则自定义字体将失效 --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;https://cdn.imsyy.top/gh/imsyy/file/font/HarmonyOS_Sans/regular.min.css&quot;</span> /&gt;</span></span><br></pre></td></tr></table></figure>
+<p>为了防止cdn失效，你还可以将该css文件下载到本地，将其引入</p>
+<p>其中， <code>old</code> 文件夹是作者之前开发的 <a href="https://github.com/imsyy/Snavigation">Snavigation</a> ，也是一个起始页，有兴趣的可以看看。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142528.png" alt=""></p>
+<h3 id="自定义歌单"><a href="#自定义歌单" class="headerlink" title="自定义歌单"></a>自定义歌单</h3><p>本项目采用了基于 MetingJS 的 Aplayer 音乐播放器，可实现快速自定义歌单<br>默认仅支持 <strong>中国大陆地区</strong>，其他区域请将 <a href="https://cdn.jsdelivr.net/gh/imsyy/file/js/music/music-other.js">以下内容</a> 替换 <code>music.js</code> 以实现音乐播放器的正常使用</p>
+<p>如需自定义歌单，只需将 <code>/js/music.js</code> 文件的 <code>12-14行</code> 修改为你自己的信息即可</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> server = <span class="string">&quot;netease&quot;</span>; <span class="comment">//netease: 网易云音乐; tencent: QQ音乐; kugou: 酷狗音乐; xiami: 虾米; kuwo: 酷我</span></span><br><span class="line"><span class="keyword">let</span> type = <span class="string">&quot;playlist&quot;</span>; <span class="comment">//song: 单曲; playlist: 歌单; album: 唱片</span></span><br><span class="line"><span class="keyword">let</span> id = <span class="string">&quot;7452421335&quot;</span>; <span class="comment">//封面 ID / 单曲 ID / 歌单 ID</span></span><br></pre></td></tr></table></figure>
+<p>网易云的歌单 id 一般在网页链接的 <code>?id</code> 后面，其他平台大同小异</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145302.png" alt=""></p>
+<h2 id="部署到-GitHub"><a href="#部署到-GitHub" class="headerlink" title="部署到 GitHub"></a>部署到 GitHub</h2><p>进入到自己的 GitHub 后台，<a href="https://github.com/new">新建一个仓库</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Repository name: 仓库名称</span><br><span class="line">Description(可选): 仓库描述介绍,不是必填项</span><br><span class="line">Public, Private : 仓库权限。public 公开共享，private 私有或指定合作者</span><br><span class="line">Initialize this repository with a README: 添加一个README.md</span><br><span class="line">gitignore: 不需要进行版本管理的仓库类型，对应生成文件.gitignore</span><br><span class="line">license: 证书类型，对应生成文件LICENSE</span><br></pre></td></tr></table></figure>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145735.png" alt=""></p>
+<p>创建好仓库后就要将刚刚修改好的源码上传到仓库，有两种方法</p>
+<p>推荐使用 <code>Git Bash</code>，如果没有的话也可以手动上传</p>
+<h3 id="方法一、用-Git-Bash-上传"><a href="#方法一、用-Git-Bash-上传" class="headerlink" title="方法一、用 Git Bash 上传"></a>方法一、用 Git Bash 上传</h3><p>下载并安装好 <a href="https://git-scm.com/download/win">Git Bash</a></p>
+<p>在本地新建个空文件夹，打开文件夹，在空白处单击右键，选择 <code>Git Bash Here</code></p>
+<p>返回刚刚创建好的 GitHub 项目地址，点击右上角的<code>Code</code>按钮，将 git 地址复制下来</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816151255.png" alt=""></p>
+<p>切换到 <code>Git Bash软件</code> ，将项目克隆到本地。命令为：<code>git clone + 刚刚复制的 git 地址</code></p>
+<p>如果弹出需要连接的提示框，点击 <code>Sign in with your browser</code> ，在浏览器中授权即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152056.png" alt=""></p>
+<p>等一会儿后就能看到文件夹里多了一个项目名称的文件夹</p>
+<p>接下来将之前修改好的项目源码复制到这个项目文件夹中</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152440.png" alt=""></p>
+<p>返回到 <code>Git Bash软件</code> ，输入 <code>cd + 文件夹名称</code> ，切换目录</p>
+<p>依次输入以下命令，将整个文件夹上传到 GitHub</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git add .</span><br><span class="line">git commit -m “你的提交信息”</span><br></pre></td></tr></table></figure>
+<p>这时可能会要求你输入以下内容来确认你的身份</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;you@example.com&quot;</span><br><span class="line">git config --global user.name &quot;Your Name&quot;</span><br></pre></td></tr></table></figure>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153212.png" alt=""></p>
+<p>接着再输入<code>git pull</code>，就可以开始上传了</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153129.png" alt=""></p>
+<p>上传结束后，返回到你的项目主页，可以看到文件已成功上传</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154119.png" alt=""></p>
+<p>这时就可以进行访问了，地址是：<a href="https://username.github.io/repositories">https://username.github.io/repositories</a> （username是你的用户名，repositories是你的项目名）</p>
+<p>例如我的就是：<del><a href="https://jonxinxin.github.io/myhome">https://jonxinxin.github.io/myhome</a></del> （已删除）</p>
+<h3 id="方法二、手动上传"><a href="#方法二、手动上传" class="headerlink" title="方法二、手动上传"></a>方法二、手动上传</h3><p>如果电脑没有 <code>Git Bash</code> ，而且不想下载的话，也可以直接手动进行上传</p>
+<p>进入 GitHub 项目主页，点击右上角的 <code>Add file</code> -&gt; <code>Upload files</code> 进入到上传页面</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163342.png" alt=""></p>
+<p>直接将整个项目文件夹拖到上传框内，即可自动上传项目内的文件夹及文件</p>
+<p>如果点击 <code>choose your files</code> 就只能上传单个文件，不方便</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154731.png" alt=""></p>
+<p>全部上传完毕后点击 <code>Commit changes</code> 提交即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155239.png" alt=""></p>
+<h2 id="部署到Vercel"><a href="#部署到Vercel" class="headerlink" title="部署到Vercel"></a>部署到Vercel</h2><p>进入 Vercel 的 <a href="https://vercel.com/dashboard">控制台</a> ，点击右上角的 <code>New Project</code> 来新建一个项目</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155642.png" alt=""></p>
+<p>这里我已经将 Vercel 与 Github 绑定了，如果没有绑定的可按照说明绑定</p>
+<p>绑定好后这里会出现绑定的 GitHub 下的所有项目，点击 <code>Import</code> 可以直接导入到 Vercel</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155814.png" alt=""></p>
+<p>这里直接点击 <code>Deploy</code> 部署即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160127.png" alt=""></p>
+<p>过一会儿就会出现满屏的彩带，部署成功</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160308.png" alt=""></p>
+<p>点击 <code>Go to Dashboard</code> 进入控制台，可以看到 Vercel 默认给我们分配了一个域名</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160353.png" alt=""></p>
+<p>访问该域名就能看到我们部署好的项目</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160556.png" alt=""></p>
+<p>但是这段时间 Vercel 在国内的访问速度非常拉跨，如果不套用 cdn 的话往往需要加载很久</p>
+<h2 id="使用DogeCloud免费加速网站"><a href="#使用DogeCloud免费加速网站" class="headerlink" title="使用DogeCloud免费加速网站"></a>使用DogeCloud免费加速网站</h2><p>DogeCloud 为用户免费提供了每月 20GB 的 CDN 流量包，对于普通用户来说，完全足够</p>
+<p>但想使用国内 CDN 有一个缺点就是加速域名必须是已备案的</p>
+<p>如果域名未备案也可套用 cloudflare 的 cdn ，但速度就没那么理想</p>
+<p>首先 <a href="https://console.dogecloud.com/register.html">注册</a> 一个 DogeCloud 账号，并完成实名验证</p>
+<p>然后在 <a href="https://console.dogecloud.com/cdn/list">域名管理</a> 中添加一个已备案的域名</p>
+<p>其中， <code>源站域名</code> 为刚刚 Vercel 分配的域名，回源 HOST 可以不填</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816161610.png" alt=""></p>
+<p>添加好域名后到将域名解析到 DogeCloud ，记录值为 DogeCloud 提供的 CNAME 域名</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163716.png" alt=""></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162034.png" alt=""></p>
+<p>接着到 Vercel ，点击 <code>View Domains</code> 绑定刚刚添加的加速域名，等待生效即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162334.png" alt=""></p>
 ]]></content>
       <categories>
-        <category>音乐推荐</category>
+        <category>经验分享</category>
       </categories>
       <tags>
-        <tag>音乐推荐</tag>
+        <tag>教程</tag>
+        <tag>GitHub</tag>
+        <tag>CDN</tag>
       </tags>
   </entry>
   <entry>
@@ -3749,6 +3749,101 @@
       </tags>
   </entry>
   <entry>
+    <title>最全2022支付宝集五福攻略</title>
+    <url>/posts/a3db79a2/</url>
+    <content><![CDATA[<div class="tip "><p>五福来啦，五福来啦。支付宝的集五福活动，已经成了不少人过年必玩的游戏，尽管每年瓜分的奖励越来越少，但支付宝的集五福活动好像已经成为了很多人的一种「习惯」。</p>
+<p>2022年支付宝集五福活动今日正式开启。此次集五福活动时间1月19日到1月31日，瓜分红包时间1月31日晚上22:18。</p>
+</div>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201191.webp" alt=""></p>
+<p>数据显示，过去六年累计参与支付宝集五福的人数已经超过了7亿，每2个中国人里就有1个曾扫福、集福、送福。</p>
+<p>这不，活动才刚开始第一天，就有已经有二十多万人集齐了五福。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201192.webp" alt=""></p>
+<p>江小鑫作为一个集五福活动的忠实爱好者，今天就和大家一起盘点一下，怎样才能更快集齐五福。</p>
+<h3 id="直接领取随机福卡"><a href="#直接领取随机福卡" class="headerlink" title="直接领取随机福卡"></a>直接领取随机福卡</h3><details class="toggle" style="border: 1px solid bg"><summary class="toggle-button" style="background-color: bg;color: color">点我展开链接</summary><div class="toggle-content"><p><img src="https://cdn.jx-ll.cn/post_img/2022011901.jpg" alt=""></p>
+<p>每天最多领15个！领取后去支付宝卡包里使用兑换！<br>部分提示人气太旺就明天领，验证码频繁就晚点再去领！<br><a href="https://tb3.cn/AAMiHt">https://tb3.cn/AAMiHt</a><br><a href="https://tb3.cn/Ade6AT">https://tb3.cn/Ade6AT</a><br><a href="https://tb3.cn/AccWiM">https://tb3.cn/AccWiM</a><br><a href="https://tb3.cn/ACRASx">https://tb3.cn/ACRASx</a><br><a href="https://tb3.cn/AKjv4Q">https://tb3.cn/AKjv4Q</a><br><a href="https://tb3.cn/AEctS0">https://tb3.cn/AEctS0</a><br><a href="https://tb3.cn/AfUW1A">https://tb3.cn/AfUW1A</a><br><a href="https://tb3.cn/AxSoLr">https://tb3.cn/AxSoLr</a><br><a href="https://tb3.cn/AGmYIu">https://tb3.cn/AGmYIu</a><br><a href="https://tb3.cn/AM4ze2">https://tb3.cn/AM4ze2</a><br><a href="https://tb3.cn/AtYJUF">https://tb3.cn/AtYJUF</a><br><a href="https://tb3.cn/AvQPKu">https://tb3.cn/AvQPKu</a><br><a href="https://tb3.cn/AmoNZJ">https://tb3.cn/AmoNZJ</a><br><a href="https://tb3.cn/ApHf5I">https://tb3.cn/ApHf5I</a><br><a href="https://tb3.cn/AYpHuJ">https://tb3.cn/AYpHuJ</a><br><a href="https://tb3.cn/A4zToA">https://tb3.cn/A4zToA</a><br><a href="https://tb3.cn/AQOuUw">https://tb3.cn/AQOuUw</a><br><a href="https://tb3.cn/Afwwoz">https://tb3.cn/Afwwoz</a><br><a href="https://tb3.cn/Ajf17n">https://tb3.cn/Ajf17n</a><br><a href="https://tb3.cn/Aj1JX5">https://tb3.cn/Aj1JX5</a><br><a href="https://tb3.cn/AvGeJT">https://tb3.cn/AvGeJT</a><br><a href="https://tb3.cn/AHYuTE">https://tb3.cn/AHYuTE</a><br><a href="https://tb3.cn/AEwX1C">https://tb3.cn/AEwX1C</a><br><a href="https://tb3.cn/AwYqxb">https://tb3.cn/AwYqxb</a><br><a href="https://tb3.cn/AF40tH">https://tb3.cn/AF40tH</a><br><a href="https://tb3.cn/APiNWj">https://tb3.cn/APiNWj</a><br><a href="https://tb3.cn/AGWjlZ">https://tb3.cn/AGWjlZ</a><br><a href="https://tb3.cn/AlipSJ">https://tb3.cn/AlipSJ</a><br><a href="https://tb3.cn/AujEfq">https://tb3.cn/AujEfq</a><br><a href="https://tb3.cn/ALyr88">https://tb3.cn/ALyr88</a><br><a href="https://tb3.cn/AC0erE">https://tb3.cn/AC0erE</a><br><a href="https://tb3.cn/AOhMOe">https://tb3.cn/AOhMOe</a><br><a href="https://tb3.cn/AT62vC">https://tb3.cn/AT62vC</a><br><a href="https://tb3.cn/ALwhP6">https://tb3.cn/ALwhP6</a><br><a href="https://tb3.cn/AUJ9sB">https://tb3.cn/AUJ9sB</a><br><a href="https://tb3.cn/A8kxhI">https://tb3.cn/A8kxhI</a><br><a href="https://tb3.cn/AoT80q">https://tb3.cn/AoT80q</a><br><a href="https://tb3.cn/APqNhY">https://tb3.cn/APqNhY</a><br><a href="https://tb3.cn/AzIr11">https://tb3.cn/AzIr11</a><br><a href="https://tb3.cn/Aj6WUG">https://tb3.cn/Aj6WUG</a><br><a href="https://tb3.cn/AdBizf">https://tb3.cn/AdBizf</a><br><a href="https://tb3.cn/AlE9Na">https://tb3.cn/AlE9Na</a></p>
+</div></details>
+<h3 id="钻石会员直接得"><a href="#钻石会员直接得" class="headerlink" title="钻石会员直接得"></a>钻石会员直接得</h3><p>如果你是支付宝的钻石会员，那么恭喜你，你可以在几分钟内就集齐一套五福。</p>
+<p>支付宝会直接对钻石会员赠送一套「钻石会员专属套卡」，其中包含了「一张敬业福、一张沾福气卡、一张全家福」。</p>
+<p>这几张最关键的福卡直接送给你，剩下的那几张，随便扫几张福字就能得到。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201193.webp" alt=""></p>
+<p>可能也正是因为这样，才导致活动刚上线第一天，就已经有二十多万人集齐了。</p>
+<p>不够，毕竟钻石会员是少部分用户。但对于绝大多数普通用户来说，要怎样才能更快集齐五福呢？别急，攻略这就给你送上。</p>
+<h3 id="AR扫码"><a href="#AR扫码" class="headerlink" title="AR扫码"></a>AR扫码</h3><p>这是最原始的方法，但也是最有效的方法。不过江小鑫建议大家不要去扫那些普通的福字，一定要扫支付宝官方给出的这些福，得敬业福和万能福的几率更大。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201194.webp" alt=""></p>
+<p>具体操作方法：打开 支付宝-&gt;扫一扫-&gt;选择AR-&gt;扫上图中的任意福字-&gt;立即收下福卡（需要有两台设备才行）。</p>
+<h3 id="赠送福卡"><a href="#赠送福卡" class="headerlink" title="赠送福卡"></a>赠送福卡</h3><p>扫码次数用完了，多余的福该怎么办呢？千万别觉得没用了，你可以把福卡赠送给身边还没有扫过福的朋友，你也有机会可以得到沾福气卡或万能福。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201195.webp" alt=""></p>
+<p>操作方法：进入 集五福活动-&gt;我的福卡-&gt;选择任意一张福卡-&gt;送给亲友-&gt;送Ta（记得送给还没有集福的亲友哦）。</p>
+<h3 id="写福字得福卡"><a href="#写福字得福卡" class="headerlink" title="写福字得福卡"></a>写福字得福卡</h3><p>打开集五福活动的写福字界面，可以临摹它给出的样式，写一个福字出来，完成后就能获得一张福卡。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201196.webp" alt=""></p>
+<p>此外，每日的0点和12点，你还可以到「福气店」里免费打印福字，支付宝官方会免费将你写的福字打印出来并送到你家（每日限量）。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201197.webp" alt=""></p>
+<h3 id="搜索品牌关键字"><a href="#搜索品牌关键字" class="headerlink" title="搜索品牌关键字"></a>搜索品牌关键字</h3><p>今年最大的不同是五福全面向商家开放，1000 多个商家将成为主角，通过自己的支付宝小程序、生活号、App 等多个私域阵地为全国用户发福卡。</p>
+<p>用户可以在支付宝首页顶部搜索品牌方的关键字，就能看见抽福卡的入口。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201198.webp" alt=""></p>
+<p>部分品牌方关键字：肯德基，麦当劳，加油浙江，T3出行，携程，屈臣氏，蜜雪冰城，一点万象，爱租机，爱琴海，顺丰，万达广场，大润发，元气森林，一点万象，威马汽车，良品铺子，益禾堂，联合利华，名创优品，伊利，步步高。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201199.webp" alt=""></p>
+<p>此外，登录国家电网、中国移动、B站、网易云音乐等 40 多个 App，也有机会得到由他们发的福卡。</p>
+<h3 id="到店付款"><a href="#到店付款" class="headerlink" title="到店付款"></a>到店付款</h3><p>1月19日到1月31日，用户可以每天到店支付一笔（不限金额），有机会获得沾福气卡。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011910.webp" alt=""></p>
+<h3 id="12306领福卡"><a href="#12306领福卡" class="headerlink" title="12306领福卡"></a>12306领福卡</h3><p>打开支付宝扫描下方二维码，就能领取一张随机福卡。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011911.webp" alt=""></p>
+<h3 id="中国移动领福卡"><a href="#中国移动领福卡" class="headerlink" title="中国移动领福卡"></a>中国移动领福卡</h3><p>打开用浏览器或中国移动APP打开链接：🔗 <a href="https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。">https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。</a></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011912.webp" alt=""></p>
+<p>其实咱们要的并不是这几块钱，而是其中的乐趣，其中的荣誉感，其中氛围感，就像小时候吃方便集卡一样，只不过集卡的那群孩子长大了罢了，变的是时代，不变的是这一代人的内心，也许真的是五福到了，年就到了，也该“到家”团圆了。</p>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>雷电模拟器9(v9.0.26.0) 去广告纯净版</title>
+    <url>/posts/6f687f2f/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>雷电模拟器9是基于<code>Android 9</code>内核开发的全新版本模拟器，将32位和64位元框架合并，有着比以往更快的启动速度，更低的电脑资源占用。具备强大的游戏兼容性和系统兼容性，能够稳定运行市面上万款热门手游，带你感受更快的速度、更完美的操控体验！</p>
+<p>最新版雷电模拟器支持OpenGL3.1模式3D渲染，游戏稳定多开无压力，提供谷歌安装器，一键宏按键，脚本录制，多开分屏同步器等功能。除此之外软件还内置了强大的无界趣连，能够打破空间的限制，远程操作电脑进行体验。</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220725133125.jpg" alt=""><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220725133034.png" alt=""></p>
+<h2 id="新版变化"><a href="#新版变化" class="headerlink" title="新版变化"></a>新版变化</h2><p>更新日志：<a href="https://www.ldmnq.com/ld_update_log.html">https://www.ldmnq.com/ld_update_log.html</a></p>
+<p><strong>2022.09.17 v9.0.26.0 正式版</strong></p>
+<ol>
+<li>修复《极无双》《风色幻想》等显示黑屏</li>
+</ol>
+<h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ol>
+<li>去启动界面广告、去任务栏右下角通知区域游戏弹窗</li>
+<li>去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）</li>
+<li>去桌面底部广告（桌面主屏幕内下方5个内置游戏推广应用）</li>
+<li>拒绝后台广告数据下载请求 <code>%AppData%\Leidian9\Cache</code></li>
+<li>拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为</li>
+<li>免安装净化处理，删除资讯广告程序、上传组件、错误报告文件</li>
+</ol>
+<h2 id="其他问题"><a href="#其他问题" class="headerlink" title="其他问题"></a>其他问题</h2><ul>
+<li><p>如何启用ROOT权限？<br>界面 -&gt; 设置 -&gt; 其它 -&gt; root权限 -&gt; 启用即可</p>
+</li>
+<li><p>如何只更新去广告后的系统镜像呢？<br>只需下载去广告版提取镜像文件替换到以下位置<br> <code>LDPlayer9\system.vmdk</code> , <code>vms\system.vmdk</code></p>
+</li>
+<li><p>雷电模拟器9.0、雷电模拟器4.0 和 3.x 有什么区别？</p>
+<ul>
+<li>主要指的安卓系统镜像Android版本不同(system.vmdk)：<br> 9.0：Android 9-x86_64 (64位版，64位指的安卓系统版本)<br> 4.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64位版)<br> 3.x：Android 5.1.2-x86</li>
+<li>所有版本都兼容ARM库，可共存使用支持各版无限多开运行</li>
+</ul>
+</li>
+</ul>
+<h2 id="运行要求"><a href="#运行要求" class="headerlink" title="运行要求"></a>运行要求</h2><ol>
+<li><del>PC机系统需要 <code>Windows10 x64位</code> 或更高版本系统，该模拟器暂不兼容Windows7及以下版本系统</del>（最新版本已支持Win7）</li>
+<li>使用模拟器需要在BIOS里开启虚拟化技术（VT）<br><strong>如何开启VT？</strong>：<a href="https://www.ldmnq.com/support/VTjiao/290.html">https://www.ldmnq.com/support/VTjiao/290.html</a><br><strong>更多帮助</strong>：<a href="https://www.ldmnq.com/forum/86495.html">https://www.ldmnq.com/forum/86495.html</a></li>
+</ol>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
+            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123云盘/资源杂侩/软件/雷电模拟器9' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
+<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-MELw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
+          </div>]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
+        <tag>模拟器</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>超级详细的系统安装教程</title>
     <url>/posts/970eea45/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>如果有一天，由于不小心下载到了病毒文件，或者是系统垃圾太多，导致电脑卡顿。这时最好的方法就是重装系统，将电脑还原到最初。</p>
@@ -3846,101 +3941,6 @@
       <tags>
         <tag>教程</tag>
         <tag>电脑系统</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>最全2022支付宝集五福攻略</title>
-    <url>/posts/a3db79a2/</url>
-    <content><![CDATA[<div class="tip "><p>五福来啦，五福来啦。支付宝的集五福活动，已经成了不少人过年必玩的游戏，尽管每年瓜分的奖励越来越少，但支付宝的集五福活动好像已经成为了很多人的一种「习惯」。</p>
-<p>2022年支付宝集五福活动今日正式开启。此次集五福活动时间1月19日到1月31日，瓜分红包时间1月31日晚上22:18。</p>
-</div>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201191.webp" alt=""></p>
-<p>数据显示，过去六年累计参与支付宝集五福的人数已经超过了7亿，每2个中国人里就有1个曾扫福、集福、送福。</p>
-<p>这不，活动才刚开始第一天，就有已经有二十多万人集齐了五福。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201192.webp" alt=""></p>
-<p>江小鑫作为一个集五福活动的忠实爱好者，今天就和大家一起盘点一下，怎样才能更快集齐五福。</p>
-<h3 id="直接领取随机福卡"><a href="#直接领取随机福卡" class="headerlink" title="直接领取随机福卡"></a>直接领取随机福卡</h3><details class="toggle" style="border: 1px solid bg"><summary class="toggle-button" style="background-color: bg;color: color">点我展开链接</summary><div class="toggle-content"><p><img src="https://cdn.jx-ll.cn/post_img/2022011901.jpg" alt=""></p>
-<p>每天最多领15个！领取后去支付宝卡包里使用兑换！<br>部分提示人气太旺就明天领，验证码频繁就晚点再去领！<br><a href="https://tb3.cn/AAMiHt">https://tb3.cn/AAMiHt</a><br><a href="https://tb3.cn/Ade6AT">https://tb3.cn/Ade6AT</a><br><a href="https://tb3.cn/AccWiM">https://tb3.cn/AccWiM</a><br><a href="https://tb3.cn/ACRASx">https://tb3.cn/ACRASx</a><br><a href="https://tb3.cn/AKjv4Q">https://tb3.cn/AKjv4Q</a><br><a href="https://tb3.cn/AEctS0">https://tb3.cn/AEctS0</a><br><a href="https://tb3.cn/AfUW1A">https://tb3.cn/AfUW1A</a><br><a href="https://tb3.cn/AxSoLr">https://tb3.cn/AxSoLr</a><br><a href="https://tb3.cn/AGmYIu">https://tb3.cn/AGmYIu</a><br><a href="https://tb3.cn/AM4ze2">https://tb3.cn/AM4ze2</a><br><a href="https://tb3.cn/AtYJUF">https://tb3.cn/AtYJUF</a><br><a href="https://tb3.cn/AvQPKu">https://tb3.cn/AvQPKu</a><br><a href="https://tb3.cn/AmoNZJ">https://tb3.cn/AmoNZJ</a><br><a href="https://tb3.cn/ApHf5I">https://tb3.cn/ApHf5I</a><br><a href="https://tb3.cn/AYpHuJ">https://tb3.cn/AYpHuJ</a><br><a href="https://tb3.cn/A4zToA">https://tb3.cn/A4zToA</a><br><a href="https://tb3.cn/AQOuUw">https://tb3.cn/AQOuUw</a><br><a href="https://tb3.cn/Afwwoz">https://tb3.cn/Afwwoz</a><br><a href="https://tb3.cn/Ajf17n">https://tb3.cn/Ajf17n</a><br><a href="https://tb3.cn/Aj1JX5">https://tb3.cn/Aj1JX5</a><br><a href="https://tb3.cn/AvGeJT">https://tb3.cn/AvGeJT</a><br><a href="https://tb3.cn/AHYuTE">https://tb3.cn/AHYuTE</a><br><a href="https://tb3.cn/AEwX1C">https://tb3.cn/AEwX1C</a><br><a href="https://tb3.cn/AwYqxb">https://tb3.cn/AwYqxb</a><br><a href="https://tb3.cn/AF40tH">https://tb3.cn/AF40tH</a><br><a href="https://tb3.cn/APiNWj">https://tb3.cn/APiNWj</a><br><a href="https://tb3.cn/AGWjlZ">https://tb3.cn/AGWjlZ</a><br><a href="https://tb3.cn/AlipSJ">https://tb3.cn/AlipSJ</a><br><a href="https://tb3.cn/AujEfq">https://tb3.cn/AujEfq</a><br><a href="https://tb3.cn/ALyr88">https://tb3.cn/ALyr88</a><br><a href="https://tb3.cn/AC0erE">https://tb3.cn/AC0erE</a><br><a href="https://tb3.cn/AOhMOe">https://tb3.cn/AOhMOe</a><br><a href="https://tb3.cn/AT62vC">https://tb3.cn/AT62vC</a><br><a href="https://tb3.cn/ALwhP6">https://tb3.cn/ALwhP6</a><br><a href="https://tb3.cn/AUJ9sB">https://tb3.cn/AUJ9sB</a><br><a href="https://tb3.cn/A8kxhI">https://tb3.cn/A8kxhI</a><br><a href="https://tb3.cn/AoT80q">https://tb3.cn/AoT80q</a><br><a href="https://tb3.cn/APqNhY">https://tb3.cn/APqNhY</a><br><a href="https://tb3.cn/AzIr11">https://tb3.cn/AzIr11</a><br><a href="https://tb3.cn/Aj6WUG">https://tb3.cn/Aj6WUG</a><br><a href="https://tb3.cn/AdBizf">https://tb3.cn/AdBizf</a><br><a href="https://tb3.cn/AlE9Na">https://tb3.cn/AlE9Na</a></p>
-</div></details>
-<h3 id="钻石会员直接得"><a href="#钻石会员直接得" class="headerlink" title="钻石会员直接得"></a>钻石会员直接得</h3><p>如果你是支付宝的钻石会员，那么恭喜你，你可以在几分钟内就集齐一套五福。</p>
-<p>支付宝会直接对钻石会员赠送一套「钻石会员专属套卡」，其中包含了「一张敬业福、一张沾福气卡、一张全家福」。</p>
-<p>这几张最关键的福卡直接送给你，剩下的那几张，随便扫几张福字就能得到。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201193.webp" alt=""></p>
-<p>可能也正是因为这样，才导致活动刚上线第一天，就已经有二十多万人集齐了。</p>
-<p>不够，毕竟钻石会员是少部分用户。但对于绝大多数普通用户来说，要怎样才能更快集齐五福呢？别急，攻略这就给你送上。</p>
-<h3 id="AR扫码"><a href="#AR扫码" class="headerlink" title="AR扫码"></a>AR扫码</h3><p>这是最原始的方法，但也是最有效的方法。不过江小鑫建议大家不要去扫那些普通的福字，一定要扫支付宝官方给出的这些福，得敬业福和万能福的几率更大。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201194.webp" alt=""></p>
-<p>具体操作方法：打开 支付宝-&gt;扫一扫-&gt;选择AR-&gt;扫上图中的任意福字-&gt;立即收下福卡（需要有两台设备才行）。</p>
-<h3 id="赠送福卡"><a href="#赠送福卡" class="headerlink" title="赠送福卡"></a>赠送福卡</h3><p>扫码次数用完了，多余的福该怎么办呢？千万别觉得没用了，你可以把福卡赠送给身边还没有扫过福的朋友，你也有机会可以得到沾福气卡或万能福。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201195.webp" alt=""></p>
-<p>操作方法：进入 集五福活动-&gt;我的福卡-&gt;选择任意一张福卡-&gt;送给亲友-&gt;送Ta（记得送给还没有集福的亲友哦）。</p>
-<h3 id="写福字得福卡"><a href="#写福字得福卡" class="headerlink" title="写福字得福卡"></a>写福字得福卡</h3><p>打开集五福活动的写福字界面，可以临摹它给出的样式，写一个福字出来，完成后就能获得一张福卡。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201196.webp" alt=""></p>
-<p>此外，每日的0点和12点，你还可以到「福气店」里免费打印福字，支付宝官方会免费将你写的福字打印出来并送到你家（每日限量）。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201197.webp" alt=""></p>
-<h3 id="搜索品牌关键字"><a href="#搜索品牌关键字" class="headerlink" title="搜索品牌关键字"></a>搜索品牌关键字</h3><p>今年最大的不同是五福全面向商家开放，1000 多个商家将成为主角，通过自己的支付宝小程序、生活号、App 等多个私域阵地为全国用户发福卡。</p>
-<p>用户可以在支付宝首页顶部搜索品牌方的关键字，就能看见抽福卡的入口。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201198.webp" alt=""></p>
-<p>部分品牌方关键字：肯德基，麦当劳，加油浙江，T3出行，携程，屈臣氏，蜜雪冰城，一点万象，爱租机，爱琴海，顺丰，万达广场，大润发，元气森林，一点万象，威马汽车，良品铺子，益禾堂，联合利华，名创优品，伊利，步步高。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201199.webp" alt=""></p>
-<p>此外，登录国家电网、中国移动、B站、网易云音乐等 40 多个 App，也有机会得到由他们发的福卡。</p>
-<h3 id="到店付款"><a href="#到店付款" class="headerlink" title="到店付款"></a>到店付款</h3><p>1月19日到1月31日，用户可以每天到店支付一笔（不限金额），有机会获得沾福气卡。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011910.webp" alt=""></p>
-<h3 id="12306领福卡"><a href="#12306领福卡" class="headerlink" title="12306领福卡"></a>12306领福卡</h3><p>打开支付宝扫描下方二维码，就能领取一张随机福卡。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011911.webp" alt=""></p>
-<h3 id="中国移动领福卡"><a href="#中国移动领福卡" class="headerlink" title="中国移动领福卡"></a>中国移动领福卡</h3><p>打开用浏览器或中国移动APP打开链接：🔗 <a href="https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。">https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。</a></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011912.webp" alt=""></p>
-<p>其实咱们要的并不是这几块钱，而是其中的乐趣，其中的荣誉感，其中氛围感，就像小时候吃方便集卡一样，只不过集卡的那群孩子长大了罢了，变的是时代，不变的是这一代人的内心，也许真的是五福到了，年就到了，也该“到家”团圆了。</p>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>雷电模拟器9(v9.0.26.0) 去广告纯净版</title>
-    <url>/posts/6f687f2f/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>雷电模拟器9是基于<code>Android 9</code>内核开发的全新版本模拟器，将32位和64位元框架合并，有着比以往更快的启动速度，更低的电脑资源占用。具备强大的游戏兼容性和系统兼容性，能够稳定运行市面上万款热门手游，带你感受更快的速度、更完美的操控体验！</p>
-<p>最新版雷电模拟器支持OpenGL3.1模式3D渲染，游戏稳定多开无压力，提供谷歌安装器，一键宏按键，脚本录制，多开分屏同步器等功能。除此之外软件还内置了强大的无界趣连，能够打破空间的限制，远程操作电脑进行体验。</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220725133125.jpg" alt=""><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220725133034.png" alt=""></p>
-<h2 id="新版变化"><a href="#新版变化" class="headerlink" title="新版变化"></a>新版变化</h2><p>更新日志：<a href="https://www.ldmnq.com/ld_update_log.html">https://www.ldmnq.com/ld_update_log.html</a></p>
-<p><strong>2022.09.17 v9.0.26.0 正式版</strong></p>
-<ol>
-<li>修复《极无双》《风色幻想》等显示黑屏</li>
-</ol>
-<h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ol>
-<li>去启动界面广告、去任务栏右下角通知区域游戏弹窗</li>
-<li>去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）</li>
-<li>去桌面底部广告（桌面主屏幕内下方5个内置游戏推广应用）</li>
-<li>拒绝后台广告数据下载请求 <code>%AppData%\Leidian9\Cache</code></li>
-<li>拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为</li>
-<li>免安装净化处理，删除资讯广告程序、上传组件、错误报告文件</li>
-</ol>
-<h2 id="其他问题"><a href="#其他问题" class="headerlink" title="其他问题"></a>其他问题</h2><ul>
-<li><p>如何启用ROOT权限？<br>界面 -&gt; 设置 -&gt; 其它 -&gt; root权限 -&gt; 启用即可</p>
-</li>
-<li><p>如何只更新去广告后的系统镜像呢？<br>只需下载去广告版提取镜像文件替换到以下位置<br> <code>LDPlayer9\system.vmdk</code> , <code>vms\system.vmdk</code></p>
-</li>
-<li><p>雷电模拟器9.0、雷电模拟器4.0 和 3.x 有什么区别？</p>
-<ul>
-<li>主要指的安卓系统镜像Android版本不同(system.vmdk)：<br> 9.0：Android 9-x86_64 (64位版，64位指的安卓系统版本)<br> 4.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64位版)<br> 3.x：Android 5.1.2-x86</li>
-<li>所有版本都兼容ARM库，可共存使用支持各版无限多开运行</li>
-</ul>
-</li>
-</ul>
-<h2 id="运行要求"><a href="#运行要求" class="headerlink" title="运行要求"></a>运行要求</h2><ol>
-<li><del>PC机系统需要 <code>Windows10 x64位</code> 或更高版本系统，该模拟器暂不兼容Windows7及以下版本系统</del>（最新版本已支持Win7）</li>
-<li>使用模拟器需要在BIOS里开启虚拟化技术（VT）<br><strong>如何开启VT？</strong>：<a href="https://www.ldmnq.com/support/VTjiao/290.html">https://www.ldmnq.com/support/VTjiao/290.html</a><br><strong>更多帮助</strong>：<a href="https://www.ldmnq.com/forum/86495.html">https://www.ldmnq.com/forum/86495.html</a></li>
-</ol>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123云盘/资源杂侩/软件/雷电模拟器9' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
-<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-MELw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
-          </div>]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
-        <tag>模拟器</tag>
       </tags>
   </entry>
 </search>
