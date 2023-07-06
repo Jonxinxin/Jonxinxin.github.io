@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>腾讯云2核4G8M轻量应用服务器免费升级配置</title>
+    <url>/posts/e97b05bf/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><div class="tip "><p>注意：无忧计划属于独立活动不支持本次升级</p>
+</div>
+<p>腾讯云又来免费活动了，存量境内地域<code>2核-4G内存-8M带宽-1200G流量包</code>的轻量应用服务器进行虎年回馈升级活动，可免费升级至<code>4核-4G内存-8M带宽-1200G流量包</code>，续费价不变！</p>
+<p><strong>活动截止时间2022年3月31日24点，具体升级操作方法如下。</strong></p>
+<h2 id="升级方法"><a href="#升级方法" class="headerlink" title="升级方法"></a>升级方法</h2><ol>
+<li>打开腾讯云轻量云服务器<a href="https://console.cloud.tencent.com/lighthouse/instance/index">控制台</a>，在服务器列表里找到符合条件的机器</li>
+<li>选择机器右上角的更多 -&gt; 升级套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030521.png" alt=""></li>
+<li>随后会弹出新窗口，可以看到免费升级活动的介绍以及支持的机器配置<br><img src="https://cdn.jx-ll.cn/post_img/2022030522.png" alt=""></li>
+<li>接着往下滑，在选择目标套餐里选择通用性套餐里的4H4G8M配置套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030523.png" alt=""></li>
+<li>随后点击下一步，并选择开始升级，然后提交订单即可<br><img src="https://cdn.jx-ll.cn/post_img/2022030524.png" alt=""></li>
+<li>待升级完成后，可以看到我们的机器配置已经变成了4H4G8M<br><img src="https://cdn.jx-ll.cn/post_img/2022030525.png" alt=""></li>
+</ol>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Bandizip(跨平台解压缩软件) v7.27 激活版</title>
     <url>/posts/929c4470/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>虽然 7-Zip 是开源免费压缩工具中的佼佼者，但用得不是很顺手，今天试了下推荐的 Bandizip 却出人意料的好用！Bandizip 是一款来自韩国的免费优秀的文件压缩/解压缩软件，支持 Win 与 Mac，操作方式与 WinRAR 相似，支持压缩和解压 rar、zip、7z 等众多主流格式…</p>
@@ -99,6 +119,27 @@
       </tags>
   </entry>
   <entry>
+    <title>EDGE浏览器双击即可关闭标签页，终于可以不用到处找增强版了</title>
+    <url>/posts/2b2375e6/</url>
+    <content><![CDATA[<p>很多人用国产浏览器或其他第三方增强版浏览器的重要原因就是这些浏览器功能比较丰富。其中，双击关闭标签页就是一个使用人数较多的一个功能</p>
+<p>但就是这样一个普遍使用的功能，谷歌 Chrome 和微软 Edge 浏览器却始终没有。不过，在用户呼吁已久后，这一功能也总算来了</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220817155621.png" alt=""></p>
+<p>8 月 15 日， <a href="https://weibo.com/7732075754/M1aRbgC8l">@微软Edge浏览器</a> 官博宣布，旗下 Edge 浏览器的 <strong>双击关闭标签页</strong> 功能正式上线</p>
+<p>该功能默认关闭，需要手动到设置里打开</p>
+<p>进入 <code>右上角三个点 -&gt; 设置 -&gt; 辅助功能 -&gt; 使用双击关闭浏览器选项卡</code></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220817161046.png" alt=""></p>
+<p>据了解，今年 6 月，微软 Edge 浏览器在 Canary 版就加入了这一功能</p>
+<p>另外，关闭标签页快捷键 <code>Ctrl+W</code> 也仍可以使用</p>
+<p>如果想快速关闭标签页，也可以在标签页 <code>点击鼠标中键</code> 来实现。</p>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
+      <tags>
+        <tag>闲聊新闻</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Google Chrome v104.0.5112.81便携增强版+正式版离线安装包</title>
     <url>/posts/cd2961f9/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>谷歌浏览器，是一个由Google（谷歌）公司开发的开放原始码网页浏览器。该浏览器是基于其他开放原始码软件所撰写，包括WebKit和Mozilla，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。</p>
@@ -146,47 +187,6 @@
       <tags>
         <tag>实用软件</tag>
         <tag>浏览器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>腾讯云2核4G8M轻量应用服务器免费升级配置</title>
-    <url>/posts/e97b05bf/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><div class="tip "><p>注意：无忧计划属于独立活动不支持本次升级</p>
-</div>
-<p>腾讯云又来免费活动了，存量境内地域<code>2核-4G内存-8M带宽-1200G流量包</code>的轻量应用服务器进行虎年回馈升级活动，可免费升级至<code>4核-4G内存-8M带宽-1200G流量包</code>，续费价不变！</p>
-<p><strong>活动截止时间2022年3月31日24点，具体升级操作方法如下。</strong></p>
-<h2 id="升级方法"><a href="#升级方法" class="headerlink" title="升级方法"></a>升级方法</h2><ol>
-<li>打开腾讯云轻量云服务器<a href="https://console.cloud.tencent.com/lighthouse/instance/index">控制台</a>，在服务器列表里找到符合条件的机器</li>
-<li>选择机器右上角的更多 -&gt; 升级套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030521.png" alt=""></li>
-<li>随后会弹出新窗口，可以看到免费升级活动的介绍以及支持的机器配置<br><img src="https://cdn.jx-ll.cn/post_img/2022030522.png" alt=""></li>
-<li>接着往下滑，在选择目标套餐里选择通用性套餐里的4H4G8M配置套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030523.png" alt=""></li>
-<li>随后点击下一步，并选择开始升级，然后提交订单即可<br><img src="https://cdn.jx-ll.cn/post_img/2022030524.png" alt=""></li>
-<li>待升级完成后，可以看到我们的机器配置已经变成了4H4G8M<br><img src="https://cdn.jx-ll.cn/post_img/2022030525.png" alt=""></li>
-</ol>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>EDGE浏览器双击即可关闭标签页，终于可以不用到处找增强版了</title>
-    <url>/posts/2b2375e6/</url>
-    <content><![CDATA[<p>很多人用国产浏览器或其他第三方增强版浏览器的重要原因就是这些浏览器功能比较丰富。其中，双击关闭标签页就是一个使用人数较多的一个功能</p>
-<p>但就是这样一个普遍使用的功能，谷歌 Chrome 和微软 Edge 浏览器却始终没有。不过，在用户呼吁已久后，这一功能也总算来了</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220817155621.png" alt=""></p>
-<p>8 月 15 日， <a href="https://weibo.com/7732075754/M1aRbgC8l">@微软Edge浏览器</a> 官博宣布，旗下 Edge 浏览器的 <strong>双击关闭标签页</strong> 功能正式上线</p>
-<p>该功能默认关闭，需要手动到设置里打开</p>
-<p>进入 <code>右上角三个点 -&gt; 设置 -&gt; 辅助功能 -&gt; 使用双击关闭浏览器选项卡</code></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220817161046.png" alt=""></p>
-<p>据了解，今年 6 月，微软 Edge 浏览器在 Canary 版就加入了这一功能</p>
-<p>另外，关闭标签页快捷键 <code>Ctrl+W</code> 也仍可以使用</p>
-<p>如果想快速关闭标签页，也可以在标签页 <code>点击鼠标中键</code> 来实现。</p>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
-      <tags>
-        <tag>闲聊新闻</tag>
       </tags>
   </entry>
   <entry>
@@ -257,6 +257,64 @@
       </tags>
   </entry>
   <entry>
+    <title>SublimeText 4.4126 汉化特别版</title>
+    <url>/posts/5909fb66/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>SublimeText是编辑器中的一款神级IDE，非常有名，虽然比较轻量，但是呢软件拓展性非常强大，适用于多种编程语言，当然，当一个编辑器，也是非常不错的。</p>
+<p>Sublime Text 是一个轻量、简洁、高效、跨平台的编辑器，方便的配色以及兼容vim快捷键等各种优点博得了很多前端开发人员的喜爱!Sublime Text 这款程序员必备代码编辑器，几乎每位程序员提到Sublime Text 2都是赞不绝口！它体积小巧，无需安装，绿色便携；它可跨平台支持Windows/Mac/Linux；支持32与64位操作系统，它在支持语法高亮、代 码补全、代码片段（Snippet）、代码折叠、行号显示、自定义皮肤、配色方案等所有其它代码编辑器所拥有的功能的同时，又保证了其飞快的速度！还有着 自身独特的功能，比如代码地图、多种界面布局以及全屏免打扰模式等，这些优秀特性让Sublime Text 2成了所有程序员眼中的神！</p>
+<p>SublimeText支持但不限于 C, C++, C#, CSS, D, Erlang, HTML, Groovy, Haskell, HTML, Java, JavaScript, LaTeX, Lisp, Lua, Markdown, Matlab, OCaml, Perl, PHP, Python, R, Ruby, SQL, TCL, Textile and XML 等主流编程语言的语法高亮。ST 拥有优秀的代码自动完成功能 (自动补齐括号，大括号等配对符号；自动补全已经出现的单词；自动补全函数名)，非常智能；</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022031511.png" alt=""></p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
+            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/zh-CN/Blog/Sublime%20Text' title='本地下载'><img src='fas fa-download'>本地下载</a>
+<a class="button no-text-decoration" href='https://jxin.lanzouq.com/b02hhhbgb' title='蓝奏云盘'><img src='fas fa-download'>蓝奏云盘</a>
+<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-95zw' title='123云盘'><img src='fas fa-download'>123云盘</a>
+<a class="button no-text-decoration" href='https://pan.quark.cn/s/72eb39ae37f0' title='夸克云盘'><img src='fas fa-download'>夸克云盘</a>
+          </div>]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>WinRAR v6.11正式版</title>
+    <url>/posts/98d355fa/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>WinRAR是一款功能强大的压缩包管理器，它是档案工具RAR在 Windows环境下的图形界面。WinRAR可用于备份数据，缩减电子邮件附件的大小，解压缩从 Internet 上下载的RAR、ZIP及其它类型文件，WinRAR并且可以新建 RAR 及 ZIP 格式等的压缩类文件。WinRAR非常实用、方便，中文化工作更为完善，WinRAR包括主工作界面、右键菜单，甚至连十万字的 .hlp 在线帮助文件、使用手册文件、Readme 文件都完全是中文内容。</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030811.png" alt=""></p>
+<h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><ul>
+<li><p>压缩率更高<br>WinRAR 在 DOS 时代就一直具备这种优势，经过多次试验证明，WinRAR 的 RAR 格式一般要比其他的 ZIP 格式高出 10%～30% 的压缩率，尤其是它还提供了可选择的、针对多媒体数据的压缩算法。</p>
+</li>
+<li><p>对多媒体文件有独特的高压缩率算法<br>WinRAR 对 WAV、BMP 声音及图像文件可以用独特的多媒体压缩算法大大提高压缩率，虽然我们可以将 WAV、BMP 文件转为 MP3．JPG 等格式节省存储空间，但不要忘记 WinRAR 的压缩可是标准的无损压缩。</p>
+</li>
+<li><p>能完善地支持ZIP格式并且可以解压多种格式的压缩包<br>虽然其他软件也能支持 ARJ、LHA 等格式，但却需要外挂对应软件的 DOS 版本，实在是功能有限。但WinRAR就不同了，不但能解压多数压缩格式，且不需外挂程序支持就可直接建立 ZIP 格式的压缩文件，所以我们不必担心离开了其他软件如何处理 ZIP 格式的问题。</p>
+</li>
+<li><p>设置项目非常完善，并且可以定制界面<br>通过开始选单的程序组启动WinRAR，在其主界面中选择“选项”选单下的“设置”打开设置窗口，分为常规、压缩、路径、文件列表、查看器、综合六大类，非常丰富，通过修改它们，可以更好地使用 WinRAR。实战：如果同时安装了某款压缩软件与 WinRAR，ZIP 文件的关联经常发生混乱，一般我们只需进入设置窗口，选“综合”标签，将“ WinRAR 关联文件”一栏中的 ZIP 一项打勾，确定后就可使 ZIP 文件与 WinRAR 关联，反之如果将勾去掉，则 WinRAR 自动修改注册表使 ZIP 重新与这个压缩软件的关联。</p>
+</li>
+<li><p>对受损压缩文件的修复能力极强<br>在网上下载的ZIP、RAR类的文件往往因头部受损的问题导致不能打开，而用WinRAR调入后，只须单击界面中的“修复”按钮就可轻松修复，成功率极高。</p>
+</li>
+<li><p>可以不必解压就可查看压缩包信息<br>使用WinRAR，选中文件点击信息就可查看压缩包信息。</p>
+</li>
+<li><p>辅助功能设置细致<br>WinRAR可以在压缩窗口的“备份”标签中设置压缩前删除目标盘文件；可在压缩前单击“估计”按钮对压缩先评估一下；可以为压缩包加注释；可以设置压缩包的防受损功能，等等细微之处也能看出WinRAR的体贴周到。</p>
+</li>
+<li><p>压缩包可以锁住<br>使用WinRAR双击进入压缩包后，单击命令选单下的“锁定压缩包”就可防止人为的添加、删除等操作，保持压缩包的原始状态。</p>
+</li>
+<li><p>压缩包可以看隐藏文件<br>你还在为Autorun病毒发愁？Winrar就提供了“透视”功能。把那些隐藏属性的文件一目了然。</p>
+</li>
+</ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
+            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/Blog/WinRAR' title='本地下载'><img src='fas fa-download'>本地下载</a>
+<a class="button no-text-decoration" href='https://jxin.lanzouq.com/b02gzsehi' title='蓝奏云盘'><img src='fas fa-download'>蓝奏云盘</a>
+<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-yLzw' title='123云盘'><img src='fas fa-download'>123云盘</a>
+<a class="button no-text-decoration" href='https://pan.quark.cn/s/5e32d90814c1' title='夸克云盘'><img src='fas fa-download'>夸克云盘</a>
+          </div>]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Visual Studio Code 1.65.0 官方版</title>
     <url>/posts/447b7d46/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>Visual Studio Code是一个由微软公司发布的免费开源且跨平台的代码编辑器，它本质上是微软将他们的在线编辑器 Visual Studio Online（代号：Monaco）结合 Github 的 Electron 实现的一个跨平台编辑器，他们在为程序员创建一个快速且高效工作环境方面取得巨大进步。</p>
@@ -279,18 +337,30 @@
       </tags>
   </entry>
   <entry>
-    <title>SublimeText 4.4126 汉化特别版</title>
-    <url>/posts/5909fb66/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>SublimeText是编辑器中的一款神级IDE，非常有名，虽然比较轻量，但是呢软件拓展性非常强大，适用于多种编程语言，当然，当一个编辑器，也是非常不错的。</p>
-<p>Sublime Text 是一个轻量、简洁、高效、跨平台的编辑器，方便的配色以及兼容vim快捷键等各种优点博得了很多前端开发人员的喜爱!Sublime Text 这款程序员必备代码编辑器，几乎每位程序员提到Sublime Text 2都是赞不绝口！它体积小巧，无需安装，绿色便携；它可跨平台支持Windows/Mac/Linux；支持32与64位操作系统，它在支持语法高亮、代 码补全、代码片段（Snippet）、代码折叠、行号显示、自定义皮肤、配色方案等所有其它代码编辑器所拥有的功能的同时，又保证了其飞快的速度！还有着 自身独特的功能，比如代码地图、多种界面布局以及全屏免打扰模式等，这些优秀特性让Sublime Text 2成了所有程序员眼中的神！</p>
-<p>SublimeText支持但不限于 C, C++, C#, CSS, D, Erlang, HTML, Groovy, Haskell, HTML, Java, JavaScript, LaTeX, Lisp, Lua, Markdown, Matlab, OCaml, Perl, PHP, Python, R, Ruby, SQL, TCL, Textile and XML 等主流编程语言的语法高亮。ST 拥有优秀的代码自动完成功能 (自动补齐括号，大括号等配对符号；自动补全已经出现的单词；自动补全函数名)，非常智能；</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022031511.png" alt=""></p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/zh-CN/Blog/Sublime%20Text' title='本地下载'><img src='fas fa-download'>本地下载</a>
-<a class="button no-text-decoration" href='https://jxin.lanzouq.com/b02hhhbgb' title='蓝奏云盘'><img src='fas fa-download'>蓝奏云盘</a>
-<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-95zw' title='123云盘'><img src='fas fa-download'>123云盘</a>
-<a class="button no-text-decoration" href='https://pan.quark.cn/s/72eb39ae37f0' title='夸克云盘'><img src='fas fa-download'>夸克云盘</a>
-          </div>]]></content>
+    <title>YesPlayMusic：又一款高颜值的第三方网易云播放器！</title>
+    <url>/posts/8ce04600/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>由于官方客户端的界面和交互要么就是过于臃肿，要么就是歌曲版权不够，导致不少开发者喜欢自己去做一些符合自己需求的播放器。今天给大家带来的这款高颜值的第三方网易云播放器：YesPlayMusic 就将极简和版权通过多平台整合的方式做到了完美融合，做出来一款高颜值的播放器。</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/20210202204343.png" alt=" "></p>
+<h2 id="软件特征"><a href="#软件特征" class="headerlink" title="软件特征"></a>软件特征</h2><ul>
+<li>✅ 使用 Vue.js 全家桶开发</li>
+<li>🔴 网易云账号登录</li>
+<li>📺 MV 播放</li>
+<li>📃 支持歌词显示</li>
+<li>🚫🤝 无任何社交功能</li>
+<li>🌎️ 海外用户可直接播放（需要登录网易云账号）</li>
+<li>🔐 支持 <a href="https://github.com/nondanee/UnblockNeteaseMusic">UnblockNeteaseMusic</a>，自动使用 QQ/酷狗/酷我音源替换变灰歌曲链接 （网页版不支持）</li>
+<li>⏭️ 支持 MediaSession API，可以使用系统快捷键操作上一首下一首</li>
+<li>✔️ 每日自动签到（手机端和电脑端同时签到）</li>
+<li>🌚 Light/Dark Mode 自动切换</li>
+<li>👆 支持 Touch Bar</li>
+<li>🖥️ 支持 PWA，可在 Chrome/Edge 里点击地址栏右边的 ➕ 安装到电脑</li>
+<li>🙉 支持显示歌曲和专辑的 Explicit 标志</li>
+<li>🛠 更多特性开发中</li>
+</ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>网页版：<a href="https://music.qier222.com/">https://music.qier222.com/</a></p>
+<p>项目地址：<a href="https://github.com/qier222/YesPlayMusic">https://github.com/qier222/YesPlayMusic</a></p>
+<p>桌面客户端：<a href="https://jxin.lanzous.com/ivB3ll8dlha">https://jxin.lanzous.com/ivB3ll8dlha</a></p>
+]]></content>
       <categories>
         <category>资源中心</category>
       </categories>
@@ -341,76 +411,6 @@
       </tags>
   </entry>
   <entry>
-    <title>YesPlayMusic：又一款高颜值的第三方网易云播放器！</title>
-    <url>/posts/8ce04600/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>由于官方客户端的界面和交互要么就是过于臃肿，要么就是歌曲版权不够，导致不少开发者喜欢自己去做一些符合自己需求的播放器。今天给大家带来的这款高颜值的第三方网易云播放器：YesPlayMusic 就将极简和版权通过多平台整合的方式做到了完美融合，做出来一款高颜值的播放器。</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/20210202204343.png" alt=" "></p>
-<h2 id="软件特征"><a href="#软件特征" class="headerlink" title="软件特征"></a>软件特征</h2><ul>
-<li>✅ 使用 Vue.js 全家桶开发</li>
-<li>🔴 网易云账号登录</li>
-<li>📺 MV 播放</li>
-<li>📃 支持歌词显示</li>
-<li>🚫🤝 无任何社交功能</li>
-<li>🌎️ 海外用户可直接播放（需要登录网易云账号）</li>
-<li>🔐 支持 <a href="https://github.com/nondanee/UnblockNeteaseMusic">UnblockNeteaseMusic</a>，自动使用 QQ/酷狗/酷我音源替换变灰歌曲链接 （网页版不支持）</li>
-<li>⏭️ 支持 MediaSession API，可以使用系统快捷键操作上一首下一首</li>
-<li>✔️ 每日自动签到（手机端和电脑端同时签到）</li>
-<li>🌚 Light/Dark Mode 自动切换</li>
-<li>👆 支持 Touch Bar</li>
-<li>🖥️ 支持 PWA，可在 Chrome/Edge 里点击地址栏右边的 ➕ 安装到电脑</li>
-<li>🙉 支持显示歌曲和专辑的 Explicit 标志</li>
-<li>🛠 更多特性开发中</li>
-</ul>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>网页版：<a href="https://music.qier222.com/">https://music.qier222.com/</a></p>
-<p>项目地址：<a href="https://github.com/qier222/YesPlayMusic">https://github.com/qier222/YesPlayMusic</a></p>
-<p>桌面客户端：<a href="https://jxin.lanzous.com/ivB3ll8dlha">https://jxin.lanzous.com/ivB3ll8dlha</a></p>
-]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>WinRAR v6.11正式版</title>
-    <url>/posts/98d355fa/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>WinRAR是一款功能强大的压缩包管理器，它是档案工具RAR在 Windows环境下的图形界面。WinRAR可用于备份数据，缩减电子邮件附件的大小，解压缩从 Internet 上下载的RAR、ZIP及其它类型文件，WinRAR并且可以新建 RAR 及 ZIP 格式等的压缩类文件。WinRAR非常实用、方便，中文化工作更为完善，WinRAR包括主工作界面、右键菜单，甚至连十万字的 .hlp 在线帮助文件、使用手册文件、Readme 文件都完全是中文内容。</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030811.png" alt=""></p>
-<h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><ul>
-<li><p>压缩率更高<br>WinRAR 在 DOS 时代就一直具备这种优势，经过多次试验证明，WinRAR 的 RAR 格式一般要比其他的 ZIP 格式高出 10%～30% 的压缩率，尤其是它还提供了可选择的、针对多媒体数据的压缩算法。</p>
-</li>
-<li><p>对多媒体文件有独特的高压缩率算法<br>WinRAR 对 WAV、BMP 声音及图像文件可以用独特的多媒体压缩算法大大提高压缩率，虽然我们可以将 WAV、BMP 文件转为 MP3．JPG 等格式节省存储空间，但不要忘记 WinRAR 的压缩可是标准的无损压缩。</p>
-</li>
-<li><p>能完善地支持ZIP格式并且可以解压多种格式的压缩包<br>虽然其他软件也能支持 ARJ、LHA 等格式，但却需要外挂对应软件的 DOS 版本，实在是功能有限。但WinRAR就不同了，不但能解压多数压缩格式，且不需外挂程序支持就可直接建立 ZIP 格式的压缩文件，所以我们不必担心离开了其他软件如何处理 ZIP 格式的问题。</p>
-</li>
-<li><p>设置项目非常完善，并且可以定制界面<br>通过开始选单的程序组启动WinRAR，在其主界面中选择“选项”选单下的“设置”打开设置窗口，分为常规、压缩、路径、文件列表、查看器、综合六大类，非常丰富，通过修改它们，可以更好地使用 WinRAR。实战：如果同时安装了某款压缩软件与 WinRAR，ZIP 文件的关联经常发生混乱，一般我们只需进入设置窗口，选“综合”标签，将“ WinRAR 关联文件”一栏中的 ZIP 一项打勾，确定后就可使 ZIP 文件与 WinRAR 关联，反之如果将勾去掉，则 WinRAR 自动修改注册表使 ZIP 重新与这个压缩软件的关联。</p>
-</li>
-<li><p>对受损压缩文件的修复能力极强<br>在网上下载的ZIP、RAR类的文件往往因头部受损的问题导致不能打开，而用WinRAR调入后，只须单击界面中的“修复”按钮就可轻松修复，成功率极高。</p>
-</li>
-<li><p>可以不必解压就可查看压缩包信息<br>使用WinRAR，选中文件点击信息就可查看压缩包信息。</p>
-</li>
-<li><p>辅助功能设置细致<br>WinRAR可以在压缩窗口的“备份”标签中设置压缩前删除目标盘文件；可在压缩前单击“估计”按钮对压缩先评估一下；可以为压缩包加注释；可以设置压缩包的防受损功能，等等细微之处也能看出WinRAR的体贴周到。</p>
-</li>
-<li><p>压缩包可以锁住<br>使用WinRAR双击进入压缩包后，单击命令选单下的“锁定压缩包”就可防止人为的添加、删除等操作，保持压缩包的原始状态。</p>
-</li>
-<li><p>压缩包可以看隐藏文件<br>你还在为Autorun病毒发愁？Winrar就提供了“透视”功能。把那些隐藏属性的文件一目了然。</p>
-</li>
-</ul>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/Blog/WinRAR' title='本地下载'><img src='fas fa-download'>本地下载</a>
-<a class="button no-text-decoration" href='https://jxin.lanzouq.com/b02gzsehi' title='蓝奏云盘'><img src='fas fa-download'>蓝奏云盘</a>
-<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-yLzw' title='123云盘'><img src='fas fa-download'>123云盘</a>
-<a class="button no-text-decoration" href='https://pan.quark.cn/s/5e32d90814c1' title='夸克云盘'><img src='fas fa-download'>夸克云盘</a>
-          </div>]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>来自吾爱大佬的又一款Bilibili视频下载神器</title>
     <url>/posts/8d089640/</url>
     <content><![CDATA[<h2 id="视频介绍"><a href="#视频介绍" class="headerlink" title="视频介绍"></a>视频介绍</h2><iframe src="//player.bilibili.com/player.html?aid=289615827&bvid=BV13f4y1t7JK&cid=309392804&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0"> </iframe>
@@ -444,26 +444,6 @@
       </tags>
   </entry>
   <entry>
-    <title>剪映Pro正式版来啦：轻而易剪 上演大幕！</title>
-    <url>/posts/69695e5f/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>剪映专业版是抖音推出的一款免费的全能易用的视频剪辑软件。剪映手机版由于背靠抖音大树再加上操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。 </p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/20210203185724.png" alt=" "></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/20210203185734.png" alt=" "></p>
-<h2 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h2><h3 id="简单：界面布局清晰直观"><a href="#简单：界面布局清晰直观" class="headerlink" title="简单：界面布局清晰直观"></a>简单：界面布局清晰直观</h3><p>把时间线、素材库、播放器等界面布局化繁为简，让你能够得心应手地剪辑出精彩的视频。</p>
-<h3 id="高效：多轨道剪辑"><a href="#高效：多轨道剪辑" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
-<h3 id="专业：高阶功能"><a href="#专业：高阶功能" class="headerlink" title="专业：高阶功能"></a>专业：高阶功能</h3><p>曲线变速、蒙版、混合模式、色彩调节等强大功能覆盖剪辑全场景；音乐踩点功能，帮助你快速创作节奏感十足的镜头；更有语音识别功能，一键添加字幕与歌词，节省时间专注剪辑，尽情挥洒创意。</p>
-<h3 id="高效：多轨道剪辑-1"><a href="#高效：多轨道剪辑-1" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网地址：<a href="https://lv.ulikecam.com/">https://lv.ulikecam.com/</a></p>
-<p>关注公众号<code>【美男子鑫鑫】</code>，在对话框中回复【剪映Pro下载】，即可获取下载地址</p>
-]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>iOS的键盘你真的会用吗？这里有一份给果粉的秘籍！</title>
     <url>/posts/350215c8/</url>
     <content><![CDATA[<p>最近在网上看到一个话题，iOS键盘与安卓键盘，到底哪个比较好用？ </p>
@@ -487,6 +467,26 @@
       </categories>
       <tags>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>剪映Pro正式版来啦：轻而易剪 上演大幕！</title>
+    <url>/posts/69695e5f/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>剪映专业版是抖音推出的一款免费的全能易用的视频剪辑软件。剪映手机版由于背靠抖音大树再加上操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。 </p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/20210203185724.png" alt=" "></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/20210203185734.png" alt=" "></p>
+<h2 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h2><h3 id="简单：界面布局清晰直观"><a href="#简单：界面布局清晰直观" class="headerlink" title="简单：界面布局清晰直观"></a>简单：界面布局清晰直观</h3><p>把时间线、素材库、播放器等界面布局化繁为简，让你能够得心应手地剪辑出精彩的视频。</p>
+<h3 id="高效：多轨道剪辑"><a href="#高效：多轨道剪辑" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
+<h3 id="专业：高阶功能"><a href="#专业：高阶功能" class="headerlink" title="专业：高阶功能"></a>专业：高阶功能</h3><p>曲线变速、蒙版、混合模式、色彩调节等强大功能覆盖剪辑全场景；音乐踩点功能，帮助你快速创作节奏感十足的镜头；更有语音识别功能，一键添加字幕与歌词，节省时间专注剪辑，尽情挥洒创意。</p>
+<h3 id="高效：多轨道剪辑-1"><a href="#高效：多轨道剪辑-1" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网地址：<a href="https://lv.ulikecam.com/">https://lv.ulikecam.com/</a></p>
+<p>关注公众号<code>【美男子鑫鑫】</code>，在对话框中回复【剪映Pro下载】，即可获取下载地址</p>
+]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
       </tags>
   </entry>
   <entry>
@@ -617,6 +617,39 @@
       </tags>
   </entry>
   <entry>
+    <title>Hexo错误：Spawn Failed的解决方法</title>
+    <url>/posts/e3433884/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近在部署部落格的时候出现了spawn failed错误，不管是挂梯子还是改代理，都部署不上。刚开始我以为是ssh key的问题，但后面重新设置了个key也还是链接不上。</p>
+<p>在网上找了各种方法，折腾了大半天，最后终于解决了，希望这篇文章能帮助有跟我相同问题的小伙伴。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210714221124.png" style="zoom: 80%;" /></p>
+<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><h3 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h3><p>重启电脑，也是最快的解决方法，但只有部分人可以。</p>
+<h3 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h3><ol>
+<li>删除hexo根目录下的<code>.deploy_git</code>文件夹</li>
+<li>打开git，输入<code>git config --gloabl core.autocrlf false</code>并回车</li>
+<li>hexo一键三连（hexo clean、hexo g 、hexo d）</li>
+</ol>
+<h3 id="方法三"><a href="#方法三" class="headerlink" title="方法三"></a>方法三</h3><p>打开Hexo根目录下的<code>_config.yml</code>配置文件，找到下面的这串代码</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">type: git</span><br><span class="line">repo: https://github.com/yourname/yourname.github.io.git</span><br><span class="line">branch: master</span><br></pre></td></tr></table></figure>
+<p>将其中<code>repo</code>后面的链接修改为下面这个链接并ctrl+s保存</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">repo: git@github.com:yourname/yourname.github.io.git</span><br></pre></td></tr></table></figure>
+<p>hexo一键三连（hexo clean、hexo g 、hexo d）</p>
+<h3 id="方法四（不推荐）"><a href="#方法四（不推荐）" class="headerlink" title="方法四（不推荐）"></a>方法四（不推荐）</h3><p>cd进<code>.deploy_git</code>文件夹，然后使用<code>git push -f</code>强制推送</p>
+<h3 id="方法五"><a href="#方法五" class="headerlink" title="方法五"></a>方法五</h3><p>打开<code>.deploy_git\.git\logs</code>路径下的<code>HEAD</code>查看最近一次正确的那次的<code>commitId</code>然后用<code>git reset --hard commitId</code>进行回滚</p>
+<h2 id="完美解决"><a href="#完美解决" class="headerlink" title="完美解决"></a>完美解决</h2><p>相信这五种方法里总有一种适合你的，点个赞吧~</p>
+<hr>
+<div class="note info disabled"><p>本文中提及的教程均来自互联网，整合自各位大佬的部落格：<a href="https://blog.zhheo.com/p/128998ac.html">张洪Heo</a>、<a href="https://1187100546.github.io/2019/11/24/spawn-failed/">huahua</a>、<a href="http://ciraos.top/">小青</a>、<a href="https://perry96.com/archives/882898e3.html">Perry</a>，感谢！如有侵权请联系我删除。</p>
+</div>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>GitHub</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>再见，2021！你好，2022！</title>
     <url>/posts/519d21a7/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
@@ -650,39 +683,6 @@
       <categories>
         <category>闲聊杂谈</category>
       </categories>
-  </entry>
-  <entry>
-    <title>Hexo错误：Spawn Failed的解决方法</title>
-    <url>/posts/e3433884/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近在部署部落格的时候出现了spawn failed错误，不管是挂梯子还是改代理，都部署不上。刚开始我以为是ssh key的问题，但后面重新设置了个key也还是链接不上。</p>
-<p>在网上找了各种方法，折腾了大半天，最后终于解决了，希望这篇文章能帮助有跟我相同问题的小伙伴。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210714221124.png" style="zoom: 80%;" /></p>
-<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><h3 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h3><p>重启电脑，也是最快的解决方法，但只有部分人可以。</p>
-<h3 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h3><ol>
-<li>删除hexo根目录下的<code>.deploy_git</code>文件夹</li>
-<li>打开git，输入<code>git config --gloabl core.autocrlf false</code>并回车</li>
-<li>hexo一键三连（hexo clean、hexo g 、hexo d）</li>
-</ol>
-<h3 id="方法三"><a href="#方法三" class="headerlink" title="方法三"></a>方法三</h3><p>打开Hexo根目录下的<code>_config.yml</code>配置文件，找到下面的这串代码</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">type: git</span><br><span class="line">repo: https://github.com/yourname/yourname.github.io.git</span><br><span class="line">branch: master</span><br></pre></td></tr></table></figure>
-<p>将其中<code>repo</code>后面的链接修改为下面这个链接并ctrl+s保存</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">repo: git@github.com:yourname/yourname.github.io.git</span><br></pre></td></tr></table></figure>
-<p>hexo一键三连（hexo clean、hexo g 、hexo d）</p>
-<h3 id="方法四（不推荐）"><a href="#方法四（不推荐）" class="headerlink" title="方法四（不推荐）"></a>方法四（不推荐）</h3><p>cd进<code>.deploy_git</code>文件夹，然后使用<code>git push -f</code>强制推送</p>
-<h3 id="方法五"><a href="#方法五" class="headerlink" title="方法五"></a>方法五</h3><p>打开<code>.deploy_git\.git\logs</code>路径下的<code>HEAD</code>查看最近一次正确的那次的<code>commitId</code>然后用<code>git reset --hard commitId</code>进行回滚</p>
-<h2 id="完美解决"><a href="#完美解决" class="headerlink" title="完美解决"></a>完美解决</h2><p>相信这五种方法里总有一种适合你的，点个赞吧~</p>
-<hr>
-<div class="note info disabled"><p>本文中提及的教程均来自互联网，整合自各位大佬的部落格：<a href="https://blog.zhheo.com/p/128998ac.html">张洪Heo</a>、<a href="https://1187100546.github.io/2019/11/24/spawn-failed/">huahua</a>、<a href="http://ciraos.top/">小青</a>、<a href="https://perry96.com/archives/882898e3.html">Perry</a>，感谢！如有侵权请联系我删除。</p>
-</div>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>GitHub</tag>
-        <tag>Hexo</tag>
-      </tags>
   </entry>
   <entry>
     <title>利用又拍云实现Github Pages加速访问</title>
@@ -784,6 +784,53 @@
       </categories>
       <tags>
         <tag>系统运维</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>不装插件的浏览器，没有灵魂！</title>
+    <url>/posts/d8a4486f/</url>
+    <content><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>目前市面上的浏览器大都基于Trident, Gecko, Webkit, Presto, Blink, Chromium这五种内核开发，其中最热门的，还属Chromium内核。</p>
+<p>Chromium是由Google公司开发的一款浏览器内核，因为其不论是在稳定性、流畅性还是安全性上，都有较好的表现，所以深受各大浏览器厂商的喜爱。</p>
+<p>比如我们常见的Microsoft Edge和Google Chrome都是基于这一内核开发。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201201.webp" alt=""></p>
+<h2 id="扩展插件"><a href="#扩展插件" class="headerlink" title="扩展插件"></a>扩展插件</h2><p>俗话说的好，不装插件的浏览器，没有灵魂。今天江小鑫就给大家安利几款比较好用的Chromium内核扩展插件，让你的浏览器直接原地起飞~</p>
+<h3 id="Tampermonkey-油猴"><a href="#Tampermonkey-油猴" class="headerlink" title="Tampermonkey 油猴"></a>Tampermonkey 油猴</h3><p>说到浏览器扩展插件，油猴当数第一。这是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Firefox等浏览器。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201202.webp" alt=""></p>
+<p>Tampermonkey为用户提供了脚本安装、管理、自动检测更新以及编辑脚本等众多便捷的功能，让用户可以享受到各种免费实用的脚本为自己的浏览器附上「灵魂」。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201203.webp" alt=""></p>
+<p>江小鑫之前也为大家推荐过不少的油猴脚本，在美男子鑫鑫公众号后台搜索「油猴」即可查看。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201204.webp" alt=""></p>
+<h3 id="Block-Origin"><a href="#Block-Origin" class="headerlink" title="Block Origin"></a>Block Origin</h3><p>我想经常上网冲浪的你，一定遇到到这种「进服狂砍几个亿」的游戏广告，非常影响浏览体验。但如果你装上了去广告插件，那么界面就会清爽干净的多。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201205.webp" alt=""></p>
+<p>市面上常见的浏览器去广告扩展插件有很多，比如uBlock Origin, AdBlock Plus, Cloudopt。虽然这三款插件各有各的特色，但最好用的还是uBlock Origin。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201206.webp" alt=""></p>
+<p>uBlock Origin是一款去广告浏览器插件，它不仅能够去除掉网站的大部分广告，而且运行起来占用的内存和CPU极低，与其它常见的同类型扩展插件相比，它能够加载并执行上千条过滤规则。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201207.webp" alt=""></p>
+<p>在安装好浏览器插件后，首先要到控制面板里对拦截规则进行更新，保证它能更好地为我们服务。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201208.webp" alt=""></p>
+<h3 id="SuperCopy-超级复制"><a href="#SuperCopy-超级复制" class="headerlink" title="SuperCopy 超级复制"></a>SuperCopy 超级复制</h3><p>相信对于很多经常在网上copy文章的同学来说，一定遇到过这样的情况，有些网页需要我们注册会员才能复制，那么有没有什么可以白嫖的方法呢？</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201209.webp" alt=""></p>
+<p>当然，SuperCopy 超级复制这款浏览器扩展插件就是为此而生。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022012010.webp" alt=""></p>
+<p>当我们在访问被禁止右键或禁止复制的网站时，点击 SuperCopy 图标解除禁止即可，当图标灰色表示未启用解除功能，当图标彩色表示解除生效。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022012012.webp" alt=""></p>
+<p>SuperCopy 超级复制支持一键破解禁止右键、破解禁止选择、破解禁止复制、破解禁止粘贴，访问如百度文库VIP等。</p>
+<p>不仅如此，这款扩展插件还支持破解腾讯文档、金山文档、起点文学、豆瓣读书等站点的内容，从此开启白嫖生活。</p>
+<h2 id="安装扩展"><a href="#安装扩展" class="headerlink" title="安装扩展"></a>安装扩展</h2><p>说了这么多，那我们要怎么去下载安装这些扩展插件呢？别急，方法这就来。</p>
+<p>对于使用Microsoft Edge的用户来说，直接到扩展商店搜索对应的关键词即可下载。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022012013.webp" alt=""></p>
+<p>而对于使用Google Chrome的同学来说，由于国内的限制，无法访问谷歌商店。我们只能下载crx离线安装包或到第三方扩展插件网站下载安装。</p>
+<p>因此，江小鑫再给大家安利一款很好用的第三方扩展插件网站：「Crx 搜搜」。这个网站除了支持一键搜索并下载最新的 Chrome 扩展程序 crx 安装包之外，还支持 Edge，Firefox，Opera 等浏览器插件。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022012014.webp" alt=""></p>
+<p>搜索到我们需要的插件后，点击获取，就能跳转到安装界面，插件安装界面跟谷歌商店的页面布局大同小异。</p>
+<h2 id="懒人链接"><a href="#懒人链接" class="headerlink" title="懒人链接"></a>懒人链接</h2><p>🔗 微软商店：<a href="https://microsoftedge.microsoft.com/">https://microsoftedge.microsoft.com/</a><br>🔗 Crx搜索：<a href="https://crxsoso.com">https://crxsoso.com</a></p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -904,49 +951,73 @@
       </tags>
   </entry>
   <entry>
-    <title>不装插件的浏览器，没有灵魂！</title>
-    <url>/posts/d8a4486f/</url>
-    <content><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>目前市面上的浏览器大都基于Trident, Gecko, Webkit, Presto, Blink, Chromium这五种内核开发，其中最热门的，还属Chromium内核。</p>
-<p>Chromium是由Google公司开发的一款浏览器内核，因为其不论是在稳定性、流畅性还是安全性上，都有较好的表现，所以深受各大浏览器厂商的喜爱。</p>
-<p>比如我们常见的Microsoft Edge和Google Chrome都是基于这一内核开发。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201201.webp" alt=""></p>
-<h2 id="扩展插件"><a href="#扩展插件" class="headerlink" title="扩展插件"></a>扩展插件</h2><p>俗话说的好，不装插件的浏览器，没有灵魂。今天江小鑫就给大家安利几款比较好用的Chromium内核扩展插件，让你的浏览器直接原地起飞~</p>
-<h3 id="Tampermonkey-油猴"><a href="#Tampermonkey-油猴" class="headerlink" title="Tampermonkey 油猴"></a>Tampermonkey 油猴</h3><p>说到浏览器扩展插件，油猴当数第一。这是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Firefox等浏览器。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201202.webp" alt=""></p>
-<p>Tampermonkey为用户提供了脚本安装、管理、自动检测更新以及编辑脚本等众多便捷的功能，让用户可以享受到各种免费实用的脚本为自己的浏览器附上「灵魂」。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201203.webp" alt=""></p>
-<p>江小鑫之前也为大家推荐过不少的油猴脚本，在美男子鑫鑫公众号后台搜索「油猴」即可查看。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201204.webp" alt=""></p>
-<h3 id="Block-Origin"><a href="#Block-Origin" class="headerlink" title="Block Origin"></a>Block Origin</h3><p>我想经常上网冲浪的你，一定遇到到这种「进服狂砍几个亿」的游戏广告，非常影响浏览体验。但如果你装上了去广告插件，那么界面就会清爽干净的多。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201205.webp" alt=""></p>
-<p>市面上常见的浏览器去广告扩展插件有很多，比如uBlock Origin, AdBlock Plus, Cloudopt。虽然这三款插件各有各的特色，但最好用的还是uBlock Origin。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201206.webp" alt=""></p>
-<p>uBlock Origin是一款去广告浏览器插件，它不仅能够去除掉网站的大部分广告，而且运行起来占用的内存和CPU极低，与其它常见的同类型扩展插件相比，它能够加载并执行上千条过滤规则。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201207.webp" alt=""></p>
-<p>在安装好浏览器插件后，首先要到控制面板里对拦截规则进行更新，保证它能更好地为我们服务。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201208.webp" alt=""></p>
-<h3 id="SuperCopy-超级复制"><a href="#SuperCopy-超级复制" class="headerlink" title="SuperCopy 超级复制"></a>SuperCopy 超级复制</h3><p>相信对于很多经常在网上copy文章的同学来说，一定遇到过这样的情况，有些网页需要我们注册会员才能复制，那么有没有什么可以白嫖的方法呢？</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201209.webp" alt=""></p>
-<p>当然，SuperCopy 超级复制这款浏览器扩展插件就是为此而生。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022012010.webp" alt=""></p>
-<p>当我们在访问被禁止右键或禁止复制的网站时，点击 SuperCopy 图标解除禁止即可，当图标灰色表示未启用解除功能，当图标彩色表示解除生效。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022012012.webp" alt=""></p>
-<p>SuperCopy 超级复制支持一键破解禁止右键、破解禁止选择、破解禁止复制、破解禁止粘贴，访问如百度文库VIP等。</p>
-<p>不仅如此，这款扩展插件还支持破解腾讯文档、金山文档、起点文学、豆瓣读书等站点的内容，从此开启白嫖生活。</p>
-<h2 id="安装扩展"><a href="#安装扩展" class="headerlink" title="安装扩展"></a>安装扩展</h2><p>说了这么多，那我们要怎么去下载安装这些扩展插件呢？别急，方法这就来。</p>
-<p>对于使用Microsoft Edge的用户来说，直接到扩展商店搜索对应的关键词即可下载。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022012013.webp" alt=""></p>
-<p>而对于使用Google Chrome的同学来说，由于国内的限制，无法访问谷歌商店。我们只能下载crx离线安装包或到第三方扩展插件网站下载安装。</p>
-<p>因此，江小鑫再给大家安利一款很好用的第三方扩展插件网站：「Crx 搜搜」。这个网站除了支持一键搜索并下载最新的 Chrome 扩展程序 crx 安装包之外，还支持 Edge，Firefox，Opera 等浏览器插件。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022012014.webp" alt=""></p>
-<p>搜索到我们需要的插件后，点击获取，就能跳转到安装界面，插件安装界面跟谷歌商店的页面布局大同小异。</p>
-<h2 id="懒人链接"><a href="#懒人链接" class="headerlink" title="懒人链接"></a>懒人链接</h2><p>🔗 微软商店：<a href="https://microsoftedge.microsoft.com/">https://microsoftedge.microsoft.com/</a><br>🔗 Crx搜索：<a href="https://crxsoso.com">https://crxsoso.com</a></p>
-]]></content>
+    <title>在VPS上安装哪吒面板，并用Caddy实现反向代理</title>
+    <url>/posts/f1e2eb87/</url>
+    <content><![CDATA[<p>哪吒监控是一个开源、轻量的服务器和网站监控、运维工具，能够实时监控并报告服务器的状态。</p>
+<p>自从<a href="https://hax.co.id">Hax</a>、<a href="https://woiden.id">Woiden</a>和<a href="https://free.vps.vc">Vc</a>相继推出免费VPS服务以来，不少用户都有了自己的服务器，用来运行一些小项目，平时就很少去管理。</p>
+<p>这时就可以给服务器挂上探针，实时监控服务器的状态，运行不正常就会自动发送警报。</p>
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ol>
+<li>一台服务器当作面板机（最好是同时支持ipv4+ipv6协议）</li>
+<li>注册一个<a href="https://github.com">GitHub</a>账号</li>
+<li>注册一个域名</li>
+</ol>
+<h2 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h2><p>如果面板端需要使用CDN来访问，则需解析两个域名</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230210192719.png" alt=""></p>
+<p>两个域名都指向你的VPS地址，一个配置好CDN用作公开访问，CDN需要支持WebSocket协议；另一个域名不要使用CDN，用作监控端与面板端的通信，如：</p>
+<p><code>cdn.imnibaba.tk</code> 开启CDN<br><code>data.imnibaba.tk</code> 关闭CDN</p>
+<h2 id="获取Github的Client-ID和密钥"><a href="#获取Github的Client-ID和密钥" class="headerlink" title="获取Github的Client ID和密钥"></a>获取Github的Client ID和密钥</h2><p>为了方面后续管理，需要借助GitHub来登录面板后台</p>
+<p>登录GitHub后，打开<a href="https://github.com/settings/developers">https://github.com/settings/developers</a>，依次选择“OAuth Apps” - “New OAuth App”</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Application name - 随意填写</span><br><span class="line">Homepage URL - 填写面板的访问域名，如：&quot;http://cdn.imnibaba.tk&quot;</span><br><span class="line">Authorization callback URL - 填写回调地址，如：&quot;http://cdn.imnibaba.tk/oauth2/callback&quot;</span><br></pre></td></tr></table></figure>
+<p>然后点击“Register application”</p>
+<p>保存生成的Client ID，点击“Generate a new client secret“，创建一个新的Client Secret，并保存</p>
+<h2 id="安装面板端"><a href="#安装面板端" class="headerlink" title="安装面板端"></a>安装面板端</h2><p>项目地址：<a href="https://github.com/naiba/nezha">https://github.com/naiba/nezha</a><br>项目Wiki：<a href="https://nezha.wiki/">https://nezha.wiki/</a></p>
+<p>如果你是阿里云、腾讯云等大厂的VPS,请自行到防火墙和安全组策略中和放行<code>8008</code>和<code>5555</code>端口</p>
+<p>登录到自己的服务器，在命令行输入一键安装脚本</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh  -o nezha.sh &amp;&amp; chmod +x nezha.sh &amp;&amp; sudo ./nezha.sh</span><br></pre></td></tr></table></figure>
+<p>国内VPS如无法访问GitHub请使用下面的镜像脚本</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">curl -L https://cdn.jsdelivr.net/gh/naiba/nezha/script/install.sh -o nezha.sh &amp;&amp; chmod +x nezha.sh &amp;&amp; sudo CN=true ./nezha.sh</span><br></pre></td></tr></table></figure>
+<p>输入<code>1</code>并回车来安装面板端</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230210204849.png" alt=""></p>
+<p>等待Docker安装完成后，会提示输入下面的内容</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">OAuth提供商 - Github，Gitlab，Jihulab，Gitee 中选择一个</span><br><span class="line">Client ID - 之前保存的 Client ID</span><br><span class="line">Client Secret - 之前保存的密钥</span><br><span class="line">用户名 - OAuth 提供商中的用户名</span><br><span class="line">站点标题 - 自定义站点标题</span><br><span class="line">访问端口 - 公开访问端口，可自定义，默认 8008</span><br><span class="line">Agent的通信端口 - Agent与Dashboard的通信端口，默认 5555</span><br></pre></td></tr></table></figure>
+<p>输入完成后脚本会自动拉取镜像，等待即可</p>
+<p>安装结束后，你就可以在浏览器里访问套了CDN的 域名:端口号，如：<code>http://cdn.imnibaba.tk:8008</code>来访问面板了</p>
+<h3 id="反向代理"><a href="#反向代理" class="headerlink" title="反向代理"></a>反向代理</h3><p>这里我们使用Caddy来作为反向代理</p>
+<p>安装依赖</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt install -y debian-keyring debian-archive-keyring apt-transport-https</span><br></pre></td></tr></table></figure>
+<p>安装完成后，添加官方 Caddy GPG 密钥</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">curl -1sLf &#x27;https://dl.cloudsmith.io/public/caddy/stable/gpg.key&#x27; | sudo gpg --dearmor -o /usr/share/keyrings/caddy-stable-archive-keyring.gpg</span><br></pre></td></tr></table></figure>
+<p>使用以下命令创建存储库文件</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">curl -1sLf &#x27;https://dl.cloudsmith.io/public/caddy/stable/debian.deb.txt&#x27; | sudo tee /etc/apt/sources.list.d/caddy-stable.list</span><br></pre></td></tr></table></figure>
+<p>更新apt</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt update</span><br></pre></td></tr></table></figure>
+<p>最后，使用以下命令安装 Caddy</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt install caddy -y</span><br></pre></td></tr></table></figure>
+<p>安装完成后，编辑配置文件</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">vim /etc/caddy/Caddyfile</span><br></pre></td></tr></table></figure>
+<p>将里面的内容全部删除，改为以下内容</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cdn.imnibaba.tk #此项改为你的域名</span><br><span class="line">encode gzip</span><br><span class="line">reverse_proxy 127.0.0.1:8008</span><br></pre></td></tr></table></figure>
+<p>保存并退出编辑模式，按一下ESC键，输入以下内容后回车</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">:wq</span><br></pre></td></tr></table></figure>
+<p>随后重新启动Caddy，会自动配置好SSL</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">systemctl reload caddy # 重载配置文件</span><br><span class="line">systemctl daemon-reload # 重载服务</span><br><span class="line">systemctl enable caddy # 开机启动</span><br><span class="line">systemctl start caddy # 启动</span><br><span class="line">systemctl stop caddy # 停止</span><br><span class="line">systemctl restart caddy  # 重启</span><br><span class="line">systemctl status caddy   # 查看状态</span><br><span class="line">caddy version #查看caddy的版本信息</span><br></pre></td></tr></table></figure>
+<p>这时不出意外的话就可以在浏览器直接访问面板地址：<code>https://cdn.imnibaba.tk</code></p>
+<h2 id="安装监控端"><a href="#安装监控端" class="headerlink" title="安装监控端"></a>安装监控端</h2><p>浏览器访问面板端，在右上角点击登录，GitHub会提示授权，同意即可</p>
+<p>成功登录后，点击顶部的设置，找到未接入CDN的面板服务器域名/IP，填写第一步解析的通讯域名（data.imnibaba.tk），然后保存</p>
+<p>点击<code>添加服务器</code>，输入服务器名称、分组和序号，然后点击添加</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230210200325.png" alt=""></p>
+<p>这时列表里就会新增一条服务器信息，复制一键安装脚本，第一个是Linux，第二个是Windows</p>
+<p>将脚本复制到SHH并回车即可自动执行安装任务</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230210203242.png" alt=""></p>
+<p>安装完成后再次打开面板主页就能看到VPS状态了</p>
+<h2 id="自定义样式"><a href="#自定义样式" class="headerlink" title="自定义样式"></a>自定义样式</h2><p>以下是大佬们自己写的样式</p>
+<h3 id="Default透明主题"><a href="#Default透明主题" class="headerlink" title="Default透明主题"></a>Default透明主题</h3><p>主题来自 <a href="https://ii.do/43.html">https://ii.do/43.html</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;style&gt;</span><br><span class="line">/* 屏幕适配 */</span><br><span class="line">@media only screen and (min-width: 1200px) &#123;</span><br><span class="line">    .ui.container &#123;</span><br><span class="line">    width: 80% !important;</span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">@media only screen and (max-width: 767px) &#123;</span><br><span class="line">    .ui.card&gt;.content&gt;.header:not(.ui), .ui.cards&gt;.card&gt;.content&gt;.header:not(.ui) &#123;</span><br><span class="line">        margin-top: 0.4em !important;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 整体图标 */</span><br><span class="line">i.icon &#123;</span><br><span class="line">    color: #000;</span><br><span class="line">    width: 1.2em !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 背景图片 */</span><br><span class="line">body &#123;</span><br><span class="line">    content: &quot; &quot; !important;</span><br><span class="line">    background: fixed !important;</span><br><span class="line">    z-index: -1 !important;</span><br><span class="line">    top: 0 !important;</span><br><span class="line">    right: 0 !important;</span><br><span class="line">    bottom: 0 !important;</span><br><span class="line">    left: 0 !important;</span><br><span class="line">    background-position: top !important;</span><br><span class="line">    background-repeat: no-repeat !important;</span><br><span class="line">    background-size: cover !important;</span><br><span class="line">    background-image: url(https://gitee.com/darki/img/raw/master/1631081013043.webp) !important;</span><br><span class="line">    font-family: Arial,Helvetica,sans-serif !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 导航栏 */</span><br><span class="line">.ui.large.menu &#123;</span><br><span class="line">    border: 0 !important;</span><br><span class="line">    border-radius: 0px !important;</span><br><span class="line">    background-color: rgba(255, 255, 255, 55%) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 首页按钮 */</span><br><span class="line">.ui.menu .active.item &#123;</span><br><span class="line">    background-color: transparent !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 导航栏下拉框 */</span><br><span class="line">.ui.dropdown .menu &#123;</span><br><span class="line">    border: 0 !important;</span><br><span class="line">    border-radius: 0 !important;</span><br><span class="line">    background-color: rgba(255, 255, 255, 80%) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 登陆按钮 */</span><br><span class="line">.nezha-primary-btn &#123;</span><br><span class="line">    background-color: transparent !important;</span><br><span class="line">    color: #000 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 大卡片 */</span><br><span class="line">#app .ui.fluid.accordion &#123;</span><br><span class="line">    background-color: #fbfbfb26 !important;</span><br><span class="line">    border-radius: 0.4rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 小卡片 */</span><br><span class="line">.ui.four.cards&gt;.card &#123;</span><br><span class="line">    border-radius: 0.6rem !important;</span><br><span class="line">    background-color: #fafafaa3 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.status.cards .wide.column &#123;</span><br><span class="line">    padding-top: 0 !important;</span><br><span class="line">    padding-bottom: 0 !important;</span><br><span class="line">    height: 3.3rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.status.cards .three.wide.column &#123;</span><br><span class="line">    padding-right: 0rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.status.cards .wide.column:nth-child(1) &#123;</span><br><span class="line">    margin-top: 2rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.status.cards .wide.column:nth-child(2) &#123;</span><br><span class="line">    margin-top: 2rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.status.cards .description &#123;</span><br><span class="line">    padding-bottom: 0 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 小鸡名 */</span><br><span class="line">.status.cards .flag &#123;</span><br><span class="line">    margin-right: 0.5rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 弹出卡片图标 */</span><br><span class="line">.status.cards .header &gt; .info.icon &#123;</span><br><span class="line">    margin-right: 0 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.nezha-secondary-font &#123;</span><br><span class="line">    color: #21ba45 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 进度条 */</span><br><span class="line">.ui.progress &#123;</span><br><span class="line">    border-radius: 50rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.progress .bar &#123;</span><br><span class="line">    min-width: 1.8em !important;</span><br><span class="line">    border-radius: 15px !important;</span><br><span class="line">    line-height: 1.65em !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.fine.progress&gt; .bar &#123;</span><br><span class="line">    background-color: #21ba45 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.progress&gt; .bar &#123;</span><br><span class="line">    background-color: #000 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.progress.fine .bar &#123;</span><br><span class="line">    background-color: #21ba45 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.progress.warning .bar &#123;</span><br><span class="line">    background-color: #ff9800 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.progress.error .bar &#123;</span><br><span class="line">    background-color: #e41e10 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.progress.offline .bar &#123;</span><br><span class="line">    background-color: #000 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 上传下载 */</span><br><span class="line">.status.cards .outline.icon &#123;</span><br><span class="line">    margin-right: 1px !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">i.arrow.alternate.circle.down.outline.icon &#123;</span><br><span class="line">    color: #21ba45 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">i.arrow.alternate.circle.up.outline.icon &#123;</span><br><span class="line">    color: red !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 弹出卡片小箭头 */</span><br><span class="line">.ui.right.center.popup &#123;</span><br><span class="line">    margin: -3px 0 0 0.914286em !important;</span><br><span class="line">    -webkit-transform-origin: left 50% !important;</span><br><span class="line">    transform-origin: left 50% !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.bottom.left.popup &#123;</span><br><span class="line">    margin-left: 1px !important;</span><br><span class="line">    margin-top: 3px !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.top.left.popup &#123;</span><br><span class="line">    margin-left: 0 !important;</span><br><span class="line">    margin-bottom: 10px !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.top.right.popup &#123;</span><br><span class="line">    margin-right: 0 !important;</span><br><span class="line">    margin-bottom: 8px !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.left.center.popup &#123;</span><br><span class="line">    margin: -3px .91428571em 0 0 !important;</span><br><span class="line">    -webkit-transform-origin: right 50% !important;</span><br><span class="line">    transform-origin: right 50% !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.right.center.popup:before,</span><br><span class="line">.ui.left.center.popup:before &#123;</span><br><span class="line">    border: 0px solid #fafafaeb !important;</span><br><span class="line">    background: #fafafaeb !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.top.popup:before &#123;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.popup:before &#123;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.bottom.left.popup:before &#123;</span><br><span class="line">    border-radius: 0 !important;</span><br><span class="line">    border: 1px solid transparent !important;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">    background: #fafafaeb !important;</span><br><span class="line">    -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.bottom.right.popup:before &#123;</span><br><span class="line">    border-radius: 0 !important;</span><br><span class="line">    border: 1px solid transparent !important;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">    background: #fafafaeb !important</span><br><span class="line">    -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.top.left.popup:before &#123;</span><br><span class="line">    border-radius: 0 !important;</span><br><span class="line">    border: 1px solid transparent !important;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">    background: #fafafaeb !important;</span><br><span class="line">    -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.top.right.popup:before &#123;</span><br><span class="line">    border-radius: 0 !important;</span><br><span class="line">    border: 1px solid transparent !important;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">    background: #fafafaeb !important;</span><br><span class="line">    -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.left.center.popup:before &#123;</span><br><span class="line">    border-radius: 0 !important;</span><br><span class="line">    border: 1px solid transparent !important;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">    background: #fafafaeb !important;</span><br><span class="line">    -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 弹出卡片 */</span><br><span class="line">.status.cards .ui.content.popup &#123;</span><br><span class="line">    min-width: 20rem !important;</span><br><span class="line">    line-height: 2rem !important;</span><br><span class="line">    border-radius: 5px !important;</span><br><span class="line">    border: 1px solid transparent !important;</span><br><span class="line">    background-color: #fafafaeb !important;</span><br><span class="line">    font-family: Arial,Helvetica,sans-serif !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.content &#123;</span><br><span class="line">    margin: 0 !important;</span><br><span class="line">    padding: 1em !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 服务页 */</span><br><span class="line">.ui.table &#123;</span><br><span class="line">    background: RGB(225,225,225,0.6) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.table thead th &#123;</span><br><span class="line">    background: transparent !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 服务页进度条 */</span><br><span class="line">.service-status .good &#123;</span><br><span class="line">    background-color: #21ba45 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.service-status .danger &#123;</span><br><span class="line">    background-color: red !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.service-status .warning &#123;</span><br><span class="line">    background-color: orange !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 版权 */</span><br><span class="line">.ui.inverted.segment, .ui.primary.inverted.segment &#123;</span><br><span class="line">    color: #000 !important;</span><br><span class="line">    font-weight: bold !important;</span><br><span class="line">    background-color: #fafafaa3 !important;</span><br><span class="line">&#125;</span><br><span class="line">&lt;/style&gt;</span><br><span class="line"> </span><br><span class="line">&lt;!--Logo和版权--&gt;</span><br><span class="line">&lt;script&gt;</span><br><span class="line">window.onload = function()&#123;</span><br><span class="line">var avatar=document.querySelector(&quot;.item img&quot;)</span><br><span class="line">var footer=document.querySelector(&quot;div.is-size-7&quot;)</span><br><span class="line">footer.innerHTML=&quot;奶妈监控面板 and 我扒的CSS&quot;</span><br><span class="line">footer.style.visibility=&quot;visible&quot;</span><br><span class="line">avatar.src=&quot;https://ii.do/favicon.ico&quot;</span><br><span class="line">avatar.style.visibility=&quot;visible&quot;</span><br><span class="line">&#125;</span><br><span class="line">var faviconurl=&quot;https://ii.do/favicon.ico&quot; ;                  </span><br><span class="line">var link = document.querySelector(&quot;link[rel*=&#x27;icon&#x27;]&quot;) || document.createElement(&#x27;link&#x27;);</span><br><span class="line">link.type = &#x27;image/x-icon&#x27;;</span><br><span class="line">link.rel = &#x27;shortcut icon&#x27;;</span><br><span class="line">link.href = faviconurl;</span><br><span class="line">document.getElementsByTagName(&#x27;head&#x27;)[0].appendChild(link);</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="hotaru主题更改背景图片示例"><a href="#hotaru主题更改背景图片示例" class="headerlink" title="hotaru主题更改背景图片示例"></a>hotaru主题更改背景图片示例</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;style&gt;</span><br><span class="line">.hotaru-cover &#123;</span><br><span class="line">    background: url(图片地址，可用api) center;</span><br><span class="line">&#125;</span><br><span class="line">&lt;/style&gt;</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>经验分享</category>
       </categories>
       <tags>
-        <tag>实用软件</tag>
         <tag>教程</tag>
       </tags>
   </entry>
@@ -1058,77 +1129,6 @@
       <tags>
         <tag>闲聊新闻</tag>
         <tag>AI模型</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在VPS上安装哪吒面板，并用Caddy实现反向代理</title>
-    <url>/posts/f1e2eb87/</url>
-    <content><![CDATA[<p>哪吒监控是一个开源、轻量的服务器和网站监控、运维工具，能够实时监控并报告服务器的状态。</p>
-<p>自从<a href="https://hax.co.id">Hax</a>、<a href="https://woiden.id">Woiden</a>和<a href="https://free.vps.vc">Vc</a>相继推出免费VPS服务以来，不少用户都有了自己的服务器，用来运行一些小项目，平时就很少去管理。</p>
-<p>这时就可以给服务器挂上探针，实时监控服务器的状态，运行不正常就会自动发送警报。</p>
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ol>
-<li>一台服务器当作面板机（最好是同时支持ipv4+ipv6协议）</li>
-<li>注册一个<a href="https://github.com">GitHub</a>账号</li>
-<li>注册一个域名</li>
-</ol>
-<h2 id="域名解析"><a href="#域名解析" class="headerlink" title="域名解析"></a>域名解析</h2><p>如果面板端需要使用CDN来访问，则需解析两个域名</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230210192719.png" alt=""></p>
-<p>两个域名都指向你的VPS地址，一个配置好CDN用作公开访问，CDN需要支持WebSocket协议；另一个域名不要使用CDN，用作监控端与面板端的通信，如：</p>
-<p><code>cdn.imnibaba.tk</code> 开启CDN<br><code>data.imnibaba.tk</code> 关闭CDN</p>
-<h2 id="获取Github的Client-ID和密钥"><a href="#获取Github的Client-ID和密钥" class="headerlink" title="获取Github的Client ID和密钥"></a>获取Github的Client ID和密钥</h2><p>为了方面后续管理，需要借助GitHub来登录面板后台</p>
-<p>登录GitHub后，打开<a href="https://github.com/settings/developers">https://github.com/settings/developers</a>，依次选择“OAuth Apps” - “New OAuth App”</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Application name - 随意填写</span><br><span class="line">Homepage URL - 填写面板的访问域名，如：&quot;http://cdn.imnibaba.tk&quot;</span><br><span class="line">Authorization callback URL - 填写回调地址，如：&quot;http://cdn.imnibaba.tk/oauth2/callback&quot;</span><br></pre></td></tr></table></figure>
-<p>然后点击“Register application”</p>
-<p>保存生成的Client ID，点击“Generate a new client secret“，创建一个新的Client Secret，并保存</p>
-<h2 id="安装面板端"><a href="#安装面板端" class="headerlink" title="安装面板端"></a>安装面板端</h2><p>项目地址：<a href="https://github.com/naiba/nezha">https://github.com/naiba/nezha</a><br>项目Wiki：<a href="https://nezha.wiki/">https://nezha.wiki/</a></p>
-<p>如果你是阿里云、腾讯云等大厂的VPS,请自行到防火墙和安全组策略中和放行<code>8008</code>和<code>5555</code>端口</p>
-<p>登录到自己的服务器，在命令行输入一键安装脚本</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">curl -L https://raw.githubusercontent.com/naiba/nezha/master/script/install.sh  -o nezha.sh &amp;&amp; chmod +x nezha.sh &amp;&amp; sudo ./nezha.sh</span><br></pre></td></tr></table></figure>
-<p>国内VPS如无法访问GitHub请使用下面的镜像脚本</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">curl -L https://cdn.jsdelivr.net/gh/naiba/nezha/script/install.sh -o nezha.sh &amp;&amp; chmod +x nezha.sh &amp;&amp; sudo CN=true ./nezha.sh</span><br></pre></td></tr></table></figure>
-<p>输入<code>1</code>并回车来安装面板端</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230210204849.png" alt=""></p>
-<p>等待Docker安装完成后，会提示输入下面的内容</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">OAuth提供商 - Github，Gitlab，Jihulab，Gitee 中选择一个</span><br><span class="line">Client ID - 之前保存的 Client ID</span><br><span class="line">Client Secret - 之前保存的密钥</span><br><span class="line">用户名 - OAuth 提供商中的用户名</span><br><span class="line">站点标题 - 自定义站点标题</span><br><span class="line">访问端口 - 公开访问端口，可自定义，默认 8008</span><br><span class="line">Agent的通信端口 - Agent与Dashboard的通信端口，默认 5555</span><br></pre></td></tr></table></figure>
-<p>输入完成后脚本会自动拉取镜像，等待即可</p>
-<p>安装结束后，你就可以在浏览器里访问套了CDN的 域名:端口号，如：<code>http://cdn.imnibaba.tk:8008</code>来访问面板了</p>
-<h3 id="反向代理"><a href="#反向代理" class="headerlink" title="反向代理"></a>反向代理</h3><p>这里我们使用Caddy来作为反向代理</p>
-<p>安装依赖</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt install -y debian-keyring debian-archive-keyring apt-transport-https</span><br></pre></td></tr></table></figure>
-<p>安装完成后，添加官方 Caddy GPG 密钥</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">curl -1sLf &#x27;https://dl.cloudsmith.io/public/caddy/stable/gpg.key&#x27; | sudo gpg --dearmor -o /usr/share/keyrings/caddy-stable-archive-keyring.gpg</span><br></pre></td></tr></table></figure>
-<p>使用以下命令创建存储库文件</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">curl -1sLf &#x27;https://dl.cloudsmith.io/public/caddy/stable/debian.deb.txt&#x27; | sudo tee /etc/apt/sources.list.d/caddy-stable.list</span><br></pre></td></tr></table></figure>
-<p>更新apt</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt update</span><br></pre></td></tr></table></figure>
-<p>最后，使用以下命令安装 Caddy</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">sudo apt install caddy -y</span><br></pre></td></tr></table></figure>
-<p>安装完成后，编辑配置文件</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">vim /etc/caddy/Caddyfile</span><br></pre></td></tr></table></figure>
-<p>将里面的内容全部删除，改为以下内容</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">cdn.imnibaba.tk #此项改为你的域名</span><br><span class="line">encode gzip</span><br><span class="line">reverse_proxy 127.0.0.1:8008</span><br></pre></td></tr></table></figure>
-<p>保存并退出编辑模式，按一下ESC键，输入以下内容后回车</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">:wq</span><br></pre></td></tr></table></figure>
-<p>随后重新启动Caddy，会自动配置好SSL</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">systemctl reload caddy # 重载配置文件</span><br><span class="line">systemctl daemon-reload # 重载服务</span><br><span class="line">systemctl enable caddy # 开机启动</span><br><span class="line">systemctl start caddy # 启动</span><br><span class="line">systemctl stop caddy # 停止</span><br><span class="line">systemctl restart caddy  # 重启</span><br><span class="line">systemctl status caddy   # 查看状态</span><br><span class="line">caddy version #查看caddy的版本信息</span><br></pre></td></tr></table></figure>
-<p>这时不出意外的话就可以在浏览器直接访问面板地址：<code>https://cdn.imnibaba.tk</code></p>
-<h2 id="安装监控端"><a href="#安装监控端" class="headerlink" title="安装监控端"></a>安装监控端</h2><p>浏览器访问面板端，在右上角点击登录，GitHub会提示授权，同意即可</p>
-<p>成功登录后，点击顶部的设置，找到未接入CDN的面板服务器域名/IP，填写第一步解析的通讯域名（data.imnibaba.tk），然后保存</p>
-<p>点击<code>添加服务器</code>，输入服务器名称、分组和序号，然后点击添加</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230210200325.png" alt=""></p>
-<p>这时列表里就会新增一条服务器信息，复制一键安装脚本，第一个是Linux，第二个是Windows</p>
-<p>将脚本复制到SHH并回车即可自动执行安装任务</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230210203242.png" alt=""></p>
-<p>安装完成后再次打开面板主页就能看到VPS状态了</p>
-<h2 id="自定义样式"><a href="#自定义样式" class="headerlink" title="自定义样式"></a>自定义样式</h2><p>以下是大佬们自己写的样式</p>
-<h3 id="Default透明主题"><a href="#Default透明主题" class="headerlink" title="Default透明主题"></a>Default透明主题</h3><p>主题来自 <a href="https://ii.do/43.html">https://ii.do/43.html</a></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;style&gt;</span><br><span class="line">/* 屏幕适配 */</span><br><span class="line">@media only screen and (min-width: 1200px) &#123;</span><br><span class="line">    .ui.container &#123;</span><br><span class="line">    width: 80% !important;</span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">@media only screen and (max-width: 767px) &#123;</span><br><span class="line">    .ui.card&gt;.content&gt;.header:not(.ui), .ui.cards&gt;.card&gt;.content&gt;.header:not(.ui) &#123;</span><br><span class="line">        margin-top: 0.4em !important;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 整体图标 */</span><br><span class="line">i.icon &#123;</span><br><span class="line">    color: #000;</span><br><span class="line">    width: 1.2em !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 背景图片 */</span><br><span class="line">body &#123;</span><br><span class="line">    content: &quot; &quot; !important;</span><br><span class="line">    background: fixed !important;</span><br><span class="line">    z-index: -1 !important;</span><br><span class="line">    top: 0 !important;</span><br><span class="line">    right: 0 !important;</span><br><span class="line">    bottom: 0 !important;</span><br><span class="line">    left: 0 !important;</span><br><span class="line">    background-position: top !important;</span><br><span class="line">    background-repeat: no-repeat !important;</span><br><span class="line">    background-size: cover !important;</span><br><span class="line">    background-image: url(https://gitee.com/darki/img/raw/master/1631081013043.webp) !important;</span><br><span class="line">    font-family: Arial,Helvetica,sans-serif !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 导航栏 */</span><br><span class="line">.ui.large.menu &#123;</span><br><span class="line">    border: 0 !important;</span><br><span class="line">    border-radius: 0px !important;</span><br><span class="line">    background-color: rgba(255, 255, 255, 55%) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 首页按钮 */</span><br><span class="line">.ui.menu .active.item &#123;</span><br><span class="line">    background-color: transparent !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 导航栏下拉框 */</span><br><span class="line">.ui.dropdown .menu &#123;</span><br><span class="line">    border: 0 !important;</span><br><span class="line">    border-radius: 0 !important;</span><br><span class="line">    background-color: rgba(255, 255, 255, 80%) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 登陆按钮 */</span><br><span class="line">.nezha-primary-btn &#123;</span><br><span class="line">    background-color: transparent !important;</span><br><span class="line">    color: #000 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 大卡片 */</span><br><span class="line">#app .ui.fluid.accordion &#123;</span><br><span class="line">    background-color: #fbfbfb26 !important;</span><br><span class="line">    border-radius: 0.4rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 小卡片 */</span><br><span class="line">.ui.four.cards&gt;.card &#123;</span><br><span class="line">    border-radius: 0.6rem !important;</span><br><span class="line">    background-color: #fafafaa3 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.status.cards .wide.column &#123;</span><br><span class="line">    padding-top: 0 !important;</span><br><span class="line">    padding-bottom: 0 !important;</span><br><span class="line">    height: 3.3rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.status.cards .three.wide.column &#123;</span><br><span class="line">    padding-right: 0rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.status.cards .wide.column:nth-child(1) &#123;</span><br><span class="line">    margin-top: 2rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.status.cards .wide.column:nth-child(2) &#123;</span><br><span class="line">    margin-top: 2rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.status.cards .description &#123;</span><br><span class="line">    padding-bottom: 0 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 小鸡名 */</span><br><span class="line">.status.cards .flag &#123;</span><br><span class="line">    margin-right: 0.5rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 弹出卡片图标 */</span><br><span class="line">.status.cards .header &gt; .info.icon &#123;</span><br><span class="line">    margin-right: 0 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.nezha-secondary-font &#123;</span><br><span class="line">    color: #21ba45 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 进度条 */</span><br><span class="line">.ui.progress &#123;</span><br><span class="line">    border-radius: 50rem !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.progress .bar &#123;</span><br><span class="line">    min-width: 1.8em !important;</span><br><span class="line">    border-radius: 15px !important;</span><br><span class="line">    line-height: 1.65em !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.fine.progress&gt; .bar &#123;</span><br><span class="line">    background-color: #21ba45 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.progress&gt; .bar &#123;</span><br><span class="line">    background-color: #000 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.progress.fine .bar &#123;</span><br><span class="line">    background-color: #21ba45 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.progress.warning .bar &#123;</span><br><span class="line">    background-color: #ff9800 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.progress.error .bar &#123;</span><br><span class="line">    background-color: #e41e10 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.progress.offline .bar &#123;</span><br><span class="line">    background-color: #000 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 上传下载 */</span><br><span class="line">.status.cards .outline.icon &#123;</span><br><span class="line">    margin-right: 1px !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">i.arrow.alternate.circle.down.outline.icon &#123;</span><br><span class="line">    color: #21ba45 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">i.arrow.alternate.circle.up.outline.icon &#123;</span><br><span class="line">    color: red !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 弹出卡片小箭头 */</span><br><span class="line">.ui.right.center.popup &#123;</span><br><span class="line">    margin: -3px 0 0 0.914286em !important;</span><br><span class="line">    -webkit-transform-origin: left 50% !important;</span><br><span class="line">    transform-origin: left 50% !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.bottom.left.popup &#123;</span><br><span class="line">    margin-left: 1px !important;</span><br><span class="line">    margin-top: 3px !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.top.left.popup &#123;</span><br><span class="line">    margin-left: 0 !important;</span><br><span class="line">    margin-bottom: 10px !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.top.right.popup &#123;</span><br><span class="line">    margin-right: 0 !important;</span><br><span class="line">    margin-bottom: 8px !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.left.center.popup &#123;</span><br><span class="line">    margin: -3px .91428571em 0 0 !important;</span><br><span class="line">    -webkit-transform-origin: right 50% !important;</span><br><span class="line">    transform-origin: right 50% !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.right.center.popup:before,</span><br><span class="line">.ui.left.center.popup:before &#123;</span><br><span class="line">    border: 0px solid #fafafaeb !important;</span><br><span class="line">    background: #fafafaeb !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.top.popup:before &#123;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.popup:before &#123;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.bottom.left.popup:before &#123;</span><br><span class="line">    border-radius: 0 !important;</span><br><span class="line">    border: 1px solid transparent !important;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">    background: #fafafaeb !important;</span><br><span class="line">    -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.bottom.right.popup:before &#123;</span><br><span class="line">    border-radius: 0 !important;</span><br><span class="line">    border: 1px solid transparent !important;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">    background: #fafafaeb !important</span><br><span class="line">    -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.top.left.popup:before &#123;</span><br><span class="line">    border-radius: 0 !important;</span><br><span class="line">    border: 1px solid transparent !important;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">    background: #fafafaeb !important;</span><br><span class="line">    -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.top.right.popup:before &#123;</span><br><span class="line">    border-radius: 0 !important;</span><br><span class="line">    border: 1px solid transparent !important;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">    background: #fafafaeb !important;</span><br><span class="line">    -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.left.center.popup:before &#123;</span><br><span class="line">    border-radius: 0 !important;</span><br><span class="line">    border: 1px solid transparent !important;</span><br><span class="line">    border-color: #fafafaeb transparent transparent !important;</span><br><span class="line">    background: #fafafaeb !important;</span><br><span class="line">    -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    box-shadow: 0px 0px 0 0 #fafafaeb !important;</span><br><span class="line">    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 弹出卡片 */</span><br><span class="line">.status.cards .ui.content.popup &#123;</span><br><span class="line">    min-width: 20rem !important;</span><br><span class="line">    line-height: 2rem !important;</span><br><span class="line">    border-radius: 5px !important;</span><br><span class="line">    border: 1px solid transparent !important;</span><br><span class="line">    background-color: #fafafaeb !important;</span><br><span class="line">    font-family: Arial,Helvetica,sans-serif !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.content &#123;</span><br><span class="line">    margin: 0 !important;</span><br><span class="line">    padding: 1em !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 服务页 */</span><br><span class="line">.ui.table &#123;</span><br><span class="line">    background: RGB(225,225,225,0.6) !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.ui.table thead th &#123;</span><br><span class="line">    background: transparent !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 服务页进度条 */</span><br><span class="line">.service-status .good &#123;</span><br><span class="line">    background-color: #21ba45 !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.service-status .danger &#123;</span><br><span class="line">    background-color: red !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">.service-status .warning &#123;</span><br><span class="line">    background-color: orange !important;</span><br><span class="line">&#125;</span><br><span class="line"> </span><br><span class="line">/* 版权 */</span><br><span class="line">.ui.inverted.segment, .ui.primary.inverted.segment &#123;</span><br><span class="line">    color: #000 !important;</span><br><span class="line">    font-weight: bold !important;</span><br><span class="line">    background-color: #fafafaa3 !important;</span><br><span class="line">&#125;</span><br><span class="line">&lt;/style&gt;</span><br><span class="line"> </span><br><span class="line">&lt;!--Logo和版权--&gt;</span><br><span class="line">&lt;script&gt;</span><br><span class="line">window.onload = function()&#123;</span><br><span class="line">var avatar=document.querySelector(&quot;.item img&quot;)</span><br><span class="line">var footer=document.querySelector(&quot;div.is-size-7&quot;)</span><br><span class="line">footer.innerHTML=&quot;奶妈监控面板 and 我扒的CSS&quot;</span><br><span class="line">footer.style.visibility=&quot;visible&quot;</span><br><span class="line">avatar.src=&quot;https://ii.do/favicon.ico&quot;</span><br><span class="line">avatar.style.visibility=&quot;visible&quot;</span><br><span class="line">&#125;</span><br><span class="line">var faviconurl=&quot;https://ii.do/favicon.ico&quot; ;                  </span><br><span class="line">var link = document.querySelector(&quot;link[rel*=&#x27;icon&#x27;]&quot;) || document.createElement(&#x27;link&#x27;);</span><br><span class="line">link.type = &#x27;image/x-icon&#x27;;</span><br><span class="line">link.rel = &#x27;shortcut icon&#x27;;</span><br><span class="line">link.href = faviconurl;</span><br><span class="line">document.getElementsByTagName(&#x27;head&#x27;)[0].appendChild(link);</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure>
-<h3 id="hotaru主题更改背景图片示例"><a href="#hotaru主题更改背景图片示例" class="headerlink" title="hotaru主题更改背景图片示例"></a>hotaru主题更改背景图片示例</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;style&gt;</span><br><span class="line">.hotaru-cover &#123;</span><br><span class="line">    background: url(图片地址，可用api) center;</span><br><span class="line">&#125;</span><br><span class="line">&lt;/style&gt;</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -1257,26 +1257,6 @@
       </tags>
   </entry>
   <entry>
-    <title>微软开源其1500多款3DEmoji表情包，供创作者免费使用</title>
-    <url>/posts/bbdc5ca1/</url>
-    <content><![CDATA[<p>据 <a href="https://www.theverge.com/2022/8/10/23299527/microsoft-emoji-open-source-creators">THE VERGE</a> 报道，8月11日，微软开源其 1500 多款 <code>3D Emoji</code> 表情包，并表示将在 <a href="https://www.figma.com/community/file/1138254942249677742">Figma</a> 和 <a href="https://github.com/microsoft/fluentui-emoji">GitHub</a> 上提供，所有创作者均可免费使用这些3D表情包作为素材，微软希望此举能够鼓励表情符号领域更多的创造力和包容性。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220811134201.png" alt="来自微软"></p>
-<p>微软在去年发布的 Windows 11 中发布了微软 Emoji 库，并于今年 2 月份在 Microsoft Teams 中发布了 3D 版本，但是微软最初并没有打算将其开源。</p>
-<p>微软设计和研究副总裁乔恩弗里德曼（Jon Friedman）在接受 The Verge 采访时称：“在项目初期，我们专注于设计微软 Emoji，但在项目推进过程中，我们萌生出了开源的想法。这与我们的信念和观点一致，即我们开源的越多，我们可以构建的产品就会越优秀，我们就能为全人类提供更多的服务”。</p>
-<p>构建微软 Emoji 库时，微软团队花费了大量时间来提高其包容性，以满足不同人种和国家对 Emoji 的需求。最终，微软设计了 1538 款 Emoji，并且可以自定义肤色、颜色饱和度等。值得一提的是，Clippy 也被引入作为标准回形针 Emoji 的替代品，但由于微软商标的法律要求，该 Emoji 是少数几个不开源的 Emoji 之一。</p>
-<p><strong>微软希望创作者探索其表情符号的更多使用方式</strong>。弗里德曼解释道：“在微软内部，我们是一个小团队，只能做这么多或看到这么多。我们渴望让更多人参与进来，帮助我们看到并做更多的事情，将 Emoji 带到我们无法预见的地方”。</p>
-<p>具体来说，创作者能够将微软 Emoji 进行重新组合，或者基于其创造出新的 Emoji。弗里德曼表示，在其团队几年前设计应用程序图标时，有人制作了漫威版本的应用程序图标，他们想要的就是这种伟大的创造性表达。</p>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
-      <tags>
-        <tag>闲聊新闻</tag>
-        <tag>GitHub</tag>
-        <tag>设计指北</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>学会使用油猴脚本，让你的浏览器秒变效率神器！</title>
     <url>/posts/f247ac05/</url>
     <content><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>说不知道你有没有听说过Tampermonkey，这是一款浏览器扩展插件，大家都喜欢把它叫做「油猴脚本」。</p>
@@ -1307,6 +1287,121 @@
       <tags>
         <tag>实用软件</tag>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>微软开源其1500多款3DEmoji表情包，供创作者免费使用</title>
+    <url>/posts/bbdc5ca1/</url>
+    <content><![CDATA[<p>据 <a href="https://www.theverge.com/2022/8/10/23299527/microsoft-emoji-open-source-creators">THE VERGE</a> 报道，8月11日，微软开源其 1500 多款 <code>3D Emoji</code> 表情包，并表示将在 <a href="https://www.figma.com/community/file/1138254942249677742">Figma</a> 和 <a href="https://github.com/microsoft/fluentui-emoji">GitHub</a> 上提供，所有创作者均可免费使用这些3D表情包作为素材，微软希望此举能够鼓励表情符号领域更多的创造力和包容性。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220811134201.png" alt="来自微软"></p>
+<p>微软在去年发布的 Windows 11 中发布了微软 Emoji 库，并于今年 2 月份在 Microsoft Teams 中发布了 3D 版本，但是微软最初并没有打算将其开源。</p>
+<p>微软设计和研究副总裁乔恩弗里德曼（Jon Friedman）在接受 The Verge 采访时称：“在项目初期，我们专注于设计微软 Emoji，但在项目推进过程中，我们萌生出了开源的想法。这与我们的信念和观点一致，即我们开源的越多，我们可以构建的产品就会越优秀，我们就能为全人类提供更多的服务”。</p>
+<p>构建微软 Emoji 库时，微软团队花费了大量时间来提高其包容性，以满足不同人种和国家对 Emoji 的需求。最终，微软设计了 1538 款 Emoji，并且可以自定义肤色、颜色饱和度等。值得一提的是，Clippy 也被引入作为标准回形针 Emoji 的替代品，但由于微软商标的法律要求，该 Emoji 是少数几个不开源的 Emoji 之一。</p>
+<p><strong>微软希望创作者探索其表情符号的更多使用方式</strong>。弗里德曼解释道：“在微软内部，我们是一个小团队，只能做这么多或看到这么多。我们渴望让更多人参与进来，帮助我们看到并做更多的事情，将 Emoji 带到我们无法预见的地方”。</p>
+<p>具体来说，创作者能够将微软 Emoji 进行重新组合，或者基于其创造出新的 Emoji。弗里德曼表示，在其团队几年前设计应用程序图标时，有人制作了漫威版本的应用程序图标，他们想要的就是这种伟大的创造性表达。</p>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
+      <tags>
+        <tag>闲聊新闻</tag>
+        <tag>GitHub</tag>
+        <tag>设计指北</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>无需服务器免费部署一个自己的主页，并套用CDN实现加速访问</title>
+    <url>/posts/31bccfd0/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天在 GitHub 无意间发现了 @imsyy 大佬开源的一款 <a href="https://github.com/imsyy/home">个人主页</a> ，整体界面非常好看，适合个人网站引导使用。下面就给大家演示一下怎么优雅地将这款个人主页程序部署到 <code>GitHub</code> 和 <code>vercel</code> 上，并套用 <code>免费CDN</code> 实现加速访问，追求零成本搭建网站。</p>
+<p>演示站：<a href="https://jx-ll.cn">https://jx-ll.cn</a></p>
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li>电脑能正常访问 <a href="https://github.com/">GitHub</a> ，如果不能访问请自行挂梯子或更改本地 hosts</li>
+<li>如果要使用国内 CDN 则需要准备一个已备案域名</li>
+<li>没了</li>
+</ul>
+<h2 id="下载源码"><a href="#下载源码" class="headerlink" title="下载源码"></a>下载源码</h2><p>进入<a href="https://github.com/imsyy/home">项目主页</a>，点击右上角的<code>Code</code>按钮，再点击<code>Download ZIP</code></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142043.png" alt=""></p>
+<p>下载好后将压缩包解压，解压出来的文件夹里面就是该项目的完整源码了</p>
+<h2 id="修改源码"><a href="#修改源码" class="headerlink" title="修改源码"></a>修改源码</h2><p>可以看到，这个项目是一个 HTML 纯静态网页，网页内的大部分内容都可以直接在 <code>index.html</code> 文件里直接修改</p>
+<p>由于引入字体的 cdn 开启了防盗链，所以我们要在 <code>index.html</code> 文件的 <code>24行左右</code> 将 href 修改为作者提供的链接</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- HarmonyOS Sans --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 本站 CDN 已开启防盗链，非本站域名不可访问，请更改链接为下方内容，否则自定义字体将失效 --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;https://cdn.imsyy.top/gh/imsyy/file/font/HarmonyOS_Sans/regular.min.css&quot;</span> /&gt;</span></span><br></pre></td></tr></table></figure>
+<p>为了防止cdn失效，你还可以将该css文件下载到本地，将其引入</p>
+<p>其中， <code>old</code> 文件夹是作者之前开发的 <a href="https://github.com/imsyy/Snavigation">Snavigation</a> ，也是一个起始页，有兴趣的可以看看。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142528.png" alt=""></p>
+<h3 id="自定义歌单"><a href="#自定义歌单" class="headerlink" title="自定义歌单"></a>自定义歌单</h3><p>本项目采用了基于 MetingJS 的 Aplayer 音乐播放器，可实现快速自定义歌单<br>默认仅支持 <strong>中国大陆地区</strong>，其他区域请将 <a href="https://cdn.jsdelivr.net/gh/imsyy/file/js/music/music-other.js">以下内容</a> 替换 <code>music.js</code> 以实现音乐播放器的正常使用</p>
+<p>如需自定义歌单，只需将 <code>/js/music.js</code> 文件的 <code>12-14行</code> 修改为你自己的信息即可</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> server = <span class="string">&quot;netease&quot;</span>; <span class="comment">//netease: 网易云音乐; tencent: QQ音乐; kugou: 酷狗音乐; xiami: 虾米; kuwo: 酷我</span></span><br><span class="line"><span class="keyword">let</span> type = <span class="string">&quot;playlist&quot;</span>; <span class="comment">//song: 单曲; playlist: 歌单; album: 唱片</span></span><br><span class="line"><span class="keyword">let</span> id = <span class="string">&quot;7452421335&quot;</span>; <span class="comment">//封面 ID / 单曲 ID / 歌单 ID</span></span><br></pre></td></tr></table></figure>
+<p>网易云的歌单 id 一般在网页链接的 <code>?id</code> 后面，其他平台大同小异</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145302.png" alt=""></p>
+<h2 id="部署到-GitHub"><a href="#部署到-GitHub" class="headerlink" title="部署到 GitHub"></a>部署到 GitHub</h2><p>进入到自己的 GitHub 后台，<a href="https://github.com/new">新建一个仓库</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Repository name: 仓库名称</span><br><span class="line">Description(可选): 仓库描述介绍,不是必填项</span><br><span class="line">Public, Private : 仓库权限。public 公开共享，private 私有或指定合作者</span><br><span class="line">Initialize this repository with a README: 添加一个README.md</span><br><span class="line">gitignore: 不需要进行版本管理的仓库类型，对应生成文件.gitignore</span><br><span class="line">license: 证书类型，对应生成文件LICENSE</span><br></pre></td></tr></table></figure>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145735.png" alt=""></p>
+<p>创建好仓库后就要将刚刚修改好的源码上传到仓库，有两种方法</p>
+<p>推荐使用 <code>Git Bash</code>，如果没有的话也可以手动上传</p>
+<h3 id="方法一、用-Git-Bash-上传"><a href="#方法一、用-Git-Bash-上传" class="headerlink" title="方法一、用 Git Bash 上传"></a>方法一、用 Git Bash 上传</h3><p>下载并安装好 <a href="https://git-scm.com/download/win">Git Bash</a></p>
+<p>在本地新建个空文件夹，打开文件夹，在空白处单击右键，选择 <code>Git Bash Here</code></p>
+<p>返回刚刚创建好的 GitHub 项目地址，点击右上角的<code>Code</code>按钮，将 git 地址复制下来</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816151255.png" alt=""></p>
+<p>切换到 <code>Git Bash软件</code> ，将项目克隆到本地。命令为：<code>git clone + 刚刚复制的 git 地址</code></p>
+<p>如果弹出需要连接的提示框，点击 <code>Sign in with your browser</code> ，在浏览器中授权即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152056.png" alt=""></p>
+<p>等一会儿后就能看到文件夹里多了一个项目名称的文件夹</p>
+<p>接下来将之前修改好的项目源码复制到这个项目文件夹中</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152440.png" alt=""></p>
+<p>返回到 <code>Git Bash软件</code> ，输入 <code>cd + 文件夹名称</code> ，切换目录</p>
+<p>依次输入以下命令，将整个文件夹上传到 GitHub</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git add .</span><br><span class="line">git commit -m “你的提交信息”</span><br></pre></td></tr></table></figure>
+<p>这时可能会要求你输入以下内容来确认你的身份</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;you@example.com&quot;</span><br><span class="line">git config --global user.name &quot;Your Name&quot;</span><br></pre></td></tr></table></figure>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153212.png" alt=""></p>
+<p>接着再输入<code>git pull</code>，就可以开始上传了</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153129.png" alt=""></p>
+<p>上传结束后，返回到你的项目主页，可以看到文件已成功上传</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154119.png" alt=""></p>
+<p>这时就可以进行访问了，地址是：<a href="https://username.github.io/repositories">https://username.github.io/repositories</a> （username是你的用户名，repositories是你的项目名）</p>
+<p>例如我的就是：<del><a href="https://jonxinxin.github.io/myhome">https://jonxinxin.github.io/myhome</a></del> （已删除）</p>
+<h3 id="方法二、手动上传"><a href="#方法二、手动上传" class="headerlink" title="方法二、手动上传"></a>方法二、手动上传</h3><p>如果电脑没有 <code>Git Bash</code> ，而且不想下载的话，也可以直接手动进行上传</p>
+<p>进入 GitHub 项目主页，点击右上角的 <code>Add file</code> -&gt; <code>Upload files</code> 进入到上传页面</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163342.png" alt=""></p>
+<p>直接将整个项目文件夹拖到上传框内，即可自动上传项目内的文件夹及文件</p>
+<p>如果点击 <code>choose your files</code> 就只能上传单个文件，不方便</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154731.png" alt=""></p>
+<p>全部上传完毕后点击 <code>Commit changes</code> 提交即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155239.png" alt=""></p>
+<h2 id="部署到Vercel"><a href="#部署到Vercel" class="headerlink" title="部署到Vercel"></a>部署到Vercel</h2><p>进入 Vercel 的 <a href="https://vercel.com/dashboard">控制台</a> ，点击右上角的 <code>New Project</code> 来新建一个项目</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155642.png" alt=""></p>
+<p>这里我已经将 Vercel 与 Github 绑定了，如果没有绑定的可按照说明绑定</p>
+<p>绑定好后这里会出现绑定的 GitHub 下的所有项目，点击 <code>Import</code> 可以直接导入到 Vercel</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155814.png" alt=""></p>
+<p>这里直接点击 <code>Deploy</code> 部署即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160127.png" alt=""></p>
+<p>过一会儿就会出现满屏的彩带，部署成功</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160308.png" alt=""></p>
+<p>点击 <code>Go to Dashboard</code> 进入控制台，可以看到 Vercel 默认给我们分配了一个域名</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160353.png" alt=""></p>
+<p>访问该域名就能看到我们部署好的项目</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160556.png" alt=""></p>
+<p>但是这段时间 Vercel 在国内的访问速度非常拉跨，如果不套用 cdn 的话往往需要加载很久</p>
+<h2 id="使用DogeCloud免费加速网站"><a href="#使用DogeCloud免费加速网站" class="headerlink" title="使用DogeCloud免费加速网站"></a>使用DogeCloud免费加速网站</h2><p>DogeCloud 为用户免费提供了每月 20GB 的 CDN 流量包，对于普通用户来说，完全足够</p>
+<p>但想使用国内 CDN 有一个缺点就是加速域名必须是已备案的</p>
+<p>如果域名未备案也可套用 cloudflare 的 cdn ，但速度就没那么理想</p>
+<p>首先 <a href="https://console.dogecloud.com/register.html">注册</a> 一个 DogeCloud 账号，并完成实名验证</p>
+<p>然后在 <a href="https://console.dogecloud.com/cdn/list">域名管理</a> 中添加一个已备案的域名</p>
+<p>其中， <code>源站域名</code> 为刚刚 Vercel 分配的域名，回源 HOST 可以不填</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816161610.png" alt=""></p>
+<p>添加好域名后到将域名解析到 DogeCloud ，记录值为 DogeCloud 提供的 CNAME 域名</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163716.png" alt=""></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162034.png" alt=""></p>
+<p>接着到 Vercel ，点击 <code>View Domains</code> 绑定刚刚添加的加速域名，等待生效即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162334.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>GitHub</tag>
+        <tag>CDN</tag>
       </tags>
   </entry>
   <entry>
@@ -3468,101 +3563,6 @@
       </tags>
   </entry>
   <entry>
-    <title>无需服务器免费部署一个自己的主页，并套用CDN实现加速访问</title>
-    <url>/posts/31bccfd0/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天在 GitHub 无意间发现了 @imsyy 大佬开源的一款 <a href="https://github.com/imsyy/home">个人主页</a> ，整体界面非常好看，适合个人网站引导使用。下面就给大家演示一下怎么优雅地将这款个人主页程序部署到 <code>GitHub</code> 和 <code>vercel</code> 上，并套用 <code>免费CDN</code> 实现加速访问，追求零成本搭建网站。</p>
-<p>演示站：<a href="https://jx-ll.cn">https://jx-ll.cn</a></p>
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li>电脑能正常访问 <a href="https://github.com/">GitHub</a> ，如果不能访问请自行挂梯子或更改本地 hosts</li>
-<li>如果要使用国内 CDN 则需要准备一个已备案域名</li>
-<li>没了</li>
-</ul>
-<h2 id="下载源码"><a href="#下载源码" class="headerlink" title="下载源码"></a>下载源码</h2><p>进入<a href="https://github.com/imsyy/home">项目主页</a>，点击右上角的<code>Code</code>按钮，再点击<code>Download ZIP</code></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142043.png" alt=""></p>
-<p>下载好后将压缩包解压，解压出来的文件夹里面就是该项目的完整源码了</p>
-<h2 id="修改源码"><a href="#修改源码" class="headerlink" title="修改源码"></a>修改源码</h2><p>可以看到，这个项目是一个 HTML 纯静态网页，网页内的大部分内容都可以直接在 <code>index.html</code> 文件里直接修改</p>
-<p>由于引入字体的 cdn 开启了防盗链，所以我们要在 <code>index.html</code> 文件的 <code>24行左右</code> 将 href 修改为作者提供的链接</p>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- HarmonyOS Sans --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 本站 CDN 已开启防盗链，非本站域名不可访问，请更改链接为下方内容，否则自定义字体将失效 --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;https://cdn.imsyy.top/gh/imsyy/file/font/HarmonyOS_Sans/regular.min.css&quot;</span> /&gt;</span></span><br></pre></td></tr></table></figure>
-<p>为了防止cdn失效，你还可以将该css文件下载到本地，将其引入</p>
-<p>其中， <code>old</code> 文件夹是作者之前开发的 <a href="https://github.com/imsyy/Snavigation">Snavigation</a> ，也是一个起始页，有兴趣的可以看看。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142528.png" alt=""></p>
-<h3 id="自定义歌单"><a href="#自定义歌单" class="headerlink" title="自定义歌单"></a>自定义歌单</h3><p>本项目采用了基于 MetingJS 的 Aplayer 音乐播放器，可实现快速自定义歌单<br>默认仅支持 <strong>中国大陆地区</strong>，其他区域请将 <a href="https://cdn.jsdelivr.net/gh/imsyy/file/js/music/music-other.js">以下内容</a> 替换 <code>music.js</code> 以实现音乐播放器的正常使用</p>
-<p>如需自定义歌单，只需将 <code>/js/music.js</code> 文件的 <code>12-14行</code> 修改为你自己的信息即可</p>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> server = <span class="string">&quot;netease&quot;</span>; <span class="comment">//netease: 网易云音乐; tencent: QQ音乐; kugou: 酷狗音乐; xiami: 虾米; kuwo: 酷我</span></span><br><span class="line"><span class="keyword">let</span> type = <span class="string">&quot;playlist&quot;</span>; <span class="comment">//song: 单曲; playlist: 歌单; album: 唱片</span></span><br><span class="line"><span class="keyword">let</span> id = <span class="string">&quot;7452421335&quot;</span>; <span class="comment">//封面 ID / 单曲 ID / 歌单 ID</span></span><br></pre></td></tr></table></figure>
-<p>网易云的歌单 id 一般在网页链接的 <code>?id</code> 后面，其他平台大同小异</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145302.png" alt=""></p>
-<h2 id="部署到-GitHub"><a href="#部署到-GitHub" class="headerlink" title="部署到 GitHub"></a>部署到 GitHub</h2><p>进入到自己的 GitHub 后台，<a href="https://github.com/new">新建一个仓库</a></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Repository name: 仓库名称</span><br><span class="line">Description(可选): 仓库描述介绍,不是必填项</span><br><span class="line">Public, Private : 仓库权限。public 公开共享，private 私有或指定合作者</span><br><span class="line">Initialize this repository with a README: 添加一个README.md</span><br><span class="line">gitignore: 不需要进行版本管理的仓库类型，对应生成文件.gitignore</span><br><span class="line">license: 证书类型，对应生成文件LICENSE</span><br></pre></td></tr></table></figure>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145735.png" alt=""></p>
-<p>创建好仓库后就要将刚刚修改好的源码上传到仓库，有两种方法</p>
-<p>推荐使用 <code>Git Bash</code>，如果没有的话也可以手动上传</p>
-<h3 id="方法一、用-Git-Bash-上传"><a href="#方法一、用-Git-Bash-上传" class="headerlink" title="方法一、用 Git Bash 上传"></a>方法一、用 Git Bash 上传</h3><p>下载并安装好 <a href="https://git-scm.com/download/win">Git Bash</a></p>
-<p>在本地新建个空文件夹，打开文件夹，在空白处单击右键，选择 <code>Git Bash Here</code></p>
-<p>返回刚刚创建好的 GitHub 项目地址，点击右上角的<code>Code</code>按钮，将 git 地址复制下来</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816151255.png" alt=""></p>
-<p>切换到 <code>Git Bash软件</code> ，将项目克隆到本地。命令为：<code>git clone + 刚刚复制的 git 地址</code></p>
-<p>如果弹出需要连接的提示框，点击 <code>Sign in with your browser</code> ，在浏览器中授权即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152056.png" alt=""></p>
-<p>等一会儿后就能看到文件夹里多了一个项目名称的文件夹</p>
-<p>接下来将之前修改好的项目源码复制到这个项目文件夹中</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152440.png" alt=""></p>
-<p>返回到 <code>Git Bash软件</code> ，输入 <code>cd + 文件夹名称</code> ，切换目录</p>
-<p>依次输入以下命令，将整个文件夹上传到 GitHub</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git add .</span><br><span class="line">git commit -m “你的提交信息”</span><br></pre></td></tr></table></figure>
-<p>这时可能会要求你输入以下内容来确认你的身份</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;you@example.com&quot;</span><br><span class="line">git config --global user.name &quot;Your Name&quot;</span><br></pre></td></tr></table></figure>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153212.png" alt=""></p>
-<p>接着再输入<code>git pull</code>，就可以开始上传了</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153129.png" alt=""></p>
-<p>上传结束后，返回到你的项目主页，可以看到文件已成功上传</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154119.png" alt=""></p>
-<p>这时就可以进行访问了，地址是：<a href="https://username.github.io/repositories">https://username.github.io/repositories</a> （username是你的用户名，repositories是你的项目名）</p>
-<p>例如我的就是：<del><a href="https://jonxinxin.github.io/myhome">https://jonxinxin.github.io/myhome</a></del> （已删除）</p>
-<h3 id="方法二、手动上传"><a href="#方法二、手动上传" class="headerlink" title="方法二、手动上传"></a>方法二、手动上传</h3><p>如果电脑没有 <code>Git Bash</code> ，而且不想下载的话，也可以直接手动进行上传</p>
-<p>进入 GitHub 项目主页，点击右上角的 <code>Add file</code> -&gt; <code>Upload files</code> 进入到上传页面</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163342.png" alt=""></p>
-<p>直接将整个项目文件夹拖到上传框内，即可自动上传项目内的文件夹及文件</p>
-<p>如果点击 <code>choose your files</code> 就只能上传单个文件，不方便</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154731.png" alt=""></p>
-<p>全部上传完毕后点击 <code>Commit changes</code> 提交即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155239.png" alt=""></p>
-<h2 id="部署到Vercel"><a href="#部署到Vercel" class="headerlink" title="部署到Vercel"></a>部署到Vercel</h2><p>进入 Vercel 的 <a href="https://vercel.com/dashboard">控制台</a> ，点击右上角的 <code>New Project</code> 来新建一个项目</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155642.png" alt=""></p>
-<p>这里我已经将 Vercel 与 Github 绑定了，如果没有绑定的可按照说明绑定</p>
-<p>绑定好后这里会出现绑定的 GitHub 下的所有项目，点击 <code>Import</code> 可以直接导入到 Vercel</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155814.png" alt=""></p>
-<p>这里直接点击 <code>Deploy</code> 部署即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160127.png" alt=""></p>
-<p>过一会儿就会出现满屏的彩带，部署成功</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160308.png" alt=""></p>
-<p>点击 <code>Go to Dashboard</code> 进入控制台，可以看到 Vercel 默认给我们分配了一个域名</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160353.png" alt=""></p>
-<p>访问该域名就能看到我们部署好的项目</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160556.png" alt=""></p>
-<p>但是这段时间 Vercel 在国内的访问速度非常拉跨，如果不套用 cdn 的话往往需要加载很久</p>
-<h2 id="使用DogeCloud免费加速网站"><a href="#使用DogeCloud免费加速网站" class="headerlink" title="使用DogeCloud免费加速网站"></a>使用DogeCloud免费加速网站</h2><p>DogeCloud 为用户免费提供了每月 20GB 的 CDN 流量包，对于普通用户来说，完全足够</p>
-<p>但想使用国内 CDN 有一个缺点就是加速域名必须是已备案的</p>
-<p>如果域名未备案也可套用 cloudflare 的 cdn ，但速度就没那么理想</p>
-<p>首先 <a href="https://console.dogecloud.com/register.html">注册</a> 一个 DogeCloud 账号，并完成实名验证</p>
-<p>然后在 <a href="https://console.dogecloud.com/cdn/list">域名管理</a> 中添加一个已备案的域名</p>
-<p>其中， <code>源站域名</code> 为刚刚 Vercel 分配的域名，回源 HOST 可以不填</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816161610.png" alt=""></p>
-<p>添加好域名后到将域名解析到 DogeCloud ，记录值为 DogeCloud 提供的 CNAME 域名</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163716.png" alt=""></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162034.png" alt=""></p>
-<p>接着到 Vercel ，点击 <code>View Domains</code> 绑定刚刚添加的加速域名，等待生效即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162334.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>GitHub</tag>
-        <tag>CDN</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>有了网盘找不到资源？不，我不允许！</title>
     <url>/posts/91246aed/</url>
     <content><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>2021年3月22日，阿里云盘宣布正式公测。打着「永不限速」的口号，使得被某度网盘限速的小伙伴们纷纷「转投阵营」，阿里云盘迅速抢占了在国内的部分市场。</p>
@@ -3749,101 +3749,6 @@
       </tags>
   </entry>
   <entry>
-    <title>最全2022支付宝集五福攻略</title>
-    <url>/posts/a3db79a2/</url>
-    <content><![CDATA[<div class="tip "><p>五福来啦，五福来啦。支付宝的集五福活动，已经成了不少人过年必玩的游戏，尽管每年瓜分的奖励越来越少，但支付宝的集五福活动好像已经成为了很多人的一种「习惯」。</p>
-<p>2022年支付宝集五福活动今日正式开启。此次集五福活动时间1月19日到1月31日，瓜分红包时间1月31日晚上22:18。</p>
-</div>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201191.webp" alt=""></p>
-<p>数据显示，过去六年累计参与支付宝集五福的人数已经超过了7亿，每2个中国人里就有1个曾扫福、集福、送福。</p>
-<p>这不，活动才刚开始第一天，就有已经有二十多万人集齐了五福。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201192.webp" alt=""></p>
-<p>江小鑫作为一个集五福活动的忠实爱好者，今天就和大家一起盘点一下，怎样才能更快集齐五福。</p>
-<h3 id="直接领取随机福卡"><a href="#直接领取随机福卡" class="headerlink" title="直接领取随机福卡"></a>直接领取随机福卡</h3><details class="toggle" style="border: 1px solid bg"><summary class="toggle-button" style="background-color: bg;color: color">点我展开链接</summary><div class="toggle-content"><p><img src="https://cdn.jx-ll.cn/post_img/2022011901.jpg" alt=""></p>
-<p>每天最多领15个！领取后去支付宝卡包里使用兑换！<br>部分提示人气太旺就明天领，验证码频繁就晚点再去领！<br><a href="https://tb3.cn/AAMiHt">https://tb3.cn/AAMiHt</a><br><a href="https://tb3.cn/Ade6AT">https://tb3.cn/Ade6AT</a><br><a href="https://tb3.cn/AccWiM">https://tb3.cn/AccWiM</a><br><a href="https://tb3.cn/ACRASx">https://tb3.cn/ACRASx</a><br><a href="https://tb3.cn/AKjv4Q">https://tb3.cn/AKjv4Q</a><br><a href="https://tb3.cn/AEctS0">https://tb3.cn/AEctS0</a><br><a href="https://tb3.cn/AfUW1A">https://tb3.cn/AfUW1A</a><br><a href="https://tb3.cn/AxSoLr">https://tb3.cn/AxSoLr</a><br><a href="https://tb3.cn/AGmYIu">https://tb3.cn/AGmYIu</a><br><a href="https://tb3.cn/AM4ze2">https://tb3.cn/AM4ze2</a><br><a href="https://tb3.cn/AtYJUF">https://tb3.cn/AtYJUF</a><br><a href="https://tb3.cn/AvQPKu">https://tb3.cn/AvQPKu</a><br><a href="https://tb3.cn/AmoNZJ">https://tb3.cn/AmoNZJ</a><br><a href="https://tb3.cn/ApHf5I">https://tb3.cn/ApHf5I</a><br><a href="https://tb3.cn/AYpHuJ">https://tb3.cn/AYpHuJ</a><br><a href="https://tb3.cn/A4zToA">https://tb3.cn/A4zToA</a><br><a href="https://tb3.cn/AQOuUw">https://tb3.cn/AQOuUw</a><br><a href="https://tb3.cn/Afwwoz">https://tb3.cn/Afwwoz</a><br><a href="https://tb3.cn/Ajf17n">https://tb3.cn/Ajf17n</a><br><a href="https://tb3.cn/Aj1JX5">https://tb3.cn/Aj1JX5</a><br><a href="https://tb3.cn/AvGeJT">https://tb3.cn/AvGeJT</a><br><a href="https://tb3.cn/AHYuTE">https://tb3.cn/AHYuTE</a><br><a href="https://tb3.cn/AEwX1C">https://tb3.cn/AEwX1C</a><br><a href="https://tb3.cn/AwYqxb">https://tb3.cn/AwYqxb</a><br><a href="https://tb3.cn/AF40tH">https://tb3.cn/AF40tH</a><br><a href="https://tb3.cn/APiNWj">https://tb3.cn/APiNWj</a><br><a href="https://tb3.cn/AGWjlZ">https://tb3.cn/AGWjlZ</a><br><a href="https://tb3.cn/AlipSJ">https://tb3.cn/AlipSJ</a><br><a href="https://tb3.cn/AujEfq">https://tb3.cn/AujEfq</a><br><a href="https://tb3.cn/ALyr88">https://tb3.cn/ALyr88</a><br><a href="https://tb3.cn/AC0erE">https://tb3.cn/AC0erE</a><br><a href="https://tb3.cn/AOhMOe">https://tb3.cn/AOhMOe</a><br><a href="https://tb3.cn/AT62vC">https://tb3.cn/AT62vC</a><br><a href="https://tb3.cn/ALwhP6">https://tb3.cn/ALwhP6</a><br><a href="https://tb3.cn/AUJ9sB">https://tb3.cn/AUJ9sB</a><br><a href="https://tb3.cn/A8kxhI">https://tb3.cn/A8kxhI</a><br><a href="https://tb3.cn/AoT80q">https://tb3.cn/AoT80q</a><br><a href="https://tb3.cn/APqNhY">https://tb3.cn/APqNhY</a><br><a href="https://tb3.cn/AzIr11">https://tb3.cn/AzIr11</a><br><a href="https://tb3.cn/Aj6WUG">https://tb3.cn/Aj6WUG</a><br><a href="https://tb3.cn/AdBizf">https://tb3.cn/AdBizf</a><br><a href="https://tb3.cn/AlE9Na">https://tb3.cn/AlE9Na</a></p>
-</div></details>
-<h3 id="钻石会员直接得"><a href="#钻石会员直接得" class="headerlink" title="钻石会员直接得"></a>钻石会员直接得</h3><p>如果你是支付宝的钻石会员，那么恭喜你，你可以在几分钟内就集齐一套五福。</p>
-<p>支付宝会直接对钻石会员赠送一套「钻石会员专属套卡」，其中包含了「一张敬业福、一张沾福气卡、一张全家福」。</p>
-<p>这几张最关键的福卡直接送给你，剩下的那几张，随便扫几张福字就能得到。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201193.webp" alt=""></p>
-<p>可能也正是因为这样，才导致活动刚上线第一天，就已经有二十多万人集齐了。</p>
-<p>不够，毕竟钻石会员是少部分用户。但对于绝大多数普通用户来说，要怎样才能更快集齐五福呢？别急，攻略这就给你送上。</p>
-<h3 id="AR扫码"><a href="#AR扫码" class="headerlink" title="AR扫码"></a>AR扫码</h3><p>这是最原始的方法，但也是最有效的方法。不过江小鑫建议大家不要去扫那些普通的福字，一定要扫支付宝官方给出的这些福，得敬业福和万能福的几率更大。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201194.webp" alt=""></p>
-<p>具体操作方法：打开 支付宝-&gt;扫一扫-&gt;选择AR-&gt;扫上图中的任意福字-&gt;立即收下福卡（需要有两台设备才行）。</p>
-<h3 id="赠送福卡"><a href="#赠送福卡" class="headerlink" title="赠送福卡"></a>赠送福卡</h3><p>扫码次数用完了，多余的福该怎么办呢？千万别觉得没用了，你可以把福卡赠送给身边还没有扫过福的朋友，你也有机会可以得到沾福气卡或万能福。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201195.webp" alt=""></p>
-<p>操作方法：进入 集五福活动-&gt;我的福卡-&gt;选择任意一张福卡-&gt;送给亲友-&gt;送Ta（记得送给还没有集福的亲友哦）。</p>
-<h3 id="写福字得福卡"><a href="#写福字得福卡" class="headerlink" title="写福字得福卡"></a>写福字得福卡</h3><p>打开集五福活动的写福字界面，可以临摹它给出的样式，写一个福字出来，完成后就能获得一张福卡。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201196.webp" alt=""></p>
-<p>此外，每日的0点和12点，你还可以到「福气店」里免费打印福字，支付宝官方会免费将你写的福字打印出来并送到你家（每日限量）。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201197.webp" alt=""></p>
-<h3 id="搜索品牌关键字"><a href="#搜索品牌关键字" class="headerlink" title="搜索品牌关键字"></a>搜索品牌关键字</h3><p>今年最大的不同是五福全面向商家开放，1000 多个商家将成为主角，通过自己的支付宝小程序、生活号、App 等多个私域阵地为全国用户发福卡。</p>
-<p>用户可以在支付宝首页顶部搜索品牌方的关键字，就能看见抽福卡的入口。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201198.webp" alt=""></p>
-<p>部分品牌方关键字：肯德基，麦当劳，加油浙江，T3出行，携程，屈臣氏，蜜雪冰城，一点万象，爱租机，爱琴海，顺丰，万达广场，大润发，元气森林，一点万象，威马汽车，良品铺子，益禾堂，联合利华，名创优品，伊利，步步高。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201199.webp" alt=""></p>
-<p>此外，登录国家电网、中国移动、B站、网易云音乐等 40 多个 App，也有机会得到由他们发的福卡。</p>
-<h3 id="到店付款"><a href="#到店付款" class="headerlink" title="到店付款"></a>到店付款</h3><p>1月19日到1月31日，用户可以每天到店支付一笔（不限金额），有机会获得沾福气卡。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011910.webp" alt=""></p>
-<h3 id="12306领福卡"><a href="#12306领福卡" class="headerlink" title="12306领福卡"></a>12306领福卡</h3><p>打开支付宝扫描下方二维码，就能领取一张随机福卡。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011911.webp" alt=""></p>
-<h3 id="中国移动领福卡"><a href="#中国移动领福卡" class="headerlink" title="中国移动领福卡"></a>中国移动领福卡</h3><p>打开用浏览器或中国移动APP打开链接：🔗 <a href="https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。">https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。</a></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011912.webp" alt=""></p>
-<p>其实咱们要的并不是这几块钱，而是其中的乐趣，其中的荣誉感，其中氛围感，就像小时候吃方便集卡一样，只不过集卡的那群孩子长大了罢了，变的是时代，不变的是这一代人的内心，也许真的是五福到了，年就到了，也该“到家”团圆了。</p>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>雷电模拟器9(v9.0.26.0) 去广告纯净版</title>
-    <url>/posts/6f687f2f/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>雷电模拟器9是基于<code>Android 9</code>内核开发的全新版本模拟器，将32位和64位元框架合并，有着比以往更快的启动速度，更低的电脑资源占用。具备强大的游戏兼容性和系统兼容性，能够稳定运行市面上万款热门手游，带你感受更快的速度、更完美的操控体验！</p>
-<p>最新版雷电模拟器支持OpenGL3.1模式3D渲染，游戏稳定多开无压力，提供谷歌安装器，一键宏按键，脚本录制，多开分屏同步器等功能。除此之外软件还内置了强大的无界趣连，能够打破空间的限制，远程操作电脑进行体验。</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220725133125.jpg" alt=""><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220725133034.png" alt=""></p>
-<h2 id="新版变化"><a href="#新版变化" class="headerlink" title="新版变化"></a>新版变化</h2><p>更新日志：<a href="https://www.ldmnq.com/ld_update_log.html">https://www.ldmnq.com/ld_update_log.html</a></p>
-<p><strong>2022.09.17 v9.0.26.0 正式版</strong></p>
-<ol>
-<li>修复《极无双》《风色幻想》等显示黑屏</li>
-</ol>
-<h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ol>
-<li>去启动界面广告、去任务栏右下角通知区域游戏弹窗</li>
-<li>去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）</li>
-<li>去桌面底部广告（桌面主屏幕内下方5个内置游戏推广应用）</li>
-<li>拒绝后台广告数据下载请求 <code>%AppData%\Leidian9\Cache</code></li>
-<li>拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为</li>
-<li>免安装净化处理，删除资讯广告程序、上传组件、错误报告文件</li>
-</ol>
-<h2 id="其他问题"><a href="#其他问题" class="headerlink" title="其他问题"></a>其他问题</h2><ul>
-<li><p>如何启用ROOT权限？<br>界面 -&gt; 设置 -&gt; 其它 -&gt; root权限 -&gt; 启用即可</p>
-</li>
-<li><p>如何只更新去广告后的系统镜像呢？<br>只需下载去广告版提取镜像文件替换到以下位置<br> <code>LDPlayer9\system.vmdk</code> , <code>vms\system.vmdk</code></p>
-</li>
-<li><p>雷电模拟器9.0、雷电模拟器4.0 和 3.x 有什么区别？</p>
-<ul>
-<li>主要指的安卓系统镜像Android版本不同(system.vmdk)：<br> 9.0：Android 9-x86_64 (64位版，64位指的安卓系统版本)<br> 4.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64位版)<br> 3.x：Android 5.1.2-x86</li>
-<li>所有版本都兼容ARM库，可共存使用支持各版无限多开运行</li>
-</ul>
-</li>
-</ul>
-<h2 id="运行要求"><a href="#运行要求" class="headerlink" title="运行要求"></a>运行要求</h2><ol>
-<li><del>PC机系统需要 <code>Windows10 x64位</code> 或更高版本系统，该模拟器暂不兼容Windows7及以下版本系统</del>（最新版本已支持Win7）</li>
-<li>使用模拟器需要在BIOS里开启虚拟化技术（VT）<br><strong>如何开启VT？</strong>：<a href="https://www.ldmnq.com/support/VTjiao/290.html">https://www.ldmnq.com/support/VTjiao/290.html</a><br><strong>更多帮助</strong>：<a href="https://www.ldmnq.com/forum/86495.html">https://www.ldmnq.com/forum/86495.html</a></li>
-</ol>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123云盘/资源杂侩/软件/雷电模拟器9' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
-<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-MELw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
-          </div>]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
-        <tag>模拟器</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>超级详细的系统安装教程</title>
     <url>/posts/970eea45/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>如果有一天，由于不小心下载到了病毒文件，或者是系统垃圾太多，导致电脑卡顿。这时最好的方法就是重装系统，将电脑还原到最初。</p>
@@ -3942,5 +3847,100 @@
         <tag>教程</tag>
         <tag>电脑系统</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>雷电模拟器9(v9.0.26.0) 去广告纯净版</title>
+    <url>/posts/6f687f2f/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>雷电模拟器9是基于<code>Android 9</code>内核开发的全新版本模拟器，将32位和64位元框架合并，有着比以往更快的启动速度，更低的电脑资源占用。具备强大的游戏兼容性和系统兼容性，能够稳定运行市面上万款热门手游，带你感受更快的速度、更完美的操控体验！</p>
+<p>最新版雷电模拟器支持OpenGL3.1模式3D渲染，游戏稳定多开无压力，提供谷歌安装器，一键宏按键，脚本录制，多开分屏同步器等功能。除此之外软件还内置了强大的无界趣连，能够打破空间的限制，远程操作电脑进行体验。</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220725133125.jpg" alt=""><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220725133034.png" alt=""></p>
+<h2 id="新版变化"><a href="#新版变化" class="headerlink" title="新版变化"></a>新版变化</h2><p>更新日志：<a href="https://www.ldmnq.com/ld_update_log.html">https://www.ldmnq.com/ld_update_log.html</a></p>
+<p><strong>2022.09.17 v9.0.26.0 正式版</strong></p>
+<ol>
+<li>修复《极无双》《风色幻想》等显示黑屏</li>
+</ol>
+<h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ol>
+<li>去启动界面广告、去任务栏右下角通知区域游戏弹窗</li>
+<li>去雷电游戏中心（安装软件跳出主屏幕游戏推广弹窗行为）</li>
+<li>去桌面底部广告（桌面主屏幕内下方5个内置游戏推广应用）</li>
+<li>拒绝后台广告数据下载请求 <code>%AppData%\Leidian9\Cache</code></li>
+<li>拒绝各种广告联网请求：切断广告、上报信息、检测升级等行为</li>
+<li>免安装净化处理，删除资讯广告程序、上传组件、错误报告文件</li>
+</ol>
+<h2 id="其他问题"><a href="#其他问题" class="headerlink" title="其他问题"></a>其他问题</h2><ul>
+<li><p>如何启用ROOT权限？<br>界面 -&gt; 设置 -&gt; 其它 -&gt; root权限 -&gt; 启用即可</p>
+</li>
+<li><p>如何只更新去广告后的系统镜像呢？<br>只需下载去广告版提取镜像文件替换到以下位置<br> <code>LDPlayer9\system.vmdk</code> , <code>vms\system.vmdk</code></p>
+</li>
+<li><p>雷电模拟器9.0、雷电模拟器4.0 和 3.x 有什么区别？</p>
+<ul>
+<li>主要指的安卓系统镜像Android版本不同(system.vmdk)：<br> 9.0：Android 9-x86_64 (64位版，64位指的安卓系统版本)<br> 4.0：Android 7.1.2-x86 / Android 7.1.2-x86_64 (64位版)<br> 3.x：Android 5.1.2-x86</li>
+<li>所有版本都兼容ARM库，可共存使用支持各版无限多开运行</li>
+</ul>
+</li>
+</ul>
+<h2 id="运行要求"><a href="#运行要求" class="headerlink" title="运行要求"></a>运行要求</h2><ol>
+<li><del>PC机系统需要 <code>Windows10 x64位</code> 或更高版本系统，该模拟器暂不兼容Windows7及以下版本系统</del>（最新版本已支持Win7）</li>
+<li>使用模拟器需要在BIOS里开启虚拟化技术（VT）<br><strong>如何开启VT？</strong>：<a href="https://www.ldmnq.com/support/VTjiao/290.html">https://www.ldmnq.com/support/VTjiao/290.html</a><br><strong>更多帮助</strong>：<a href="https://www.ldmnq.com/forum/86495.html">https://www.ldmnq.com/forum/86495.html</a></li>
+</ol>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
+            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123云盘/资源杂侩/软件/雷电模拟器9' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
+<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-MELw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
+          </div>]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
+        <tag>模拟器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>最全2022支付宝集五福攻略</title>
+    <url>/posts/a3db79a2/</url>
+    <content><![CDATA[<div class="tip "><p>五福来啦，五福来啦。支付宝的集五福活动，已经成了不少人过年必玩的游戏，尽管每年瓜分的奖励越来越少，但支付宝的集五福活动好像已经成为了很多人的一种「习惯」。</p>
+<p>2022年支付宝集五福活动今日正式开启。此次集五福活动时间1月19日到1月31日，瓜分红包时间1月31日晚上22:18。</p>
+</div>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201191.webp" alt=""></p>
+<p>数据显示，过去六年累计参与支付宝集五福的人数已经超过了7亿，每2个中国人里就有1个曾扫福、集福、送福。</p>
+<p>这不，活动才刚开始第一天，就有已经有二十多万人集齐了五福。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201192.webp" alt=""></p>
+<p>江小鑫作为一个集五福活动的忠实爱好者，今天就和大家一起盘点一下，怎样才能更快集齐五福。</p>
+<h3 id="直接领取随机福卡"><a href="#直接领取随机福卡" class="headerlink" title="直接领取随机福卡"></a>直接领取随机福卡</h3><details class="toggle" style="border: 1px solid bg"><summary class="toggle-button" style="background-color: bg;color: color">点我展开链接</summary><div class="toggle-content"><p><img src="https://cdn.jx-ll.cn/post_img/2022011901.jpg" alt=""></p>
+<p>每天最多领15个！领取后去支付宝卡包里使用兑换！<br>部分提示人气太旺就明天领，验证码频繁就晚点再去领！<br><a href="https://tb3.cn/AAMiHt">https://tb3.cn/AAMiHt</a><br><a href="https://tb3.cn/Ade6AT">https://tb3.cn/Ade6AT</a><br><a href="https://tb3.cn/AccWiM">https://tb3.cn/AccWiM</a><br><a href="https://tb3.cn/ACRASx">https://tb3.cn/ACRASx</a><br><a href="https://tb3.cn/AKjv4Q">https://tb3.cn/AKjv4Q</a><br><a href="https://tb3.cn/AEctS0">https://tb3.cn/AEctS0</a><br><a href="https://tb3.cn/AfUW1A">https://tb3.cn/AfUW1A</a><br><a href="https://tb3.cn/AxSoLr">https://tb3.cn/AxSoLr</a><br><a href="https://tb3.cn/AGmYIu">https://tb3.cn/AGmYIu</a><br><a href="https://tb3.cn/AM4ze2">https://tb3.cn/AM4ze2</a><br><a href="https://tb3.cn/AtYJUF">https://tb3.cn/AtYJUF</a><br><a href="https://tb3.cn/AvQPKu">https://tb3.cn/AvQPKu</a><br><a href="https://tb3.cn/AmoNZJ">https://tb3.cn/AmoNZJ</a><br><a href="https://tb3.cn/ApHf5I">https://tb3.cn/ApHf5I</a><br><a href="https://tb3.cn/AYpHuJ">https://tb3.cn/AYpHuJ</a><br><a href="https://tb3.cn/A4zToA">https://tb3.cn/A4zToA</a><br><a href="https://tb3.cn/AQOuUw">https://tb3.cn/AQOuUw</a><br><a href="https://tb3.cn/Afwwoz">https://tb3.cn/Afwwoz</a><br><a href="https://tb3.cn/Ajf17n">https://tb3.cn/Ajf17n</a><br><a href="https://tb3.cn/Aj1JX5">https://tb3.cn/Aj1JX5</a><br><a href="https://tb3.cn/AvGeJT">https://tb3.cn/AvGeJT</a><br><a href="https://tb3.cn/AHYuTE">https://tb3.cn/AHYuTE</a><br><a href="https://tb3.cn/AEwX1C">https://tb3.cn/AEwX1C</a><br><a href="https://tb3.cn/AwYqxb">https://tb3.cn/AwYqxb</a><br><a href="https://tb3.cn/AF40tH">https://tb3.cn/AF40tH</a><br><a href="https://tb3.cn/APiNWj">https://tb3.cn/APiNWj</a><br><a href="https://tb3.cn/AGWjlZ">https://tb3.cn/AGWjlZ</a><br><a href="https://tb3.cn/AlipSJ">https://tb3.cn/AlipSJ</a><br><a href="https://tb3.cn/AujEfq">https://tb3.cn/AujEfq</a><br><a href="https://tb3.cn/ALyr88">https://tb3.cn/ALyr88</a><br><a href="https://tb3.cn/AC0erE">https://tb3.cn/AC0erE</a><br><a href="https://tb3.cn/AOhMOe">https://tb3.cn/AOhMOe</a><br><a href="https://tb3.cn/AT62vC">https://tb3.cn/AT62vC</a><br><a href="https://tb3.cn/ALwhP6">https://tb3.cn/ALwhP6</a><br><a href="https://tb3.cn/AUJ9sB">https://tb3.cn/AUJ9sB</a><br><a href="https://tb3.cn/A8kxhI">https://tb3.cn/A8kxhI</a><br><a href="https://tb3.cn/AoT80q">https://tb3.cn/AoT80q</a><br><a href="https://tb3.cn/APqNhY">https://tb3.cn/APqNhY</a><br><a href="https://tb3.cn/AzIr11">https://tb3.cn/AzIr11</a><br><a href="https://tb3.cn/Aj6WUG">https://tb3.cn/Aj6WUG</a><br><a href="https://tb3.cn/AdBizf">https://tb3.cn/AdBizf</a><br><a href="https://tb3.cn/AlE9Na">https://tb3.cn/AlE9Na</a></p>
+</div></details>
+<h3 id="钻石会员直接得"><a href="#钻石会员直接得" class="headerlink" title="钻石会员直接得"></a>钻石会员直接得</h3><p>如果你是支付宝的钻石会员，那么恭喜你，你可以在几分钟内就集齐一套五福。</p>
+<p>支付宝会直接对钻石会员赠送一套「钻石会员专属套卡」，其中包含了「一张敬业福、一张沾福气卡、一张全家福」。</p>
+<p>这几张最关键的福卡直接送给你，剩下的那几张，随便扫几张福字就能得到。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201193.webp" alt=""></p>
+<p>可能也正是因为这样，才导致活动刚上线第一天，就已经有二十多万人集齐了。</p>
+<p>不够，毕竟钻石会员是少部分用户。但对于绝大多数普通用户来说，要怎样才能更快集齐五福呢？别急，攻略这就给你送上。</p>
+<h3 id="AR扫码"><a href="#AR扫码" class="headerlink" title="AR扫码"></a>AR扫码</h3><p>这是最原始的方法，但也是最有效的方法。不过江小鑫建议大家不要去扫那些普通的福字，一定要扫支付宝官方给出的这些福，得敬业福和万能福的几率更大。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201194.webp" alt=""></p>
+<p>具体操作方法：打开 支付宝-&gt;扫一扫-&gt;选择AR-&gt;扫上图中的任意福字-&gt;立即收下福卡（需要有两台设备才行）。</p>
+<h3 id="赠送福卡"><a href="#赠送福卡" class="headerlink" title="赠送福卡"></a>赠送福卡</h3><p>扫码次数用完了，多余的福该怎么办呢？千万别觉得没用了，你可以把福卡赠送给身边还没有扫过福的朋友，你也有机会可以得到沾福气卡或万能福。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201195.webp" alt=""></p>
+<p>操作方法：进入 集五福活动-&gt;我的福卡-&gt;选择任意一张福卡-&gt;送给亲友-&gt;送Ta（记得送给还没有集福的亲友哦）。</p>
+<h3 id="写福字得福卡"><a href="#写福字得福卡" class="headerlink" title="写福字得福卡"></a>写福字得福卡</h3><p>打开集五福活动的写福字界面，可以临摹它给出的样式，写一个福字出来，完成后就能获得一张福卡。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201196.webp" alt=""></p>
+<p>此外，每日的0点和12点，你还可以到「福气店」里免费打印福字，支付宝官方会免费将你写的福字打印出来并送到你家（每日限量）。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201197.webp" alt=""></p>
+<h3 id="搜索品牌关键字"><a href="#搜索品牌关键字" class="headerlink" title="搜索品牌关键字"></a>搜索品牌关键字</h3><p>今年最大的不同是五福全面向商家开放，1000 多个商家将成为主角，通过自己的支付宝小程序、生活号、App 等多个私域阵地为全国用户发福卡。</p>
+<p>用户可以在支付宝首页顶部搜索品牌方的关键字，就能看见抽福卡的入口。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201198.webp" alt=""></p>
+<p>部分品牌方关键字：肯德基，麦当劳，加油浙江，T3出行，携程，屈臣氏，蜜雪冰城，一点万象，爱租机，爱琴海，顺丰，万达广场，大润发，元气森林，一点万象，威马汽车，良品铺子，益禾堂，联合利华，名创优品，伊利，步步高。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201199.webp" alt=""></p>
+<p>此外，登录国家电网、中国移动、B站、网易云音乐等 40 多个 App，也有机会得到由他们发的福卡。</p>
+<h3 id="到店付款"><a href="#到店付款" class="headerlink" title="到店付款"></a>到店付款</h3><p>1月19日到1月31日，用户可以每天到店支付一笔（不限金额），有机会获得沾福气卡。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011910.webp" alt=""></p>
+<h3 id="12306领福卡"><a href="#12306领福卡" class="headerlink" title="12306领福卡"></a>12306领福卡</h3><p>打开支付宝扫描下方二维码，就能领取一张随机福卡。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011911.webp" alt=""></p>
+<h3 id="中国移动领福卡"><a href="#中国移动领福卡" class="headerlink" title="中国移动领福卡"></a>中国移动领福卡</h3><p>打开用浏览器或中国移动APP打开链接：🔗 <a href="https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。">https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。</a></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011912.webp" alt=""></p>
+<p>其实咱们要的并不是这几块钱，而是其中的乐趣，其中的荣誉感，其中氛围感，就像小时候吃方便集卡一样，只不过集卡的那群孩子长大了罢了，变的是时代，不变的是这一代人的内心，也许真的是五福到了，年就到了，也该“到家”团圆了。</p>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
   </entry>
 </search>
