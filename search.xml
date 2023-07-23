@@ -21,49 +21,6 @@
       </categories>
   </entry>
   <entry>
-    <title>Bandizip(跨平台解压缩软件) v7.27 激活版</title>
-    <url>/posts/929c4470/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>虽然 7-Zip 是开源免费压缩工具中的佼佼者，但用得不是很顺手，今天试了下推荐的 Bandizip 却出人意料的好用！Bandizip 是一款来自韩国的免费优秀的文件压缩/解压缩软件，支持 Win 与 Mac，操作方式与 WinRAR 相似，支持压缩和解压 rar、zip、7z 等众多主流格式…</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030821.png" alt=""></p>
-<h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><h3 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h3><ul>
-<li>支持操作系统: Windows Vista/7/8/10 (x86/x64/ARM64)</li>
-<li>许可类型：免费软件(EULA)</li>
-<li>全能的压缩/解压/浏览/编辑软件</li>
-<li>可提取30多种格式，包括RAR/RAR5/7Z/ZIP等</li>
-<li>包含密码压缩和分卷压缩功能</li>
-<li>支持多核高速压缩</li>
-</ul>
-<h3 id="压缩功能"><a href="#压缩功能" class="headerlink" title="压缩功能"></a>压缩功能</h3><ul>
-<li>支持的格式: ZIP, 7Z(lzma2), ZIPX(xz), EXE(sfx), TAR, TGZ, LZH(lh7), ISO(joliet), GZ, XZ</li>
-<li>ZIP文件修改（添加/删除/重命名）</li>
-<li>支持多核并行，压缩速度可提升至多达6倍</li>
-<li>加密压缩</li>
-<li>支持AES256加密算法</li>
-<li>支持4GB 以上大小的文件压缩</li>
-<li>对ZIP格式支持Unicode或MBCS文件名</li>
-<li>对ZIP/7z格式可进行分卷压缩</li>
-</ul>
-<h3 id="解压功能"><a href="#解压功能" class="headerlink" title="解压功能"></a>解压功能</h3><ul>
-<li>支持的格式: 7Z, ACE, AES, ALZ, ARJ, BH, BIN, BZ, BZ2, CAB, Compound(MSI), EGG, GZ, IMG, ISO, ISZ, LHA, LZ, LZH, LZMA, PMA,  RAR, RAR5, SFX(EXE), TAR, TBZ, TBZ2, TGZ, TLZ, TXZ, UDF, WIM, XPI, XZ, Z, ZIP, ZIPX, ZPAQ</li>
-<li>轻松查看压缩包内文件</li>
-<li>可只解压选定文件，支持拖拽解压</li>
-<li>可对ZIP和RAR格式添加注释</li>
-<li>一步解压TGZ/TBZ格式的文件</li>
-</ul>
-<h3 id="其他功能"><a href="#其他功能" class="headerlink" title="其他功能"></a>其他功能</h3><ul>
-<li>测试文件完整性以确定压缩包是否损坏</li>
-<li>支持修改代码页改</li>
-<li>可集成至资源管理器右键菜单</li>
-</ul>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123云盘/资源杂侩/软件/BandiZip' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
-<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-Xizw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
-          </div>]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-  </entry>
-  <entry>
     <title>360安全浏览器v13.1.6170.0优化便携版</title>
     <url>/posts/b69fdc9a/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>360安全浏览器(360SE)是基于IE内核和Chromium内核的双核浏览器。相比以前的版本，360SE13采用了Chromeium86稳定版的内核，在新标签页、皮肤等外观视觉上有着全新的改变，并且还支持夜间模式、自动模式动态内核切换以及各种实用的功能和安全保护技术，带你享受极致的浏览体验。</p>
@@ -119,27 +76,6 @@
       </tags>
   </entry>
   <entry>
-    <title>EDGE浏览器双击即可关闭标签页，终于可以不用到处找增强版了</title>
-    <url>/posts/2b2375e6/</url>
-    <content><![CDATA[<p>很多人用国产浏览器或其他第三方增强版浏览器的重要原因就是这些浏览器功能比较丰富。其中，双击关闭标签页就是一个使用人数较多的一个功能</p>
-<p>但就是这样一个普遍使用的功能，谷歌 Chrome 和微软 Edge 浏览器却始终没有。不过，在用户呼吁已久后，这一功能也总算来了</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220817155621.png" alt=""></p>
-<p>8 月 15 日， <a href="https://weibo.com/7732075754/M1aRbgC8l">@微软Edge浏览器</a> 官博宣布，旗下 Edge 浏览器的 <strong>双击关闭标签页</strong> 功能正式上线</p>
-<p>该功能默认关闭，需要手动到设置里打开</p>
-<p>进入 <code>右上角三个点 -&gt; 设置 -&gt; 辅助功能 -&gt; 使用双击关闭浏览器选项卡</code></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220817161046.png" alt=""></p>
-<p>据了解，今年 6 月，微软 Edge 浏览器在 Canary 版就加入了这一功能</p>
-<p>另外，关闭标签页快捷键 <code>Ctrl+W</code> 也仍可以使用</p>
-<p>如果想快速关闭标签页，也可以在标签页 <code>点击鼠标中键</code> 来实现。</p>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
-      <tags>
-        <tag>闲聊新闻</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Google Chrome v104.0.5112.81便携增强版+正式版离线安装包</title>
     <url>/posts/cd2961f9/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>谷歌浏览器，是一个由Google（谷歌）公司开发的开放原始码网页浏览器。该浏览器是基于其他开放原始码软件所撰写，包括WebKit和Mozilla，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。</p>
@@ -187,6 +123,70 @@
       <tags>
         <tag>实用软件</tag>
         <tag>浏览器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Bandizip(跨平台解压缩软件) v7.27 激活版</title>
+    <url>/posts/929c4470/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>虽然 7-Zip 是开源免费压缩工具中的佼佼者，但用得不是很顺手，今天试了下推荐的 Bandizip 却出人意料的好用！Bandizip 是一款来自韩国的免费优秀的文件压缩/解压缩软件，支持 Win 与 Mac，操作方式与 WinRAR 相似，支持压缩和解压 rar、zip、7z 等众多主流格式…</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030821.png" alt=""></p>
+<h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><h3 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h3><ul>
+<li>支持操作系统: Windows Vista/7/8/10 (x86/x64/ARM64)</li>
+<li>许可类型：免费软件(EULA)</li>
+<li>全能的压缩/解压/浏览/编辑软件</li>
+<li>可提取30多种格式，包括RAR/RAR5/7Z/ZIP等</li>
+<li>包含密码压缩和分卷压缩功能</li>
+<li>支持多核高速压缩</li>
+</ul>
+<h3 id="压缩功能"><a href="#压缩功能" class="headerlink" title="压缩功能"></a>压缩功能</h3><ul>
+<li>支持的格式: ZIP, 7Z(lzma2), ZIPX(xz), EXE(sfx), TAR, TGZ, LZH(lh7), ISO(joliet), GZ, XZ</li>
+<li>ZIP文件修改（添加/删除/重命名）</li>
+<li>支持多核并行，压缩速度可提升至多达6倍</li>
+<li>加密压缩</li>
+<li>支持AES256加密算法</li>
+<li>支持4GB 以上大小的文件压缩</li>
+<li>对ZIP格式支持Unicode或MBCS文件名</li>
+<li>对ZIP/7z格式可进行分卷压缩</li>
+</ul>
+<h3 id="解压功能"><a href="#解压功能" class="headerlink" title="解压功能"></a>解压功能</h3><ul>
+<li>支持的格式: 7Z, ACE, AES, ALZ, ARJ, BH, BIN, BZ, BZ2, CAB, Compound(MSI), EGG, GZ, IMG, ISO, ISZ, LHA, LZ, LZH, LZMA, PMA,  RAR, RAR5, SFX(EXE), TAR, TBZ, TBZ2, TGZ, TLZ, TXZ, UDF, WIM, XPI, XZ, Z, ZIP, ZIPX, ZPAQ</li>
+<li>轻松查看压缩包内文件</li>
+<li>可只解压选定文件，支持拖拽解压</li>
+<li>可对ZIP和RAR格式添加注释</li>
+<li>一步解压TGZ/TBZ格式的文件</li>
+</ul>
+<h3 id="其他功能"><a href="#其他功能" class="headerlink" title="其他功能"></a>其他功能</h3><ul>
+<li>测试文件完整性以确定压缩包是否损坏</li>
+<li>支持修改代码页改</li>
+<li>可集成至资源管理器右键菜单</li>
+</ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
+            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123云盘/资源杂侩/软件/BandiZip' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
+<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-Xizw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
+          </div>]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>EDGE浏览器双击即可关闭标签页，终于可以不用到处找增强版了</title>
+    <url>/posts/2b2375e6/</url>
+    <content><![CDATA[<p>很多人用国产浏览器或其他第三方增强版浏览器的重要原因就是这些浏览器功能比较丰富。其中，双击关闭标签页就是一个使用人数较多的一个功能</p>
+<p>但就是这样一个普遍使用的功能，谷歌 Chrome 和微软 Edge 浏览器却始终没有。不过，在用户呼吁已久后，这一功能也总算来了</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220817155621.png" alt=""></p>
+<p>8 月 15 日， <a href="https://weibo.com/7732075754/M1aRbgC8l">@微软Edge浏览器</a> 官博宣布，旗下 Edge 浏览器的 <strong>双击关闭标签页</strong> 功能正式上线</p>
+<p>该功能默认关闭，需要手动到设置里打开</p>
+<p>进入 <code>右上角三个点 -&gt; 设置 -&gt; 辅助功能 -&gt; 使用双击关闭浏览器选项卡</code></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220817161046.png" alt=""></p>
+<p>据了解，今年 6 月，微软 Edge 浏览器在 Canary 版就加入了这一功能</p>
+<p>另外，关闭标签页快捷键 <code>Ctrl+W</code> 也仍可以使用</p>
+<p>如果想快速关闭标签页，也可以在标签页 <code>点击鼠标中键</code> 来实现。</p>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
+      <tags>
+        <tag>闲聊新闻</tag>
       </tags>
   </entry>
   <entry>
@@ -277,6 +277,28 @@
       </tags>
   </entry>
   <entry>
+    <title>Visual Studio Code 1.65.0 官方版</title>
+    <url>/posts/447b7d46/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>Visual Studio Code是一个由微软公司发布的免费开源且跨平台的代码编辑器，它本质上是微软将他们的在线编辑器 Visual Studio Online（代号：Monaco）结合 Github 的 Electron 实现的一个跨平台编辑器，他们在为程序员创建一个快速且高效工作环境方面取得巨大进步。</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030421.gif" alt=""></p>
+<h2 id="如何设置中文"><a href="#如何设置中文" class="headerlink" title="如何设置中文"></a>如何设置中文</h2><ol>
+<li>打开软件，使用快捷键<code>Ctrl+Shift+P</code></li>
+<li>在弹出的命令窗口输入<code>configure language</code>回车</li>
+<li>会出现语言下载页面，选择中文，点击<code>install</code>即可，右下角会提示重启软件</li>
+</ol>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
+            <a class="button no-text-decoration" href='https://code.visualstudio.com/docs/?dv=win64' title='64位下载'><img src='fas fa-download'>64位下载</a>
+<a class="button no-text-decoration" href='https://code.visualstudio.com/docs/?dv=win32' title='32位下载'><img src='fas fa-download'>32位下载</a>
+<a class="button no-text-decoration" href='https://code.visualstudio.com/docs/?dv=linux64' title='MAC下载'><img src='fas fa-download'>MAC下载</a>
+          </div>]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>WinRAR v6.11正式版</title>
     <url>/posts/98d355fa/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>WinRAR是一款功能强大的压缩包管理器，它是档案工具RAR在 Windows环境下的图形界面。WinRAR可用于备份数据，缩减电子邮件附件的大小，解压缩从 Internet 上下载的RAR、ZIP及其它类型文件，WinRAR并且可以新建 RAR 及 ZIP 格式等的压缩类文件。WinRAR非常实用、方便，中文化工作更为完善，WinRAR包括主工作界面、右键菜单，甚至连十万字的 .hlp 在线帮助文件、使用手册文件、Readme 文件都完全是中文内容。</p>
@@ -315,28 +337,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Visual Studio Code 1.65.0 官方版</title>
-    <url>/posts/447b7d46/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>Visual Studio Code是一个由微软公司发布的免费开源且跨平台的代码编辑器，它本质上是微软将他们的在线编辑器 Visual Studio Online（代号：Monaco）结合 Github 的 Electron 实现的一个跨平台编辑器，他们在为程序员创建一个快速且高效工作环境方面取得巨大进步。</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030421.gif" alt=""></p>
-<h2 id="如何设置中文"><a href="#如何设置中文" class="headerlink" title="如何设置中文"></a>如何设置中文</h2><ol>
-<li>打开软件，使用快捷键<code>Ctrl+Shift+P</code></li>
-<li>在弹出的命令窗口输入<code>configure language</code>回车</li>
-<li>会出现语言下载页面，选择中文，点击<code>install</code>即可，右下角会提示重启软件</li>
-</ol>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://code.visualstudio.com/docs/?dv=win64' title='64位下载'><img src='fas fa-download'>64位下载</a>
-<a class="button no-text-decoration" href='https://code.visualstudio.com/docs/?dv=win32' title='32位下载'><img src='fas fa-download'>32位下载</a>
-<a class="button no-text-decoration" href='https://code.visualstudio.com/docs/?dv=linux64' title='MAC下载'><img src='fas fa-download'>MAC下载</a>
-          </div>]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>YesPlayMusic：又一款高颜值的第三方网易云播放器！</title>
     <url>/posts/8ce04600/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>由于官方客户端的界面和交互要么就是过于臃肿，要么就是歌曲版权不够，导致不少开发者喜欢自己去做一些符合自己需求的播放器。今天给大家带来的这款高颜值的第三方网易云播放器：YesPlayMusic 就将极简和版权通过多平台整合的方式做到了完美融合，做出来一款高颜值的播放器。</p>
@@ -366,48 +366,6 @@
       </categories>
       <tags>
         <tag>实用软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>阿里云盘桌面端正式版总算来了，快来尝鲜吧！</title>
-    <url>/posts/7c83cdf5/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>历经近半年的不断更新、内测，阿里云盘桌面端总算是迎来了正式版。不知道各位小伙伴还记不记得之前江小鑫之前给大家分享过的<a href="http://mp.weixin.qq.com/s?__biz=MzU3MDkzNjM3Ng==&amp;mid=2247496540&amp;idx=1&amp;sn=5ad3d550747155c82a6e900b640b5181&amp;chksm=fce56e0bcb92e71d0e41fef57bc65bafba6193d20361da7bcb5c49cc891e37360c5242e08075&amp;scene=21#wechat_redirect">泄露的阿里云盘桌面端测试版</a>。相信已经有不少小伙伴体验过了吧，那么体验结果如何呢，留言告诉我吧~</p>
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>好了，正式进入今天的话题。前几天，阿里云盘官网正式发布了桌面端的正式版，这也表示阿里云盘在逐渐成长的路上又上了一个新台阶。本次发布的正式版版本号为：2.1.7。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131331.png" alt=""></p>
-<p>软件外观风格跟以前一样，依旧还是以极简为主，目前暂时还没有什么捆绑的软件。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131359.png" alt=""></p>
-<p>软件登陆界面，跟之前泄露的测试版差不多，支持三种方式登陆。<code>短信登陆、账号登陆、扫码登陆</code>。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131415.png" alt=""></p>
-<p>账号登陆后，进入软件的主界面。在软件功能上，正式版比之前的内测版多了<code>相册、保险箱</code>和<code>我的分享</code>功能。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131427.png" alt=""></p>
-<p><code>相册功能</code>江小鑫已经在手机上体验好久了，感觉还不错，对于手机容量不太大的“摄影师”来说是一个福利。</p>
-<p>而且<code>文件和相册是完全独立的两个功能</code>，备份到相册里的文件是不占用云盘容量的（相当于是无限容量了）。不过也正因为这个原因，你无法在文件里找到备份到相册里的内容。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131445.png" alt=""></p>
-<p>查看详细信息， 阿里云盘的AI功能会对选中的内容进行<code>标签归类</code>，还能看到<code>文件位置、创建时间</code>和<code>修改时间</code>。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131502.png" alt=""></p>
-<p>至于分享功能，目前除了<code>视频、图片、文本</code>，其他格式的文件均不支持分享，像熟悉的压缩包、文件夹、<strong>EXE文件</strong>（实名认证后可以分享）什么的都是不支持分享的，希望官方可以加快更新的速度~</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131520.png" alt=""></p>
-<p>不过虽然不支持分享文件夹，但是如果用户需要<code>同时分享多个文件</code>，则可以<code>先按住键盘上的shift键，再手动选择需要分享的文件</code>，操作过程十分鸡肋。</p>
-<p>分享界面做的非常简洁，虽然可以设置分享的有效期，但不能使用加密分享，与其他同类软件相比，这也是一个需要完善的功能。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131541.png" alt=""></p>
-<p>在<code>我的分享</code>界面，可以看到你分享过的所有内容，右键可以取消分享。</p>
-<p>细心的小伙伴发现了，在菜单栏里有个<code>提取码</code>，这也明确表示了未来会有设置提取码的功能。除此之外，在我的分享界面还可以看到分享内容的<code>浏览量、下载量</code>和<code>转存量</code>，以及<code>分享时间</code>和<code>有效期</code>。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131555.png" alt=""></p>
-<p>打开分享链接，会出现下面这个界面。支持<code>文件下载</code>和<code>保存到我的云盘</code>，但在操作之前，会提示需要先登录自己的阿里云盘账号，<code>不支持游客下载</code>。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131618.png" alt=""></p>
-<p>本次发布的正式版还有一个功能就是<code>保险箱</code>，这个功能和百度网盘的<code>隐藏空间</code>类似，可以把重要的文件放进去，查看的时候需要验证<code>二级密码</code>。</p>
-<p>不过这个功能江小鑫用的并不太多，毕竟在这个互联网上没有什么是绝对安全的，相比于把重要文件放到互联网上，我还是觉得物理硬盘比较好。</p>
-<p>首次使用会向绑定的手机号发送验证码来校验你的身份，验证通过后就可以设置保险箱的密码。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131632.png" alt=""></p>
-<p>不知大家有没有发现，目前阿里云盘除了下载不限速，相比于其他网盘来说，功能算是非常的少了，而且还没有什么核心的竞争力，未来将会怎么发展呢？</p>
-<p>最后，江小鑫给大家带来了阿里云盘的绿色版和官方安装包，需要的可以在公众号后台回复获取下载地址。</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】后在对话框中回复【2106191】即可获取下载地址</p>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
-      <tags>
-        <tag>阿里云盘</tag>
       </tags>
   </entry>
   <entry>
@@ -467,6 +425,48 @@
       </categories>
       <tags>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>阿里云盘桌面端正式版总算来了，快来尝鲜吧！</title>
+    <url>/posts/7c83cdf5/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>历经近半年的不断更新、内测，阿里云盘桌面端总算是迎来了正式版。不知道各位小伙伴还记不记得之前江小鑫之前给大家分享过的<a href="http://mp.weixin.qq.com/s?__biz=MzU3MDkzNjM3Ng==&amp;mid=2247496540&amp;idx=1&amp;sn=5ad3d550747155c82a6e900b640b5181&amp;chksm=fce56e0bcb92e71d0e41fef57bc65bafba6193d20361da7bcb5c49cc891e37360c5242e08075&amp;scene=21#wechat_redirect">泄露的阿里云盘桌面端测试版</a>。相信已经有不少小伙伴体验过了吧，那么体验结果如何呢，留言告诉我吧~</p>
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>好了，正式进入今天的话题。前几天，阿里云盘官网正式发布了桌面端的正式版，这也表示阿里云盘在逐渐成长的路上又上了一个新台阶。本次发布的正式版版本号为：2.1.7。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131331.png" alt=""></p>
+<p>软件外观风格跟以前一样，依旧还是以极简为主，目前暂时还没有什么捆绑的软件。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131359.png" alt=""></p>
+<p>软件登陆界面，跟之前泄露的测试版差不多，支持三种方式登陆。<code>短信登陆、账号登陆、扫码登陆</code>。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131415.png" alt=""></p>
+<p>账号登陆后，进入软件的主界面。在软件功能上，正式版比之前的内测版多了<code>相册、保险箱</code>和<code>我的分享</code>功能。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131427.png" alt=""></p>
+<p><code>相册功能</code>江小鑫已经在手机上体验好久了，感觉还不错，对于手机容量不太大的“摄影师”来说是一个福利。</p>
+<p>而且<code>文件和相册是完全独立的两个功能</code>，备份到相册里的文件是不占用云盘容量的（相当于是无限容量了）。不过也正因为这个原因，你无法在文件里找到备份到相册里的内容。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131445.png" alt=""></p>
+<p>查看详细信息， 阿里云盘的AI功能会对选中的内容进行<code>标签归类</code>，还能看到<code>文件位置、创建时间</code>和<code>修改时间</code>。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131502.png" alt=""></p>
+<p>至于分享功能，目前除了<code>视频、图片、文本</code>，其他格式的文件均不支持分享，像熟悉的压缩包、文件夹、<strong>EXE文件</strong>（实名认证后可以分享）什么的都是不支持分享的，希望官方可以加快更新的速度~</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131520.png" alt=""></p>
+<p>不过虽然不支持分享文件夹，但是如果用户需要<code>同时分享多个文件</code>，则可以<code>先按住键盘上的shift键，再手动选择需要分享的文件</code>，操作过程十分鸡肋。</p>
+<p>分享界面做的非常简洁，虽然可以设置分享的有效期，但不能使用加密分享，与其他同类软件相比，这也是一个需要完善的功能。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131541.png" alt=""></p>
+<p>在<code>我的分享</code>界面，可以看到你分享过的所有内容，右键可以取消分享。</p>
+<p>细心的小伙伴发现了，在菜单栏里有个<code>提取码</code>，这也明确表示了未来会有设置提取码的功能。除此之外，在我的分享界面还可以看到分享内容的<code>浏览量、下载量</code>和<code>转存量</code>，以及<code>分享时间</code>和<code>有效期</code>。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131555.png" alt=""></p>
+<p>打开分享链接，会出现下面这个界面。支持<code>文件下载</code>和<code>保存到我的云盘</code>，但在操作之前，会提示需要先登录自己的阿里云盘账号，<code>不支持游客下载</code>。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131618.png" alt=""></p>
+<p>本次发布的正式版还有一个功能就是<code>保险箱</code>，这个功能和百度网盘的<code>隐藏空间</code>类似，可以把重要的文件放进去，查看的时候需要验证<code>二级密码</code>。</p>
+<p>不过这个功能江小鑫用的并不太多，毕竟在这个互联网上没有什么是绝对安全的，相比于把重要文件放到互联网上，我还是觉得物理硬盘比较好。</p>
+<p>首次使用会向绑定的手机号发送验证码来校验你的身份，验证通过后就可以设置保险箱的密码。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210704131632.png" alt=""></p>
+<p>不知大家有没有发现，目前阿里云盘除了下载不限速，相比于其他网盘来说，功能算是非常的少了，而且还没有什么核心的竞争力，未来将会怎么发展呢？</p>
+<p>最后，江小鑫给大家带来了阿里云盘的绿色版和官方安装包，需要的可以在公众号后台回复获取下载地址。</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】后在对话框中回复【2106191】即可获取下载地址</p>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
+      <tags>
+        <tag>阿里云盘</tag>
       </tags>
   </entry>
   <entry>
@@ -530,55 +530,6 @@
       <categories>
         <category>闲聊杂谈</category>
       </categories>
-  </entry>
-  <entry>
-    <title>使用onedrive-vercel-index来搭建一个属于自己的网盘</title>
-    <url>/posts/200b9824/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>OneDrive是微软公司推出的一个个人云存储空间服务，普通用户只有5GB的存储空间，网上也有很多的扩容方法，比如江小鑫采用的就是微软的E5计划，可以白嫖5T空间。<br>当我们有容量后要如何发挥它的最大作用呢？本文江小鑫就给大家带来<a href="https://github.com/W4J1e/onedrive-vercel-index">onedrive-vercel-index</a>的搭建教程，onedrive-vercel-index是一个挂载OneDrive的网页程序，可以使用Vercel免费部署。</p>
-<p>演示站：<del><a href="https://pan.jx-ll.cn">https://pan.jx-ll.cn</a></del>（已更换为Alist）<br>项目地址：<a href="https://github.com/spencerwooo/onedrive-vercel-index">https://github.com/spencerwooo/onedrive-vercel-index</a><br>官方教程：<a href="https://ovi.swo.moe/zh/docs/getting-started">https://ovi.swo.moe/zh/docs/getting-started</a></p>
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><p>在开始之前，我们需要先准备的东西。</p>
-<ul>
-<li>能轻松访问Github</li>
-<li>GitHub账号</li>
-<li>vercel账号</li>
-</ul>
-<h2 id="开始部署"><a href="#开始部署" class="headerlink" title="开始部署"></a>开始部署</h2><h3 id="fork项目"><a href="#fork项目" class="headerlink" title="fork项目"></a>fork项目</h3><p>首先打开<a href="https://github.com/W4J1e/onedrive-vercel-index">onedrive-vercel-index</a>项目GitHub主页，并将这个项目fork到你的仓库</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022030511.png" alt=""></p>
-<h3 id="修改配置"><a href="#修改配置" class="headerlink" title="修改配置"></a>修改配置</h3><p>在fork之后的仓库中打开<code>config/site.config.js</code>文件，找到<code>userPrincipalName</code>，并将其更改为你的<code>微软邮箱</code>。同时，还有其他的一些个性化功能，比如<code>baseDirectory</code>就是你要公开的文件夹，你可以随心更改</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022030512.png" alt=""></p>
-<p>由于我是E5订阅而且还拥有管理员权限，则无需对<code>config/api.config.js</code>文件进行修改，如果你的订阅计划和我不同，请参考作者的教程：<a href="https://ovi.swo.moe/zh/docs/getting-started#%E4%BF%AE%E6%94%B9-api-%E5%8F%82%E6%95%B0%E5%8F%AF%E9%80%89%E9%A1%B9">修改 API 参数</a></p>
-<h3 id="部署到Vercel"><a href="#部署到Vercel" class="headerlink" title="部署到Vercel"></a>部署到Vercel</h3><p>打开<a href="https://vercel.com/new">Vercel</a>，将它与你的GitHub账户进行绑定，随后找到我们刚刚fork的项目，并点击其后面的<code>import</code>即可转入到部署界面</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022030513.png" alt=""></p>
-<p>展开<code>Build and Output Settings</code>选项，分别修改<code>Build command</code>和<code>Install command</code>为<code>pnpm build</code>和<code>pnpm install</code></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022030514.png" alt=""></p>
-<p>接着点击底部的<code>Deploy</code>即可将项目部署到Vercel，稍等一会儿你就会看到烟花界面，表示部署成功<br>如果部署失败了也没关系，因为我们还没对其环境变量进行配置，这也是我们接下来需要做的</p>
-<h3 id="连接到Redis"><a href="#连接到Redis" class="headerlink" title="连接到Redis"></a>连接到Redis</h3><p>首先打开<a href="https://vercel.com/integrations/upstash">Upstash Integration</a>，并点击<code>Add Upstash</code>，选择集成的范围和项目，这里我们选择onedrive-vercel-index 这个项目，接着点击<code>ADD INTEGRATION</code></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022030515.png" alt=""></p>
-<p>如果你没有注册过Upstash，它会先让你注册一个账号，随后创建一个Redis数据库，地区推荐选择<code>Japan</code>，项目则选择onedrive-vercel-index</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022030516.png" alt=""></p>
-<p>创建好后，我们再在vercel里返回到onedrive-vercel-index项目的详情页，依次点击<code>settings - Environment Variables</code>，通常它已经将环境变量添加好了</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022030517.png" alt=""></p>
-<p>如果没有，我们可以返回到<a href="https://console.upstash.com/">Upstash的控制台</a>，找到onedrive-vercel-index项目，点进去后可以看到一段类似与这样的地址</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022030518.png" alt=""></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">redis://:xxx...@some-thing-like-35533.upstash.io:35533</span><br></pre></td></tr></table></figure>
-<p>如果你为Redis数据库启用了<a href="https://docs.upstash.com/redis/howto/connectwithtls">传输加密</a>，那么地址应该是这样</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">rediss://:xxx...@some-thing-like-35533.upstash.io:35533</span><br></pre></td></tr></table></figure>
-<p>接着再返回到onedrive-vercel-index项目的详情页，依次点击<code>settings - Environment Variables</code>，将<code>REDIS_URL</code>它的值为刚刚在<code>Upstash</code>获取到的地址</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022030519.png" alt=""></p>
-<h3 id="重新部署"><a href="#重新部署" class="headerlink" title="重新部署"></a>重新部署</h3><p>最后，我们只需要在项目的<code>Deployments</code>页面中重新部署一下，并在部署完成后访问Vercel提供的链接，按照指示走就行了，这里就不再做演示</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/20220305192.png" alt=""></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/20220305191.png" alt=""></p>
-<h2 id="成功"><a href="#成功" class="headerlink" title="成功"></a>成功</h2><p>如果不出意外，我们就成功将网盘搭建好了~</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/20220305193.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>GitHub</tag>
-        <tag>笔记</tag>
-      </tags>
   </entry>
   <entry>
     <title>腾讯QQ二代变无是什么意思？怎么避免？怎么解决？</title>
@@ -647,6 +598,55 @@
         <tag>教程</tag>
         <tag>GitHub</tag>
         <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用onedrive-vercel-index来搭建一个属于自己的网盘</title>
+    <url>/posts/200b9824/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>OneDrive是微软公司推出的一个个人云存储空间服务，普通用户只有5GB的存储空间，网上也有很多的扩容方法，比如江小鑫采用的就是微软的E5计划，可以白嫖5T空间。<br>当我们有容量后要如何发挥它的最大作用呢？本文江小鑫就给大家带来<a href="https://github.com/W4J1e/onedrive-vercel-index">onedrive-vercel-index</a>的搭建教程，onedrive-vercel-index是一个挂载OneDrive的网页程序，可以使用Vercel免费部署。</p>
+<p>演示站：<del><a href="https://pan.jx-ll.cn">https://pan.jx-ll.cn</a></del>（已更换为Alist）<br>项目地址：<a href="https://github.com/spencerwooo/onedrive-vercel-index">https://github.com/spencerwooo/onedrive-vercel-index</a><br>官方教程：<a href="https://ovi.swo.moe/zh/docs/getting-started">https://ovi.swo.moe/zh/docs/getting-started</a></p>
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><p>在开始之前，我们需要先准备的东西。</p>
+<ul>
+<li>能轻松访问Github</li>
+<li>GitHub账号</li>
+<li>vercel账号</li>
+</ul>
+<h2 id="开始部署"><a href="#开始部署" class="headerlink" title="开始部署"></a>开始部署</h2><h3 id="fork项目"><a href="#fork项目" class="headerlink" title="fork项目"></a>fork项目</h3><p>首先打开<a href="https://github.com/W4J1e/onedrive-vercel-index">onedrive-vercel-index</a>项目GitHub主页，并将这个项目fork到你的仓库</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022030511.png" alt=""></p>
+<h3 id="修改配置"><a href="#修改配置" class="headerlink" title="修改配置"></a>修改配置</h3><p>在fork之后的仓库中打开<code>config/site.config.js</code>文件，找到<code>userPrincipalName</code>，并将其更改为你的<code>微软邮箱</code>。同时，还有其他的一些个性化功能，比如<code>baseDirectory</code>就是你要公开的文件夹，你可以随心更改</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022030512.png" alt=""></p>
+<p>由于我是E5订阅而且还拥有管理员权限，则无需对<code>config/api.config.js</code>文件进行修改，如果你的订阅计划和我不同，请参考作者的教程：<a href="https://ovi.swo.moe/zh/docs/getting-started#%E4%BF%AE%E6%94%B9-api-%E5%8F%82%E6%95%B0%E5%8F%AF%E9%80%89%E9%A1%B9">修改 API 参数</a></p>
+<h3 id="部署到Vercel"><a href="#部署到Vercel" class="headerlink" title="部署到Vercel"></a>部署到Vercel</h3><p>打开<a href="https://vercel.com/new">Vercel</a>，将它与你的GitHub账户进行绑定，随后找到我们刚刚fork的项目，并点击其后面的<code>import</code>即可转入到部署界面</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022030513.png" alt=""></p>
+<p>展开<code>Build and Output Settings</code>选项，分别修改<code>Build command</code>和<code>Install command</code>为<code>pnpm build</code>和<code>pnpm install</code></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022030514.png" alt=""></p>
+<p>接着点击底部的<code>Deploy</code>即可将项目部署到Vercel，稍等一会儿你就会看到烟花界面，表示部署成功<br>如果部署失败了也没关系，因为我们还没对其环境变量进行配置，这也是我们接下来需要做的</p>
+<h3 id="连接到Redis"><a href="#连接到Redis" class="headerlink" title="连接到Redis"></a>连接到Redis</h3><p>首先打开<a href="https://vercel.com/integrations/upstash">Upstash Integration</a>，并点击<code>Add Upstash</code>，选择集成的范围和项目，这里我们选择onedrive-vercel-index 这个项目，接着点击<code>ADD INTEGRATION</code></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022030515.png" alt=""></p>
+<p>如果你没有注册过Upstash，它会先让你注册一个账号，随后创建一个Redis数据库，地区推荐选择<code>Japan</code>，项目则选择onedrive-vercel-index</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022030516.png" alt=""></p>
+<p>创建好后，我们再在vercel里返回到onedrive-vercel-index项目的详情页，依次点击<code>settings - Environment Variables</code>，通常它已经将环境变量添加好了</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022030517.png" alt=""></p>
+<p>如果没有，我们可以返回到<a href="https://console.upstash.com/">Upstash的控制台</a>，找到onedrive-vercel-index项目，点进去后可以看到一段类似与这样的地址</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022030518.png" alt=""></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">redis://:xxx...@some-thing-like-35533.upstash.io:35533</span><br></pre></td></tr></table></figure>
+<p>如果你为Redis数据库启用了<a href="https://docs.upstash.com/redis/howto/connectwithtls">传输加密</a>，那么地址应该是这样</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">rediss://:xxx...@some-thing-like-35533.upstash.io:35533</span><br></pre></td></tr></table></figure>
+<p>接着再返回到onedrive-vercel-index项目的详情页，依次点击<code>settings - Environment Variables</code>，将<code>REDIS_URL</code>它的值为刚刚在<code>Upstash</code>获取到的地址</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022030519.png" alt=""></p>
+<h3 id="重新部署"><a href="#重新部署" class="headerlink" title="重新部署"></a>重新部署</h3><p>最后，我们只需要在项目的<code>Deployments</code>页面中重新部署一下，并在部署完成后访问Vercel提供的链接，按照指示走就行了，这里就不再做演示</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/20220305192.png" alt=""></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/20220305191.png" alt=""></p>
+<h2 id="成功"><a href="#成功" class="headerlink" title="成功"></a>成功</h2><p>如果不出意外，我们就成功将网盘搭建好了~</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/20220305193.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>GitHub</tag>
+        <tag>笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -951,6 +951,116 @@
       </tags>
   </entry>
   <entry>
+    <title>国产AI又一新秀，讯飞星火认知大模型来了</title>
+    <url>/posts/7ee4dd5d/</url>
+    <content><![CDATA[<blockquote>
+<p>4月24日，科大讯飞星火认知大模型官网正式上线，用户可在官网填写企业、姓名、电话和申请理由，等审核通过后，便可以获取体验资格。</p>
+</blockquote>
+<p>4月27日，我在官网提交了申请，等待了8天后终于坐上了本次内测的末班车。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505185901.webp" alt=""></p>
+<p>针对从网上收集的一些问题，来试试讯飞星火、GPT3.5、NewBing的回答有哪些区别。</p>
+<h2 id="问题清单"><a href="#问题清单" class="headerlink" title="问题清单"></a>问题清单</h2><h3 id="爸爸和妈妈能结婚吗"><a href="#爸爸和妈妈能结婚吗" class="headerlink" title="爸爸和妈妈能结婚吗"></a>爸爸和妈妈能结婚吗</h3><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505192342.webp" alt=""></p>
+<blockquote>
+<p>通常情况下，父母是已经结婚的，因为他们是夫妻关系。在大多数国家和文化中，婚姻是两个成年人建立家庭并承担家庭和社会责任的方式。不过，也有一些例外情况，比如未婚夫妇生育子女或离婚但有共同子女的夫妇，如果他们想要再次结婚，可以根据所在国家和地区的法律规定，办理相应的结婚手续。</p>
+</blockquote>
+<details class="folding-tag" ><summary> GPT3.5 </summary>
+              <div class='content'>
+              <p><blockquote></p><p><p>一般来说，爸爸和妈妈不能结婚。在大多数国家和地区，近亲结婚是非法的，包括父母和子女之间的婚姻。这是为了避免基因缺陷和其他健康问题在家庭中遗传传播，以及维护家庭伦理和社会秩序。<br>此外，父母和子女之间的性关系也是非法的，并被视为性虐待和滥用行为，这可能会导致严重的法律后果和心理创伤。因此，我们应该尊重和遵守社会道德和法律法规，维护家庭和社会的和谐稳定。<br></p>
+              </div>
+            </details></p>
+</blockquote>
+<details class="folding-tag" ><summary> NewBing </summary>
+              <div class='content'>
+              <p><blockquote></p><p><p>根据中国的法律，无论双方父母和他们两人再怎么同意，他们的结婚都是都是不合法的，都是无效的。<br>希望这能回答您的问题。如果您有其他问题，请随时问我。<br></p>
+              </div>
+            </details></p>
+</blockquote>
+<h3 id="我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化"><a href="#我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化" class="headerlink" title="我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化"></a>我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化</h3><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505195801.webp" alt=""></p>
+<blockquote>
+<p>520情人节，是表达爱意的浪漫日子。为了吸引更多的顾客，我们可以推出以下营销方案：<br>1.鲜花礼盒：在520情人节这个特殊的日子里，我们可以推出一系列精美的鲜花礼盒，包括玫瑰、康乃馨、满天星等不同种类的花卉。每个礼盒都配有精美的包装和贺卡，让顾客感受到浓浓的爱意。此外，我们还可以提供定制服务，根据客户的需求来制作独一无二的礼盒。<br>2.花束定制：除了鲜花礼盒，我们还可以提供花束定制服务。顾客可以根据自己的喜好和需求，选择不同的花卉和搭配方式，定制出独一无二的花束。我们还可以提供现场速递服务，让顾客在最短的时间内收到自己心爱的花束。<br>3.社交媒体营销：在520情人节这个特殊的日子里，我们可以在社交媒体上进行营销推广。通过发布有关鲜花和爱情的内容，吸引更多的关注和转发。同时，我们还可以开展互动活动，例如抽奖、分享照片等，增加用户参与度和粘性。<br>4.优惠活动：为了吸引更多的顾客，我们可以推出一些优惠活动。例如，在520情人节当天购买鲜花礼盒或花束，可以享受一定的折扣或赠品。此外，我们还可以推出会员制度，为忠实顾客提供更多的优惠和服务。<br>总之，520情人节是一个非常适合销售鲜花的节日。通过以上营销方案的实施，我们可以吸引更多的顾客，提高销售额和品牌知名度。</p>
+</blockquote>
+<details class="folding-tag" ><summary> GPT3.5 </summary>
+              <div class='content'>
+              <p><blockquote></p><p><p>520情人节是一年一度的爱情盛典，也是鲜花销售的高峰期。作为一家卖鲜花的商家，你可以通过以下的营销方案来吸引潜在客户和增加销售额。<br>1.设计520情人节专属鲜花套餐<br>设计一系列情人节专属鲜花套餐，让客户可以轻松选择心仪的套餐。可以根据价格和花卉类型来区分不同的套餐，例如情人节经典款、豪华款、定制款等等。可以在网站和社交媒体上宣传这些套餐，吸引客户的关注。<br>2.创意营销<br>为了吸引更多的客户，可以结合时下流行的社交媒体，设计有趣的营销活动。例如，可以开展花艺大赛，鼓励客户分享自己的创意花艺，以及拍摄520情人节的浪漫照片，用鲜花营造浪漫氛围。<br>3.赠送小礼品<br>可以赠送一些小礼品，如精美贺卡、糖果、巧克力等，来提高客户的购买意愿。在购买情人节鲜花套餐时，附赠一些小礼品，让客户感受到品牌的贴心服务，增强客户对品牌的信任度。<br>4.预订优惠<br>可以提前推出情人节鲜花预订优惠，吸引客户提前预订，并为客户提供更好的服务。可以在预订时提供更多的选择，例如提供更多的花卉种类、颜色、配送时间等，让客户更有参与感和体验感。<br>5.客户关怀<br>在520情人节期间，可以加强与客户的沟通，发出祝福和关怀。例如，通过短信或微信向客户发送情人节祝福，或者发放优惠券、折扣码等，让客户感受到品牌的温暖和关心。<br>以上是一些可以用于营销的具体细节方案，卖鲜花的商家可以根据自己的情况和需求，选择适合自己的方案，并进行具体细化和操作。<br></p>
+              </div>
+            </details></p>
+</blockquote>
+<details class="folding-tag" ><summary> NewBing </summary>
+              <div class='content'>
+              <p><p>Q：我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化<br>A：好的，让我们来为您的鲜花店制定一份520情人节的营销方案。首先，我们需要了解您的目标受众是谁。您的鲜花店主要面向哪些人群？例如，年龄、性别、职业、收入等等。这些信息可以帮助我们更好地为您量身定制一份营销方案。<br>Q：面向大学生<br>好的，针对大学生这个目标受众，我们可以考虑以下几个方面：<br>鲜花种类：大学生喜欢的鲜花种类有哪些？可以考虑玫瑰、康乃馨、百合等。这些花卉都有着浪漫、温馨的寓意，非常适合情人节赠送。<br>花束包装：花束的包装也非常重要。可以考虑采用粉色、红色等浪漫色系，搭配可爱的小熊、小猫等元素，让花束更具有情人节氛围。<br>营销策略：可以在校园内张贴海报、发放传单等方式进行宣传。此外，可以考虑在社交媒体上发布相关内容，吸引更多的目标受众。<br>希望以上建议能够帮到您。如果您还有其他问题或需要更多帮助，请随时告诉我。<br></p>
+              </div>
+            </details></p>
+<h3 id="蒸一个包子要10分钟，蒸10个包子要多久"><a href="#蒸一个包子要10分钟，蒸10个包子要多久" class="headerlink" title="蒸一个包子要10分钟，蒸10个包子要多久"></a>蒸一个包子要10分钟，蒸10个包子要多久</h3><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505200132.webp" alt=""></p>
+<blockquote>
+<p>如果蒸一个包子需要10分钟，那么蒸10个包子的时间取决于以下几个因素：<br>1.蒸锅的大小和容量：如果你的蒸锅足够大，可以同时容纳10个包子，那么蒸10个包子的时间可能只需要5-6分钟。但如果你的蒸锅比较小，只能容纳5个或更少的包子，那么蒸10个包子的时间可能需要更长。<br>2.蒸汽的温度和压力：如果蒸汽的温度和压力足够高，可以更快地将包子蒸熟，那么蒸10个包子的时间可能只需要8-9分钟。但如果蒸汽的温度和压力不够高，需要更长时间才能将包子蒸熟，那么蒸10个包子的时间可能需要12-15分钟。<br>3.包子的厚度和大小：如果每个包子的厚度和大小都相同，那么它们在蒸煮过程中所需的时间也应该相同。但如果有些包子比其他包子更大或更厚，那么它们可能需要更长的时间才能熟透。<br>综上所述，蒸10个包子的时间取决于多个因素，无法给出一个准确的时间。建议在蒸包子之前先测量好水温，确保水开了再放入包子，这样可以保证包子能够均匀受热，同时也可以避免过早地熟透或者过晚地生疏。</p>
+</blockquote>
+<details class="folding-tag" ><summary> GPT3.5 </summary>
+              <div class='content'>
+              <p><blockquote></p><p><p>蒸一个包子需要10分钟，蒸10个包子需要的时间取决于蒸锅的大小和包子的大小，以及包子的层数等因素。一般情况下，蒸10个包子需要的时间可能会略微长一些，因为需要逐层蒸熟，同时也要注意不要让包子互相粘在一起。一般来说，蒸10个包子需要大约15-20分钟左右，具体时间可以根据包子的大小和材料调整。<br></p>
+              </div>
+            </details></p>
+</blockquote>
+<details class="folding-tag" ><summary> NewBing </summary>
+              <div class='content'>
+              <p><blockquote></p><p><p>如果蒸一个包子需要10分钟，那么蒸10个包子需要的时间是多少呢？答案是：10分钟。<br>这是因为，无论蒸多少个包子，蒸的时间都是一样的。当然，如果您同时蒸多个层，可能需要适当延长蒸的时间。但是一般情况下，蒸10个包子的时间和蒸1个包子的时间是一样的。<br>希望能够帮到您。如果您还有其他问题或需要更多帮助，请随时告诉我。<br></p>
+              </div>
+            </details></p>
+</blockquote>
+<p>总的来说，星火大模型的准确度和回答速度都还不错，基本上不会出现需要一直等待的情况，算得上是一个体验不错的产品了。</p>
+<p>此外，对于我们绝大多数普通用户来说，星火是能够满足我们的普通日常需求的。</p>
+]]></content>
+      <categories>
+        <category>闲聊杂谈</category>
+      </categories>
+      <tags>
+        <tag>闲聊新闻</tag>
+        <tag>AI模型</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>修改小米运动步数并将数据同步到第三方平台</title>
+    <url>/posts/e8c8ba03/</url>
+    <content><![CDATA[<p>前段时间小米运动刷微信步数有点火，不少论坛也发了很多不错的教程，大致分为四类方法：PC软件、安卓APP、网页端、云函数部署。</p>
+<p>对于云函数部署，应该有很多人都已经了解过也上手过，不过最近比较知名的腾讯云和阿里云的云函数服务都要开始收费了，不少人部署的项目就只能转移到其他的免费云函数平台，华为云就是其中之一。</p>
+<p>下面我就用华为云的<a href="https://www.huaweicloud.com/product/functiongraph.html">函数工作流</a>来演示<code>每日自动修改小米运动步数</code>的部署教程。</p>
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ol>
+<li>注册一个<a href="https://www.huaweicloud.com/">华为云</a>的账号，并完成实名认证</li>
+<li>需要一个小米运动账号，并且是直接用手机号+密码方式登录的</li>
+<li>没了</li>
+</ol>
+<h2 id="部署教程"><a href="#部署教程" class="headerlink" title="部署教程"></a>部署教程</h2><p>将<a href="https://jxin.lanzouv.com/iJQwy0e4p8sf">函数文件</a>下载到本地</p>
+<p>打开华为云的<a href="https://www.huaweicloud.com/product/functiongraph.html">函数工作流</a>，点击立即使用</p>
+<p>进入到管理界面后，点击右上角的<code>创建函数</code></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018225937.png" alt=""></p>
+<p>创建空白函数 -&gt; 事件函数 -&gt; 区域可随便选(建议选国内) -&gt; 函数名称随意 -&gt; 委托不管 -&gt; 运行环境选择Python3.6</p>
+<p>具体如下图，注意运行环境一定要是Python3.6</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018230956.png" alt=""></p>
+<p>进入到函数配置界面后，点击右侧的上传至 -&gt; Zip文件 -&gt; 添加刚才下载的<a href="https://jxin.lanzouv.com/iJQwy0e4p8sf">函数文件</a> -&gt; 确定</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018231612.png" alt=""></p>
+<p>在左侧的Project区域内点击<code>config.py</code>来修改配置文件，将内容填写到’’内</p>
+<p><a href="https://www.pushplus.plus/">PushPlus</a>是一个消息推送平台，在每天自动执行完毕后可以将结果通过微信公众号的方式推送给你</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018231727.png" alt=""></p>
+<p>配置完成后 按ctrl+s保存或点击<code>部署</code> -&gt; 点击代码框上面的<code>测试</code> -&gt; 随便创建一个测试任务 -&gt; 再次点击测试</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018232221.png" alt=""></p>
+<p>配置的没错的话就会显示执行成功了</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018232629.png" alt=""></p>
+<h2 id="创建定时执行任务"><a href="#创建定时执行任务" class="headerlink" title="创建定时执行任务"></a>创建定时执行任务</h2><p>测试代码配置没问题后，点击设置，在常规设置里建议将执行超时时间设置为900</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018232837.png" alt=""></p>
+<p>点击触发器，创建触发器</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018232956.png" alt=""></p>
+<p>触发器类型选择<code>定时触发器</code>，触发规则选择Cron表达式</p>
+<p><code>0 25 21 * * ?</code>表示在每天的21:25分执行，可以参照修改，建议时间为21点后</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018233057.png" alt=""></p>
+<p>到这里就配置完成了，有问题可在下方留言，看到了会回复</p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>在VPS上安装哪吒面板，并用Caddy实现反向代理</title>
     <url>/posts/f1e2eb87/</url>
     <content><![CDATA[<p>哪吒监控是一个开源、轻量的服务器和网站监控、运维工具，能够实时监控并报告服务器的状态。</p>
@@ -1019,116 +1129,6 @@
       </categories>
       <tags>
         <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>修改小米运动步数并将数据同步到第三方平台</title>
-    <url>/posts/e8c8ba03/</url>
-    <content><![CDATA[<p>前段时间小米运动刷微信步数有点火，不少论坛也发了很多不错的教程，大致分为四类方法：PC软件、安卓APP、网页端、云函数部署。</p>
-<p>对于云函数部署，应该有很多人都已经了解过也上手过，不过最近比较知名的腾讯云和阿里云的云函数服务都要开始收费了，不少人部署的项目就只能转移到其他的免费云函数平台，华为云就是其中之一。</p>
-<p>下面我就用华为云的<a href="https://www.huaweicloud.com/product/functiongraph.html">函数工作流</a>来演示<code>每日自动修改小米运动步数</code>的部署教程。</p>
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ol>
-<li>注册一个<a href="https://www.huaweicloud.com/">华为云</a>的账号，并完成实名认证</li>
-<li>需要一个小米运动账号，并且是直接用手机号+密码方式登录的</li>
-<li>没了</li>
-</ol>
-<h2 id="部署教程"><a href="#部署教程" class="headerlink" title="部署教程"></a>部署教程</h2><p>将<a href="https://jxin.lanzouv.com/iJQwy0e4p8sf">函数文件</a>下载到本地</p>
-<p>打开华为云的<a href="https://www.huaweicloud.com/product/functiongraph.html">函数工作流</a>，点击立即使用</p>
-<p>进入到管理界面后，点击右上角的<code>创建函数</code></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018225937.png" alt=""></p>
-<p>创建空白函数 -&gt; 事件函数 -&gt; 区域可随便选(建议选国内) -&gt; 函数名称随意 -&gt; 委托不管 -&gt; 运行环境选择Python3.6</p>
-<p>具体如下图，注意运行环境一定要是Python3.6</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018230956.png" alt=""></p>
-<p>进入到函数配置界面后，点击右侧的上传至 -&gt; Zip文件 -&gt; 添加刚才下载的<a href="https://jxin.lanzouv.com/iJQwy0e4p8sf">函数文件</a> -&gt; 确定</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018231612.png" alt=""></p>
-<p>在左侧的Project区域内点击<code>config.py</code>来修改配置文件，将内容填写到’’内</p>
-<p><a href="https://www.pushplus.plus/">PushPlus</a>是一个消息推送平台，在每天自动执行完毕后可以将结果通过微信公众号的方式推送给你</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018231727.png" alt=""></p>
-<p>配置完成后 按ctrl+s保存或点击<code>部署</code> -&gt; 点击代码框上面的<code>测试</code> -&gt; 随便创建一个测试任务 -&gt; 再次点击测试</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018232221.png" alt=""></p>
-<p>配置的没错的话就会显示执行成功了</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018232629.png" alt=""></p>
-<h2 id="创建定时执行任务"><a href="#创建定时执行任务" class="headerlink" title="创建定时执行任务"></a>创建定时执行任务</h2><p>测试代码配置没问题后，点击设置，在常规设置里建议将执行超时时间设置为900</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018232837.png" alt=""></p>
-<p>点击触发器，创建触发器</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018232956.png" alt=""></p>
-<p>触发器类型选择<code>定时触发器</code>，触发规则选择Cron表达式</p>
-<p><code>0 25 21 * * ?</code>表示在每天的21:25分执行，可以参照修改，建议时间为21点后</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20221018233057.png" alt=""></p>
-<p>到这里就配置完成了，有问题可在下方留言，看到了会回复</p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>国产AI又一新秀，讯飞星火认知大模型来了</title>
-    <url>/posts/7ee4dd5d/</url>
-    <content><![CDATA[<blockquote>
-<p>4月24日，科大讯飞星火认知大模型官网正式上线，用户可在官网填写企业、姓名、电话和申请理由，等审核通过后，便可以获取体验资格。</p>
-</blockquote>
-<p>4月27日，我在官网提交了申请，等待了8天后终于坐上了本次内测的末班车。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505185901.webp" alt=""></p>
-<p>针对从网上收集的一些问题，来试试讯飞星火、GPT3.5、NewBing的回答有哪些区别。</p>
-<h2 id="问题清单"><a href="#问题清单" class="headerlink" title="问题清单"></a>问题清单</h2><h3 id="爸爸和妈妈能结婚吗"><a href="#爸爸和妈妈能结婚吗" class="headerlink" title="爸爸和妈妈能结婚吗"></a>爸爸和妈妈能结婚吗</h3><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505192342.webp" alt=""></p>
-<blockquote>
-<p>通常情况下，父母是已经结婚的，因为他们是夫妻关系。在大多数国家和文化中，婚姻是两个成年人建立家庭并承担家庭和社会责任的方式。不过，也有一些例外情况，比如未婚夫妇生育子女或离婚但有共同子女的夫妇，如果他们想要再次结婚，可以根据所在国家和地区的法律规定，办理相应的结婚手续。</p>
-</blockquote>
-<details class="folding-tag" ><summary> GPT3.5 </summary>
-              <div class='content'>
-              <p><blockquote></p><p><p>一般来说，爸爸和妈妈不能结婚。在大多数国家和地区，近亲结婚是非法的，包括父母和子女之间的婚姻。这是为了避免基因缺陷和其他健康问题在家庭中遗传传播，以及维护家庭伦理和社会秩序。<br>此外，父母和子女之间的性关系也是非法的，并被视为性虐待和滥用行为，这可能会导致严重的法律后果和心理创伤。因此，我们应该尊重和遵守社会道德和法律法规，维护家庭和社会的和谐稳定。<br></p>
-              </div>
-            </details></p>
-</blockquote>
-<details class="folding-tag" ><summary> NewBing </summary>
-              <div class='content'>
-              <p><blockquote></p><p><p>根据中国的法律，无论双方父母和他们两人再怎么同意，他们的结婚都是都是不合法的，都是无效的。<br>希望这能回答您的问题。如果您有其他问题，请随时问我。<br></p>
-              </div>
-            </details></p>
-</blockquote>
-<h3 id="我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化"><a href="#我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化" class="headerlink" title="我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化"></a>我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化</h3><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505195801.webp" alt=""></p>
-<blockquote>
-<p>520情人节，是表达爱意的浪漫日子。为了吸引更多的顾客，我们可以推出以下营销方案：<br>1.鲜花礼盒：在520情人节这个特殊的日子里，我们可以推出一系列精美的鲜花礼盒，包括玫瑰、康乃馨、满天星等不同种类的花卉。每个礼盒都配有精美的包装和贺卡，让顾客感受到浓浓的爱意。此外，我们还可以提供定制服务，根据客户的需求来制作独一无二的礼盒。<br>2.花束定制：除了鲜花礼盒，我们还可以提供花束定制服务。顾客可以根据自己的喜好和需求，选择不同的花卉和搭配方式，定制出独一无二的花束。我们还可以提供现场速递服务，让顾客在最短的时间内收到自己心爱的花束。<br>3.社交媒体营销：在520情人节这个特殊的日子里，我们可以在社交媒体上进行营销推广。通过发布有关鲜花和爱情的内容，吸引更多的关注和转发。同时，我们还可以开展互动活动，例如抽奖、分享照片等，增加用户参与度和粘性。<br>4.优惠活动：为了吸引更多的顾客，我们可以推出一些优惠活动。例如，在520情人节当天购买鲜花礼盒或花束，可以享受一定的折扣或赠品。此外，我们还可以推出会员制度，为忠实顾客提供更多的优惠和服务。<br>总之，520情人节是一个非常适合销售鲜花的节日。通过以上营销方案的实施，我们可以吸引更多的顾客，提高销售额和品牌知名度。</p>
-</blockquote>
-<details class="folding-tag" ><summary> GPT3.5 </summary>
-              <div class='content'>
-              <p><blockquote></p><p><p>520情人节是一年一度的爱情盛典，也是鲜花销售的高峰期。作为一家卖鲜花的商家，你可以通过以下的营销方案来吸引潜在客户和增加销售额。<br>1.设计520情人节专属鲜花套餐<br>设计一系列情人节专属鲜花套餐，让客户可以轻松选择心仪的套餐。可以根据价格和花卉类型来区分不同的套餐，例如情人节经典款、豪华款、定制款等等。可以在网站和社交媒体上宣传这些套餐，吸引客户的关注。<br>2.创意营销<br>为了吸引更多的客户，可以结合时下流行的社交媒体，设计有趣的营销活动。例如，可以开展花艺大赛，鼓励客户分享自己的创意花艺，以及拍摄520情人节的浪漫照片，用鲜花营造浪漫氛围。<br>3.赠送小礼品<br>可以赠送一些小礼品，如精美贺卡、糖果、巧克力等，来提高客户的购买意愿。在购买情人节鲜花套餐时，附赠一些小礼品，让客户感受到品牌的贴心服务，增强客户对品牌的信任度。<br>4.预订优惠<br>可以提前推出情人节鲜花预订优惠，吸引客户提前预订，并为客户提供更好的服务。可以在预订时提供更多的选择，例如提供更多的花卉种类、颜色、配送时间等，让客户更有参与感和体验感。<br>5.客户关怀<br>在520情人节期间，可以加强与客户的沟通，发出祝福和关怀。例如，通过短信或微信向客户发送情人节祝福，或者发放优惠券、折扣码等，让客户感受到品牌的温暖和关心。<br>以上是一些可以用于营销的具体细节方案，卖鲜花的商家可以根据自己的情况和需求，选择适合自己的方案，并进行具体细化和操作。<br></p>
-              </div>
-            </details></p>
-</blockquote>
-<details class="folding-tag" ><summary> NewBing </summary>
-              <div class='content'>
-              <p><p>Q：我想卖鲜花，给我写一篇520情人节的营销方案，并进行具体细化<br>A：好的，让我们来为您的鲜花店制定一份520情人节的营销方案。首先，我们需要了解您的目标受众是谁。您的鲜花店主要面向哪些人群？例如，年龄、性别、职业、收入等等。这些信息可以帮助我们更好地为您量身定制一份营销方案。<br>Q：面向大学生<br>好的，针对大学生这个目标受众，我们可以考虑以下几个方面：<br>鲜花种类：大学生喜欢的鲜花种类有哪些？可以考虑玫瑰、康乃馨、百合等。这些花卉都有着浪漫、温馨的寓意，非常适合情人节赠送。<br>花束包装：花束的包装也非常重要。可以考虑采用粉色、红色等浪漫色系，搭配可爱的小熊、小猫等元素，让花束更具有情人节氛围。<br>营销策略：可以在校园内张贴海报、发放传单等方式进行宣传。此外，可以考虑在社交媒体上发布相关内容，吸引更多的目标受众。<br>希望以上建议能够帮到您。如果您还有其他问题或需要更多帮助，请随时告诉我。<br></p>
-              </div>
-            </details></p>
-<h3 id="蒸一个包子要10分钟，蒸10个包子要多久"><a href="#蒸一个包子要10分钟，蒸10个包子要多久" class="headerlink" title="蒸一个包子要10分钟，蒸10个包子要多久"></a>蒸一个包子要10分钟，蒸10个包子要多久</h3><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230505200132.webp" alt=""></p>
-<blockquote>
-<p>如果蒸一个包子需要10分钟，那么蒸10个包子的时间取决于以下几个因素：<br>1.蒸锅的大小和容量：如果你的蒸锅足够大，可以同时容纳10个包子，那么蒸10个包子的时间可能只需要5-6分钟。但如果你的蒸锅比较小，只能容纳5个或更少的包子，那么蒸10个包子的时间可能需要更长。<br>2.蒸汽的温度和压力：如果蒸汽的温度和压力足够高，可以更快地将包子蒸熟，那么蒸10个包子的时间可能只需要8-9分钟。但如果蒸汽的温度和压力不够高，需要更长时间才能将包子蒸熟，那么蒸10个包子的时间可能需要12-15分钟。<br>3.包子的厚度和大小：如果每个包子的厚度和大小都相同，那么它们在蒸煮过程中所需的时间也应该相同。但如果有些包子比其他包子更大或更厚，那么它们可能需要更长的时间才能熟透。<br>综上所述，蒸10个包子的时间取决于多个因素，无法给出一个准确的时间。建议在蒸包子之前先测量好水温，确保水开了再放入包子，这样可以保证包子能够均匀受热，同时也可以避免过早地熟透或者过晚地生疏。</p>
-</blockquote>
-<details class="folding-tag" ><summary> GPT3.5 </summary>
-              <div class='content'>
-              <p><blockquote></p><p><p>蒸一个包子需要10分钟，蒸10个包子需要的时间取决于蒸锅的大小和包子的大小，以及包子的层数等因素。一般情况下，蒸10个包子需要的时间可能会略微长一些，因为需要逐层蒸熟，同时也要注意不要让包子互相粘在一起。一般来说，蒸10个包子需要大约15-20分钟左右，具体时间可以根据包子的大小和材料调整。<br></p>
-              </div>
-            </details></p>
-</blockquote>
-<details class="folding-tag" ><summary> NewBing </summary>
-              <div class='content'>
-              <p><blockquote></p><p><p>如果蒸一个包子需要10分钟，那么蒸10个包子需要的时间是多少呢？答案是：10分钟。<br>这是因为，无论蒸多少个包子，蒸的时间都是一样的。当然，如果您同时蒸多个层，可能需要适当延长蒸的时间。但是一般情况下，蒸10个包子的时间和蒸1个包子的时间是一样的。<br>希望能够帮到您。如果您还有其他问题或需要更多帮助，请随时告诉我。<br></p>
-              </div>
-            </details></p>
-</blockquote>
-<p>总的来说，星火大模型的准确度和回答速度都还不错，基本上不会出现需要一直等待的情况，算得上是一个体验不错的产品了。</p>
-<p>此外，对于我们绝大多数普通用户来说，星火是能够满足我们的普通日常需求的。</p>
-]]></content>
-      <categories>
-        <category>闲聊杂谈</category>
-      </categories>
-      <tags>
-        <tag>闲聊新闻</tag>
-        <tag>AI模型</tag>
       </tags>
   </entry>
   <entry>
@@ -1219,8 +1219,8 @@
       </categories>
       <tags>
         <tag>教程</tag>
-        <tag>笔记</tag>
         <tag>Hexo</tag>
+        <tag>笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -1416,6 +1416,47 @@
       </categories>
       <tags>
         <tag>音乐推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有了网盘找不到资源？不，我不允许！</title>
+    <url>/posts/91246aed/</url>
+    <content><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>2021年3月22日，阿里云盘宣布正式公测。打着「永不限速」的口号，使得被某度网盘限速的小伙伴们纷纷「转投阵营」，阿里云盘迅速抢占了在国内的部分市场。</p>
+<p>经过了几个月的公测，阿里云盘的各项功能也已经逐步完善，随之而来的，就是审核力度的加大化，导致很多资源无法分享和转存。但就从不限速和资源分享的角度说，作为后来者的阿里云盘也算交了份能看的答卷。</p>
+<p>容量方面，相信很多参与内测的用户至少都领取到了3-5TB的永久容量，而且在阿里云盘刚开始公测的那段时间，官方放出了好多免费的扩容码，大的有1TB，小的也有200GB。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201181.webp" alt=""></p>
+<p>虽然从阿里云盘现在推出的活动来看，未来的收费模式应该是以容量付费为主。不过只要付费模式设置的合理，对于绝大部分普通用户来说，还是可以接受的。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201182.webp" alt=""></p>
+<p>就算没有太多容量的小伙伴也不要担心，现在的阿里云盘APP里也还有很多扩容的活动，这些赠送的容量对于普通用户来说，完全够用了。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201183.webp" alt=""></p>
+<p>其次，虽然大部分赠送的容量都是有期限的，但你也完全不必担心，因为阿里云盘为了留住用户，只需要每月完成每周签到或者发起三次文件共享就能免费延期。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201184.webp" alt=""></p>
+<p>说了这么多，容量够用了，那要用来存什么呢？找不到想要的资源啊。我们今天就来一起解决这个问题。</p>
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>说到找资源，相信大部分人都喜欢上某某资源站、某某论坛找资源。但这样有一个问题，那就是资源的质量无法保证，比如想找某一个电影，往往搜出来的资源要么是无效的，要么就是「牛头不对马嘴」。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201185.webp" alt=""></p>
+<p>而今天江小鑫给大家带来的就是我常用的几种找资源的方法，避免你再在找资源的路上踩坑。</p>
+<h3 id="资源合集在线文档"><a href="#资源合集在线文档" class="headerlink" title="资源合集在线文档"></a>资源合集在线文档</h3><p>这是一种自阿里云盘上线以来就一直存在的方法，这种方法有一个好处就是有专人管理，获取到的资源质量比较高，同时操作方法比较简单，直接 CTRL+F 即可。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201186.webp" alt=""></p>
+<p>但这种方法也有弊端，随着每天资源的增多，其访问速度多少会受到影响，对于那种古董电脑，可能加载文档都要很长时间。</p>
+<p>其次，因为在线文档是由专人管理，所以资源的发布也没有那么迅速。就拿近期某音比较火热的美剧亢奋来说，在这个在线文档里暂时还搜索不到。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201187.webp" alt=""></p>
+<h3 id="资源论坛"><a href="#资源论坛" class="headerlink" title="资源论坛"></a>资源论坛</h3><p>如果你想要的资源在在线文档里搜不到，那么你可以试试到资源论坛去搜索。</p>
+<p>因为资源论坛具有开放性，人人都可以发帖， 人人都可以分享，自然资源的发布也会比较迅速。</p>
+<p>还是拿这部剧来作演示，在这个资源论坛里随手一搜，就能看到有很多的帖子，随便点进去一个，就是阿里云盘的链接，直接转存即可。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201188.webp" alt=""></p>
+<h3 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h3><p>除了在线文档和资源论坛，还有一个更加高效且简单的方法，那就是资源搜索引擎。搜索引擎通过爬虫从全网搜罗各种阿里云盘的资源，资源量肯定是没得说。</p>
+<p>想要什么资源，直接到输入框里去搜即可。比如我们搜个「周杰伦」，就有很多与其相关的搜索结果。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201189.webp" alt=""></p>
+<p>随便点进去一个，就是满满的资源列表，我们只需要点击右上角的「全部保存到我的云盘」，即可将所有资源收入囊中。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011810.webp" alt=""></p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>最后，有了这几种找资源的方法，相信大家以后看电影再也不用去那些全是广告和无限卡顿的影视网站受罪了。</p>
+<p>试试自己动动手，其实操作很简单，找到的资源质量也比那些网站高得多。顺便在闲暇之余还能帮「朋友」找找什么不可描述的资源图片</p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>网站推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -3563,47 +3604,6 @@
       </tags>
   </entry>
   <entry>
-    <title>有了网盘找不到资源？不，我不允许！</title>
-    <url>/posts/91246aed/</url>
-    <content><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>2021年3月22日，阿里云盘宣布正式公测。打着「永不限速」的口号，使得被某度网盘限速的小伙伴们纷纷「转投阵营」，阿里云盘迅速抢占了在国内的部分市场。</p>
-<p>经过了几个月的公测，阿里云盘的各项功能也已经逐步完善，随之而来的，就是审核力度的加大化，导致很多资源无法分享和转存。但就从不限速和资源分享的角度说，作为后来者的阿里云盘也算交了份能看的答卷。</p>
-<p>容量方面，相信很多参与内测的用户至少都领取到了3-5TB的永久容量，而且在阿里云盘刚开始公测的那段时间，官方放出了好多免费的扩容码，大的有1TB，小的也有200GB。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201181.webp" alt=""></p>
-<p>虽然从阿里云盘现在推出的活动来看，未来的收费模式应该是以容量付费为主。不过只要付费模式设置的合理，对于绝大部分普通用户来说，还是可以接受的。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201182.webp" alt=""></p>
-<p>就算没有太多容量的小伙伴也不要担心，现在的阿里云盘APP里也还有很多扩容的活动，这些赠送的容量对于普通用户来说，完全够用了。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201183.webp" alt=""></p>
-<p>其次，虽然大部分赠送的容量都是有期限的，但你也完全不必担心，因为阿里云盘为了留住用户，只需要每月完成每周签到或者发起三次文件共享就能免费延期。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201184.webp" alt=""></p>
-<p>说了这么多，容量够用了，那要用来存什么呢？找不到想要的资源啊。我们今天就来一起解决这个问题。</p>
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>说到找资源，相信大部分人都喜欢上某某资源站、某某论坛找资源。但这样有一个问题，那就是资源的质量无法保证，比如想找某一个电影，往往搜出来的资源要么是无效的，要么就是「牛头不对马嘴」。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201185.webp" alt=""></p>
-<p>而今天江小鑫给大家带来的就是我常用的几种找资源的方法，避免你再在找资源的路上踩坑。</p>
-<h3 id="资源合集在线文档"><a href="#资源合集在线文档" class="headerlink" title="资源合集在线文档"></a>资源合集在线文档</h3><p>这是一种自阿里云盘上线以来就一直存在的方法，这种方法有一个好处就是有专人管理，获取到的资源质量比较高，同时操作方法比较简单，直接 CTRL+F 即可。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201186.webp" alt=""></p>
-<p>但这种方法也有弊端，随着每天资源的增多，其访问速度多少会受到影响，对于那种古董电脑，可能加载文档都要很长时间。</p>
-<p>其次，因为在线文档是由专人管理，所以资源的发布也没有那么迅速。就拿近期某音比较火热的美剧亢奋来说，在这个在线文档里暂时还搜索不到。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201187.webp" alt=""></p>
-<h3 id="资源论坛"><a href="#资源论坛" class="headerlink" title="资源论坛"></a>资源论坛</h3><p>如果你想要的资源在在线文档里搜不到，那么你可以试试到资源论坛去搜索。</p>
-<p>因为资源论坛具有开放性，人人都可以发帖， 人人都可以分享，自然资源的发布也会比较迅速。</p>
-<p>还是拿这部剧来作演示，在这个资源论坛里随手一搜，就能看到有很多的帖子，随便点进去一个，就是阿里云盘的链接，直接转存即可。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201188.webp" alt=""></p>
-<h3 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h3><p>除了在线文档和资源论坛，还有一个更加高效且简单的方法，那就是资源搜索引擎。搜索引擎通过爬虫从全网搜罗各种阿里云盘的资源，资源量肯定是没得说。</p>
-<p>想要什么资源，直接到输入框里去搜即可。比如我们搜个「周杰伦」，就有很多与其相关的搜索结果。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201189.webp" alt=""></p>
-<p>随便点进去一个，就是满满的资源列表，我们只需要点击右上角的「全部保存到我的云盘」，即可将所有资源收入囊中。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011810.webp" alt=""></p>
-<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>最后，有了这几种找资源的方法，相信大家以后看电影再也不用去那些全是广告和无限卡顿的影视网站受罪了。</p>
-<p>试试自己动动手，其实操作很简单，找到的资源质量也比那些网站高得多。顺便在闲暇之余还能帮「朋友」找找什么不可描述的资源图片</p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>网站推荐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>果里果气的 Winodws12.1 演示视频，来自个人设计师</title>
     <url>/posts/678af8a5/</url>
     <content><![CDATA[<p>此前微软内部消息曾传出微软将再次更改 Windows 系统更迭计划，也就是说，Windows11 绝不会是最后一个系统。如果不出意外的话，Windows12 将会在 2024年发布，但这些消息都还未经官方确认，谁都不能保证一定准确。毕竟当年那位说 Win10 是绝笔的高管都已经辞职了。</p>
@@ -3747,6 +3747,54 @@
         <tag>实用软件</tag>
         <tag>浏览器</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>最全2022支付宝集五福攻略</title>
+    <url>/posts/a3db79a2/</url>
+    <content><![CDATA[<div class="tip "><p>五福来啦，五福来啦。支付宝的集五福活动，已经成了不少人过年必玩的游戏，尽管每年瓜分的奖励越来越少，但支付宝的集五福活动好像已经成为了很多人的一种「习惯」。</p>
+<p>2022年支付宝集五福活动今日正式开启。此次集五福活动时间1月19日到1月31日，瓜分红包时间1月31日晚上22:18。</p>
+</div>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201191.webp" alt=""></p>
+<p>数据显示，过去六年累计参与支付宝集五福的人数已经超过了7亿，每2个中国人里就有1个曾扫福、集福、送福。</p>
+<p>这不，活动才刚开始第一天，就有已经有二十多万人集齐了五福。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201192.webp" alt=""></p>
+<p>江小鑫作为一个集五福活动的忠实爱好者，今天就和大家一起盘点一下，怎样才能更快集齐五福。</p>
+<h3 id="直接领取随机福卡"><a href="#直接领取随机福卡" class="headerlink" title="直接领取随机福卡"></a>直接领取随机福卡</h3><details class="toggle" style="border: 1px solid bg"><summary class="toggle-button" style="background-color: bg;color: color">点我展开链接</summary><div class="toggle-content"><p><img src="https://cdn.jx-ll.cn/post_img/2022011901.jpg" alt=""></p>
+<p>每天最多领15个！领取后去支付宝卡包里使用兑换！<br>部分提示人气太旺就明天领，验证码频繁就晚点再去领！<br><a href="https://tb3.cn/AAMiHt">https://tb3.cn/AAMiHt</a><br><a href="https://tb3.cn/Ade6AT">https://tb3.cn/Ade6AT</a><br><a href="https://tb3.cn/AccWiM">https://tb3.cn/AccWiM</a><br><a href="https://tb3.cn/ACRASx">https://tb3.cn/ACRASx</a><br><a href="https://tb3.cn/AKjv4Q">https://tb3.cn/AKjv4Q</a><br><a href="https://tb3.cn/AEctS0">https://tb3.cn/AEctS0</a><br><a href="https://tb3.cn/AfUW1A">https://tb3.cn/AfUW1A</a><br><a href="https://tb3.cn/AxSoLr">https://tb3.cn/AxSoLr</a><br><a href="https://tb3.cn/AGmYIu">https://tb3.cn/AGmYIu</a><br><a href="https://tb3.cn/AM4ze2">https://tb3.cn/AM4ze2</a><br><a href="https://tb3.cn/AtYJUF">https://tb3.cn/AtYJUF</a><br><a href="https://tb3.cn/AvQPKu">https://tb3.cn/AvQPKu</a><br><a href="https://tb3.cn/AmoNZJ">https://tb3.cn/AmoNZJ</a><br><a href="https://tb3.cn/ApHf5I">https://tb3.cn/ApHf5I</a><br><a href="https://tb3.cn/AYpHuJ">https://tb3.cn/AYpHuJ</a><br><a href="https://tb3.cn/A4zToA">https://tb3.cn/A4zToA</a><br><a href="https://tb3.cn/AQOuUw">https://tb3.cn/AQOuUw</a><br><a href="https://tb3.cn/Afwwoz">https://tb3.cn/Afwwoz</a><br><a href="https://tb3.cn/Ajf17n">https://tb3.cn/Ajf17n</a><br><a href="https://tb3.cn/Aj1JX5">https://tb3.cn/Aj1JX5</a><br><a href="https://tb3.cn/AvGeJT">https://tb3.cn/AvGeJT</a><br><a href="https://tb3.cn/AHYuTE">https://tb3.cn/AHYuTE</a><br><a href="https://tb3.cn/AEwX1C">https://tb3.cn/AEwX1C</a><br><a href="https://tb3.cn/AwYqxb">https://tb3.cn/AwYqxb</a><br><a href="https://tb3.cn/AF40tH">https://tb3.cn/AF40tH</a><br><a href="https://tb3.cn/APiNWj">https://tb3.cn/APiNWj</a><br><a href="https://tb3.cn/AGWjlZ">https://tb3.cn/AGWjlZ</a><br><a href="https://tb3.cn/AlipSJ">https://tb3.cn/AlipSJ</a><br><a href="https://tb3.cn/AujEfq">https://tb3.cn/AujEfq</a><br><a href="https://tb3.cn/ALyr88">https://tb3.cn/ALyr88</a><br><a href="https://tb3.cn/AC0erE">https://tb3.cn/AC0erE</a><br><a href="https://tb3.cn/AOhMOe">https://tb3.cn/AOhMOe</a><br><a href="https://tb3.cn/AT62vC">https://tb3.cn/AT62vC</a><br><a href="https://tb3.cn/ALwhP6">https://tb3.cn/ALwhP6</a><br><a href="https://tb3.cn/AUJ9sB">https://tb3.cn/AUJ9sB</a><br><a href="https://tb3.cn/A8kxhI">https://tb3.cn/A8kxhI</a><br><a href="https://tb3.cn/AoT80q">https://tb3.cn/AoT80q</a><br><a href="https://tb3.cn/APqNhY">https://tb3.cn/APqNhY</a><br><a href="https://tb3.cn/AzIr11">https://tb3.cn/AzIr11</a><br><a href="https://tb3.cn/Aj6WUG">https://tb3.cn/Aj6WUG</a><br><a href="https://tb3.cn/AdBizf">https://tb3.cn/AdBizf</a><br><a href="https://tb3.cn/AlE9Na">https://tb3.cn/AlE9Na</a></p>
+</div></details>
+<h3 id="钻石会员直接得"><a href="#钻石会员直接得" class="headerlink" title="钻石会员直接得"></a>钻石会员直接得</h3><p>如果你是支付宝的钻石会员，那么恭喜你，你可以在几分钟内就集齐一套五福。</p>
+<p>支付宝会直接对钻石会员赠送一套「钻石会员专属套卡」，其中包含了「一张敬业福、一张沾福气卡、一张全家福」。</p>
+<p>这几张最关键的福卡直接送给你，剩下的那几张，随便扫几张福字就能得到。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201193.webp" alt=""></p>
+<p>可能也正是因为这样，才导致活动刚上线第一天，就已经有二十多万人集齐了。</p>
+<p>不够，毕竟钻石会员是少部分用户。但对于绝大多数普通用户来说，要怎样才能更快集齐五福呢？别急，攻略这就给你送上。</p>
+<h3 id="AR扫码"><a href="#AR扫码" class="headerlink" title="AR扫码"></a>AR扫码</h3><p>这是最原始的方法，但也是最有效的方法。不过江小鑫建议大家不要去扫那些普通的福字，一定要扫支付宝官方给出的这些福，得敬业福和万能福的几率更大。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201194.webp" alt=""></p>
+<p>具体操作方法：打开 支付宝-&gt;扫一扫-&gt;选择AR-&gt;扫上图中的任意福字-&gt;立即收下福卡（需要有两台设备才行）。</p>
+<h3 id="赠送福卡"><a href="#赠送福卡" class="headerlink" title="赠送福卡"></a>赠送福卡</h3><p>扫码次数用完了，多余的福该怎么办呢？千万别觉得没用了，你可以把福卡赠送给身边还没有扫过福的朋友，你也有机会可以得到沾福气卡或万能福。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201195.webp" alt=""></p>
+<p>操作方法：进入 集五福活动-&gt;我的福卡-&gt;选择任意一张福卡-&gt;送给亲友-&gt;送Ta（记得送给还没有集福的亲友哦）。</p>
+<h3 id="写福字得福卡"><a href="#写福字得福卡" class="headerlink" title="写福字得福卡"></a>写福字得福卡</h3><p>打开集五福活动的写福字界面，可以临摹它给出的样式，写一个福字出来，完成后就能获得一张福卡。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201196.webp" alt=""></p>
+<p>此外，每日的0点和12点，你还可以到「福气店」里免费打印福字，支付宝官方会免费将你写的福字打印出来并送到你家（每日限量）。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201197.webp" alt=""></p>
+<h3 id="搜索品牌关键字"><a href="#搜索品牌关键字" class="headerlink" title="搜索品牌关键字"></a>搜索品牌关键字</h3><p>今年最大的不同是五福全面向商家开放，1000 多个商家将成为主角，通过自己的支付宝小程序、生活号、App 等多个私域阵地为全国用户发福卡。</p>
+<p>用户可以在支付宝首页顶部搜索品牌方的关键字，就能看见抽福卡的入口。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201198.webp" alt=""></p>
+<p>部分品牌方关键字：肯德基，麦当劳，加油浙江，T3出行，携程，屈臣氏，蜜雪冰城，一点万象，爱租机，爱琴海，顺丰，万达广场，大润发，元气森林，一点万象，威马汽车，良品铺子，益禾堂，联合利华，名创优品，伊利，步步高。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201199.webp" alt=""></p>
+<p>此外，登录国家电网、中国移动、B站、网易云音乐等 40 多个 App，也有机会得到由他们发的福卡。</p>
+<h3 id="到店付款"><a href="#到店付款" class="headerlink" title="到店付款"></a>到店付款</h3><p>1月19日到1月31日，用户可以每天到店支付一笔（不限金额），有机会获得沾福气卡。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011910.webp" alt=""></p>
+<h3 id="12306领福卡"><a href="#12306领福卡" class="headerlink" title="12306领福卡"></a>12306领福卡</h3><p>打开支付宝扫描下方二维码，就能领取一张随机福卡。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011911.webp" alt=""></p>
+<h3 id="中国移动领福卡"><a href="#中国移动领福卡" class="headerlink" title="中国移动领福卡"></a>中国移动领福卡</h3><p>打开用浏览器或中国移动APP打开链接：🔗 <a href="https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。">https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。</a></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011912.webp" alt=""></p>
+<p>其实咱们要的并不是这几块钱，而是其中的乐趣，其中的荣誉感，其中氛围感，就像小时候吃方便集卡一样，只不过集卡的那群孩子长大了罢了，变的是时代，不变的是这一代人的内心，也许真的是五福到了，年就到了，也该“到家”团圆了。</p>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
   </entry>
   <entry>
     <title>超级详细的系统安装教程</title>
@@ -3894,53 +3942,5 @@
         <tag>实用软件</tag>
         <tag>模拟器</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>最全2022支付宝集五福攻略</title>
-    <url>/posts/a3db79a2/</url>
-    <content><![CDATA[<div class="tip "><p>五福来啦，五福来啦。支付宝的集五福活动，已经成了不少人过年必玩的游戏，尽管每年瓜分的奖励越来越少，但支付宝的集五福活动好像已经成为了很多人的一种「习惯」。</p>
-<p>2022年支付宝集五福活动今日正式开启。此次集五福活动时间1月19日到1月31日，瓜分红包时间1月31日晚上22:18。</p>
-</div>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201191.webp" alt=""></p>
-<p>数据显示，过去六年累计参与支付宝集五福的人数已经超过了7亿，每2个中国人里就有1个曾扫福、集福、送福。</p>
-<p>这不，活动才刚开始第一天，就有已经有二十多万人集齐了五福。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201192.webp" alt=""></p>
-<p>江小鑫作为一个集五福活动的忠实爱好者，今天就和大家一起盘点一下，怎样才能更快集齐五福。</p>
-<h3 id="直接领取随机福卡"><a href="#直接领取随机福卡" class="headerlink" title="直接领取随机福卡"></a>直接领取随机福卡</h3><details class="toggle" style="border: 1px solid bg"><summary class="toggle-button" style="background-color: bg;color: color">点我展开链接</summary><div class="toggle-content"><p><img src="https://cdn.jx-ll.cn/post_img/2022011901.jpg" alt=""></p>
-<p>每天最多领15个！领取后去支付宝卡包里使用兑换！<br>部分提示人气太旺就明天领，验证码频繁就晚点再去领！<br><a href="https://tb3.cn/AAMiHt">https://tb3.cn/AAMiHt</a><br><a href="https://tb3.cn/Ade6AT">https://tb3.cn/Ade6AT</a><br><a href="https://tb3.cn/AccWiM">https://tb3.cn/AccWiM</a><br><a href="https://tb3.cn/ACRASx">https://tb3.cn/ACRASx</a><br><a href="https://tb3.cn/AKjv4Q">https://tb3.cn/AKjv4Q</a><br><a href="https://tb3.cn/AEctS0">https://tb3.cn/AEctS0</a><br><a href="https://tb3.cn/AfUW1A">https://tb3.cn/AfUW1A</a><br><a href="https://tb3.cn/AxSoLr">https://tb3.cn/AxSoLr</a><br><a href="https://tb3.cn/AGmYIu">https://tb3.cn/AGmYIu</a><br><a href="https://tb3.cn/AM4ze2">https://tb3.cn/AM4ze2</a><br><a href="https://tb3.cn/AtYJUF">https://tb3.cn/AtYJUF</a><br><a href="https://tb3.cn/AvQPKu">https://tb3.cn/AvQPKu</a><br><a href="https://tb3.cn/AmoNZJ">https://tb3.cn/AmoNZJ</a><br><a href="https://tb3.cn/ApHf5I">https://tb3.cn/ApHf5I</a><br><a href="https://tb3.cn/AYpHuJ">https://tb3.cn/AYpHuJ</a><br><a href="https://tb3.cn/A4zToA">https://tb3.cn/A4zToA</a><br><a href="https://tb3.cn/AQOuUw">https://tb3.cn/AQOuUw</a><br><a href="https://tb3.cn/Afwwoz">https://tb3.cn/Afwwoz</a><br><a href="https://tb3.cn/Ajf17n">https://tb3.cn/Ajf17n</a><br><a href="https://tb3.cn/Aj1JX5">https://tb3.cn/Aj1JX5</a><br><a href="https://tb3.cn/AvGeJT">https://tb3.cn/AvGeJT</a><br><a href="https://tb3.cn/AHYuTE">https://tb3.cn/AHYuTE</a><br><a href="https://tb3.cn/AEwX1C">https://tb3.cn/AEwX1C</a><br><a href="https://tb3.cn/AwYqxb">https://tb3.cn/AwYqxb</a><br><a href="https://tb3.cn/AF40tH">https://tb3.cn/AF40tH</a><br><a href="https://tb3.cn/APiNWj">https://tb3.cn/APiNWj</a><br><a href="https://tb3.cn/AGWjlZ">https://tb3.cn/AGWjlZ</a><br><a href="https://tb3.cn/AlipSJ">https://tb3.cn/AlipSJ</a><br><a href="https://tb3.cn/AujEfq">https://tb3.cn/AujEfq</a><br><a href="https://tb3.cn/ALyr88">https://tb3.cn/ALyr88</a><br><a href="https://tb3.cn/AC0erE">https://tb3.cn/AC0erE</a><br><a href="https://tb3.cn/AOhMOe">https://tb3.cn/AOhMOe</a><br><a href="https://tb3.cn/AT62vC">https://tb3.cn/AT62vC</a><br><a href="https://tb3.cn/ALwhP6">https://tb3.cn/ALwhP6</a><br><a href="https://tb3.cn/AUJ9sB">https://tb3.cn/AUJ9sB</a><br><a href="https://tb3.cn/A8kxhI">https://tb3.cn/A8kxhI</a><br><a href="https://tb3.cn/AoT80q">https://tb3.cn/AoT80q</a><br><a href="https://tb3.cn/APqNhY">https://tb3.cn/APqNhY</a><br><a href="https://tb3.cn/AzIr11">https://tb3.cn/AzIr11</a><br><a href="https://tb3.cn/Aj6WUG">https://tb3.cn/Aj6WUG</a><br><a href="https://tb3.cn/AdBizf">https://tb3.cn/AdBizf</a><br><a href="https://tb3.cn/AlE9Na">https://tb3.cn/AlE9Na</a></p>
-</div></details>
-<h3 id="钻石会员直接得"><a href="#钻石会员直接得" class="headerlink" title="钻石会员直接得"></a>钻石会员直接得</h3><p>如果你是支付宝的钻石会员，那么恭喜你，你可以在几分钟内就集齐一套五福。</p>
-<p>支付宝会直接对钻石会员赠送一套「钻石会员专属套卡」，其中包含了「一张敬业福、一张沾福气卡、一张全家福」。</p>
-<p>这几张最关键的福卡直接送给你，剩下的那几张，随便扫几张福字就能得到。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201193.webp" alt=""></p>
-<p>可能也正是因为这样，才导致活动刚上线第一天，就已经有二十多万人集齐了。</p>
-<p>不够，毕竟钻石会员是少部分用户。但对于绝大多数普通用户来说，要怎样才能更快集齐五福呢？别急，攻略这就给你送上。</p>
-<h3 id="AR扫码"><a href="#AR扫码" class="headerlink" title="AR扫码"></a>AR扫码</h3><p>这是最原始的方法，但也是最有效的方法。不过江小鑫建议大家不要去扫那些普通的福字，一定要扫支付宝官方给出的这些福，得敬业福和万能福的几率更大。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201194.webp" alt=""></p>
-<p>具体操作方法：打开 支付宝-&gt;扫一扫-&gt;选择AR-&gt;扫上图中的任意福字-&gt;立即收下福卡（需要有两台设备才行）。</p>
-<h3 id="赠送福卡"><a href="#赠送福卡" class="headerlink" title="赠送福卡"></a>赠送福卡</h3><p>扫码次数用完了，多余的福该怎么办呢？千万别觉得没用了，你可以把福卡赠送给身边还没有扫过福的朋友，你也有机会可以得到沾福气卡或万能福。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201195.webp" alt=""></p>
-<p>操作方法：进入 集五福活动-&gt;我的福卡-&gt;选择任意一张福卡-&gt;送给亲友-&gt;送Ta（记得送给还没有集福的亲友哦）。</p>
-<h3 id="写福字得福卡"><a href="#写福字得福卡" class="headerlink" title="写福字得福卡"></a>写福字得福卡</h3><p>打开集五福活动的写福字界面，可以临摹它给出的样式，写一个福字出来，完成后就能获得一张福卡。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201196.webp" alt=""></p>
-<p>此外，每日的0点和12点，你还可以到「福气店」里免费打印福字，支付宝官方会免费将你写的福字打印出来并送到你家（每日限量）。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201197.webp" alt=""></p>
-<h3 id="搜索品牌关键字"><a href="#搜索品牌关键字" class="headerlink" title="搜索品牌关键字"></a>搜索品牌关键字</h3><p>今年最大的不同是五福全面向商家开放，1000 多个商家将成为主角，通过自己的支付宝小程序、生活号、App 等多个私域阵地为全国用户发福卡。</p>
-<p>用户可以在支付宝首页顶部搜索品牌方的关键字，就能看见抽福卡的入口。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201198.webp" alt=""></p>
-<p>部分品牌方关键字：肯德基，麦当劳，加油浙江，T3出行，携程，屈臣氏，蜜雪冰城，一点万象，爱租机，爱琴海，顺丰，万达广场，大润发，元气森林，一点万象，威马汽车，良品铺子，益禾堂，联合利华，名创优品，伊利，步步高。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201199.webp" alt=""></p>
-<p>此外，登录国家电网、中国移动、B站、网易云音乐等 40 多个 App，也有机会得到由他们发的福卡。</p>
-<h3 id="到店付款"><a href="#到店付款" class="headerlink" title="到店付款"></a>到店付款</h3><p>1月19日到1月31日，用户可以每天到店支付一笔（不限金额），有机会获得沾福气卡。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011910.webp" alt=""></p>
-<h3 id="12306领福卡"><a href="#12306领福卡" class="headerlink" title="12306领福卡"></a>12306领福卡</h3><p>打开支付宝扫描下方二维码，就能领取一张随机福卡。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011911.webp" alt=""></p>
-<h3 id="中国移动领福卡"><a href="#中国移动领福卡" class="headerlink" title="中国移动领福卡"></a>中国移动领福卡</h3><p>打开用浏览器或中国移动APP打开链接：🔗 <a href="https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。">https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。</a></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011912.webp" alt=""></p>
-<p>其实咱们要的并不是这几块钱，而是其中的乐趣，其中的荣誉感，其中氛围感，就像小时候吃方便集卡一样，只不过集卡的那群孩子长大了罢了，变的是时代，不变的是这一代人的内心，也许真的是五福到了，年就到了，也该“到家”团圆了。</p>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
   </entry>
 </search>
