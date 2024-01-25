@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>腾讯云2核4G8M轻量应用服务器免费升级配置</title>
-    <url>/posts/e97b05bf/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><div class="tip "><p>注意：无忧计划属于独立活动不支持本次升级</p>
-</div>
-<p>腾讯云又来免费活动了，存量境内地域<code>2核-4G内存-8M带宽-1200G流量包</code>的轻量应用服务器进行虎年回馈升级活动，可免费升级至<code>4核-4G内存-8M带宽-1200G流量包</code>，续费价不变！</p>
-<p><strong>活动截止时间2022年3月31日24点，具体升级操作方法如下。</strong></p>
-<h2 id="升级方法"><a href="#升级方法" class="headerlink" title="升级方法"></a>升级方法</h2><ol>
-<li>打开腾讯云轻量云服务器<a href="https://console.cloud.tencent.com/lighthouse/instance/index">控制台</a>，在服务器列表里找到符合条件的机器</li>
-<li>选择机器右上角的更多 -&gt; 升级套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030521.png" alt=""></li>
-<li>随后会弹出新窗口，可以看到免费升级活动的介绍以及支持的机器配置<br><img src="https://cdn.jx-ll.cn/post_img/2022030522.png" alt=""></li>
-<li>接着往下滑，在选择目标套餐里选择通用性套餐里的4H4G8M配置套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030523.png" alt=""></li>
-<li>随后点击下一步，并选择开始升级，然后提交订单即可<br><img src="https://cdn.jx-ll.cn/post_img/2022030524.png" alt=""></li>
-<li>待升级完成后，可以看到我们的机器配置已经变成了4H4G8M<br><img src="https://cdn.jx-ll.cn/post_img/2022030525.png" alt=""></li>
-</ol>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
-  </entry>
-  <entry>
     <title>360安全浏览器v13.1.6170.0优化便携版</title>
     <url>/posts/b69fdc9a/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>360安全浏览器(360SE)是基于IE内核和Chromium内核的双核浏览器。相比以前的版本，360SE13采用了Chromeium86稳定版的内核，在新标签页、皮肤等外观视觉上有着全新的改变，并且还支持夜间模式、自动模式动态内核切换以及各种实用的功能和安全保护技术，带你享受极致的浏览体验。</p>
@@ -66,56 +46,6 @@
 <h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
             <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123云盘/资源杂侩/软件/360SE' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
 <a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-iELw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
-          </div>]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
-        <tag>浏览器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Google Chrome v104.0.5112.81便携增强版+正式版离线安装包</title>
-    <url>/posts/cd2961f9/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>谷歌浏览器，是一个由Google（谷歌）公司开发的开放原始码网页浏览器。该浏览器是基于其他开放原始码软件所撰写，包括WebKit和Mozilla，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/202203031.png" alt=""></p>
-<h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ol>
-<li>基于不带更新组件及服务的官方版，删除无用webit文件多语言pak</li>
-<li>加入Chrome增强软件劫持补丁Chrome++ 1.3.4 x64 (version.dll)</li>
-<li>启动软件App/Chrome.exe, 增强功能通过App/version.dll补丁实现</li>
-<li>由于是便携版，不会和其它版本冲突，不想用了直接删掉整个文件夹</li>
-<li>注：<code>不要删除或改目录内[说明.txt]，否则导致version.dll无效 (64位)</code></li>
-<li>采用的不带更新组件服务的官方正式版，删除Chromium多语言Pak</li>
-<li>自解压安装释放过程，移除系统Chrome升级计划任务项及残留数据</li>
-</ol>
-<h2 id="Chrome-增强特点"><a href="#Chrome-增强特点" class="headerlink" title="Chrome++增强特点"></a>Chrome++增强特点</h2><ul>
-<li>双击关闭标签页面</li>
-<li>保留最后标签页（点X不行）（防止关闭最后一个标签页时关闭浏览器）</li>
-<li>鼠标悬停标签栏滚动</li>
-<li>按住右键时滚轮滚动标签栏</li>
-<li>移除管理员运行警告</li>
-<li>移除开发者模式警告（无需开启开发者模式直接安装第三方扩展程序）</li>
-<li>便携式，程序放App目录，用户数据文件放Data目录（兼容原版数据）</li>
-<li>移除更新错误警告</li>
-</ul>
-<h2 id="官方功能"><a href="#官方功能" class="headerlink" title="官方功能"></a>官方功能</h2><ul>
-<li><strong>恢复地址栏中隐藏的URL连接HTTP、HTTPS及WWW前缀方法</strong><br>v86 版本开始，只需地址栏右键-&gt;选择-&gt;总是显示完整网址即可</li>
-<li><strong>开始安全DNS功能</strong><br>chrome://flags里的Secure DNS lookups项取消<br>现在设置 – 隐身设置和安全性-高级-使用安全DNS</li>
-<li><strong>开启标签分组功能</strong><br>chrome://flags/#tab-groups //改为<code>Enabled</code>开启</li>
-<li><strong>开启拦截高负载广告功能</strong><br>chrome://flags/#enable-heavy-ad-intervention //改为<code>Enabled</code>开启</li>
-<li><strong>开启多线程下载功能（Parallel downloading）</strong><br>chrome://flags/#enable-parallel-downloading //改为<code>Enabled</code>开启</li>
-</ul>
-<h2 id="保留数据升级"><a href="#保留数据升级" class="headerlink" title="保留数据升级"></a>保留数据升级</h2><ol>
-<li>升级先把老版本App重命名为App2。</li>
-<li>然后把新下载的所有文件覆盖到老文件夹内。</li>
-<li>包括App、Data和说明.txt。</li>
-<li>运行测试正常后可以安全删除App2老版本。</li>
-<li>建议保留上个版本压缩包以便出问题时还原。</li>
-</ol>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123%E4%BA%91%E7%9B%98/%E8%B5%84%E6%BA%90%E6%9D%82%E4%BE%A9/%E8%BD%AF%E4%BB%B6/Google%20Chrome' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
-<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-e9Lw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
           </div>]]></content>
       <categories>
         <category>资源中心</category>
@@ -190,6 +120,56 @@
       </tags>
   </entry>
   <entry>
+    <title>Google Chrome v104.0.5112.81便携增强版+正式版离线安装包</title>
+    <url>/posts/cd2961f9/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>谷歌浏览器，是一个由Google（谷歌）公司开发的开放原始码网页浏览器。该浏览器是基于其他开放原始码软件所撰写，包括WebKit和Mozilla，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/202203031.png" alt=""></p>
+<h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ol>
+<li>基于不带更新组件及服务的官方版，删除无用webit文件多语言pak</li>
+<li>加入Chrome增强软件劫持补丁Chrome++ 1.3.4 x64 (version.dll)</li>
+<li>启动软件App/Chrome.exe, 增强功能通过App/version.dll补丁实现</li>
+<li>由于是便携版，不会和其它版本冲突，不想用了直接删掉整个文件夹</li>
+<li>注：<code>不要删除或改目录内[说明.txt]，否则导致version.dll无效 (64位)</code></li>
+<li>采用的不带更新组件服务的官方正式版，删除Chromium多语言Pak</li>
+<li>自解压安装释放过程，移除系统Chrome升级计划任务项及残留数据</li>
+</ol>
+<h2 id="Chrome-增强特点"><a href="#Chrome-增强特点" class="headerlink" title="Chrome++增强特点"></a>Chrome++增强特点</h2><ul>
+<li>双击关闭标签页面</li>
+<li>保留最后标签页（点X不行）（防止关闭最后一个标签页时关闭浏览器）</li>
+<li>鼠标悬停标签栏滚动</li>
+<li>按住右键时滚轮滚动标签栏</li>
+<li>移除管理员运行警告</li>
+<li>移除开发者模式警告（无需开启开发者模式直接安装第三方扩展程序）</li>
+<li>便携式，程序放App目录，用户数据文件放Data目录（兼容原版数据）</li>
+<li>移除更新错误警告</li>
+</ul>
+<h2 id="官方功能"><a href="#官方功能" class="headerlink" title="官方功能"></a>官方功能</h2><ul>
+<li><strong>恢复地址栏中隐藏的URL连接HTTP、HTTPS及WWW前缀方法</strong><br>v86 版本开始，只需地址栏右键-&gt;选择-&gt;总是显示完整网址即可</li>
+<li><strong>开始安全DNS功能</strong><br>chrome://flags里的Secure DNS lookups项取消<br>现在设置 – 隐身设置和安全性-高级-使用安全DNS</li>
+<li><strong>开启标签分组功能</strong><br>chrome://flags/#tab-groups //改为<code>Enabled</code>开启</li>
+<li><strong>开启拦截高负载广告功能</strong><br>chrome://flags/#enable-heavy-ad-intervention //改为<code>Enabled</code>开启</li>
+<li><strong>开启多线程下载功能（Parallel downloading）</strong><br>chrome://flags/#enable-parallel-downloading //改为<code>Enabled</code>开启</li>
+</ul>
+<h2 id="保留数据升级"><a href="#保留数据升级" class="headerlink" title="保留数据升级"></a>保留数据升级</h2><ol>
+<li>升级先把老版本App重命名为App2。</li>
+<li>然后把新下载的所有文件覆盖到老文件夹内。</li>
+<li>包括App、Data和说明.txt。</li>
+<li>运行测试正常后可以安全删除App2老版本。</li>
+<li>建议保留上个版本压缩包以便出问题时还原。</li>
+</ol>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
+            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123%E4%BA%91%E7%9B%98/%E8%B5%84%E6%BA%90%E6%9D%82%E4%BE%A9/%E8%BD%AF%E4%BB%B6/Google%20Chrome' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
+<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-e9Lw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
+          </div>]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
+        <tag>浏览器</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Microsoft Edge v103.0.1264.77便携增强版+正式版离线安装包</title>
     <url>/posts/1a49cda9/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>新版本Microsoft Edge，基于谷歌Chromium内核，现已在新版Windows系统上完全替代旧版Edge浏览器，新版Edge浏览器支持全局翻译、阅读模式、第三方扩展插件以及人声语音朗读等各种功能，微软计划对Edge浏览器定期更新，如每日、每周和数周一次的Canary、Dev和Beta更新等。</p>
@@ -238,6 +218,45 @@
       </tags>
   </entry>
   <entry>
+    <title>PotPlayer(网络播放器) v1.7.21760 绿色版</title>
+    <url>/posts/c45359f9/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>PotPlayer 是 KMPlayer 的原制作者姜龙喜（韩国）进入 Daum 公司后的新一代网络播放器。PotPlayer 的优势在于强大的内置解码器；而 KMPlayer 的优势在于强大的定制能力和个性化功能。PotPlayer 使用 VC++ 编写， KMPlayer 为 Delphi 编写。PotPlayer 是 Daum 公司的一款网络播放器，有自己的独立著作权，并非由姜龙喜先生原创，目前由 KMPlayer 的原始作者姜龙喜进行后续开发。目前(1428以后版本)的 KMPlayer 由 PandoraTV 团队负责集体开发。应 PandoraTV 的要求，PotPlayer 不会加入在 KMPlayer 中一些受欢迎功能，但作者答应加入一些近似的功能。</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030431.png" alt=""></p>
+<h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ul>
+<li><code>@闻雷、@果核剥壳</code>绿色便携制作</li>
+</ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
+            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123%E4%BA%91%E7%9B%98/%E8%B5%84%E6%BA%90%E6%9D%82%E4%BE%A9/%E8%BD%AF%E4%BB%B6/PotPlayer' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
+<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-Cizw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
+          </div>]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>腾讯云2核4G8M轻量应用服务器免费升级配置</title>
+    <url>/posts/e97b05bf/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><div class="tip "><p>注意：无忧计划属于独立活动不支持本次升级</p>
+</div>
+<p>腾讯云又来免费活动了，存量境内地域<code>2核-4G内存-8M带宽-1200G流量包</code>的轻量应用服务器进行虎年回馈升级活动，可免费升级至<code>4核-4G内存-8M带宽-1200G流量包</code>，续费价不变！</p>
+<p><strong>活动截止时间2022年3月31日24点，具体升级操作方法如下。</strong></p>
+<h2 id="升级方法"><a href="#升级方法" class="headerlink" title="升级方法"></a>升级方法</h2><ol>
+<li>打开腾讯云轻量云服务器<a href="https://console.cloud.tencent.com/lighthouse/instance/index">控制台</a>，在服务器列表里找到符合条件的机器</li>
+<li>选择机器右上角的更多 -&gt; 升级套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030521.png" alt=""></li>
+<li>随后会弹出新窗口，可以看到免费升级活动的介绍以及支持的机器配置<br><img src="https://cdn.jx-ll.cn/post_img/2022030522.png" alt=""></li>
+<li>接着往下滑，在选择目标套餐里选择通用性套餐里的4H4G8M配置套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030523.png" alt=""></li>
+<li>随后点击下一步，并选择开始升级，然后提交订单即可<br><img src="https://cdn.jx-ll.cn/post_img/2022030524.png" alt=""></li>
+<li>待升级完成后，可以看到我们的机器配置已经变成了4H4G8M<br><img src="https://cdn.jx-ll.cn/post_img/2022030525.png" alt=""></li>
+</ol>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
+  </entry>
+  <entry>
     <title>SublimeText 4.4126 汉化特别版</title>
     <url>/posts/5909fb66/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>SublimeText是编辑器中的一款神级IDE，非常有名，虽然比较轻量，但是呢软件拓展性非常强大，适用于多种编程语言，当然，当一个编辑器，也是非常不错的。</p>
@@ -249,25 +268,6 @@
 <a class="button no-text-decoration" href='https://jxin.lanzouq.com/b02hhhbgb' title='蓝奏云盘'><img src='fas fa-download'>蓝奏云盘</a>
 <a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-95zw' title='123云盘'><img src='fas fa-download'>123云盘</a>
 <a class="button no-text-decoration" href='https://pan.quark.cn/s/72eb39ae37f0' title='夸克云盘'><img src='fas fa-download'>夸克云盘</a>
-          </div>]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>PotPlayer(网络播放器) v1.7.21760 绿色版</title>
-    <url>/posts/c45359f9/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>PotPlayer 是 KMPlayer 的原制作者姜龙喜（韩国）进入 Daum 公司后的新一代网络播放器。PotPlayer 的优势在于强大的内置解码器；而 KMPlayer 的优势在于强大的定制能力和个性化功能。PotPlayer 使用 VC++ 编写， KMPlayer 为 Delphi 编写。PotPlayer 是 Daum 公司的一款网络播放器，有自己的独立著作权，并非由姜龙喜先生原创，目前由 KMPlayer 的原始作者姜龙喜进行后续开发。目前(1428以后版本)的 KMPlayer 由 PandoraTV 团队负责集体开发。应 PandoraTV 的要求，PotPlayer 不会加入在 KMPlayer 中一些受欢迎功能，但作者答应加入一些近似的功能。</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030431.png" alt=""></p>
-<h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ul>
-<li><code>@闻雷、@果核剥壳</code>绿色便携制作</li>
-</ul>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123%E4%BA%91%E7%9B%98/%E8%B5%84%E6%BA%90%E6%9D%82%E4%BE%A9/%E8%BD%AF%E4%BB%B6/PotPlayer' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
-<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-Cizw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
           </div>]]></content>
       <categories>
         <category>资源中心</category>
@@ -290,6 +290,44 @@
             <a class="button no-text-decoration" href='https://code.visualstudio.com/docs/?dv=win64' title='64位下载'><img src='fas fa-download'>64位下载</a>
 <a class="button no-text-decoration" href='https://code.visualstudio.com/docs/?dv=win32' title='32位下载'><img src='fas fa-download'>32位下载</a>
 <a class="button no-text-decoration" href='https://code.visualstudio.com/docs/?dv=linux64' title='MAC下载'><img src='fas fa-download'>MAC下载</a>
+          </div>]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>WinRAR v6.11正式版</title>
+    <url>/posts/98d355fa/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>WinRAR是一款功能强大的压缩包管理器，它是档案工具RAR在 Windows环境下的图形界面。WinRAR可用于备份数据，缩减电子邮件附件的大小，解压缩从 Internet 上下载的RAR、ZIP及其它类型文件，WinRAR并且可以新建 RAR 及 ZIP 格式等的压缩类文件。WinRAR非常实用、方便，中文化工作更为完善，WinRAR包括主工作界面、右键菜单，甚至连十万字的 .hlp 在线帮助文件、使用手册文件、Readme 文件都完全是中文内容。</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030811.png" alt=""></p>
+<h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><ul>
+<li><p>压缩率更高<br>WinRAR 在 DOS 时代就一直具备这种优势，经过多次试验证明，WinRAR 的 RAR 格式一般要比其他的 ZIP 格式高出 10%～30% 的压缩率，尤其是它还提供了可选择的、针对多媒体数据的压缩算法。</p>
+</li>
+<li><p>对多媒体文件有独特的高压缩率算法<br>WinRAR 对 WAV、BMP 声音及图像文件可以用独特的多媒体压缩算法大大提高压缩率，虽然我们可以将 WAV、BMP 文件转为 MP3．JPG 等格式节省存储空间，但不要忘记 WinRAR 的压缩可是标准的无损压缩。</p>
+</li>
+<li><p>能完善地支持ZIP格式并且可以解压多种格式的压缩包<br>虽然其他软件也能支持 ARJ、LHA 等格式，但却需要外挂对应软件的 DOS 版本，实在是功能有限。但WinRAR就不同了，不但能解压多数压缩格式，且不需外挂程序支持就可直接建立 ZIP 格式的压缩文件，所以我们不必担心离开了其他软件如何处理 ZIP 格式的问题。</p>
+</li>
+<li><p>设置项目非常完善，并且可以定制界面<br>通过开始选单的程序组启动WinRAR，在其主界面中选择“选项”选单下的“设置”打开设置窗口，分为常规、压缩、路径、文件列表、查看器、综合六大类，非常丰富，通过修改它们，可以更好地使用 WinRAR。实战：如果同时安装了某款压缩软件与 WinRAR，ZIP 文件的关联经常发生混乱，一般我们只需进入设置窗口，选“综合”标签，将“ WinRAR 关联文件”一栏中的 ZIP 一项打勾，确定后就可使 ZIP 文件与 WinRAR 关联，反之如果将勾去掉，则 WinRAR 自动修改注册表使 ZIP 重新与这个压缩软件的关联。</p>
+</li>
+<li><p>对受损压缩文件的修复能力极强<br>在网上下载的ZIP、RAR类的文件往往因头部受损的问题导致不能打开，而用WinRAR调入后，只须单击界面中的“修复”按钮就可轻松修复，成功率极高。</p>
+</li>
+<li><p>可以不必解压就可查看压缩包信息<br>使用WinRAR，选中文件点击信息就可查看压缩包信息。</p>
+</li>
+<li><p>辅助功能设置细致<br>WinRAR可以在压缩窗口的“备份”标签中设置压缩前删除目标盘文件；可在压缩前单击“估计”按钮对压缩先评估一下；可以为压缩包加注释；可以设置压缩包的防受损功能，等等细微之处也能看出WinRAR的体贴周到。</p>
+</li>
+<li><p>压缩包可以锁住<br>使用WinRAR双击进入压缩包后，单击命令选单下的“锁定压缩包”就可防止人为的添加、删除等操作，保持压缩包的原始状态。</p>
+</li>
+<li><p>压缩包可以看隐藏文件<br>你还在为Autorun病毒发愁？Winrar就提供了“透视”功能。把那些隐藏属性的文件一目了然。</p>
+</li>
+</ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
+            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/Blog/WinRAR' title='本地下载'><img src='fas fa-download'>本地下载</a>
+<a class="button no-text-decoration" href='https://jxin.lanzouq.com/b02gzsehi' title='蓝奏云盘'><img src='fas fa-download'>蓝奏云盘</a>
+<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-yLzw' title='123云盘'><img src='fas fa-download'>123云盘</a>
+<a class="button no-text-decoration" href='https://pan.quark.cn/s/5e32d90814c1' title='夸克云盘'><img src='fas fa-download'>夸克云盘</a>
           </div>]]></content>
       <categories>
         <category>资源中心</category>
@@ -373,44 +411,6 @@
       </tags>
   </entry>
   <entry>
-    <title>WinRAR v6.11正式版</title>
-    <url>/posts/98d355fa/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>WinRAR是一款功能强大的压缩包管理器，它是档案工具RAR在 Windows环境下的图形界面。WinRAR可用于备份数据，缩减电子邮件附件的大小，解压缩从 Internet 上下载的RAR、ZIP及其它类型文件，WinRAR并且可以新建 RAR 及 ZIP 格式等的压缩类文件。WinRAR非常实用、方便，中文化工作更为完善，WinRAR包括主工作界面、右键菜单，甚至连十万字的 .hlp 在线帮助文件、使用手册文件、Readme 文件都完全是中文内容。</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030811.png" alt=""></p>
-<h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><ul>
-<li><p>压缩率更高<br>WinRAR 在 DOS 时代就一直具备这种优势，经过多次试验证明，WinRAR 的 RAR 格式一般要比其他的 ZIP 格式高出 10%～30% 的压缩率，尤其是它还提供了可选择的、针对多媒体数据的压缩算法。</p>
-</li>
-<li><p>对多媒体文件有独特的高压缩率算法<br>WinRAR 对 WAV、BMP 声音及图像文件可以用独特的多媒体压缩算法大大提高压缩率，虽然我们可以将 WAV、BMP 文件转为 MP3．JPG 等格式节省存储空间，但不要忘记 WinRAR 的压缩可是标准的无损压缩。</p>
-</li>
-<li><p>能完善地支持ZIP格式并且可以解压多种格式的压缩包<br>虽然其他软件也能支持 ARJ、LHA 等格式，但却需要外挂对应软件的 DOS 版本，实在是功能有限。但WinRAR就不同了，不但能解压多数压缩格式，且不需外挂程序支持就可直接建立 ZIP 格式的压缩文件，所以我们不必担心离开了其他软件如何处理 ZIP 格式的问题。</p>
-</li>
-<li><p>设置项目非常完善，并且可以定制界面<br>通过开始选单的程序组启动WinRAR，在其主界面中选择“选项”选单下的“设置”打开设置窗口，分为常规、压缩、路径、文件列表、查看器、综合六大类，非常丰富，通过修改它们，可以更好地使用 WinRAR。实战：如果同时安装了某款压缩软件与 WinRAR，ZIP 文件的关联经常发生混乱，一般我们只需进入设置窗口，选“综合”标签，将“ WinRAR 关联文件”一栏中的 ZIP 一项打勾，确定后就可使 ZIP 文件与 WinRAR 关联，反之如果将勾去掉，则 WinRAR 自动修改注册表使 ZIP 重新与这个压缩软件的关联。</p>
-</li>
-<li><p>对受损压缩文件的修复能力极强<br>在网上下载的ZIP、RAR类的文件往往因头部受损的问题导致不能打开，而用WinRAR调入后，只须单击界面中的“修复”按钮就可轻松修复，成功率极高。</p>
-</li>
-<li><p>可以不必解压就可查看压缩包信息<br>使用WinRAR，选中文件点击信息就可查看压缩包信息。</p>
-</li>
-<li><p>辅助功能设置细致<br>WinRAR可以在压缩窗口的“备份”标签中设置压缩前删除目标盘文件；可在压缩前单击“估计”按钮对压缩先评估一下；可以为压缩包加注释；可以设置压缩包的防受损功能，等等细微之处也能看出WinRAR的体贴周到。</p>
-</li>
-<li><p>压缩包可以锁住<br>使用WinRAR双击进入压缩包后，单击命令选单下的“锁定压缩包”就可防止人为的添加、删除等操作，保持压缩包的原始状态。</p>
-</li>
-<li><p>压缩包可以看隐藏文件<br>你还在为Autorun病毒发愁？Winrar就提供了“透视”功能。把那些隐藏属性的文件一目了然。</p>
-</li>
-</ul>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/Blog/WinRAR' title='本地下载'><img src='fas fa-download'>本地下载</a>
-<a class="button no-text-decoration" href='https://jxin.lanzouq.com/b02gzsehi' title='蓝奏云盘'><img src='fas fa-download'>蓝奏云盘</a>
-<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-yLzw' title='123云盘'><img src='fas fa-download'>123云盘</a>
-<a class="button no-text-decoration" href='https://pan.quark.cn/s/5e32d90814c1' title='夸克云盘'><img src='fas fa-download'>夸克云盘</a>
-          </div>]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>iOS的键盘你真的会用吗？这里有一份给果粉的秘籍！</title>
     <url>/posts/350215c8/</url>
     <content><![CDATA[<p>最近在网上看到一个话题，iOS键盘与安卓键盘，到底哪个比较好用？ </p>
@@ -434,6 +434,26 @@
       </categories>
       <tags>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>剪映Pro正式版来啦：轻而易剪 上演大幕！</title>
+    <url>/posts/69695e5f/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>剪映专业版是抖音推出的一款免费的全能易用的视频剪辑软件。剪映手机版由于背靠抖音大树再加上操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。 </p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/20210203185724.png" alt=" "></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/20210203185734.png" alt=" "></p>
+<h2 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h2><h3 id="简单：界面布局清晰直观"><a href="#简单：界面布局清晰直观" class="headerlink" title="简单：界面布局清晰直观"></a>简单：界面布局清晰直观</h3><p>把时间线、素材库、播放器等界面布局化繁为简，让你能够得心应手地剪辑出精彩的视频。</p>
+<h3 id="高效：多轨道剪辑"><a href="#高效：多轨道剪辑" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
+<h3 id="专业：高阶功能"><a href="#专业：高阶功能" class="headerlink" title="专业：高阶功能"></a>专业：高阶功能</h3><p>曲线变速、蒙版、混合模式、色彩调节等强大功能覆盖剪辑全场景；音乐踩点功能，帮助你快速创作节奏感十足的镜头；更有语音识别功能，一键添加字幕与歌词，节省时间专注剪辑，尽情挥洒创意。</p>
+<h3 id="高效：多轨道剪辑-1"><a href="#高效：多轨道剪辑-1" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网地址：<a href="https://lv.ulikecam.com/">https://lv.ulikecam.com/</a></p>
+<p>关注公众号<code>【美男子鑫鑫】</code>，在对话框中回复【剪映Pro下载】，即可获取下载地址</p>
+]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
       </tags>
   </entry>
   <entry>
@@ -467,26 +487,6 @@
       <tags>
         <tag>实用软件</tag>
         <tag>哔哩哔哩</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>剪映Pro正式版来啦：轻而易剪 上演大幕！</title>
-    <url>/posts/69695e5f/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>剪映专业版是抖音推出的一款免费的全能易用的视频剪辑软件。剪映手机版由于背靠抖音大树再加上操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。 </p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/20210203185724.png" alt=" "></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/20210203185734.png" alt=" "></p>
-<h2 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h2><h3 id="简单：界面布局清晰直观"><a href="#简单：界面布局清晰直观" class="headerlink" title="简单：界面布局清晰直观"></a>简单：界面布局清晰直观</h3><p>把时间线、素材库、播放器等界面布局化繁为简，让你能够得心应手地剪辑出精彩的视频。</p>
-<h3 id="高效：多轨道剪辑"><a href="#高效：多轨道剪辑" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
-<h3 id="专业：高阶功能"><a href="#专业：高阶功能" class="headerlink" title="专业：高阶功能"></a>专业：高阶功能</h3><p>曲线变速、蒙版、混合模式、色彩调节等强大功能覆盖剪辑全场景；音乐踩点功能，帮助你快速创作节奏感十足的镜头；更有语音识别功能，一键添加字幕与歌词，节省时间专注剪辑，尽情挥洒创意。</p>
-<h3 id="高效：多轨道剪辑-1"><a href="#高效：多轨道剪辑-1" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网地址：<a href="https://lv.ulikecam.com/">https://lv.ulikecam.com/</a></p>
-<p>关注公众号<code>【美男子鑫鑫】</code>，在对话框中回复【剪映Pro下载】，即可获取下载地址</p>
-]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
       </tags>
   </entry>
   <entry>
@@ -581,39 +581,36 @@
       </tags>
   </entry>
   <entry>
-    <title>腾讯QQ二代变无是什么意思？怎么避免？怎么解决？</title>
-    <url>/posts/d0eb61f9/</url>
-    <content><![CDATA[<h2 id="二代变无"><a href="#二代变无" class="headerlink" title="二代变无"></a>二代变无</h2><p>二代变无，即二代变无保，QQ密保工具失效。QQ账号有密保工具，比如密保手机，QQ令牌等，但是某一天此QQ突然被冻结保护，解冻需要修改QQ密码，但是修改密码却不能验证密保工具，只能填写资料申诉。</p>
-<h2 id="变无原因"><a href="#变无原因" class="headerlink" title="变无原因"></a>变无原因</h2><h3 id="原因1-怀疑号码被买卖了，冻结制裁"><a href="#原因1-怀疑号码被买卖了，冻结制裁" class="headerlink" title="原因1.怀疑号码被买卖了，冻结制裁"></a>原因1.怀疑号码被买卖了，冻结制裁</h3><p>比如从一个IP换成了另一个IP登录，同时进行了密保手机更换、头像昵称等资料的修改，以及好友的增删。基本可以断定号码被转让了，腾讯公司会采取二变无冻结的方式进行制裁。</p>
-<h3 id="原因2-登录IP异常"><a href="#原因2-登录IP异常" class="headerlink" title="原因2.登录IP异常"></a>原因2.登录IP异常</h3><p>异常IP主要是指<code>敏感IP</code>，如经常被举报的IP，腾讯公司怀疑该QQ被盗用，会进行冻结保护。</p>
-<h3 id="原因3-有多个异地IP登录"><a href="#原因3-有多个异地IP登录" class="headerlink" title="原因3.有多个异地IP登录"></a>原因3.有多个异地IP登录</h3><p>怀疑<code>多人共用账号</code>，腾讯会以违反使用条例进行冻结制裁，并且这种申诉基本是不给通过的。</p>
-<h2 id="如何避免"><a href="#如何避免" class="headerlink" title="如何避免"></a>如何避免</h2><ol>
-<li><p>更换密保手机时，尽量<code>避免异地登录</code>，更不能在密保手机更换前后进行修改QQ头像、资料、增删好友等敏感操作</p>
-</li>
-<li><p>不要在<code>敏感IP</code>登录，如经常有被举报封号的IP</p>
-</li>
-<li><p>避免<code>异地多IP来回切换</code>登录。</p>
-</li>
+    <title>Hexo错误：Spawn Failed的解决方法</title>
+    <url>/posts/e3433884/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近在部署部落格的时候出现了spawn failed错误，不管是挂梯子还是改代理，都部署不上。刚开始我以为是ssh key的问题，但后面重新设置了个key也还是链接不上。</p>
+<p>在网上找了各种方法，折腾了大半天，最后终于解决了，希望这篇文章能帮助有跟我相同问题的小伙伴。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210714221124.png" style="zoom: 80%;" /></p>
+<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><h3 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h3><p>重启电脑，也是最快的解决方法，但只有部分人可以。</p>
+<h3 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h3><ol>
+<li>删除hexo根目录下的<code>.deploy_git</code>文件夹</li>
+<li>打开git，输入<code>git config --gloabl core.autocrlf false</code>并回车</li>
+<li>hexo一键三连（hexo clean、hexo g 、hexo d）</li>
 </ol>
-<h2 id="解决方式"><a href="#解决方式" class="headerlink" title="解决方式"></a>解决方式</h2><ul>
-<li><p>由于<code>原因1</code>和<code>原因2</code>造成的二变无，验证资料正确、完整，申诉可以申诉成功的</p>
-</li>
-<li><p>由于<code>原因3</code>造成的二变无，基本无解，申诉通过概率小</p>
-</li>
-<li><p>刚收来的QQ不要去接着修改资料（心急吃不了热豆腐）以下是我对收来的QQ保养基本常识</p>
-</li>
-</ul>
-<ol>
-<li>登录安全中心找到异地登陆点击信任地区；</li>
-<li>头像、网名、地区等一系列资料在3-7天内不要去着急修改，因为这样会检测到风险，轻者冻结，重者可能会导致二代变无（二代变无保）</li>
-<li>在搜索界面搜索成长守护平台，查看是否拥有修改信息次数</li>
-</ol>
+<h3 id="方法三"><a href="#方法三" class="headerlink" title="方法三"></a>方法三</h3><p>打开Hexo根目录下的<code>_config.yml</code>配置文件，找到下面的这串代码</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">type: git</span><br><span class="line">repo: https://github.com/yourname/yourname.github.io.git</span><br><span class="line">branch: master</span><br></pre></td></tr></table></figure>
+<p>将其中<code>repo</code>后面的链接修改为下面这个链接并ctrl+s保存</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">repo: git@github.com:yourname/yourname.github.io.git</span><br></pre></td></tr></table></figure>
+<p>hexo一键三连（hexo clean、hexo g 、hexo d）</p>
+<h3 id="方法四（不推荐）"><a href="#方法四（不推荐）" class="headerlink" title="方法四（不推荐）"></a>方法四（不推荐）</h3><p>cd进<code>.deploy_git</code>文件夹，然后使用<code>git push -f</code>强制推送</p>
+<h3 id="方法五"><a href="#方法五" class="headerlink" title="方法五"></a>方法五</h3><p>打开<code>.deploy_git\.git\logs</code>路径下的<code>HEAD</code>查看最近一次正确的那次的<code>commitId</code>然后用<code>git reset --hard commitId</code>进行回滚</p>
+<h2 id="完美解决"><a href="#完美解决" class="headerlink" title="完美解决"></a>完美解决</h2><p>相信这五种方法里总有一种适合你的，点个赞吧~</p>
+<hr>
+<div class="note info disabled"><p>本文中提及的教程均来自互联网，整合自各位大佬的部落格：<a href="https://blog.zhheo.com/p/128998ac.html">张洪Heo</a>、<a href="https://1187100546.github.io/2019/11/24/spawn-failed/">huahua</a>、<a href="http://ciraos.top/">小青</a>、<a href="https://perry96.com/archives/882898e3.html">Perry</a>，感谢！如有侵权请联系我删除。</p>
+</div>
 ]]></content>
       <categories>
-        <category>转载内容</category>
+        <category>经验分享</category>
       </categories>
       <tags>
         <tag>教程</tag>
+        <tag>GitHub</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -650,89 +647,6 @@
       <categories>
         <category>闲聊杂谈</category>
       </categories>
-  </entry>
-  <entry>
-    <title>Hexo错误：Spawn Failed的解决方法</title>
-    <url>/posts/e3433884/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近在部署部落格的时候出现了spawn failed错误，不管是挂梯子还是改代理，都部署不上。刚开始我以为是ssh key的问题，但后面重新设置了个key也还是链接不上。</p>
-<p>在网上找了各种方法，折腾了大半天，最后终于解决了，希望这篇文章能帮助有跟我相同问题的小伙伴。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/post_img20210714221124.png" style="zoom: 80%;" /></p>
-<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><h3 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h3><p>重启电脑，也是最快的解决方法，但只有部分人可以。</p>
-<h3 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h3><ol>
-<li>删除hexo根目录下的<code>.deploy_git</code>文件夹</li>
-<li>打开git，输入<code>git config --gloabl core.autocrlf false</code>并回车</li>
-<li>hexo一键三连（hexo clean、hexo g 、hexo d）</li>
-</ol>
-<h3 id="方法三"><a href="#方法三" class="headerlink" title="方法三"></a>方法三</h3><p>打开Hexo根目录下的<code>_config.yml</code>配置文件，找到下面的这串代码</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">type: git</span><br><span class="line">repo: https://github.com/yourname/yourname.github.io.git</span><br><span class="line">branch: master</span><br></pre></td></tr></table></figure>
-<p>将其中<code>repo</code>后面的链接修改为下面这个链接并ctrl+s保存</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">repo: git@github.com:yourname/yourname.github.io.git</span><br></pre></td></tr></table></figure>
-<p>hexo一键三连（hexo clean、hexo g 、hexo d）</p>
-<h3 id="方法四（不推荐）"><a href="#方法四（不推荐）" class="headerlink" title="方法四（不推荐）"></a>方法四（不推荐）</h3><p>cd进<code>.deploy_git</code>文件夹，然后使用<code>git push -f</code>强制推送</p>
-<h3 id="方法五"><a href="#方法五" class="headerlink" title="方法五"></a>方法五</h3><p>打开<code>.deploy_git\.git\logs</code>路径下的<code>HEAD</code>查看最近一次正确的那次的<code>commitId</code>然后用<code>git reset --hard commitId</code>进行回滚</p>
-<h2 id="完美解决"><a href="#完美解决" class="headerlink" title="完美解决"></a>完美解决</h2><p>相信这五种方法里总有一种适合你的，点个赞吧~</p>
-<hr>
-<div class="note info disabled"><p>本文中提及的教程均来自互联网，整合自各位大佬的部落格：<a href="https://blog.zhheo.com/p/128998ac.html">张洪Heo</a>、<a href="https://1187100546.github.io/2019/11/24/spawn-failed/">huahua</a>、<a href="http://ciraos.top/">小青</a>、<a href="https://perry96.com/archives/882898e3.html">Perry</a>，感谢！如有侵权请联系我删除。</p>
-</div>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>GitHub</tag>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>一键DD纯净系统脚本(萌咖) CentOS/Debian/Ubuntu</title>
-    <url>/posts/916e1c19/</url>
-    <content><![CDATA[<p>基本所有的VPS服务器商家，都会提供免费的Linux系统供安装，比如CentOS、Debian、Ubuntu等。那为什么还要使用一键DD脚本重装/更换系统呢？</p>
-<ul>
-<li>商家提供的系统版本有限，可能没有自己需要的版本。</li>
-<li>商家的系统安装有自己不想要的服务，比如国内的阿里云盾（安骑士）。</li>
-<li>商家的系统无法安装特定软件，比如很挑内核的锐速。</li>
-</ul>
-<p>以上几种情况，一键DD脚本就可以为服务器更换一个纯净的系统，帮你解决问题。</p>
-<h2 id="所需环境"><a href="#所需环境" class="headerlink" title="所需环境"></a>所需环境</h2><p>以网络流传较广的Vicer一键DD为例，其所需环境为：</p>
-<blockquote>
-<p>架构：KVM/XEN，不支持OpenVZ。<br>系统：Debian/Ubuntu/CentOS</p>
-</blockquote>
-<h2 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h2><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><ul>
-<li>Vicer脚本目前不支持重装为CentOS 7系统，支持CentOS 6.9以下版本。</li>
-<li>重装的系统源自官方发行版。</li>
-<li>安装过程全自动进行，无需VNC操作，无需进入救援模式。</li>
-<li>系统安装完成后的默认用户名为root，默认密码为: MoeClub.org</li>
-</ul>
-<h3 id="DD脚本示例"><a href="#DD脚本示例" class="headerlink" title="DD脚本示例"></a>DD脚本示例</h3><p>由于脚本命令中需要写明目标系统版本，所以根据需求不同，最终的运行命令也各不相同。</p>
-<p>下面提供几个使用范例，可以直接复制使用，也可以将命令中的系统版本替换为其它版本。</p>
-<h4 id="重装为CentOS："><a href="#重装为CentOS：" class="headerlink" title="重装为CentOS："></a>重装为CentOS：</h4><p>以下命令中的 -c 后面为CentOS版本号，-v 后面为64位/32位，可根据需求进行替换。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># CentOS 6.10 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -c 6.10 -v 64 -a</span><br><span class="line"># CentOS 6.10 32位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -c 6.10 -v 32 -a</span><br></pre></td></tr></table></figure>
-<h4 id="重装为Debian："><a href="#重装为Debian：" class="headerlink" title="重装为Debian："></a>重装为Debian：</h4><p>以下命令中的 -d 后面为Debian版本号，-v 后面为64位/32位，可根据需求进行替换。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># Debian 8 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -d 8 -v 64 -a</span><br><span class="line"># Debian 9 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -d 9 -v 64 -a</span><br><span class="line"># Debian 10 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -d 10 -v 64 -a</span><br><span class="line"># Debian 11 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -d 11 -v 64 -a</span><br><span class="line"># Debian 11.5 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -d 11.5 -v 64 -a</span><br></pre></td></tr></table></figure>
-<h4 id="重装为Ubuntu："><a href="#重装为Ubuntu：" class="headerlink" title="重装为Ubuntu："></a>重装为Ubuntu：</h4><p>以下命令中的 -u 后面为Ubuntu版本号，-v 后面为64位/32位，可根据需求进行替换。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># Ubuntu 12.04 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -u 12.04 -v 64 -a</span><br><span class="line"># Ubuntu 14.04 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -u 14.04 -v 64 -a</span><br><span class="line"># Ubuntu 16.04 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -u 16.04 -v 64 -a</span><br><span class="line"># Ubuntu 18.04 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -u 18.04 -v 64 -a</span><br><span class="line"># Ubuntu 20.04 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -u 20.04 -v 64 -a</span><br></pre></td></tr></table></figure>
-<h3 id="关于系统重装过程"><a href="#关于系统重装过程" class="headerlink" title="关于系统重装过程"></a>关于系统重装过程</h3><p>运行包含正确系统版本号的脚本后，新系统的安装会自动进行，无需人工干预。</p>
-<p>可能的三种情况：</p>
-<p>正常情况下10分钟左右就可以安装成功了，期间可以在VNC中观察安装过程：</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2023040601.jpg" alt=""></p>
-<p>如果安装CentOS 7版本，会出现下图提示，表示不支持：</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2023040602.jpg" alt=""></p>
-<p>如果输入了其它不支持或不存在的系统版本，则会出现下图提示，中止安装：</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2023040603.jpg" alt=""></p>
-<h3 id="重装系统后更改root密码"><a href="#重装系统后更改root密码" class="headerlink" title="重装系统后更改root密码"></a>重装系统后更改root密码</h3><p>耐心等待系统安装成功后，出于安全考虑，建议立即更改默认密码。</p>
-<h3 id="具体方法："><a href="#具体方法：" class="headerlink" title="具体方法："></a>具体方法：</h3><ol>
-<li>使用Putty以上文提供的默认密码登录，输入以下命令：passwd root</li>
-<li>接下来会分两次要求输入新的密码，可以手动输入，也可以在其它位置复制一个密码，然后在Putty界面右键点击即可粘贴上去。<br>注意：输入新密码时并不会直接显示出来，光标也不会移动，这是正常的。</li>
-<li>再次登录系统时，记得使用新的root密码。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
-      <tags>
-        <tag>系统运维</tag>
-      </tags>
   </entry>
   <entry>
     <title>利用又拍云实现Github Pages加速访问</title>
@@ -784,6 +698,92 @@
       <tags>
         <tag>教程</tag>
         <tag>GitHub</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>腾讯QQ二代变无是什么意思？怎么避免？怎么解决？</title>
+    <url>/posts/d0eb61f9/</url>
+    <content><![CDATA[<h2 id="二代变无"><a href="#二代变无" class="headerlink" title="二代变无"></a>二代变无</h2><p>二代变无，即二代变无保，QQ密保工具失效。QQ账号有密保工具，比如密保手机，QQ令牌等，但是某一天此QQ突然被冻结保护，解冻需要修改QQ密码，但是修改密码却不能验证密保工具，只能填写资料申诉。</p>
+<h2 id="变无原因"><a href="#变无原因" class="headerlink" title="变无原因"></a>变无原因</h2><h3 id="原因1-怀疑号码被买卖了，冻结制裁"><a href="#原因1-怀疑号码被买卖了，冻结制裁" class="headerlink" title="原因1.怀疑号码被买卖了，冻结制裁"></a>原因1.怀疑号码被买卖了，冻结制裁</h3><p>比如从一个IP换成了另一个IP登录，同时进行了密保手机更换、头像昵称等资料的修改，以及好友的增删。基本可以断定号码被转让了，腾讯公司会采取二变无冻结的方式进行制裁。</p>
+<h3 id="原因2-登录IP异常"><a href="#原因2-登录IP异常" class="headerlink" title="原因2.登录IP异常"></a>原因2.登录IP异常</h3><p>异常IP主要是指<code>敏感IP</code>，如经常被举报的IP，腾讯公司怀疑该QQ被盗用，会进行冻结保护。</p>
+<h3 id="原因3-有多个异地IP登录"><a href="#原因3-有多个异地IP登录" class="headerlink" title="原因3.有多个异地IP登录"></a>原因3.有多个异地IP登录</h3><p>怀疑<code>多人共用账号</code>，腾讯会以违反使用条例进行冻结制裁，并且这种申诉基本是不给通过的。</p>
+<h2 id="如何避免"><a href="#如何避免" class="headerlink" title="如何避免"></a>如何避免</h2><ol>
+<li><p>更换密保手机时，尽量<code>避免异地登录</code>，更不能在密保手机更换前后进行修改QQ头像、资料、增删好友等敏感操作</p>
+</li>
+<li><p>不要在<code>敏感IP</code>登录，如经常有被举报封号的IP</p>
+</li>
+<li><p>避免<code>异地多IP来回切换</code>登录。</p>
+</li>
+</ol>
+<h2 id="解决方式"><a href="#解决方式" class="headerlink" title="解决方式"></a>解决方式</h2><ul>
+<li><p>由于<code>原因1</code>和<code>原因2</code>造成的二变无，验证资料正确、完整，申诉可以申诉成功的</p>
+</li>
+<li><p>由于<code>原因3</code>造成的二变无，基本无解，申诉通过概率小</p>
+</li>
+<li><p>刚收来的QQ不要去接着修改资料（心急吃不了热豆腐）以下是我对收来的QQ保养基本常识</p>
+</li>
+</ul>
+<ol>
+<li>登录安全中心找到异地登陆点击信任地区；</li>
+<li>头像、网名、地区等一系列资料在3-7天内不要去着急修改，因为这样会检测到风险，轻者冻结，重者可能会导致二代变无（二代变无保）</li>
+<li>在搜索界面搜索成长守护平台，查看是否拥有修改信息次数</li>
+</ol>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一键DD纯净系统脚本(萌咖) CentOS/Debian/Ubuntu</title>
+    <url>/posts/916e1c19/</url>
+    <content><![CDATA[<p>基本所有的VPS服务器商家，都会提供免费的Linux系统供安装，比如CentOS、Debian、Ubuntu等。那为什么还要使用一键DD脚本重装/更换系统呢？</p>
+<ul>
+<li>商家提供的系统版本有限，可能没有自己需要的版本。</li>
+<li>商家的系统安装有自己不想要的服务，比如国内的阿里云盾（安骑士）。</li>
+<li>商家的系统无法安装特定软件，比如很挑内核的锐速。</li>
+</ul>
+<p>以上几种情况，一键DD脚本就可以为服务器更换一个纯净的系统，帮你解决问题。</p>
+<h2 id="所需环境"><a href="#所需环境" class="headerlink" title="所需环境"></a>所需环境</h2><p>以网络流传较广的Vicer一键DD为例，其所需环境为：</p>
+<blockquote>
+<p>架构：KVM/XEN，不支持OpenVZ。<br>系统：Debian/Ubuntu/CentOS</p>
+</blockquote>
+<h2 id="使用教程"><a href="#使用教程" class="headerlink" title="使用教程"></a>使用教程</h2><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><ul>
+<li>Vicer脚本目前不支持重装为CentOS 7系统，支持CentOS 6.9以下版本。</li>
+<li>重装的系统源自官方发行版。</li>
+<li>安装过程全自动进行，无需VNC操作，无需进入救援模式。</li>
+<li>系统安装完成后的默认用户名为root，默认密码为: MoeClub.org</li>
+</ul>
+<h3 id="DD脚本示例"><a href="#DD脚本示例" class="headerlink" title="DD脚本示例"></a>DD脚本示例</h3><p>由于脚本命令中需要写明目标系统版本，所以根据需求不同，最终的运行命令也各不相同。</p>
+<p>下面提供几个使用范例，可以直接复制使用，也可以将命令中的系统版本替换为其它版本。</p>
+<h4 id="重装为CentOS："><a href="#重装为CentOS：" class="headerlink" title="重装为CentOS："></a>重装为CentOS：</h4><p>以下命令中的 -c 后面为CentOS版本号，-v 后面为64位/32位，可根据需求进行替换。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># CentOS 6.10 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -c 6.10 -v 64 -a</span><br><span class="line"># CentOS 6.10 32位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -c 6.10 -v 32 -a</span><br></pre></td></tr></table></figure>
+<h4 id="重装为Debian："><a href="#重装为Debian：" class="headerlink" title="重装为Debian："></a>重装为Debian：</h4><p>以下命令中的 -d 后面为Debian版本号，-v 后面为64位/32位，可根据需求进行替换。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># Debian 8 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -d 8 -v 64 -a</span><br><span class="line"># Debian 9 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -d 9 -v 64 -a</span><br><span class="line"># Debian 10 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -d 10 -v 64 -a</span><br><span class="line"># Debian 11 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -d 11 -v 64 -a</span><br><span class="line"># Debian 11.5 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -d 11.5 -v 64 -a</span><br></pre></td></tr></table></figure>
+<h4 id="重装为Ubuntu："><a href="#重装为Ubuntu：" class="headerlink" title="重装为Ubuntu："></a>重装为Ubuntu：</h4><p>以下命令中的 -u 后面为Ubuntu版本号，-v 后面为64位/32位，可根据需求进行替换。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># Ubuntu 12.04 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -u 12.04 -v 64 -a</span><br><span class="line"># Ubuntu 14.04 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -u 14.04 -v 64 -a</span><br><span class="line"># Ubuntu 16.04 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -u 16.04 -v 64 -a</span><br><span class="line"># Ubuntu 18.04 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -u 18.04 -v 64 -a</span><br><span class="line"># Ubuntu 20.04 64位：</span><br><span class="line">bash &lt;(wget --no-check-certificate -qO- &#x27;https://www.moeelf.com/attachment/LinuxShell/InstallNET.sh&#x27;) -u 20.04 -v 64 -a</span><br></pre></td></tr></table></figure>
+<h3 id="关于系统重装过程"><a href="#关于系统重装过程" class="headerlink" title="关于系统重装过程"></a>关于系统重装过程</h3><p>运行包含正确系统版本号的脚本后，新系统的安装会自动进行，无需人工干预。</p>
+<p>可能的三种情况：</p>
+<p>正常情况下10分钟左右就可以安装成功了，期间可以在VNC中观察安装过程：</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2023040601.jpg" alt=""></p>
+<p>如果安装CentOS 7版本，会出现下图提示，表示不支持：</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2023040602.jpg" alt=""></p>
+<p>如果输入了其它不支持或不存在的系统版本，则会出现下图提示，中止安装：</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2023040603.jpg" alt=""></p>
+<h3 id="重装系统后更改root密码"><a href="#重装系统后更改root密码" class="headerlink" title="重装系统后更改root密码"></a>重装系统后更改root密码</h3><p>耐心等待系统安装成功后，出于安全考虑，建议立即更改默认密码。</p>
+<h3 id="具体方法："><a href="#具体方法：" class="headerlink" title="具体方法："></a>具体方法：</h3><ol>
+<li>使用Putty以上文提供的默认密码登录，输入以下命令：passwd root</li>
+<li>接下来会分两次要求输入新的密码，可以手动输入，也可以在其它位置复制一个密码，然后在Putty界面右键点击即可粘贴上去。<br>注意：输入新密码时并不会直接显示出来，光标也不会移动，这是正常的。</li>
+<li>再次登录系统时，记得使用新的root密码。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
+      <tags>
+        <tag>系统运维</tag>
       </tags>
   </entry>
   <entry>
@@ -994,6 +994,98 @@
       </tags>
   </entry>
   <entry>
+    <title>在折腾部落格时踩到的一些坑和美化记录</title>
+    <url>/posts/78925916/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>由于jsd在国内的持续拉跨（至于是什么原因相信大家都有所耳闻），导致大量的个人博客网站遇到了资源加载失败的情况。虽然网上也有很多的补救教程，如反向代理、镜像网站等等，但都不是什么稳定的方案。</p>
+<p>好在新版butterfly主题已经支持将cdn切换回本地，虽然访问速度可能会有所差别，但总比不能访问要好得多。</p>
+<p>下面我就给大家整理一下在升级过程中遇到的一些问题以及主题的一些美化教程。</p>
+<div class="note warning simple"><p>以下内容基于 <code>butterfly4.2.2</code>、<code>hexo6.2.0</code></p>
+</div>
+<h2 id="遇到的问题"><a href="#遇到的问题" class="headerlink" title="遇到的问题"></a>遇到的问题</h2><h3 id="升级失败"><a href="#升级失败" class="headerlink" title="升级失败"></a>升级失败</h3><p>首先参照官方文档的升级方法，在主题目录下运行<code>git pull</code>，如果不出意外的话，就直接升级成功了。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022053101.png" alt=""></p>
+<p>显然，我是在升级的时候出现了错误，不然也不会来水这篇文章。</p>
+<p>先说一下问题：在参照官方文档升级后在本地预览时显示的butterfly版本号仍然为旧版本，并不是最新的<mark class="hl-label blue">4.2.2</mark> 版本。</p>
+<h3 id="本地无法预览"><a href="#本地无法预览" class="headerlink" title="本地无法预览"></a>本地无法预览</h3><p>在升级失败后，我便尝试删掉主题文件，再重新安装，这样造成的后就是连在本地预览也失败，显示的错误也看不懂。经过了一番折腾，便索性<mark class="hl-label orange">从头再来</mark> 。</p>
+<h2 id="修复过程"><a href="#修复过程" class="headerlink" title="修复过程"></a>修复过程</h2><h3 id="安装淘宝npm镜像"><a href="#安装淘宝npm镜像" class="headerlink" title="安装淘宝npm镜像"></a>安装淘宝npm镜像</h3><p>由于各种原因，导致npm默认源在国内下载速度很慢，这里我们可以将npm的源设置成淘宝镜像，访问速度会大大提升</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm config set registry registry.npmmirror.com</span><br></pre></td></tr></table></figure>
+<h3 id="Hexo安装"><a href="#Hexo安装" class="headerlink" title="Hexo安装"></a>Hexo安装</h3><p>首先肯定是安装<mark class="hl-label blue">Hexo</mark> ，其实安装方法并不难，百度一搜就有一大堆，这里也不再做过多的演示。</p>
+<p>安装好hexo后，就是要安装主题了。</p>
+<p>butterfly官方文档提供了三种安装主题的方法，因为我之前是采用的Git安装，所以这次还是照旧。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022053102.png" alt=""></p>
+<p>主题安装好后，打开Hexo根目录下的<code>_config.yml</code>，将主题修改为<code>butterfly</code></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022053103.png" alt=""></p>
+<p>到这里你就可以尝试一键三连了 <code>hexo cl &amp;&amp; hexo g &amp;&amp; hexo s</code></p>
+<p>如果打开网站后显示<code>...pug</code>错误，则还需要安装pug以及stylus的渲染器</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure>
+<p>安装后再次一键三连，就能预览博客最初的模样了。</p>
+<h2 id="美化教程"><a href="#美化教程" class="headerlink" title="美化教程"></a>美化教程</h2><div class="note green icon-padding simple"><i class="note-icon fas fa-fan"></i><p>其实绝大部分美化内容你都能在官方文档看到，这里只展示部分文档里没有的</p>
+</div>
+<h3 id="渐变透明背景"><a href="#渐变透明背景" class="headerlink" title="渐变透明背景"></a>渐变透明背景</h3><details class="folding-tag" green><summary> 效果预览 </summary>
+              <div class='content'>
+              <p><img src="https://cdn.jx-ll.cn/post_img/2022053104.png" alt=""></p>
+              </div>
+            </details>
+<details class="folding-tag" green><summary> 配置教程 </summary>
+              <div class='content'>
+              <p>由于涉及到css样式，所以我们需要新建个css文件，文件名随意</p><p>将以下代码复制到css文件里</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#recent-posts&gt;.recent-post-item,.layout_page&gt;div:first-child:not(.recent-posts),.layout_post&gt;#page,.layout_post&gt;#post,.read-mode .layout_post&gt;#post &#123;</span><br><span class="line">    background: var(--light_bg_color)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#aside-content .card-widget &#123;</span><br><span class="line">    background: var(--light_bg_color)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#web_bg &#123;</span><br><span class="line">    background: linear-gradient(90deg,rgba(247,149,51,.1),rgba(243,112,85,.1) 15%,rgba(239,78,123,.1) 30%,rgba(161,102,171,.1) 44%,rgba(80,115,184,.1) 58%,rgba(16,152,173,.1) 72%,rgba(7,179,155,.1) 86%,rgba(109,186,130,.1))</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>为了避免因主题升级原因导致文件丢失，我们需要将文件存放在<code>根目录\source\css</code>（css目录是自己创建的）里</p><p>接着打开主题配置文件，找到<code>inject&gt;head</code>配置项，将刚刚创建的文件进行引入</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">- &lt;link rel=&quot;stylesheet&quot; href=&quot;/css/custom.css&quot; media=&quot;defer&quot; onload=&quot;this.media=&#x27;all&#x27;&quot;&gt;</span><br></pre></td></tr></table></figure>
+              </div>
+            </details>
+<h3 id="页脚透明渐变背景"><a href="#页脚透明渐变背景" class="headerlink" title="页脚透明渐变背景"></a>页脚透明渐变背景</h3><details class="folding-tag" green><summary> 效果预览 </summary>
+              <div class='content'>
+              <p><img src="https://cdn.jx-ll.cn/post_img/2022053106.png" alt=""></p>
+              </div>
+            </details>
+<details class="folding-tag" green><summary> 配置教程 </summary>
+              <div class='content'>
+              <p>当你对主题背景进行了修改后，你会发现页脚的纯蓝色背景与五彩斑斓的主题颜色不是很搭配，需要对其进行美化</p><p>只需要在刚刚创建的css文件里加入以下代码即可</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#footer &#123;</span><br><span class="line">    background: rgba(255,255,255,.15);</span><br><span class="line">    color: #000;</span><br><span class="line">    border-top-right-radius: 20px;</span><br><span class="line">    border-top-left-radius: 20px;</span><br><span class="line">    backdrop-filter: saturate(100%) blur(5px)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#footer::before &#123;</span><br><span class="line">    background: rgba(255,255,255,.15)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#footer #footer-wrap &#123;</span><br><span class="line">    color: var(--font-color)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#footer #footer-wrap a &#123;</span><br><span class="line">    color: var(--font-color)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+              </div>
+            </details>
+<h3 id="标签外挂"><a href="#标签外挂" class="headerlink" title="标签外挂"></a>标签外挂</h3><details class="folding-tag" green><summary> 效果预览 </summary>
+              <div class='content'>
+              <p><img src="https://cdn.jx-ll.cn/post_img/2022053105.png" alt=""></p>
+              </div>
+            </details>
+<details class="folding-tag" green><summary> 配置教程 </summary>
+              <div class='content'>
+              <p>官方提供了两种使用方法，这里提供比较简单的npm插件安装</p><p>安装插件：</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-butterfly-tag-plugins-plus --save</span><br></pre></td></tr></table></figure><p>由于hexo自带的markdown渲染插件hexo-renderer-marked与外挂标签语法的兼容性较差，建议将其替换成<a href="https://www.npmjs.com/package/hexo-renderer-kramed">hexo-renderer-kramed</a></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm uninstall hexo-renderer-marked --save</span><br><span class="line">npm install hexo-renderer-kramed --save</span><br></pre></td></tr></table></figure><p>随后，打开根目录下的<code>_config.yml</code>配置文件，将以下内容添加进去</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># tag-plugins-plus</span><br><span class="line"># see https://akilar.top/posts/615e2dec/</span><br><span class="line">tag_plugins:</span><br><span class="line">  enable: true # 开关</span><br><span class="line">  priority: 5 #过滤器优先权</span><br><span class="line">  issues: false #issues标签依赖注入开关</span><br><span class="line">  link:</span><br><span class="line">    placeholder: /img/link.png #link_card标签默认的图标图片</span><br><span class="line">  CDN:</span><br><span class="line">    anima: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/font-awesome-animation.min.css #动画标签anima的依赖</span><br><span class="line">    jquery: https://npm.elemecdn.com/jquery@latest/dist/jquery.min.js #issues标签依赖</span><br><span class="line">    issues: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/issues.js #issues标签依赖</span><br><span class="line">    iconfont: //at.alicdn.com/t/font_2032782_8d5kxvn09md.js #参看https://akilar.top/posts/d2ebecef/</span><br><span class="line">    carousel: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/carousel-touch.js</span><br><span class="line">    tag_plugins_css: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/tag_plugins.css</span><br></pre></td></tr></table></figure><p>配置好后，你就可以在butterfly的任何地方使用标签外挂了，更多的内容请访问Akilar的<a href="https://akilar.top/posts/615e2dec/">基于Butterfly的外挂标签引入</a></p>
+              </div>
+            </details>
+<h3 id="自定义右键菜单"><a href="#自定义右键菜单" class="headerlink" title="自定义右键菜单"></a>自定义右键菜单</h3><details class="folding-tag" green><summary> 效果预览 </summary>
+              <div class='content'>
+              <p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220611214812.png" alt=""></p>
+              </div>
+            </details>
+<details class="folding-tag" green><summary> 配置教程 </summary>
+              <div class='content'>
+              <p>本博客右键菜单魔改内容根据<a href="https://dorakika.cn/p/20220118.html">DoraKika</a>和<a href="https://blog.zhheo.com/p/5e931b65.html">张洪Heo</a>两位大佬的教程进行修改，有兴趣的可以参考原作者的教程。</p><p>首先我们需要先新建个文件<mark class="hl-label blue">rightmenu.pug</mark><br><code>...butterfly/layout/includes/dorakika/rightmenu.pug</code></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#rightMenu</span><br><span class="line">	.rightMenu-group.rightMenu-small</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:window.history.back();&quot;)</span><br><span class="line">			i.fa-solid.fa-arrow-left</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:window.history.forward();&quot;)</span><br><span class="line">			i.fa-solid.fa-arrow-right</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:window.location.reload();&quot;)</span><br><span class="line">			i.fa-solid.fa-arrow-rotate-right</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:rmf.scrollToTop();&quot;)</span><br><span class="line">			i.fa-solid.fa-arrow-up</span><br><span class="line">	.rightMenu-group.rightMenu-line.hide#menu-text</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:rmf.copySelect();&quot;)</span><br><span class="line">			i.fa-solid.fa-copy</span><br><span class="line">			span=&#x27;复制内容&#x27;</span><br><span class="line">	.rightMenu-group.rightMenu-line</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:rmf.switchDarkMode();&quot;)</span><br><span class="line">			i.fa-solid.fa-moon</span><br><span class="line">			span=&#x27;昼夜切换&#x27;</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:rmf.switchReadMode();&quot;)</span><br><span class="line">			i.fa-solid.fa-earth-asia</span><br><span class="line">			span=&#x27;阅读模式&#x27;</span><br></pre></td></tr></table></figure><p>然后将pug文件引入（由于pug文件有严格的格式要求，请注意缩进）<br><code>themes/butterfly/layout/includes/layout.pug</code></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">doctype html</span><br><span class="line">html(lang=config.language data-theme=theme.display_mode class=htmlClassHideAside)</span><br><span class="line">  head</span><br><span class="line">    include ./head.pug</span><br><span class="line">  body</span><br><span class="line">    ...</span><br><span class="line"></span><br><span class="line">    else</span><br><span class="line">      include ./404.pug</span><br><span class="line"></span><br><span class="line">    include ./rightside.pug</span><br><span class="line">    !=partial(&#x27;includes/third-party/search/index&#x27;, &#123;&#125;, &#123;cache: true&#125;)</span><br><span class="line">+    !=partial(&#x27;includes/dorakika/rightmenu&#x27;,&#123;&#125;, &#123;cache:true&#125;)</span><br><span class="line">    include ./additional-js.pug</span><br></pre></td></tr></table></figure><p>现在，已经将结构插入了，接下来要将css样式和触发脚本引入。<br>首先新建<code>rightMenu.css</code>和<code>rightMenu.js</code>文件，为了避免主题升级带来的麻烦，推荐将文件放到<br><code>根目录/source/images/cdn</code></p><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="comment">/* rightMenu */</span></span><br><span class="line"><span class="selector-id">#rightMenu</span>&#123;</span><br><span class="line">	<span class="attribute">display</span>: none;</span><br><span class="line">	<span class="attribute">position</span>: fixed;</span><br><span class="line">	<span class="attribute">width</span>: <span class="number">160px</span>;</span><br><span class="line">	<span class="attribute">height</span>: fit-content;</span><br><span class="line">	<span class="attribute">top</span>: <span class="number">10%</span>;</span><br><span class="line">	<span class="attribute">left</span>: <span class="number">10%</span>;</span><br><span class="line">	<span class="attribute">background-color</span>: <span class="built_in">var</span>(--card-bg);</span><br><span class="line">	<span class="attribute">border</span>: <span class="number">1px</span> solid <span class="built_in">var</span>(--card-bg);</span><br><span class="line">	<span class="attribute">border-radius</span>: <span class="number">12px</span>;</span><br><span class="line">	<span class="attribute">box-shadow</span>: <span class="built_in">var</span>(--card-box-shadow);</span><br><span class="line">	<span class="attribute">z-index</span>: <span class="number">100</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-id">#rightMenu</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">	<span class="attribute">border</span>: <span class="number">1px</span> solid <span class="built_in">var</span>(--pseudo-hover);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span>&#123;</span><br><span class="line">	<span class="attribute">padding</span>: <span class="number">7px</span> <span class="number">6px</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span><span class="selector-pseudo">:not</span>(<span class="selector-pseudo">:nth-last-child</span>(<span class="number">1</span>))&#123;</span><br><span class="line">	<span class="attribute">border-bottom</span>: <span class="number">1px</span> dashed <span class="built_in">var</span>(--dark-grey);</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span><span class="selector-class">.rightMenu-small</span>&#123;</span><br><span class="line">	<span class="attribute">display</span>: flex;</span><br><span class="line">	<span class="attribute">justify-content</span>: space-between;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span> <span class="selector-class">.rightMenu-item</span>&#123;</span><br><span class="line">	<span class="attribute">height</span>: <span class="number">30px</span>;</span><br><span class="line">	<span class="attribute">line-height</span>: <span class="number">30px</span>;</span><br><span class="line">	<span class="attribute">border-radius</span>: <span class="number">8px</span>;</span><br><span class="line">	<span class="attribute">transition</span>: <span class="number">0.3s</span>;</span><br><span class="line">	<span class="attribute">color</span>: <span class="built_in">var</span>(--font-color);</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span><span class="selector-class">.rightMenu-line</span> <span class="selector-class">.rightMenu-item</span>&#123;</span><br><span class="line">	<span class="attribute">display</span>: flex;</span><br><span class="line">	<span class="attribute">height</span>: <span class="number">40px</span>;</span><br><span class="line">	<span class="attribute">line-height</span>: <span class="number">40px</span>;</span><br><span class="line">	<span class="attribute">padding</span>: <span class="number">0</span> <span class="number">8px</span>;</span><br><span class="line">	<span class="attribute">margin</span>: <span class="number">3px</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span> <span class="selector-class">.rightMenu-item</span><span class="selector-pseudo">:hover</span>&#123;</span><br><span class="line">	<span class="attribute">background-color</span>: <span class="built_in">var</span>(--pseudo-hover);</span><br><span class="line">	<span class="attribute">color</span>: <span class="built_in">var</span>(--white);</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span> <span class="selector-class">.rightMenu-item</span> <span class="selector-tag">i</span>&#123;</span><br><span class="line">	<span class="attribute">display</span>: inline-block;</span><br><span class="line">	<span class="attribute">text-align</span>: center;</span><br><span class="line">	<span class="attribute">line-height</span>: <span class="number">30px</span>;</span><br><span class="line">	<span class="attribute">width</span>: <span class="number">30px</span>;</span><br><span class="line">	<span class="attribute">height</span>: <span class="number">30px</span>;</span><br><span class="line">	<span class="attribute">padding</span>: <span class="number">0</span> <span class="number">5px</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span> <span class="selector-class">.rightMenu-item</span> <span class="selector-tag">span</span>&#123;</span><br><span class="line">	<span class="attribute">line-height</span>: <span class="number">30px</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span><span class="selector-class">.rightMenu-line</span> <span class="selector-class">.rightMenu-item</span> *&#123;</span><br><span class="line">	<span class="attribute">height</span>: <span class="number">40px</span>;</span><br><span class="line">	<span class="attribute">line-height</span>: <span class="number">40px</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.rightMenu-group</span><span class="selector-class">.hide</span>&#123;</span><br><span class="line">	<span class="attribute">display</span>: none;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> rmf = &#123;&#125;;</span><br><span class="line">rmf.<span class="property">showRightMenu</span> = <span class="keyword">function</span>(<span class="params">isTrue, x=<span class="number">0</span>, y=<span class="number">0</span></span>)&#123;</span><br><span class="line">    <span class="keyword">let</span> $rightMenu = $(<span class="string">&#x27;#rightMenu&#x27;</span>);</span><br><span class="line">    $rightMenu.<span class="title function_">css</span>(<span class="string">&#x27;top&#x27;</span>,x+<span class="string">&#x27;px&#x27;</span>).<span class="title function_">css</span>(<span class="string">&#x27;left&#x27;</span>,y+<span class="string">&#x27;px&#x27;</span>);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span>(isTrue)&#123;</span><br><span class="line">        $rightMenu.<span class="title function_">show</span>();</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        $rightMenu.<span class="title function_">hide</span>();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line">rmf.<span class="property">switchDarkMode</span> = <span class="keyword">function</span>(<span class="params"></span>)&#123;</span><br><span class="line">    <span class="keyword">const</span> nowMode = <span class="variable language_">document</span>.<span class="property">documentElement</span>.<span class="title function_">getAttribute</span>(<span class="string">&#x27;data-theme&#x27;</span>) === <span class="string">&#x27;dark&#x27;</span> ? <span class="string">&#x27;dark&#x27;</span> : <span class="string">&#x27;light&#x27;</span></span><br><span class="line">    <span class="keyword">if</span> (nowMode === <span class="string">&#x27;light&#x27;</span>) &#123;</span><br><span class="line">        <span class="title function_">activateDarkMode</span>()</span><br><span class="line">        saveToLocal.<span class="title function_">set</span>(<span class="string">&#x27;theme&#x27;</span>, <span class="string">&#x27;dark&#x27;</span>, <span class="number">2</span>)</span><br><span class="line">        <span class="variable constant_">GLOBAL_CONFIG</span>.<span class="property">Snackbar</span> !== <span class="literal">undefined</span> &amp;&amp; btf.<span class="title function_">snackbarShow</span>(<span class="variable constant_">GLOBAL_CONFIG</span>.<span class="property">Snackbar</span>.<span class="property">day_to_night</span>)</span><br><span class="line">    &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">        <span class="title function_">activateLightMode</span>()</span><br><span class="line">        saveToLocal.<span class="title function_">set</span>(<span class="string">&#x27;theme&#x27;</span>, <span class="string">&#x27;light&#x27;</span>, <span class="number">2</span>)</span><br><span class="line">        <span class="variable constant_">GLOBAL_CONFIG</span>.<span class="property">Snackbar</span> !== <span class="literal">undefined</span> &amp;&amp; btf.<span class="title function_">snackbarShow</span>(<span class="variable constant_">GLOBAL_CONFIG</span>.<span class="property">Snackbar</span>.<span class="property">night_to_day</span>)</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// handle some cases</span></span><br><span class="line">    <span class="keyword">typeof</span> utterancesTheme === <span class="string">&#x27;function&#x27;</span> &amp;&amp; <span class="title function_">utterancesTheme</span>()</span><br><span class="line">    <span class="keyword">typeof</span> <span class="variable constant_">FB</span> === <span class="string">&#x27;object&#x27;</span> &amp;&amp; <span class="variable language_">window</span>.<span class="title function_">loadFBComment</span>()</span><br><span class="line">    <span class="variable language_">window</span>.<span class="property">DISQUS</span> &amp;&amp; <span class="variable language_">document</span>.<span class="title function_">getElementById</span>(<span class="string">&#x27;disqus_thread&#x27;</span>).<span class="property">children</span>.<span class="property">length</span> &amp;&amp; <span class="built_in">setTimeout</span>(<span class="function">() =&gt;</span> <span class="variable language_">window</span>.<span class="title function_">disqusReset</span>(), <span class="number">200</span>)</span><br><span class="line">&#125;;</span><br><span class="line">rmf.<span class="property">switchReadMode</span> = <span class="keyword">function</span>(<span class="params"></span>)&#123;</span><br><span class="line">    <span class="keyword">const</span> $body = <span class="variable language_">document</span>.<span class="property">body</span></span><br><span class="line">    $body.<span class="property">classList</span>.<span class="title function_">add</span>(<span class="string">&#x27;read-mode&#x27;</span>)</span><br><span class="line">    <span class="keyword">const</span> newEle = <span class="variable language_">document</span>.<span class="title function_">createElement</span>(<span class="string">&#x27;button&#x27;</span>)</span><br><span class="line">    newEle.<span class="property">type</span> = <span class="string">&#x27;button&#x27;</span></span><br><span class="line">    newEle.<span class="property">className</span> = <span class="string">&#x27;fas fa-sign-out-alt exit-readmode&#x27;</span></span><br><span class="line">    $body.<span class="title function_">appendChild</span>(newEle)</span><br><span class="line"></span><br><span class="line">    <span class="keyword">function</span> <span class="title function_">clickFn</span> () &#123;</span><br><span class="line">        $body.<span class="property">classList</span>.<span class="title function_">remove</span>(<span class="string">&#x27;read-mode&#x27;</span>)</span><br><span class="line">        newEle.<span class="title function_">remove</span>()</span><br><span class="line">        newEle.<span class="title function_">removeEventListener</span>(<span class="string">&#x27;click&#x27;</span>, clickFn)</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    newEle.<span class="title function_">addEventListener</span>(<span class="string">&#x27;click&#x27;</span>, clickFn)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//复制选中文字</span></span><br><span class="line">rmf.<span class="property">copySelect</span> = <span class="keyword">function</span>(<span class="params"></span>)&#123;</span><br><span class="line">    <span class="variable language_">document</span>.<span class="title function_">execCommand</span>(<span class="string">&#x27;Copy&#x27;</span>,<span class="literal">false</span>,<span class="literal">null</span>);</span><br><span class="line">    btf.<span class="title function_">snackbarShow</span>(<span class="variable constant_">GLOBAL_CONFIG</span>.<span class="property">copy</span>.<span class="property">success</span>);</span><br><span class="line">    <span class="comment">//这里可以写点东西提示一下 已复制</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//回到顶部</span></span><br><span class="line">rmf.<span class="property">scrollToTop</span> = <span class="keyword">function</span>(<span class="params"></span>)&#123;</span><br><span class="line">    btf.<span class="title function_">scrollToDest</span>(<span class="number">0</span>, <span class="number">500</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 右键菜单事件</span></span><br><span class="line"><span class="keyword">if</span>(! (navigator.<span class="property">userAgent</span>.<span class="title function_">match</span>(<span class="regexp">/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i</span>)))&#123;</span><br><span class="line">    <span class="variable language_">window</span>.<span class="property">oncontextmenu</span> = <span class="keyword">function</span>(<span class="params">event</span>)&#123;</span><br><span class="line">        $(<span class="string">&#x27;.rightMenu-group.hide&#x27;</span>).<span class="title function_">hide</span>();</span><br><span class="line">        <span class="comment">//如果有文字选中，则显示 文字选中相关的菜单项</span></span><br><span class="line">        <span class="keyword">if</span>(<span class="variable language_">document</span>.<span class="title function_">getSelection</span>().<span class="title function_">toString</span>())&#123;</span><br><span class="line">            $(<span class="string">&#x27;#menu-text&#x27;</span>).<span class="title function_">show</span>();</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="keyword">let</span> pageX = event.<span class="property">clientX</span> + <span class="number">10</span>;</span><br><span class="line">        <span class="keyword">let</span> pageY = event.<span class="property">clientY</span>;</span><br><span class="line">        <span class="keyword">let</span> rmWidth = $(<span class="string">&#x27;#rightMenu&#x27;</span>).<span class="title function_">width</span>();</span><br><span class="line">        <span class="keyword">let</span> rmHeight = $(<span class="string">&#x27;#rightMenu&#x27;</span>).<span class="title function_">height</span>();</span><br><span class="line">        <span class="keyword">if</span>(pageX + rmWidth &gt; <span class="variable language_">window</span>.<span class="property">innerWidth</span>)&#123;</span><br><span class="line">            pageX -= rmWidth+<span class="number">10</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span>(pageY + rmHeight &gt; <span class="variable language_">window</span>.<span class="property">innerHeight</span>)&#123;</span><br><span class="line">            pageY -= pageY + rmHeight - <span class="variable language_">window</span>.<span class="property">innerHeight</span>;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">        rmf.<span class="title function_">showRightMenu</span>(<span class="literal">true</span>, pageY, pageX);</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">    &#125;;</span><br><span class="line"></span><br><span class="line">    <span class="variable language_">window</span>.<span class="title function_">addEventListener</span>(<span class="string">&#x27;click&#x27;</span>,<span class="keyword">function</span>(<span class="params"></span>)&#123;rmf.<span class="title function_">showRightMenu</span>(<span class="literal">false</span>);&#125;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>然后在<code>_config.yml</code>的inject中引入这两个文件。因为js中还引用了jQuery，所以也需要将其引入</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">- &lt;script src=&quot;https://npm.elemecdn.com/jquery@3.2.1/dist/jquery.min.js&quot;&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220611222227.png" alt=""></p>
+              </div>
+            </details>
+<h3 id="阅读量和评论数增加过渡动画"><a href="#阅读量和评论数增加过渡动画" class="headerlink" title="阅读量和评论数增加过渡动画"></a>阅读量和评论数增加过渡动画</h3><details class="folding-tag" green><summary> 效果预览 </summary>
+              <div class='content'>
+              <p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220612000604.png" alt=""></p>
+              </div>
+            </details>
+<details class="folding-tag" green><summary> 配置教程 </summary>
+              <div class='content'>
+              <p>此处以<code>twikoo_visitors</code>阅读量举例，其他几个同理<br>在<code>post-info.pug</code>第78行 下面增加一行代码，注意缩进</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">when &#x27;Twikoo&#x27;</span><br><span class="line">  if theme.twikoo.visitor</span><br><span class="line">    +pvBlock(&#x27;&#x27;,&#x27;&#x27;,&#x27;&#x27;)</span><br><span class="line">      span#twikoo_visitors</span><br><span class="line">+       i.fas.fa-regular.fa-spinner.fa-spin</span><br></pre></td></tr></table></figure>
+              </div>
+            </details>
+<h3 id="大佬们"><a href="#大佬们" class="headerlink" title="大佬们"></a>大佬们</h3><ul>
+<li><a href="https://akilar.top/">Akilarの糖果屋</a></li>
+<li><a href="https://www.antmoe.com/">小康博客</a></li>
+<li><a href="https://blog.imzjw.cn/">小嘉的部落格</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>笔记</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>在VPS上安装哪吒面板，并用Caddy实现反向代理</title>
     <url>/posts/f1e2eb87/</url>
     <content><![CDATA[<p>哪吒监控是一个开源、轻量的服务器和网站监控、运维工具，能够实时监控并报告服务器的状态。</p>
@@ -1132,98 +1224,6 @@
       </tags>
   </entry>
   <entry>
-    <title>在折腾部落格时踩到的一些坑和美化记录</title>
-    <url>/posts/78925916/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>由于jsd在国内的持续拉跨（至于是什么原因相信大家都有所耳闻），导致大量的个人博客网站遇到了资源加载失败的情况。虽然网上也有很多的补救教程，如反向代理、镜像网站等等，但都不是什么稳定的方案。</p>
-<p>好在新版butterfly主题已经支持将cdn切换回本地，虽然访问速度可能会有所差别，但总比不能访问要好得多。</p>
-<p>下面我就给大家整理一下在升级过程中遇到的一些问题以及主题的一些美化教程。</p>
-<div class="note warning simple"><p>以下内容基于 <code>butterfly4.2.2</code>、<code>hexo6.2.0</code></p>
-</div>
-<h2 id="遇到的问题"><a href="#遇到的问题" class="headerlink" title="遇到的问题"></a>遇到的问题</h2><h3 id="升级失败"><a href="#升级失败" class="headerlink" title="升级失败"></a>升级失败</h3><p>首先参照官方文档的升级方法，在主题目录下运行<code>git pull</code>，如果不出意外的话，就直接升级成功了。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022053101.png" alt=""></p>
-<p>显然，我是在升级的时候出现了错误，不然也不会来水这篇文章。</p>
-<p>先说一下问题：在参照官方文档升级后在本地预览时显示的butterfly版本号仍然为旧版本，并不是最新的<mark class="hl-label blue">4.2.2</mark> 版本。</p>
-<h3 id="本地无法预览"><a href="#本地无法预览" class="headerlink" title="本地无法预览"></a>本地无法预览</h3><p>在升级失败后，我便尝试删掉主题文件，再重新安装，这样造成的后就是连在本地预览也失败，显示的错误也看不懂。经过了一番折腾，便索性<mark class="hl-label orange">从头再来</mark> 。</p>
-<h2 id="修复过程"><a href="#修复过程" class="headerlink" title="修复过程"></a>修复过程</h2><h3 id="安装淘宝npm镜像"><a href="#安装淘宝npm镜像" class="headerlink" title="安装淘宝npm镜像"></a>安装淘宝npm镜像</h3><p>由于各种原因，导致npm默认源在国内下载速度很慢，这里我们可以将npm的源设置成淘宝镜像，访问速度会大大提升</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm config set registry registry.npmmirror.com</span><br></pre></td></tr></table></figure>
-<h3 id="Hexo安装"><a href="#Hexo安装" class="headerlink" title="Hexo安装"></a>Hexo安装</h3><p>首先肯定是安装<mark class="hl-label blue">Hexo</mark> ，其实安装方法并不难，百度一搜就有一大堆，这里也不再做过多的演示。</p>
-<p>安装好hexo后，就是要安装主题了。</p>
-<p>butterfly官方文档提供了三种安装主题的方法，因为我之前是采用的Git安装，所以这次还是照旧。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022053102.png" alt=""></p>
-<p>主题安装好后，打开Hexo根目录下的<code>_config.yml</code>，将主题修改为<code>butterfly</code></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022053103.png" alt=""></p>
-<p>到这里你就可以尝试一键三连了 <code>hexo cl &amp;&amp; hexo g &amp;&amp; hexo s</code></p>
-<p>如果打开网站后显示<code>...pug</code>错误，则还需要安装pug以及stylus的渲染器</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure>
-<p>安装后再次一键三连，就能预览博客最初的模样了。</p>
-<h2 id="美化教程"><a href="#美化教程" class="headerlink" title="美化教程"></a>美化教程</h2><div class="note green icon-padding simple"><i class="note-icon fas fa-fan"></i><p>其实绝大部分美化内容你都能在官方文档看到，这里只展示部分文档里没有的</p>
-</div>
-<h3 id="渐变透明背景"><a href="#渐变透明背景" class="headerlink" title="渐变透明背景"></a>渐变透明背景</h3><details class="folding-tag" green><summary> 效果预览 </summary>
-              <div class='content'>
-              <p><img src="https://cdn.jx-ll.cn/post_img/2022053104.png" alt=""></p>
-              </div>
-            </details>
-<details class="folding-tag" green><summary> 配置教程 </summary>
-              <div class='content'>
-              <p>由于涉及到css样式，所以我们需要新建个css文件，文件名随意</p><p>将以下代码复制到css文件里</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#recent-posts&gt;.recent-post-item,.layout_page&gt;div:first-child:not(.recent-posts),.layout_post&gt;#page,.layout_post&gt;#post,.read-mode .layout_post&gt;#post &#123;</span><br><span class="line">    background: var(--light_bg_color)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#aside-content .card-widget &#123;</span><br><span class="line">    background: var(--light_bg_color)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#web_bg &#123;</span><br><span class="line">    background: linear-gradient(90deg,rgba(247,149,51,.1),rgba(243,112,85,.1) 15%,rgba(239,78,123,.1) 30%,rgba(161,102,171,.1) 44%,rgba(80,115,184,.1) 58%,rgba(16,152,173,.1) 72%,rgba(7,179,155,.1) 86%,rgba(109,186,130,.1))</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>为了避免因主题升级原因导致文件丢失，我们需要将文件存放在<code>根目录\source\css</code>（css目录是自己创建的）里</p><p>接着打开主题配置文件，找到<code>inject&gt;head</code>配置项，将刚刚创建的文件进行引入</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">- &lt;link rel=&quot;stylesheet&quot; href=&quot;/css/custom.css&quot; media=&quot;defer&quot; onload=&quot;this.media=&#x27;all&#x27;&quot;&gt;</span><br></pre></td></tr></table></figure>
-              </div>
-            </details>
-<h3 id="页脚透明渐变背景"><a href="#页脚透明渐变背景" class="headerlink" title="页脚透明渐变背景"></a>页脚透明渐变背景</h3><details class="folding-tag" green><summary> 效果预览 </summary>
-              <div class='content'>
-              <p><img src="https://cdn.jx-ll.cn/post_img/2022053106.png" alt=""></p>
-              </div>
-            </details>
-<details class="folding-tag" green><summary> 配置教程 </summary>
-              <div class='content'>
-              <p>当你对主题背景进行了修改后，你会发现页脚的纯蓝色背景与五彩斑斓的主题颜色不是很搭配，需要对其进行美化</p><p>只需要在刚刚创建的css文件里加入以下代码即可</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#footer &#123;</span><br><span class="line">    background: rgba(255,255,255,.15);</span><br><span class="line">    color: #000;</span><br><span class="line">    border-top-right-radius: 20px;</span><br><span class="line">    border-top-left-radius: 20px;</span><br><span class="line">    backdrop-filter: saturate(100%) blur(5px)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#footer::before &#123;</span><br><span class="line">    background: rgba(255,255,255,.15)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#footer #footer-wrap &#123;</span><br><span class="line">    color: var(--font-color)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">#footer #footer-wrap a &#123;</span><br><span class="line">    color: var(--font-color)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-              </div>
-            </details>
-<h3 id="标签外挂"><a href="#标签外挂" class="headerlink" title="标签外挂"></a>标签外挂</h3><details class="folding-tag" green><summary> 效果预览 </summary>
-              <div class='content'>
-              <p><img src="https://cdn.jx-ll.cn/post_img/2022053105.png" alt=""></p>
-              </div>
-            </details>
-<details class="folding-tag" green><summary> 配置教程 </summary>
-              <div class='content'>
-              <p>官方提供了两种使用方法，这里提供比较简单的npm插件安装</p><p>安装插件：</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-butterfly-tag-plugins-plus --save</span><br></pre></td></tr></table></figure><p>由于hexo自带的markdown渲染插件hexo-renderer-marked与外挂标签语法的兼容性较差，建议将其替换成<a href="https://www.npmjs.com/package/hexo-renderer-kramed">hexo-renderer-kramed</a></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm uninstall hexo-renderer-marked --save</span><br><span class="line">npm install hexo-renderer-kramed --save</span><br></pre></td></tr></table></figure><p>随后，打开根目录下的<code>_config.yml</code>配置文件，将以下内容添加进去</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># tag-plugins-plus</span><br><span class="line"># see https://akilar.top/posts/615e2dec/</span><br><span class="line">tag_plugins:</span><br><span class="line">  enable: true # 开关</span><br><span class="line">  priority: 5 #过滤器优先权</span><br><span class="line">  issues: false #issues标签依赖注入开关</span><br><span class="line">  link:</span><br><span class="line">    placeholder: /img/link.png #link_card标签默认的图标图片</span><br><span class="line">  CDN:</span><br><span class="line">    anima: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/font-awesome-animation.min.css #动画标签anima的依赖</span><br><span class="line">    jquery: https://npm.elemecdn.com/jquery@latest/dist/jquery.min.js #issues标签依赖</span><br><span class="line">    issues: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/issues.js #issues标签依赖</span><br><span class="line">    iconfont: //at.alicdn.com/t/font_2032782_8d5kxvn09md.js #参看https://akilar.top/posts/d2ebecef/</span><br><span class="line">    carousel: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/assets/carousel-touch.js</span><br><span class="line">    tag_plugins_css: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/tag_plugins.css</span><br></pre></td></tr></table></figure><p>配置好后，你就可以在butterfly的任何地方使用标签外挂了，更多的内容请访问Akilar的<a href="https://akilar.top/posts/615e2dec/">基于Butterfly的外挂标签引入</a></p>
-              </div>
-            </details>
-<h3 id="自定义右键菜单"><a href="#自定义右键菜单" class="headerlink" title="自定义右键菜单"></a>自定义右键菜单</h3><details class="folding-tag" green><summary> 效果预览 </summary>
-              <div class='content'>
-              <p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220611214812.png" alt=""></p>
-              </div>
-            </details>
-<details class="folding-tag" green><summary> 配置教程 </summary>
-              <div class='content'>
-              <p>本博客右键菜单魔改内容根据<a href="https://dorakika.cn/p/20220118.html">DoraKika</a>和<a href="https://blog.zhheo.com/p/5e931b65.html">张洪Heo</a>两位大佬的教程进行修改，有兴趣的可以参考原作者的教程。</p><p>首先我们需要先新建个文件<mark class="hl-label blue">rightmenu.pug</mark><br><code>...butterfly/layout/includes/dorakika/rightmenu.pug</code></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#rightMenu</span><br><span class="line">	.rightMenu-group.rightMenu-small</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:window.history.back();&quot;)</span><br><span class="line">			i.fa-solid.fa-arrow-left</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:window.history.forward();&quot;)</span><br><span class="line">			i.fa-solid.fa-arrow-right</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:window.location.reload();&quot;)</span><br><span class="line">			i.fa-solid.fa-arrow-rotate-right</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:rmf.scrollToTop();&quot;)</span><br><span class="line">			i.fa-solid.fa-arrow-up</span><br><span class="line">	.rightMenu-group.rightMenu-line.hide#menu-text</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:rmf.copySelect();&quot;)</span><br><span class="line">			i.fa-solid.fa-copy</span><br><span class="line">			span=&#x27;复制内容&#x27;</span><br><span class="line">	.rightMenu-group.rightMenu-line</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:rmf.switchDarkMode();&quot;)</span><br><span class="line">			i.fa-solid.fa-moon</span><br><span class="line">			span=&#x27;昼夜切换&#x27;</span><br><span class="line">		a.rightMenu-item(href=&quot;javascript:rmf.switchReadMode();&quot;)</span><br><span class="line">			i.fa-solid.fa-earth-asia</span><br><span class="line">			span=&#x27;阅读模式&#x27;</span><br></pre></td></tr></table></figure><p>然后将pug文件引入（由于pug文件有严格的格式要求，请注意缩进）<br><code>themes/butterfly/layout/includes/layout.pug</code></p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">doctype html</span><br><span class="line">html(lang=config.language data-theme=theme.display_mode class=htmlClassHideAside)</span><br><span class="line">  head</span><br><span class="line">    include ./head.pug</span><br><span class="line">  body</span><br><span class="line">    ...</span><br><span class="line"></span><br><span class="line">    else</span><br><span class="line">      include ./404.pug</span><br><span class="line"></span><br><span class="line">    include ./rightside.pug</span><br><span class="line">    !=partial(&#x27;includes/third-party/search/index&#x27;, &#123;&#125;, &#123;cache: true&#125;)</span><br><span class="line">+    !=partial(&#x27;includes/dorakika/rightmenu&#x27;,&#123;&#125;, &#123;cache:true&#125;)</span><br><span class="line">    include ./additional-js.pug</span><br></pre></td></tr></table></figure><p>现在，已经将结构插入了，接下来要将css样式和触发脚本引入。<br>首先新建<code>rightMenu.css</code>和<code>rightMenu.js</code>文件，为了避免主题升级带来的麻烦，推荐将文件放到<br><code>根目录/source/images/cdn</code></p><figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="comment">/* rightMenu */</span></span><br><span class="line"><span class="selector-id">#rightMenu</span>&#123;</span><br><span class="line">	<span class="attribute">display</span>: none;</span><br><span class="line">	<span class="attribute">position</span>: fixed;</span><br><span class="line">	<span class="attribute">width</span>: <span class="number">160px</span>;</span><br><span class="line">	<span class="attribute">height</span>: fit-content;</span><br><span class="line">	<span class="attribute">top</span>: <span class="number">10%</span>;</span><br><span class="line">	<span class="attribute">left</span>: <span class="number">10%</span>;</span><br><span class="line">	<span class="attribute">background-color</span>: <span class="built_in">var</span>(--card-bg);</span><br><span class="line">	<span class="attribute">border</span>: <span class="number">1px</span> solid <span class="built_in">var</span>(--card-bg);</span><br><span class="line">	<span class="attribute">border-radius</span>: <span class="number">12px</span>;</span><br><span class="line">	<span class="attribute">box-shadow</span>: <span class="built_in">var</span>(--card-box-shadow);</span><br><span class="line">	<span class="attribute">z-index</span>: <span class="number">100</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-id">#rightMenu</span><span class="selector-pseudo">:hover</span> &#123;</span><br><span class="line">	<span class="attribute">border</span>: <span class="number">1px</span> solid <span class="built_in">var</span>(--pseudo-hover);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span>&#123;</span><br><span class="line">	<span class="attribute">padding</span>: <span class="number">7px</span> <span class="number">6px</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span><span class="selector-pseudo">:not</span>(<span class="selector-pseudo">:nth-last-child</span>(<span class="number">1</span>))&#123;</span><br><span class="line">	<span class="attribute">border-bottom</span>: <span class="number">1px</span> dashed <span class="built_in">var</span>(--dark-grey);</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span><span class="selector-class">.rightMenu-small</span>&#123;</span><br><span class="line">	<span class="attribute">display</span>: flex;</span><br><span class="line">	<span class="attribute">justify-content</span>: space-between;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span> <span class="selector-class">.rightMenu-item</span>&#123;</span><br><span class="line">	<span class="attribute">height</span>: <span class="number">30px</span>;</span><br><span class="line">	<span class="attribute">line-height</span>: <span class="number">30px</span>;</span><br><span class="line">	<span class="attribute">border-radius</span>: <span class="number">8px</span>;</span><br><span class="line">	<span class="attribute">transition</span>: <span class="number">0.3s</span>;</span><br><span class="line">	<span class="attribute">color</span>: <span class="built_in">var</span>(--font-color);</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span><span class="selector-class">.rightMenu-line</span> <span class="selector-class">.rightMenu-item</span>&#123;</span><br><span class="line">	<span class="attribute">display</span>: flex;</span><br><span class="line">	<span class="attribute">height</span>: <span class="number">40px</span>;</span><br><span class="line">	<span class="attribute">line-height</span>: <span class="number">40px</span>;</span><br><span class="line">	<span class="attribute">padding</span>: <span class="number">0</span> <span class="number">8px</span>;</span><br><span class="line">	<span class="attribute">margin</span>: <span class="number">3px</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span> <span class="selector-class">.rightMenu-item</span><span class="selector-pseudo">:hover</span>&#123;</span><br><span class="line">	<span class="attribute">background-color</span>: <span class="built_in">var</span>(--pseudo-hover);</span><br><span class="line">	<span class="attribute">color</span>: <span class="built_in">var</span>(--white);</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span> <span class="selector-class">.rightMenu-item</span> <span class="selector-tag">i</span>&#123;</span><br><span class="line">	<span class="attribute">display</span>: inline-block;</span><br><span class="line">	<span class="attribute">text-align</span>: center;</span><br><span class="line">	<span class="attribute">line-height</span>: <span class="number">30px</span>;</span><br><span class="line">	<span class="attribute">width</span>: <span class="number">30px</span>;</span><br><span class="line">	<span class="attribute">height</span>: <span class="number">30px</span>;</span><br><span class="line">	<span class="attribute">padding</span>: <span class="number">0</span> <span class="number">5px</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span> <span class="selector-class">.rightMenu-item</span> <span class="selector-tag">span</span>&#123;</span><br><span class="line">	<span class="attribute">line-height</span>: <span class="number">30px</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-id">#rightMenu</span> <span class="selector-class">.rightMenu-group</span><span class="selector-class">.rightMenu-line</span> <span class="selector-class">.rightMenu-item</span> *&#123;</span><br><span class="line">	<span class="attribute">height</span>: <span class="number">40px</span>;</span><br><span class="line">	<span class="attribute">line-height</span>: <span class="number">40px</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="selector-class">.rightMenu-group</span><span class="selector-class">.hide</span>&#123;</span><br><span class="line">	<span class="attribute">display</span>: none;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> rmf = &#123;&#125;;</span><br><span class="line">rmf.<span class="property">showRightMenu</span> = <span class="keyword">function</span>(<span class="params">isTrue, x=<span class="number">0</span>, y=<span class="number">0</span></span>)&#123;</span><br><span class="line">    <span class="keyword">let</span> $rightMenu = $(<span class="string">&#x27;#rightMenu&#x27;</span>);</span><br><span class="line">    $rightMenu.<span class="title function_">css</span>(<span class="string">&#x27;top&#x27;</span>,x+<span class="string">&#x27;px&#x27;</span>).<span class="title function_">css</span>(<span class="string">&#x27;left&#x27;</span>,y+<span class="string">&#x27;px&#x27;</span>);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span>(isTrue)&#123;</span><br><span class="line">        $rightMenu.<span class="title function_">show</span>();</span><br><span class="line">    &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">        $rightMenu.<span class="title function_">hide</span>();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line">rmf.<span class="property">switchDarkMode</span> = <span class="keyword">function</span>(<span class="params"></span>)&#123;</span><br><span class="line">    <span class="keyword">const</span> nowMode = <span class="variable language_">document</span>.<span class="property">documentElement</span>.<span class="title function_">getAttribute</span>(<span class="string">&#x27;data-theme&#x27;</span>) === <span class="string">&#x27;dark&#x27;</span> ? <span class="string">&#x27;dark&#x27;</span> : <span class="string">&#x27;light&#x27;</span></span><br><span class="line">    <span class="keyword">if</span> (nowMode === <span class="string">&#x27;light&#x27;</span>) &#123;</span><br><span class="line">        <span class="title function_">activateDarkMode</span>()</span><br><span class="line">        saveToLocal.<span class="title function_">set</span>(<span class="string">&#x27;theme&#x27;</span>, <span class="string">&#x27;dark&#x27;</span>, <span class="number">2</span>)</span><br><span class="line">        <span class="variable constant_">GLOBAL_CONFIG</span>.<span class="property">Snackbar</span> !== <span class="literal">undefined</span> &amp;&amp; btf.<span class="title function_">snackbarShow</span>(<span class="variable constant_">GLOBAL_CONFIG</span>.<span class="property">Snackbar</span>.<span class="property">day_to_night</span>)</span><br><span class="line">    &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">        <span class="title function_">activateLightMode</span>()</span><br><span class="line">        saveToLocal.<span class="title function_">set</span>(<span class="string">&#x27;theme&#x27;</span>, <span class="string">&#x27;light&#x27;</span>, <span class="number">2</span>)</span><br><span class="line">        <span class="variable constant_">GLOBAL_CONFIG</span>.<span class="property">Snackbar</span> !== <span class="literal">undefined</span> &amp;&amp; btf.<span class="title function_">snackbarShow</span>(<span class="variable constant_">GLOBAL_CONFIG</span>.<span class="property">Snackbar</span>.<span class="property">night_to_day</span>)</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// handle some cases</span></span><br><span class="line">    <span class="keyword">typeof</span> utterancesTheme === <span class="string">&#x27;function&#x27;</span> &amp;&amp; <span class="title function_">utterancesTheme</span>()</span><br><span class="line">    <span class="keyword">typeof</span> <span class="variable constant_">FB</span> === <span class="string">&#x27;object&#x27;</span> &amp;&amp; <span class="variable language_">window</span>.<span class="title function_">loadFBComment</span>()</span><br><span class="line">    <span class="variable language_">window</span>.<span class="property">DISQUS</span> &amp;&amp; <span class="variable language_">document</span>.<span class="title function_">getElementById</span>(<span class="string">&#x27;disqus_thread&#x27;</span>).<span class="property">children</span>.<span class="property">length</span> &amp;&amp; <span class="built_in">setTimeout</span>(<span class="function">() =&gt;</span> <span class="variable language_">window</span>.<span class="title function_">disqusReset</span>(), <span class="number">200</span>)</span><br><span class="line">&#125;;</span><br><span class="line">rmf.<span class="property">switchReadMode</span> = <span class="keyword">function</span>(<span class="params"></span>)&#123;</span><br><span class="line">    <span class="keyword">const</span> $body = <span class="variable language_">document</span>.<span class="property">body</span></span><br><span class="line">    $body.<span class="property">classList</span>.<span class="title function_">add</span>(<span class="string">&#x27;read-mode&#x27;</span>)</span><br><span class="line">    <span class="keyword">const</span> newEle = <span class="variable language_">document</span>.<span class="title function_">createElement</span>(<span class="string">&#x27;button&#x27;</span>)</span><br><span class="line">    newEle.<span class="property">type</span> = <span class="string">&#x27;button&#x27;</span></span><br><span class="line">    newEle.<span class="property">className</span> = <span class="string">&#x27;fas fa-sign-out-alt exit-readmode&#x27;</span></span><br><span class="line">    $body.<span class="title function_">appendChild</span>(newEle)</span><br><span class="line"></span><br><span class="line">    <span class="keyword">function</span> <span class="title function_">clickFn</span> () &#123;</span><br><span class="line">        $body.<span class="property">classList</span>.<span class="title function_">remove</span>(<span class="string">&#x27;read-mode&#x27;</span>)</span><br><span class="line">        newEle.<span class="title function_">remove</span>()</span><br><span class="line">        newEle.<span class="title function_">removeEventListener</span>(<span class="string">&#x27;click&#x27;</span>, clickFn)</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    newEle.<span class="title function_">addEventListener</span>(<span class="string">&#x27;click&#x27;</span>, clickFn)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//复制选中文字</span></span><br><span class="line">rmf.<span class="property">copySelect</span> = <span class="keyword">function</span>(<span class="params"></span>)&#123;</span><br><span class="line">    <span class="variable language_">document</span>.<span class="title function_">execCommand</span>(<span class="string">&#x27;Copy&#x27;</span>,<span class="literal">false</span>,<span class="literal">null</span>);</span><br><span class="line">    btf.<span class="title function_">snackbarShow</span>(<span class="variable constant_">GLOBAL_CONFIG</span>.<span class="property">copy</span>.<span class="property">success</span>);</span><br><span class="line">    <span class="comment">//这里可以写点东西提示一下 已复制</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">//回到顶部</span></span><br><span class="line">rmf.<span class="property">scrollToTop</span> = <span class="keyword">function</span>(<span class="params"></span>)&#123;</span><br><span class="line">    btf.<span class="title function_">scrollToDest</span>(<span class="number">0</span>, <span class="number">500</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 右键菜单事件</span></span><br><span class="line"><span class="keyword">if</span>(! (navigator.<span class="property">userAgent</span>.<span class="title function_">match</span>(<span class="regexp">/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i</span>)))&#123;</span><br><span class="line">    <span class="variable language_">window</span>.<span class="property">oncontextmenu</span> = <span class="keyword">function</span>(<span class="params">event</span>)&#123;</span><br><span class="line">        $(<span class="string">&#x27;.rightMenu-group.hide&#x27;</span>).<span class="title function_">hide</span>();</span><br><span class="line">        <span class="comment">//如果有文字选中，则显示 文字选中相关的菜单项</span></span><br><span class="line">        <span class="keyword">if</span>(<span class="variable language_">document</span>.<span class="title function_">getSelection</span>().<span class="title function_">toString</span>())&#123;</span><br><span class="line">            $(<span class="string">&#x27;#menu-text&#x27;</span>).<span class="title function_">show</span>();</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="keyword">let</span> pageX = event.<span class="property">clientX</span> + <span class="number">10</span>;</span><br><span class="line">        <span class="keyword">let</span> pageY = event.<span class="property">clientY</span>;</span><br><span class="line">        <span class="keyword">let</span> rmWidth = $(<span class="string">&#x27;#rightMenu&#x27;</span>).<span class="title function_">width</span>();</span><br><span class="line">        <span class="keyword">let</span> rmHeight = $(<span class="string">&#x27;#rightMenu&#x27;</span>).<span class="title function_">height</span>();</span><br><span class="line">        <span class="keyword">if</span>(pageX + rmWidth &gt; <span class="variable language_">window</span>.<span class="property">innerWidth</span>)&#123;</span><br><span class="line">            pageX -= rmWidth+<span class="number">10</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span>(pageY + rmHeight &gt; <span class="variable language_">window</span>.<span class="property">innerHeight</span>)&#123;</span><br><span class="line">            pageY -= pageY + rmHeight - <span class="variable language_">window</span>.<span class="property">innerHeight</span>;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">        rmf.<span class="title function_">showRightMenu</span>(<span class="literal">true</span>, pageY, pageX);</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">    &#125;;</span><br><span class="line"></span><br><span class="line">    <span class="variable language_">window</span>.<span class="title function_">addEventListener</span>(<span class="string">&#x27;click&#x27;</span>,<span class="keyword">function</span>(<span class="params"></span>)&#123;rmf.<span class="title function_">showRightMenu</span>(<span class="literal">false</span>);&#125;);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>然后在<code>_config.yml</code>的inject中引入这两个文件。因为js中还引用了jQuery，所以也需要将其引入</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">- &lt;script src=&quot;https://npm.elemecdn.com/jquery@3.2.1/dist/jquery.min.js&quot;&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220611222227.png" alt=""></p>
-              </div>
-            </details>
-<h3 id="阅读量和评论数增加过渡动画"><a href="#阅读量和评论数增加过渡动画" class="headerlink" title="阅读量和评论数增加过渡动画"></a>阅读量和评论数增加过渡动画</h3><details class="folding-tag" green><summary> 效果预览 </summary>
-              <div class='content'>
-              <p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220612000604.png" alt=""></p>
-              </div>
-            </details>
-<details class="folding-tag" green><summary> 配置教程 </summary>
-              <div class='content'>
-              <p>此处以<code>twikoo_visitors</code>阅读量举例，其他几个同理<br>在<code>post-info.pug</code>第78行 下面增加一行代码，注意缩进</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">when &#x27;Twikoo&#x27;</span><br><span class="line">  if theme.twikoo.visitor</span><br><span class="line">    +pvBlock(&#x27;&#x27;,&#x27;&#x27;,&#x27;&#x27;)</span><br><span class="line">      span#twikoo_visitors</span><br><span class="line">+       i.fas.fa-regular.fa-spinner.fa-spin</span><br></pre></td></tr></table></figure>
-              </div>
-            </details>
-<h3 id="大佬们"><a href="#大佬们" class="headerlink" title="大佬们"></a>大佬们</h3><ul>
-<li><a href="https://akilar.top/">Akilarの糖果屋</a></li>
-<li><a href="https://www.antmoe.com/">小康博客</a></li>
-<li><a href="https://blog.imzjw.cn/">小嘉的部落格</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>笔记</tag>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>如何用16秒通关羊了个羊小程序并获得皮肤</title>
     <url>/posts/a4d77d0c/</url>
     <content><![CDATA[<p><strong>此教程使用iOS设备测试可用，其他设备请自测</strong>，理论上只要可以信任证书，所有设备都能通用。</p>
@@ -1290,6 +1290,20 @@
       </tags>
   </entry>
   <entry>
+    <title>周杰伦新专辑《最伟大的作品》先行曲MV上线</title>
+    <url>/posts/edc08b46/</url>
+    <content><![CDATA[<div class="note green icon-padding simple"><i class="note-icon fas fa-fan"></i><p>视频来源于好看视频<a href="https://haokan.baidu.com/v?pd=wisenatural&amp;vid=9389182598621522419">@吃瓜少年刘小兔</a>，如有侵权请联系博主删除！</p>
+</div>
+<video playsinline="" controls="" preload="metadata" src="https://pan.jx-ll.cn/d/123%E4%BA%91%E7%9B%98/%E7%94%B5%E5%BD%B1%E5%89%A7%E9%9B%86/%E5%91%A8%E6%9D%B0%E5%80%AB%20Jay%20Chou%E3%80%90%E6%9C%80%E5%81%89%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81%20Greatest%20Works%20of%20Art%E3%80%91Official%20MV/%E5%91%A8%E6%9D%B0%E5%80%AB%20Jay%20Chou%E3%80%90%E6%9C%80%E5%81%89%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81%20Greatest%20Works%20of%20Art%E3%80%91Official%20MV.mp4" style="display: block; width: 100%;"></video>
+]]></content>
+      <categories>
+        <category>音乐推荐</category>
+      </categories>
+      <tags>
+        <tag>音乐推荐</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>微软开源其1500多款3DEmoji表情包，供创作者免费使用</title>
     <url>/posts/bbdc5ca1/</url>
     <content><![CDATA[<p>据 <a href="https://www.theverge.com/2022/8/10/23299527/microsoft-emoji-open-source-creators">THE VERGE</a> 报道，8月11日，微软开源其 1500 多款 <code>3D Emoji</code> 表情包，并表示将在 <a href="https://www.figma.com/community/file/1138254942249677742">Figma</a> 和 <a href="https://github.com/microsoft/fluentui-emoji">GitHub</a> 上提供，所有创作者均可免费使用这些3D表情包作为素材，微软希望此举能够鼓励表情符号领域更多的创造力和包容性。</p>
@@ -1307,156 +1321,6 @@
         <tag>闲聊新闻</tag>
         <tag>GitHub</tag>
         <tag>设计指北</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>无需服务器免费部署一个自己的主页，并套用CDN实现加速访问</title>
-    <url>/posts/31bccfd0/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天在 GitHub 无意间发现了 @imsyy 大佬开源的一款 <a href="https://github.com/imsyy/home">个人主页</a> ，整体界面非常好看，适合个人网站引导使用。下面就给大家演示一下怎么优雅地将这款个人主页程序部署到 <code>GitHub</code> 和 <code>vercel</code> 上，并套用 <code>免费CDN</code> 实现加速访问，追求零成本搭建网站。</p>
-<p>演示站：<a href="https://jx-ll.cn">https://jx-ll.cn</a></p>
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li>电脑能正常访问 <a href="https://github.com/">GitHub</a> ，如果不能访问请自行挂梯子或更改本地 hosts</li>
-<li>如果要使用国内 CDN 则需要准备一个已备案域名</li>
-<li>没了</li>
-</ul>
-<h2 id="下载源码"><a href="#下载源码" class="headerlink" title="下载源码"></a>下载源码</h2><p>进入<a href="https://github.com/imsyy/home">项目主页</a>，点击右上角的<code>Code</code>按钮，再点击<code>Download ZIP</code></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142043.png" alt=""></p>
-<p>下载好后将压缩包解压，解压出来的文件夹里面就是该项目的完整源码了</p>
-<h2 id="修改源码"><a href="#修改源码" class="headerlink" title="修改源码"></a>修改源码</h2><p>可以看到，这个项目是一个 HTML 纯静态网页，网页内的大部分内容都可以直接在 <code>index.html</code> 文件里直接修改</p>
-<p>由于引入字体的 cdn 开启了防盗链，所以我们要在 <code>index.html</code> 文件的 <code>24行左右</code> 将 href 修改为作者提供的链接</p>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- HarmonyOS Sans --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 本站 CDN 已开启防盗链，非本站域名不可访问，请更改链接为下方内容，否则自定义字体将失效 --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;https://cdn.imsyy.top/gh/imsyy/file/font/HarmonyOS_Sans/regular.min.css&quot;</span> /&gt;</span></span><br></pre></td></tr></table></figure>
-<p>为了防止cdn失效，你还可以将该css文件下载到本地，将其引入</p>
-<p>其中， <code>old</code> 文件夹是作者之前开发的 <a href="https://github.com/imsyy/Snavigation">Snavigation</a> ，也是一个起始页，有兴趣的可以看看。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142528.png" alt=""></p>
-<h3 id="自定义歌单"><a href="#自定义歌单" class="headerlink" title="自定义歌单"></a>自定义歌单</h3><p>本项目采用了基于 MetingJS 的 Aplayer 音乐播放器，可实现快速自定义歌单<br>默认仅支持 <strong>中国大陆地区</strong>，其他区域请将 <a href="https://cdn.jsdelivr.net/gh/imsyy/file/js/music/music-other.js">以下内容</a> 替换 <code>music.js</code> 以实现音乐播放器的正常使用</p>
-<p>如需自定义歌单，只需将 <code>/js/music.js</code> 文件的 <code>12-14行</code> 修改为你自己的信息即可</p>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> server = <span class="string">&quot;netease&quot;</span>; <span class="comment">//netease: 网易云音乐; tencent: QQ音乐; kugou: 酷狗音乐; xiami: 虾米; kuwo: 酷我</span></span><br><span class="line"><span class="keyword">let</span> type = <span class="string">&quot;playlist&quot;</span>; <span class="comment">//song: 单曲; playlist: 歌单; album: 唱片</span></span><br><span class="line"><span class="keyword">let</span> id = <span class="string">&quot;7452421335&quot;</span>; <span class="comment">//封面 ID / 单曲 ID / 歌单 ID</span></span><br></pre></td></tr></table></figure>
-<p>网易云的歌单 id 一般在网页链接的 <code>?id</code> 后面，其他平台大同小异</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145302.png" alt=""></p>
-<h2 id="部署到-GitHub"><a href="#部署到-GitHub" class="headerlink" title="部署到 GitHub"></a>部署到 GitHub</h2><p>进入到自己的 GitHub 后台，<a href="https://github.com/new">新建一个仓库</a></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Repository name: 仓库名称</span><br><span class="line">Description(可选): 仓库描述介绍,不是必填项</span><br><span class="line">Public, Private : 仓库权限。public 公开共享，private 私有或指定合作者</span><br><span class="line">Initialize this repository with a README: 添加一个README.md</span><br><span class="line">gitignore: 不需要进行版本管理的仓库类型，对应生成文件.gitignore</span><br><span class="line">license: 证书类型，对应生成文件LICENSE</span><br></pre></td></tr></table></figure>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145735.png" alt=""></p>
-<p>创建好仓库后就要将刚刚修改好的源码上传到仓库，有两种方法</p>
-<p>推荐使用 <code>Git Bash</code>，如果没有的话也可以手动上传</p>
-<h3 id="方法一、用-Git-Bash-上传"><a href="#方法一、用-Git-Bash-上传" class="headerlink" title="方法一、用 Git Bash 上传"></a>方法一、用 Git Bash 上传</h3><p>下载并安装好 <a href="https://git-scm.com/download/win">Git Bash</a></p>
-<p>在本地新建个空文件夹，打开文件夹，在空白处单击右键，选择 <code>Git Bash Here</code></p>
-<p>返回刚刚创建好的 GitHub 项目地址，点击右上角的<code>Code</code>按钮，将 git 地址复制下来</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816151255.png" alt=""></p>
-<p>切换到 <code>Git Bash软件</code> ，将项目克隆到本地。命令为：<code>git clone + 刚刚复制的 git 地址</code></p>
-<p>如果弹出需要连接的提示框，点击 <code>Sign in with your browser</code> ，在浏览器中授权即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152056.png" alt=""></p>
-<p>等一会儿后就能看到文件夹里多了一个项目名称的文件夹</p>
-<p>接下来将之前修改好的项目源码复制到这个项目文件夹中</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152440.png" alt=""></p>
-<p>返回到 <code>Git Bash软件</code> ，输入 <code>cd + 文件夹名称</code> ，切换目录</p>
-<p>依次输入以下命令，将整个文件夹上传到 GitHub</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git add .</span><br><span class="line">git commit -m “你的提交信息”</span><br></pre></td></tr></table></figure>
-<p>这时可能会要求你输入以下内容来确认你的身份</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;you@example.com&quot;</span><br><span class="line">git config --global user.name &quot;Your Name&quot;</span><br></pre></td></tr></table></figure>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153212.png" alt=""></p>
-<p>接着再输入<code>git pull</code>，就可以开始上传了</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153129.png" alt=""></p>
-<p>上传结束后，返回到你的项目主页，可以看到文件已成功上传</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154119.png" alt=""></p>
-<p>这时就可以进行访问了，地址是：<a href="https://username.github.io/repositories">https://username.github.io/repositories</a> （username是你的用户名，repositories是你的项目名）</p>
-<p>例如我的就是：<del><a href="https://jonxinxin.github.io/myhome">https://jonxinxin.github.io/myhome</a></del> （已删除）</p>
-<h3 id="方法二、手动上传"><a href="#方法二、手动上传" class="headerlink" title="方法二、手动上传"></a>方法二、手动上传</h3><p>如果电脑没有 <code>Git Bash</code> ，而且不想下载的话，也可以直接手动进行上传</p>
-<p>进入 GitHub 项目主页，点击右上角的 <code>Add file</code> -&gt; <code>Upload files</code> 进入到上传页面</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163342.png" alt=""></p>
-<p>直接将整个项目文件夹拖到上传框内，即可自动上传项目内的文件夹及文件</p>
-<p>如果点击 <code>choose your files</code> 就只能上传单个文件，不方便</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154731.png" alt=""></p>
-<p>全部上传完毕后点击 <code>Commit changes</code> 提交即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155239.png" alt=""></p>
-<h2 id="部署到Vercel"><a href="#部署到Vercel" class="headerlink" title="部署到Vercel"></a>部署到Vercel</h2><p>进入 Vercel 的 <a href="https://vercel.com/dashboard">控制台</a> ，点击右上角的 <code>New Project</code> 来新建一个项目</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155642.png" alt=""></p>
-<p>这里我已经将 Vercel 与 Github 绑定了，如果没有绑定的可按照说明绑定</p>
-<p>绑定好后这里会出现绑定的 GitHub 下的所有项目，点击 <code>Import</code> 可以直接导入到 Vercel</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155814.png" alt=""></p>
-<p>这里直接点击 <code>Deploy</code> 部署即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160127.png" alt=""></p>
-<p>过一会儿就会出现满屏的彩带，部署成功</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160308.png" alt=""></p>
-<p>点击 <code>Go to Dashboard</code> 进入控制台，可以看到 Vercel 默认给我们分配了一个域名</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160353.png" alt=""></p>
-<p>访问该域名就能看到我们部署好的项目</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160556.png" alt=""></p>
-<p>但是这段时间 Vercel 在国内的访问速度非常拉跨，如果不套用 cdn 的话往往需要加载很久</p>
-<h2 id="使用DogeCloud免费加速网站"><a href="#使用DogeCloud免费加速网站" class="headerlink" title="使用DogeCloud免费加速网站"></a>使用DogeCloud免费加速网站</h2><p>DogeCloud 为用户免费提供了每月 20GB 的 CDN 流量包，对于普通用户来说，完全足够</p>
-<p>但想使用国内 CDN 有一个缺点就是加速域名必须是已备案的</p>
-<p>如果域名未备案也可套用 cloudflare 的 cdn ，但速度就没那么理想</p>
-<p>首先 <a href="https://console.dogecloud.com/register.html">注册</a> 一个 DogeCloud 账号，并完成实名验证</p>
-<p>然后在 <a href="https://console.dogecloud.com/cdn/list">域名管理</a> 中添加一个已备案的域名</p>
-<p>其中， <code>源站域名</code> 为刚刚 Vercel 分配的域名，回源 HOST 可以不填</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816161610.png" alt=""></p>
-<p>添加好域名后到将域名解析到 DogeCloud ，记录值为 DogeCloud 提供的 CNAME 域名</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163716.png" alt=""></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162034.png" alt=""></p>
-<p>接着到 Vercel ，点击 <code>View Domains</code> 绑定刚刚添加的加速域名，等待生效即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162334.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>GitHub</tag>
-        <tag>CDN</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>有了网盘找不到资源？不，我不允许！</title>
-    <url>/posts/91246aed/</url>
-    <content><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>2021年3月22日，阿里云盘宣布正式公测。打着「永不限速」的口号，使得被某度网盘限速的小伙伴们纷纷「转投阵营」，阿里云盘迅速抢占了在国内的部分市场。</p>
-<p>经过了几个月的公测，阿里云盘的各项功能也已经逐步完善，随之而来的，就是审核力度的加大化，导致很多资源无法分享和转存。但就从不限速和资源分享的角度说，作为后来者的阿里云盘也算交了份能看的答卷。</p>
-<p>容量方面，相信很多参与内测的用户至少都领取到了3-5TB的永久容量，而且在阿里云盘刚开始公测的那段时间，官方放出了好多免费的扩容码，大的有1TB，小的也有200GB。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201181.webp" alt=""></p>
-<p>虽然从阿里云盘现在推出的活动来看，未来的收费模式应该是以容量付费为主。不过只要付费模式设置的合理，对于绝大部分普通用户来说，还是可以接受的。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201182.webp" alt=""></p>
-<p>就算没有太多容量的小伙伴也不要担心，现在的阿里云盘APP里也还有很多扩容的活动，这些赠送的容量对于普通用户来说，完全够用了。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201183.webp" alt=""></p>
-<p>其次，虽然大部分赠送的容量都是有期限的，但你也完全不必担心，因为阿里云盘为了留住用户，只需要每月完成每周签到或者发起三次文件共享就能免费延期。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201184.webp" alt=""></p>
-<p>说了这么多，容量够用了，那要用来存什么呢？找不到想要的资源啊。我们今天就来一起解决这个问题。</p>
-<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>说到找资源，相信大部分人都喜欢上某某资源站、某某论坛找资源。但这样有一个问题，那就是资源的质量无法保证，比如想找某一个电影，往往搜出来的资源要么是无效的，要么就是「牛头不对马嘴」。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201185.webp" alt=""></p>
-<p>而今天江小鑫给大家带来的就是我常用的几种找资源的方法，避免你再在找资源的路上踩坑。</p>
-<h3 id="资源合集在线文档"><a href="#资源合集在线文档" class="headerlink" title="资源合集在线文档"></a>资源合集在线文档</h3><p>这是一种自阿里云盘上线以来就一直存在的方法，这种方法有一个好处就是有专人管理，获取到的资源质量比较高，同时操作方法比较简单，直接 CTRL+F 即可。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201186.webp" alt=""></p>
-<p>但这种方法也有弊端，随着每天资源的增多，其访问速度多少会受到影响，对于那种古董电脑，可能加载文档都要很长时间。</p>
-<p>其次，因为在线文档是由专人管理，所以资源的发布也没有那么迅速。就拿近期某音比较火热的美剧亢奋来说，在这个在线文档里暂时还搜索不到。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201187.webp" alt=""></p>
-<h3 id="资源论坛"><a href="#资源论坛" class="headerlink" title="资源论坛"></a>资源论坛</h3><p>如果你想要的资源在在线文档里搜不到，那么你可以试试到资源论坛去搜索。</p>
-<p>因为资源论坛具有开放性，人人都可以发帖， 人人都可以分享，自然资源的发布也会比较迅速。</p>
-<p>还是拿这部剧来作演示，在这个资源论坛里随手一搜，就能看到有很多的帖子，随便点进去一个，就是阿里云盘的链接，直接转存即可。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201188.webp" alt=""></p>
-<h3 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h3><p>除了在线文档和资源论坛，还有一个更加高效且简单的方法，那就是资源搜索引擎。搜索引擎通过爬虫从全网搜罗各种阿里云盘的资源，资源量肯定是没得说。</p>
-<p>想要什么资源，直接到输入框里去搜即可。比如我们搜个「周杰伦」，就有很多与其相关的搜索结果。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201189.webp" alt=""></p>
-<p>随便点进去一个，就是满满的资源列表，我们只需要点击右上角的「全部保存到我的云盘」，即可将所有资源收入囊中。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011810.webp" alt=""></p>
-<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>最后，有了这几种找资源的方法，相信大家以后看电影再也不用去那些全是广告和无限卡顿的影视网站受罪了。</p>
-<p>试试自己动动手，其实操作很简单，找到的资源质量也比那些网站高得多。顺便在闲暇之余还能帮「朋友」找找什么不可描述的资源图片</p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>网站推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>周杰伦新专辑《最伟大的作品》先行曲MV上线</title>
-    <url>/posts/edc08b46/</url>
-    <content><![CDATA[<div class="note green icon-padding simple"><i class="note-icon fas fa-fan"></i><p>视频来源于好看视频<a href="https://haokan.baidu.com/v?pd=wisenatural&amp;vid=9389182598621522419">@吃瓜少年刘小兔</a>，如有侵权请联系博主删除！</p>
-</div>
-<video playsinline="" controls="" preload="metadata" src="https://pan.jx-ll.cn/d/123%E4%BA%91%E7%9B%98/%E7%94%B5%E5%BD%B1%E5%89%A7%E9%9B%86/%E5%91%A8%E6%9D%B0%E5%80%AB%20Jay%20Chou%E3%80%90%E6%9C%80%E5%81%89%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81%20Greatest%20Works%20of%20Art%E3%80%91Official%20MV/%E5%91%A8%E6%9D%B0%E5%80%AB%20Jay%20Chou%E3%80%90%E6%9C%80%E5%81%89%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81%20Greatest%20Works%20of%20Art%E3%80%91Official%20MV.mp4" style="display: block; width: 100%;"></video>
-]]></content>
-      <categories>
-        <category>音乐推荐</category>
-      </categories>
-      <tags>
-        <tag>音乐推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -3621,31 +3485,139 @@
       </tags>
   </entry>
   <entry>
-    <title>生成式填充，全新的AI绘画助手</title>
-    <url>/posts/a65fec86/</url>
-    <content><![CDATA[<blockquote>
-<p>最近，Adobe 宣布 Photoshop（Beta）迎来更新，新增「创意填充（Generative Fill）」功能，生成式AI绘图由Adobe Firefly提供支持，Adobe的创意生成AI模型系列。创意填充可以让你可以用简单的文字提示来添加、扩展、移除或替换图像中的内容，甚至从零开始创造出全新的图像。</p>
-</blockquote>
-<h2 id="才艺展示"><a href="#才艺展示" class="headerlink" title="才艺展示"></a>才艺展示</h2><p>开局一张图，后续全靠编</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230607105512.webp" alt=""><br><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230607105502.webp" alt=""></p>
-<p>甚至给它一张白纸，也能给你随手画出来想要的</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230607105654.webp" alt=""><br><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230607105943.webp" alt=""></p>
-<h2 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h2><p>下载<a href="https://www.123pan.com/s/68iA-CP5w.html">压缩包</a>，解压后打开<code>Creative_Cloud_Set-Up</code>进行安装</p>
-<p>在登录页面用邮箱创建一个新账户，注册地址一定要选择<code>美国</code>，年龄建议选择20+，后续选项可直接跳过</p>
-<p>安装后直接打开，在应用程序 -&gt; Beta应用程序 -&gt; Photoshop(Beta)选择试用</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230607155031.webp" alt=""></p>
-<p>随后会自动安装Photoshop(Beta)的主程序，安装完成后<code>不要直接打开</code>，否则会弹出7天试用</p>
-<p>打开压缩包里Patch文件夹下的补丁工具，先点击Search，再点击Patch即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230607155808.webp" alt=""></p>
-<p>完成后再打开Photoshop(Beta)就去除7天试用限制了</p>
+    <title>无需服务器免费部署一个自己的主页，并套用CDN实现加速访问</title>
+    <url>/posts/31bccfd0/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天在 GitHub 无意间发现了 @imsyy 大佬开源的一款 <a href="https://github.com/imsyy/home">个人主页</a> ，整体界面非常好看，适合个人网站引导使用。下面就给大家演示一下怎么优雅地将这款个人主页程序部署到 <code>GitHub</code> 和 <code>vercel</code> 上，并套用 <code>免费CDN</code> 实现加速访问，追求零成本搭建网站。</p>
+<p>演示站：<a href="https://jx-ll.cn">https://jx-ll.cn</a></p>
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li>电脑能正常访问 <a href="https://github.com/">GitHub</a> ，如果不能访问请自行挂梯子或更改本地 hosts</li>
+<li>如果要使用国内 CDN 则需要准备一个已备案域名</li>
+<li>没了</li>
+</ul>
+<h2 id="下载源码"><a href="#下载源码" class="headerlink" title="下载源码"></a>下载源码</h2><p>进入<a href="https://github.com/imsyy/home">项目主页</a>，点击右上角的<code>Code</code>按钮，再点击<code>Download ZIP</code></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142043.png" alt=""></p>
+<p>下载好后将压缩包解压，解压出来的文件夹里面就是该项目的完整源码了</p>
+<h2 id="修改源码"><a href="#修改源码" class="headerlink" title="修改源码"></a>修改源码</h2><p>可以看到，这个项目是一个 HTML 纯静态网页，网页内的大部分内容都可以直接在 <code>index.html</code> 文件里直接修改</p>
+<p>由于引入字体的 cdn 开启了防盗链，所以我们要在 <code>index.html</code> 文件的 <code>24行左右</code> 将 href 修改为作者提供的链接</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- HarmonyOS Sans --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 本站 CDN 已开启防盗链，非本站域名不可访问，请更改链接为下方内容，否则自定义字体将失效 --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;https://cdn.imsyy.top/gh/imsyy/file/font/HarmonyOS_Sans/regular.min.css&quot;</span> /&gt;</span></span><br></pre></td></tr></table></figure>
+<p>为了防止cdn失效，你还可以将该css文件下载到本地，将其引入</p>
+<p>其中， <code>old</code> 文件夹是作者之前开发的 <a href="https://github.com/imsyy/Snavigation">Snavigation</a> ，也是一个起始页，有兴趣的可以看看。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142528.png" alt=""></p>
+<h3 id="自定义歌单"><a href="#自定义歌单" class="headerlink" title="自定义歌单"></a>自定义歌单</h3><p>本项目采用了基于 MetingJS 的 Aplayer 音乐播放器，可实现快速自定义歌单<br>默认仅支持 <strong>中国大陆地区</strong>，其他区域请将 <a href="https://cdn.jsdelivr.net/gh/imsyy/file/js/music/music-other.js">以下内容</a> 替换 <code>music.js</code> 以实现音乐播放器的正常使用</p>
+<p>如需自定义歌单，只需将 <code>/js/music.js</code> 文件的 <code>12-14行</code> 修改为你自己的信息即可</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> server = <span class="string">&quot;netease&quot;</span>; <span class="comment">//netease: 网易云音乐; tencent: QQ音乐; kugou: 酷狗音乐; xiami: 虾米; kuwo: 酷我</span></span><br><span class="line"><span class="keyword">let</span> type = <span class="string">&quot;playlist&quot;</span>; <span class="comment">//song: 单曲; playlist: 歌单; album: 唱片</span></span><br><span class="line"><span class="keyword">let</span> id = <span class="string">&quot;7452421335&quot;</span>; <span class="comment">//封面 ID / 单曲 ID / 歌单 ID</span></span><br></pre></td></tr></table></figure>
+<p>网易云的歌单 id 一般在网页链接的 <code>?id</code> 后面，其他平台大同小异</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145302.png" alt=""></p>
+<h2 id="部署到-GitHub"><a href="#部署到-GitHub" class="headerlink" title="部署到 GitHub"></a>部署到 GitHub</h2><p>进入到自己的 GitHub 后台，<a href="https://github.com/new">新建一个仓库</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Repository name: 仓库名称</span><br><span class="line">Description(可选): 仓库描述介绍,不是必填项</span><br><span class="line">Public, Private : 仓库权限。public 公开共享，private 私有或指定合作者</span><br><span class="line">Initialize this repository with a README: 添加一个README.md</span><br><span class="line">gitignore: 不需要进行版本管理的仓库类型，对应生成文件.gitignore</span><br><span class="line">license: 证书类型，对应生成文件LICENSE</span><br></pre></td></tr></table></figure>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145735.png" alt=""></p>
+<p>创建好仓库后就要将刚刚修改好的源码上传到仓库，有两种方法</p>
+<p>推荐使用 <code>Git Bash</code>，如果没有的话也可以手动上传</p>
+<h3 id="方法一、用-Git-Bash-上传"><a href="#方法一、用-Git-Bash-上传" class="headerlink" title="方法一、用 Git Bash 上传"></a>方法一、用 Git Bash 上传</h3><p>下载并安装好 <a href="https://git-scm.com/download/win">Git Bash</a></p>
+<p>在本地新建个空文件夹，打开文件夹，在空白处单击右键，选择 <code>Git Bash Here</code></p>
+<p>返回刚刚创建好的 GitHub 项目地址，点击右上角的<code>Code</code>按钮，将 git 地址复制下来</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816151255.png" alt=""></p>
+<p>切换到 <code>Git Bash软件</code> ，将项目克隆到本地。命令为：<code>git clone + 刚刚复制的 git 地址</code></p>
+<p>如果弹出需要连接的提示框，点击 <code>Sign in with your browser</code> ，在浏览器中授权即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152056.png" alt=""></p>
+<p>等一会儿后就能看到文件夹里多了一个项目名称的文件夹</p>
+<p>接下来将之前修改好的项目源码复制到这个项目文件夹中</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152440.png" alt=""></p>
+<p>返回到 <code>Git Bash软件</code> ，输入 <code>cd + 文件夹名称</code> ，切换目录</p>
+<p>依次输入以下命令，将整个文件夹上传到 GitHub</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git add .</span><br><span class="line">git commit -m “你的提交信息”</span><br></pre></td></tr></table></figure>
+<p>这时可能会要求你输入以下内容来确认你的身份</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;you@example.com&quot;</span><br><span class="line">git config --global user.name &quot;Your Name&quot;</span><br></pre></td></tr></table></figure>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153212.png" alt=""></p>
+<p>接着再输入<code>git pull</code>，就可以开始上传了</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153129.png" alt=""></p>
+<p>上传结束后，返回到你的项目主页，可以看到文件已成功上传</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154119.png" alt=""></p>
+<p>这时就可以进行访问了，地址是：<a href="https://username.github.io/repositories">https://username.github.io/repositories</a> （username是你的用户名，repositories是你的项目名）</p>
+<p>例如我的就是：<del><a href="https://jonxinxin.github.io/myhome">https://jonxinxin.github.io/myhome</a></del> （已删除）</p>
+<h3 id="方法二、手动上传"><a href="#方法二、手动上传" class="headerlink" title="方法二、手动上传"></a>方法二、手动上传</h3><p>如果电脑没有 <code>Git Bash</code> ，而且不想下载的话，也可以直接手动进行上传</p>
+<p>进入 GitHub 项目主页，点击右上角的 <code>Add file</code> -&gt; <code>Upload files</code> 进入到上传页面</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163342.png" alt=""></p>
+<p>直接将整个项目文件夹拖到上传框内，即可自动上传项目内的文件夹及文件</p>
+<p>如果点击 <code>choose your files</code> 就只能上传单个文件，不方便</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154731.png" alt=""></p>
+<p>全部上传完毕后点击 <code>Commit changes</code> 提交即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155239.png" alt=""></p>
+<h2 id="部署到Vercel"><a href="#部署到Vercel" class="headerlink" title="部署到Vercel"></a>部署到Vercel</h2><p>进入 Vercel 的 <a href="https://vercel.com/dashboard">控制台</a> ，点击右上角的 <code>New Project</code> 来新建一个项目</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155642.png" alt=""></p>
+<p>这里我已经将 Vercel 与 Github 绑定了，如果没有绑定的可按照说明绑定</p>
+<p>绑定好后这里会出现绑定的 GitHub 下的所有项目，点击 <code>Import</code> 可以直接导入到 Vercel</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155814.png" alt=""></p>
+<p>这里直接点击 <code>Deploy</code> 部署即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160127.png" alt=""></p>
+<p>过一会儿就会出现满屏的彩带，部署成功</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160308.png" alt=""></p>
+<p>点击 <code>Go to Dashboard</code> 进入控制台，可以看到 Vercel 默认给我们分配了一个域名</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160353.png" alt=""></p>
+<p>访问该域名就能看到我们部署好的项目</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160556.png" alt=""></p>
+<p>但是这段时间 Vercel 在国内的访问速度非常拉跨，如果不套用 cdn 的话往往需要加载很久</p>
+<h2 id="使用DogeCloud免费加速网站"><a href="#使用DogeCloud免费加速网站" class="headerlink" title="使用DogeCloud免费加速网站"></a>使用DogeCloud免费加速网站</h2><p>DogeCloud 为用户免费提供了每月 20GB 的 CDN 流量包，对于普通用户来说，完全足够</p>
+<p>但想使用国内 CDN 有一个缺点就是加速域名必须是已备案的</p>
+<p>如果域名未备案也可套用 cloudflare 的 cdn ，但速度就没那么理想</p>
+<p>首先 <a href="https://console.dogecloud.com/register.html">注册</a> 一个 DogeCloud 账号，并完成实名验证</p>
+<p>然后在 <a href="https://console.dogecloud.com/cdn/list">域名管理</a> 中添加一个已备案的域名</p>
+<p>其中， <code>源站域名</code> 为刚刚 Vercel 分配的域名，回源 HOST 可以不填</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816161610.png" alt=""></p>
+<p>添加好域名后到将域名解析到 DogeCloud ，记录值为 DogeCloud 提供的 CNAME 域名</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163716.png" alt=""></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162034.png" alt=""></p>
+<p>接着到 Vercel ，点击 <code>View Domains</code> 绑定刚刚添加的加速域名，等待生效即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162334.png" alt=""></p>
 ]]></content>
       <categories>
         <category>经验分享</category>
       </categories>
       <tags>
-        <tag>闲聊新闻</tag>
         <tag>教程</tag>
-        <tag>AI模型</tag>
+        <tag>GitHub</tag>
+        <tag>CDN</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有了网盘找不到资源？不，我不允许！</title>
+    <url>/posts/91246aed/</url>
+    <content><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>2021年3月22日，阿里云盘宣布正式公测。打着「永不限速」的口号，使得被某度网盘限速的小伙伴们纷纷「转投阵营」，阿里云盘迅速抢占了在国内的部分市场。</p>
+<p>经过了几个月的公测，阿里云盘的各项功能也已经逐步完善，随之而来的，就是审核力度的加大化，导致很多资源无法分享和转存。但就从不限速和资源分享的角度说，作为后来者的阿里云盘也算交了份能看的答卷。</p>
+<p>容量方面，相信很多参与内测的用户至少都领取到了3-5TB的永久容量，而且在阿里云盘刚开始公测的那段时间，官方放出了好多免费的扩容码，大的有1TB，小的也有200GB。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201181.webp" alt=""></p>
+<p>虽然从阿里云盘现在推出的活动来看，未来的收费模式应该是以容量付费为主。不过只要付费模式设置的合理，对于绝大部分普通用户来说，还是可以接受的。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201182.webp" alt=""></p>
+<p>就算没有太多容量的小伙伴也不要担心，现在的阿里云盘APP里也还有很多扩容的活动，这些赠送的容量对于普通用户来说，完全够用了。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201183.webp" alt=""></p>
+<p>其次，虽然大部分赠送的容量都是有期限的，但你也完全不必担心，因为阿里云盘为了留住用户，只需要每月完成每周签到或者发起三次文件共享就能免费延期。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201184.webp" alt=""></p>
+<p>说了这么多，容量够用了，那要用来存什么呢？找不到想要的资源啊。我们今天就来一起解决这个问题。</p>
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>说到找资源，相信大部分人都喜欢上某某资源站、某某论坛找资源。但这样有一个问题，那就是资源的质量无法保证，比如想找某一个电影，往往搜出来的资源要么是无效的，要么就是「牛头不对马嘴」。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201185.webp" alt=""></p>
+<p>而今天江小鑫给大家带来的就是我常用的几种找资源的方法，避免你再在找资源的路上踩坑。</p>
+<h3 id="资源合集在线文档"><a href="#资源合集在线文档" class="headerlink" title="资源合集在线文档"></a>资源合集在线文档</h3><p>这是一种自阿里云盘上线以来就一直存在的方法，这种方法有一个好处就是有专人管理，获取到的资源质量比较高，同时操作方法比较简单，直接 CTRL+F 即可。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201186.webp" alt=""></p>
+<p>但这种方法也有弊端，随着每天资源的增多，其访问速度多少会受到影响，对于那种古董电脑，可能加载文档都要很长时间。</p>
+<p>其次，因为在线文档是由专人管理，所以资源的发布也没有那么迅速。就拿近期某音比较火热的美剧亢奋来说，在这个在线文档里暂时还搜索不到。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201187.webp" alt=""></p>
+<h3 id="资源论坛"><a href="#资源论坛" class="headerlink" title="资源论坛"></a>资源论坛</h3><p>如果你想要的资源在在线文档里搜不到，那么你可以试试到资源论坛去搜索。</p>
+<p>因为资源论坛具有开放性，人人都可以发帖， 人人都可以分享，自然资源的发布也会比较迅速。</p>
+<p>还是拿这部剧来作演示，在这个资源论坛里随手一搜，就能看到有很多的帖子，随便点进去一个，就是阿里云盘的链接，直接转存即可。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201188.webp" alt=""></p>
+<h3 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h3><p>除了在线文档和资源论坛，还有一个更加高效且简单的方法，那就是资源搜索引擎。搜索引擎通过爬虫从全网搜罗各种阿里云盘的资源，资源量肯定是没得说。</p>
+<p>想要什么资源，直接到输入框里去搜即可。比如我们搜个「周杰伦」，就有很多与其相关的搜索结果。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201189.webp" alt=""></p>
+<p>随便点进去一个，就是满满的资源列表，我们只需要点击右上角的「全部保存到我的云盘」，即可将所有资源收入囊中。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011810.webp" alt=""></p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>最后，有了这几种找资源的方法，相信大家以后看电影再也不用去那些全是广告和无限卡顿的影视网站受罪了。</p>
+<p>试试自己动动手，其实操作很简单，找到的资源质量也比那些网站高得多。顺便在闲暇之余还能帮「朋友」找找什么不可描述的资源图片</p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>网站推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -3691,6 +3663,34 @@
       <tags>
         <tag>教程</tag>
         <tag>免费域名</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>生成式填充，全新的AI绘画助手</title>
+    <url>/posts/a65fec86/</url>
+    <content><![CDATA[<blockquote>
+<p>最近，Adobe 宣布 Photoshop（Beta）迎来更新，新增「创意填充（Generative Fill）」功能，生成式AI绘图由Adobe Firefly提供支持，Adobe的创意生成AI模型系列。创意填充可以让你可以用简单的文字提示来添加、扩展、移除或替换图像中的内容，甚至从零开始创造出全新的图像。</p>
+</blockquote>
+<h2 id="才艺展示"><a href="#才艺展示" class="headerlink" title="才艺展示"></a>才艺展示</h2><p>开局一张图，后续全靠编</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230607105512.webp" alt=""><br><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230607105502.webp" alt=""></p>
+<p>甚至给它一张白纸，也能给你随手画出来想要的</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230607105654.webp" alt=""><br><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230607105943.webp" alt=""></p>
+<h2 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h2><p>下载<a href="https://www.123pan.com/s/68iA-CP5w.html">压缩包</a>，解压后打开<code>Creative_Cloud_Set-Up</code>进行安装</p>
+<p>在登录页面用邮箱创建一个新账户，注册地址一定要选择<code>美国</code>，年龄建议选择20+，后续选项可直接跳过</p>
+<p>安装后直接打开，在应用程序 -&gt; Beta应用程序 -&gt; Photoshop(Beta)选择试用</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230607155031.webp" alt=""></p>
+<p>随后会自动安装Photoshop(Beta)的主程序，安装完成后<code>不要直接打开</code>，否则会弹出7天试用</p>
+<p>打开压缩包里Patch文件夹下的补丁工具，先点击Search，再点击Patch即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20230607155808.webp" alt=""></p>
+<p>完成后再打开Photoshop(Beta)就去除7天试用限制了</p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>闲聊新闻</tag>
+        <tag>教程</tag>
+        <tag>AI模型</tag>
       </tags>
   </entry>
   <entry>
@@ -3747,54 +3747,6 @@
         <tag>实用软件</tag>
         <tag>浏览器</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>最全2022支付宝集五福攻略</title>
-    <url>/posts/a3db79a2/</url>
-    <content><![CDATA[<div class="tip "><p>五福来啦，五福来啦。支付宝的集五福活动，已经成了不少人过年必玩的游戏，尽管每年瓜分的奖励越来越少，但支付宝的集五福活动好像已经成为了很多人的一种「习惯」。</p>
-<p>2022年支付宝集五福活动今日正式开启。此次集五福活动时间1月19日到1月31日，瓜分红包时间1月31日晚上22:18。</p>
-</div>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201191.webp" alt=""></p>
-<p>数据显示，过去六年累计参与支付宝集五福的人数已经超过了7亿，每2个中国人里就有1个曾扫福、集福、送福。</p>
-<p>这不，活动才刚开始第一天，就有已经有二十多万人集齐了五福。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201192.webp" alt=""></p>
-<p>江小鑫作为一个集五福活动的忠实爱好者，今天就和大家一起盘点一下，怎样才能更快集齐五福。</p>
-<h3 id="直接领取随机福卡"><a href="#直接领取随机福卡" class="headerlink" title="直接领取随机福卡"></a>直接领取随机福卡</h3><details class="toggle" style="border: 1px solid bg"><summary class="toggle-button" style="background-color: bg;color: color">点我展开链接</summary><div class="toggle-content"><p><img src="https://cdn.jx-ll.cn/post_img/2022011901.jpg" alt=""></p>
-<p>每天最多领15个！领取后去支付宝卡包里使用兑换！<br>部分提示人气太旺就明天领，验证码频繁就晚点再去领！<br><a href="https://tb3.cn/AAMiHt">https://tb3.cn/AAMiHt</a><br><a href="https://tb3.cn/Ade6AT">https://tb3.cn/Ade6AT</a><br><a href="https://tb3.cn/AccWiM">https://tb3.cn/AccWiM</a><br><a href="https://tb3.cn/ACRASx">https://tb3.cn/ACRASx</a><br><a href="https://tb3.cn/AKjv4Q">https://tb3.cn/AKjv4Q</a><br><a href="https://tb3.cn/AEctS0">https://tb3.cn/AEctS0</a><br><a href="https://tb3.cn/AfUW1A">https://tb3.cn/AfUW1A</a><br><a href="https://tb3.cn/AxSoLr">https://tb3.cn/AxSoLr</a><br><a href="https://tb3.cn/AGmYIu">https://tb3.cn/AGmYIu</a><br><a href="https://tb3.cn/AM4ze2">https://tb3.cn/AM4ze2</a><br><a href="https://tb3.cn/AtYJUF">https://tb3.cn/AtYJUF</a><br><a href="https://tb3.cn/AvQPKu">https://tb3.cn/AvQPKu</a><br><a href="https://tb3.cn/AmoNZJ">https://tb3.cn/AmoNZJ</a><br><a href="https://tb3.cn/ApHf5I">https://tb3.cn/ApHf5I</a><br><a href="https://tb3.cn/AYpHuJ">https://tb3.cn/AYpHuJ</a><br><a href="https://tb3.cn/A4zToA">https://tb3.cn/A4zToA</a><br><a href="https://tb3.cn/AQOuUw">https://tb3.cn/AQOuUw</a><br><a href="https://tb3.cn/Afwwoz">https://tb3.cn/Afwwoz</a><br><a href="https://tb3.cn/Ajf17n">https://tb3.cn/Ajf17n</a><br><a href="https://tb3.cn/Aj1JX5">https://tb3.cn/Aj1JX5</a><br><a href="https://tb3.cn/AvGeJT">https://tb3.cn/AvGeJT</a><br><a href="https://tb3.cn/AHYuTE">https://tb3.cn/AHYuTE</a><br><a href="https://tb3.cn/AEwX1C">https://tb3.cn/AEwX1C</a><br><a href="https://tb3.cn/AwYqxb">https://tb3.cn/AwYqxb</a><br><a href="https://tb3.cn/AF40tH">https://tb3.cn/AF40tH</a><br><a href="https://tb3.cn/APiNWj">https://tb3.cn/APiNWj</a><br><a href="https://tb3.cn/AGWjlZ">https://tb3.cn/AGWjlZ</a><br><a href="https://tb3.cn/AlipSJ">https://tb3.cn/AlipSJ</a><br><a href="https://tb3.cn/AujEfq">https://tb3.cn/AujEfq</a><br><a href="https://tb3.cn/ALyr88">https://tb3.cn/ALyr88</a><br><a href="https://tb3.cn/AC0erE">https://tb3.cn/AC0erE</a><br><a href="https://tb3.cn/AOhMOe">https://tb3.cn/AOhMOe</a><br><a href="https://tb3.cn/AT62vC">https://tb3.cn/AT62vC</a><br><a href="https://tb3.cn/ALwhP6">https://tb3.cn/ALwhP6</a><br><a href="https://tb3.cn/AUJ9sB">https://tb3.cn/AUJ9sB</a><br><a href="https://tb3.cn/A8kxhI">https://tb3.cn/A8kxhI</a><br><a href="https://tb3.cn/AoT80q">https://tb3.cn/AoT80q</a><br><a href="https://tb3.cn/APqNhY">https://tb3.cn/APqNhY</a><br><a href="https://tb3.cn/AzIr11">https://tb3.cn/AzIr11</a><br><a href="https://tb3.cn/Aj6WUG">https://tb3.cn/Aj6WUG</a><br><a href="https://tb3.cn/AdBizf">https://tb3.cn/AdBizf</a><br><a href="https://tb3.cn/AlE9Na">https://tb3.cn/AlE9Na</a></p>
-</div></details>
-<h3 id="钻石会员直接得"><a href="#钻石会员直接得" class="headerlink" title="钻石会员直接得"></a>钻石会员直接得</h3><p>如果你是支付宝的钻石会员，那么恭喜你，你可以在几分钟内就集齐一套五福。</p>
-<p>支付宝会直接对钻石会员赠送一套「钻石会员专属套卡」，其中包含了「一张敬业福、一张沾福气卡、一张全家福」。</p>
-<p>这几张最关键的福卡直接送给你，剩下的那几张，随便扫几张福字就能得到。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201193.webp" alt=""></p>
-<p>可能也正是因为这样，才导致活动刚上线第一天，就已经有二十多万人集齐了。</p>
-<p>不够，毕竟钻石会员是少部分用户。但对于绝大多数普通用户来说，要怎样才能更快集齐五福呢？别急，攻略这就给你送上。</p>
-<h3 id="AR扫码"><a href="#AR扫码" class="headerlink" title="AR扫码"></a>AR扫码</h3><p>这是最原始的方法，但也是最有效的方法。不过江小鑫建议大家不要去扫那些普通的福字，一定要扫支付宝官方给出的这些福，得敬业福和万能福的几率更大。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201194.webp" alt=""></p>
-<p>具体操作方法：打开 支付宝-&gt;扫一扫-&gt;选择AR-&gt;扫上图中的任意福字-&gt;立即收下福卡（需要有两台设备才行）。</p>
-<h3 id="赠送福卡"><a href="#赠送福卡" class="headerlink" title="赠送福卡"></a>赠送福卡</h3><p>扫码次数用完了，多余的福该怎么办呢？千万别觉得没用了，你可以把福卡赠送给身边还没有扫过福的朋友，你也有机会可以得到沾福气卡或万能福。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201195.webp" alt=""></p>
-<p>操作方法：进入 集五福活动-&gt;我的福卡-&gt;选择任意一张福卡-&gt;送给亲友-&gt;送Ta（记得送给还没有集福的亲友哦）。</p>
-<h3 id="写福字得福卡"><a href="#写福字得福卡" class="headerlink" title="写福字得福卡"></a>写福字得福卡</h3><p>打开集五福活动的写福字界面，可以临摹它给出的样式，写一个福字出来，完成后就能获得一张福卡。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201196.webp" alt=""></p>
-<p>此外，每日的0点和12点，你还可以到「福气店」里免费打印福字，支付宝官方会免费将你写的福字打印出来并送到你家（每日限量）。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201197.webp" alt=""></p>
-<h3 id="搜索品牌关键字"><a href="#搜索品牌关键字" class="headerlink" title="搜索品牌关键字"></a>搜索品牌关键字</h3><p>今年最大的不同是五福全面向商家开放，1000 多个商家将成为主角，通过自己的支付宝小程序、生活号、App 等多个私域阵地为全国用户发福卡。</p>
-<p>用户可以在支付宝首页顶部搜索品牌方的关键字，就能看见抽福卡的入口。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201198.webp" alt=""></p>
-<p>部分品牌方关键字：肯德基，麦当劳，加油浙江，T3出行，携程，屈臣氏，蜜雪冰城，一点万象，爱租机，爱琴海，顺丰，万达广场，大润发，元气森林，一点万象，威马汽车，良品铺子，益禾堂，联合利华，名创优品，伊利，步步高。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201199.webp" alt=""></p>
-<p>此外，登录国家电网、中国移动、B站、网易云音乐等 40 多个 App，也有机会得到由他们发的福卡。</p>
-<h3 id="到店付款"><a href="#到店付款" class="headerlink" title="到店付款"></a>到店付款</h3><p>1月19日到1月31日，用户可以每天到店支付一笔（不限金额），有机会获得沾福气卡。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011910.webp" alt=""></p>
-<h3 id="12306领福卡"><a href="#12306领福卡" class="headerlink" title="12306领福卡"></a>12306领福卡</h3><p>打开支付宝扫描下方二维码，就能领取一张随机福卡。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011911.webp" alt=""></p>
-<h3 id="中国移动领福卡"><a href="#中国移动领福卡" class="headerlink" title="中国移动领福卡"></a>中国移动领福卡</h3><p>打开用浏览器或中国移动APP打开链接：🔗 <a href="https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。">https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。</a></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022011912.webp" alt=""></p>
-<p>其实咱们要的并不是这几块钱，而是其中的乐趣，其中的荣誉感，其中氛围感，就像小时候吃方便集卡一样，只不过集卡的那群孩子长大了罢了，变的是时代，不变的是这一代人的内心，也许真的是五福到了，年就到了，也该“到家”团圆了。</p>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
   </entry>
   <entry>
     <title>超级详细的系统安装教程</title>
@@ -3895,6 +3847,54 @@
         <tag>教程</tag>
         <tag>电脑系统</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>最全2022支付宝集五福攻略</title>
+    <url>/posts/a3db79a2/</url>
+    <content><![CDATA[<div class="tip "><p>五福来啦，五福来啦。支付宝的集五福活动，已经成了不少人过年必玩的游戏，尽管每年瓜分的奖励越来越少，但支付宝的集五福活动好像已经成为了很多人的一种「习惯」。</p>
+<p>2022年支付宝集五福活动今日正式开启。此次集五福活动时间1月19日到1月31日，瓜分红包时间1月31日晚上22:18。</p>
+</div>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201191.webp" alt=""></p>
+<p>数据显示，过去六年累计参与支付宝集五福的人数已经超过了7亿，每2个中国人里就有1个曾扫福、集福、送福。</p>
+<p>这不，活动才刚开始第一天，就有已经有二十多万人集齐了五福。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201192.webp" alt=""></p>
+<p>江小鑫作为一个集五福活动的忠实爱好者，今天就和大家一起盘点一下，怎样才能更快集齐五福。</p>
+<h3 id="直接领取随机福卡"><a href="#直接领取随机福卡" class="headerlink" title="直接领取随机福卡"></a>直接领取随机福卡</h3><details class="toggle" style="border: 1px solid bg"><summary class="toggle-button" style="background-color: bg;color: color">点我展开链接</summary><div class="toggle-content"><p><img src="https://cdn.jx-ll.cn/post_img/2022011901.jpg" alt=""></p>
+<p>每天最多领15个！领取后去支付宝卡包里使用兑换！<br>部分提示人气太旺就明天领，验证码频繁就晚点再去领！<br><a href="https://tb3.cn/AAMiHt">https://tb3.cn/AAMiHt</a><br><a href="https://tb3.cn/Ade6AT">https://tb3.cn/Ade6AT</a><br><a href="https://tb3.cn/AccWiM">https://tb3.cn/AccWiM</a><br><a href="https://tb3.cn/ACRASx">https://tb3.cn/ACRASx</a><br><a href="https://tb3.cn/AKjv4Q">https://tb3.cn/AKjv4Q</a><br><a href="https://tb3.cn/AEctS0">https://tb3.cn/AEctS0</a><br><a href="https://tb3.cn/AfUW1A">https://tb3.cn/AfUW1A</a><br><a href="https://tb3.cn/AxSoLr">https://tb3.cn/AxSoLr</a><br><a href="https://tb3.cn/AGmYIu">https://tb3.cn/AGmYIu</a><br><a href="https://tb3.cn/AM4ze2">https://tb3.cn/AM4ze2</a><br><a href="https://tb3.cn/AtYJUF">https://tb3.cn/AtYJUF</a><br><a href="https://tb3.cn/AvQPKu">https://tb3.cn/AvQPKu</a><br><a href="https://tb3.cn/AmoNZJ">https://tb3.cn/AmoNZJ</a><br><a href="https://tb3.cn/ApHf5I">https://tb3.cn/ApHf5I</a><br><a href="https://tb3.cn/AYpHuJ">https://tb3.cn/AYpHuJ</a><br><a href="https://tb3.cn/A4zToA">https://tb3.cn/A4zToA</a><br><a href="https://tb3.cn/AQOuUw">https://tb3.cn/AQOuUw</a><br><a href="https://tb3.cn/Afwwoz">https://tb3.cn/Afwwoz</a><br><a href="https://tb3.cn/Ajf17n">https://tb3.cn/Ajf17n</a><br><a href="https://tb3.cn/Aj1JX5">https://tb3.cn/Aj1JX5</a><br><a href="https://tb3.cn/AvGeJT">https://tb3.cn/AvGeJT</a><br><a href="https://tb3.cn/AHYuTE">https://tb3.cn/AHYuTE</a><br><a href="https://tb3.cn/AEwX1C">https://tb3.cn/AEwX1C</a><br><a href="https://tb3.cn/AwYqxb">https://tb3.cn/AwYqxb</a><br><a href="https://tb3.cn/AF40tH">https://tb3.cn/AF40tH</a><br><a href="https://tb3.cn/APiNWj">https://tb3.cn/APiNWj</a><br><a href="https://tb3.cn/AGWjlZ">https://tb3.cn/AGWjlZ</a><br><a href="https://tb3.cn/AlipSJ">https://tb3.cn/AlipSJ</a><br><a href="https://tb3.cn/AujEfq">https://tb3.cn/AujEfq</a><br><a href="https://tb3.cn/ALyr88">https://tb3.cn/ALyr88</a><br><a href="https://tb3.cn/AC0erE">https://tb3.cn/AC0erE</a><br><a href="https://tb3.cn/AOhMOe">https://tb3.cn/AOhMOe</a><br><a href="https://tb3.cn/AT62vC">https://tb3.cn/AT62vC</a><br><a href="https://tb3.cn/ALwhP6">https://tb3.cn/ALwhP6</a><br><a href="https://tb3.cn/AUJ9sB">https://tb3.cn/AUJ9sB</a><br><a href="https://tb3.cn/A8kxhI">https://tb3.cn/A8kxhI</a><br><a href="https://tb3.cn/AoT80q">https://tb3.cn/AoT80q</a><br><a href="https://tb3.cn/APqNhY">https://tb3.cn/APqNhY</a><br><a href="https://tb3.cn/AzIr11">https://tb3.cn/AzIr11</a><br><a href="https://tb3.cn/Aj6WUG">https://tb3.cn/Aj6WUG</a><br><a href="https://tb3.cn/AdBizf">https://tb3.cn/AdBizf</a><br><a href="https://tb3.cn/AlE9Na">https://tb3.cn/AlE9Na</a></p>
+</div></details>
+<h3 id="钻石会员直接得"><a href="#钻石会员直接得" class="headerlink" title="钻石会员直接得"></a>钻石会员直接得</h3><p>如果你是支付宝的钻石会员，那么恭喜你，你可以在几分钟内就集齐一套五福。</p>
+<p>支付宝会直接对钻石会员赠送一套「钻石会员专属套卡」，其中包含了「一张敬业福、一张沾福气卡、一张全家福」。</p>
+<p>这几张最关键的福卡直接送给你，剩下的那几张，随便扫几张福字就能得到。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201193.webp" alt=""></p>
+<p>可能也正是因为这样，才导致活动刚上线第一天，就已经有二十多万人集齐了。</p>
+<p>不够，毕竟钻石会员是少部分用户。但对于绝大多数普通用户来说，要怎样才能更快集齐五福呢？别急，攻略这就给你送上。</p>
+<h3 id="AR扫码"><a href="#AR扫码" class="headerlink" title="AR扫码"></a>AR扫码</h3><p>这是最原始的方法，但也是最有效的方法。不过江小鑫建议大家不要去扫那些普通的福字，一定要扫支付宝官方给出的这些福，得敬业福和万能福的几率更大。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201194.webp" alt=""></p>
+<p>具体操作方法：打开 支付宝-&gt;扫一扫-&gt;选择AR-&gt;扫上图中的任意福字-&gt;立即收下福卡（需要有两台设备才行）。</p>
+<h3 id="赠送福卡"><a href="#赠送福卡" class="headerlink" title="赠送福卡"></a>赠送福卡</h3><p>扫码次数用完了，多余的福该怎么办呢？千万别觉得没用了，你可以把福卡赠送给身边还没有扫过福的朋友，你也有机会可以得到沾福气卡或万能福。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201195.webp" alt=""></p>
+<p>操作方法：进入 集五福活动-&gt;我的福卡-&gt;选择任意一张福卡-&gt;送给亲友-&gt;送Ta（记得送给还没有集福的亲友哦）。</p>
+<h3 id="写福字得福卡"><a href="#写福字得福卡" class="headerlink" title="写福字得福卡"></a>写福字得福卡</h3><p>打开集五福活动的写福字界面，可以临摹它给出的样式，写一个福字出来，完成后就能获得一张福卡。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201196.webp" alt=""></p>
+<p>此外，每日的0点和12点，你还可以到「福气店」里免费打印福字，支付宝官方会免费将你写的福字打印出来并送到你家（每日限量）。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201197.webp" alt=""></p>
+<h3 id="搜索品牌关键字"><a href="#搜索品牌关键字" class="headerlink" title="搜索品牌关键字"></a>搜索品牌关键字</h3><p>今年最大的不同是五福全面向商家开放，1000 多个商家将成为主角，通过自己的支付宝小程序、生活号、App 等多个私域阵地为全国用户发福卡。</p>
+<p>用户可以在支付宝首页顶部搜索品牌方的关键字，就能看见抽福卡的入口。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201198.webp" alt=""></p>
+<p>部分品牌方关键字：肯德基，麦当劳，加油浙江，T3出行，携程，屈臣氏，蜜雪冰城，一点万象，爱租机，爱琴海，顺丰，万达广场，大润发，元气森林，一点万象，威马汽车，良品铺子，益禾堂，联合利华，名创优品，伊利，步步高。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201199.webp" alt=""></p>
+<p>此外，登录国家电网、中国移动、B站、网易云音乐等 40 多个 App，也有机会得到由他们发的福卡。</p>
+<h3 id="到店付款"><a href="#到店付款" class="headerlink" title="到店付款"></a>到店付款</h3><p>1月19日到1月31日，用户可以每天到店支付一笔（不限金额），有机会获得沾福气卡。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011910.webp" alt=""></p>
+<h3 id="12306领福卡"><a href="#12306领福卡" class="headerlink" title="12306领福卡"></a>12306领福卡</h3><p>打开支付宝扫描下方二维码，就能领取一张随机福卡。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011911.webp" alt=""></p>
+<h3 id="中国移动领福卡"><a href="#中国移动领福卡" class="headerlink" title="中国移动领福卡"></a>中国移动领福卡</h3><p>打开用浏览器或中国移动APP打开链接：🔗 <a href="https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。">https://tb3.cn/A6QQiu，输入支付宝绑定的手机号完成验证后即可获得一张随机福卡。</a></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022011912.webp" alt=""></p>
+<p>其实咱们要的并不是这几块钱，而是其中的乐趣，其中的荣誉感，其中氛围感，就像小时候吃方便集卡一样，只不过集卡的那群孩子长大了罢了，变的是时代，不变的是这一代人的内心，也许真的是五福到了，年就到了，也该“到家”团圆了。</p>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
   </entry>
   <entry>
     <title>雷电模拟器9(v9.0.26.0) 去广告纯净版</title>
