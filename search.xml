@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>腾讯云2核4G8M轻量应用服务器免费升级配置</title>
-    <url>/posts/e97b05bf/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><div class="tip "><p>注意：无忧计划属于独立活动不支持本次升级</p>
-</div>
-<p>腾讯云又来免费活动了，存量境内地域<code>2核-4G内存-8M带宽-1200G流量包</code>的轻量应用服务器进行虎年回馈升级活动，可免费升级至<code>4核-4G内存-8M带宽-1200G流量包</code>，续费价不变！</p>
-<p><strong>活动截止时间2022年3月31日24点，具体升级操作方法如下。</strong></p>
-<h2 id="升级方法"><a href="#升级方法" class="headerlink" title="升级方法"></a>升级方法</h2><ol>
-<li>打开腾讯云轻量云服务器<a href="https://console.cloud.tencent.com/lighthouse/instance/index">控制台</a>，在服务器列表里找到符合条件的机器</li>
-<li>选择机器右上角的更多 -&gt; 升级套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030521.png" alt=""></li>
-<li>随后会弹出新窗口，可以看到免费升级活动的介绍以及支持的机器配置<br><img src="https://cdn.jx-ll.cn/post_img/2022030522.png" alt=""></li>
-<li>接着往下滑，在选择目标套餐里选择通用性套餐里的4H4G8M配置套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030523.png" alt=""></li>
-<li>随后点击下一步，并选择开始升级，然后提交订单即可<br><img src="https://cdn.jx-ll.cn/post_img/2022030524.png" alt=""></li>
-<li>待升级完成后，可以看到我们的机器配置已经变成了4H4G8M<br><img src="https://cdn.jx-ll.cn/post_img/2022030525.png" alt=""></li>
-</ol>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
-  </entry>
-  <entry>
     <title>360安全浏览器v13.1.6170.0优化便携版</title>
     <url>/posts/b69fdc9a/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>360安全浏览器(360SE)是基于IE内核和Chromium内核的双核浏览器。相比以前的版本，360SE13采用了Chromeium86稳定版的内核，在新标签页、皮肤等外观视觉上有着全新的改变，并且还支持夜间模式、自动模式动态内核切换以及各种实用的功能和安全保护技术，带你享受极致的浏览体验。</p>
@@ -76,46 +56,23 @@
       </tags>
   </entry>
   <entry>
-    <title>Bandizip(跨平台解压缩软件) v7.27 激活版</title>
-    <url>/posts/929c4470/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>虽然 7-Zip 是开源免费压缩工具中的佼佼者，但用得不是很顺手，今天试了下推荐的 Bandizip 却出人意料的好用！Bandizip 是一款来自韩国的免费优秀的文件压缩/解压缩软件，支持 Win 与 Mac，操作方式与 WinRAR 相似，支持压缩和解压 rar、zip、7z 等众多主流格式…</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030821.png" alt=""></p>
-<h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><h3 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h3><ul>
-<li>支持操作系统: Windows Vista/7/8/10 (x86/x64/ARM64)</li>
-<li>许可类型：免费软件(EULA)</li>
-<li>全能的压缩/解压/浏览/编辑软件</li>
-<li>可提取30多种格式，包括RAR/RAR5/7Z/ZIP等</li>
-<li>包含密码压缩和分卷压缩功能</li>
-<li>支持多核高速压缩</li>
-</ul>
-<h3 id="压缩功能"><a href="#压缩功能" class="headerlink" title="压缩功能"></a>压缩功能</h3><ul>
-<li>支持的格式: ZIP, 7Z(lzma2), ZIPX(xz), EXE(sfx), TAR, TGZ, LZH(lh7), ISO(joliet), GZ, XZ</li>
-<li>ZIP文件修改（添加/删除/重命名）</li>
-<li>支持多核并行，压缩速度可提升至多达6倍</li>
-<li>加密压缩</li>
-<li>支持AES256加密算法</li>
-<li>支持4GB 以上大小的文件压缩</li>
-<li>对ZIP格式支持Unicode或MBCS文件名</li>
-<li>对ZIP/7z格式可进行分卷压缩</li>
-</ul>
-<h3 id="解压功能"><a href="#解压功能" class="headerlink" title="解压功能"></a>解压功能</h3><ul>
-<li>支持的格式: 7Z, ACE, AES, ALZ, ARJ, BH, BIN, BZ, BZ2, CAB, Compound(MSI), EGG, GZ, IMG, ISO, ISZ, LHA, LZ, LZH, LZMA, PMA,  RAR, RAR5, SFX(EXE), TAR, TBZ, TBZ2, TGZ, TLZ, TXZ, UDF, WIM, XPI, XZ, Z, ZIP, ZIPX, ZPAQ</li>
-<li>轻松查看压缩包内文件</li>
-<li>可只解压选定文件，支持拖拽解压</li>
-<li>可对ZIP和RAR格式添加注释</li>
-<li>一步解压TGZ/TBZ格式的文件</li>
-</ul>
-<h3 id="其他功能"><a href="#其他功能" class="headerlink" title="其他功能"></a>其他功能</h3><ul>
-<li>测试文件完整性以确定压缩包是否损坏</li>
-<li>支持修改代码页改</li>
-<li>可集成至资源管理器右键菜单</li>
-</ul>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123云盘/资源杂侩/软件/BandiZip' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
-<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-Xizw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
-          </div>]]></content>
+    <title>腾讯云2核4G8M轻量应用服务器免费升级配置</title>
+    <url>/posts/e97b05bf/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><div class="tip "><p>注意：无忧计划属于独立活动不支持本次升级</p>
+</div>
+<p>腾讯云又来免费活动了，存量境内地域<code>2核-4G内存-8M带宽-1200G流量包</code>的轻量应用服务器进行虎年回馈升级活动，可免费升级至<code>4核-4G内存-8M带宽-1200G流量包</code>，续费价不变！</p>
+<p><strong>活动截止时间2022年3月31日24点，具体升级操作方法如下。</strong></p>
+<h2 id="升级方法"><a href="#升级方法" class="headerlink" title="升级方法"></a>升级方法</h2><ol>
+<li>打开腾讯云轻量云服务器<a href="https://console.cloud.tencent.com/lighthouse/instance/index">控制台</a>，在服务器列表里找到符合条件的机器</li>
+<li>选择机器右上角的更多 -&gt; 升级套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030521.png" alt=""></li>
+<li>随后会弹出新窗口，可以看到免费升级活动的介绍以及支持的机器配置<br><img src="https://cdn.jx-ll.cn/post_img/2022030522.png" alt=""></li>
+<li>接着往下滑，在选择目标套餐里选择通用性套餐里的4H4G8M配置套餐<br><img src="https://cdn.jx-ll.cn/post_img/2022030523.png" alt=""></li>
+<li>随后点击下一步，并选择开始升级，然后提交订单即可<br><img src="https://cdn.jx-ll.cn/post_img/2022030524.png" alt=""></li>
+<li>待升级完成后，可以看到我们的机器配置已经变成了4H4G8M<br><img src="https://cdn.jx-ll.cn/post_img/2022030525.png" alt=""></li>
+</ol>
+]]></content>
       <categories>
-        <category>资源中心</category>
+        <category>转载内容</category>
       </categories>
   </entry>
   <entry>
@@ -167,6 +124,49 @@
         <tag>实用软件</tag>
         <tag>浏览器</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Bandizip(跨平台解压缩软件) v7.27 激活版</title>
+    <url>/posts/929c4470/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>虽然 7-Zip 是开源免费压缩工具中的佼佼者，但用得不是很顺手，今天试了下推荐的 Bandizip 却出人意料的好用！Bandizip 是一款来自韩国的免费优秀的文件压缩/解压缩软件，支持 Win 与 Mac，操作方式与 WinRAR 相似，支持压缩和解压 rar、zip、7z 等众多主流格式…</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030821.png" alt=""></p>
+<h2 id="软件特色"><a href="#软件特色" class="headerlink" title="软件特色"></a>软件特色</h2><h3 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h3><ul>
+<li>支持操作系统: Windows Vista/7/8/10 (x86/x64/ARM64)</li>
+<li>许可类型：免费软件(EULA)</li>
+<li>全能的压缩/解压/浏览/编辑软件</li>
+<li>可提取30多种格式，包括RAR/RAR5/7Z/ZIP等</li>
+<li>包含密码压缩和分卷压缩功能</li>
+<li>支持多核高速压缩</li>
+</ul>
+<h3 id="压缩功能"><a href="#压缩功能" class="headerlink" title="压缩功能"></a>压缩功能</h3><ul>
+<li>支持的格式: ZIP, 7Z(lzma2), ZIPX(xz), EXE(sfx), TAR, TGZ, LZH(lh7), ISO(joliet), GZ, XZ</li>
+<li>ZIP文件修改（添加/删除/重命名）</li>
+<li>支持多核并行，压缩速度可提升至多达6倍</li>
+<li>加密压缩</li>
+<li>支持AES256加密算法</li>
+<li>支持4GB 以上大小的文件压缩</li>
+<li>对ZIP格式支持Unicode或MBCS文件名</li>
+<li>对ZIP/7z格式可进行分卷压缩</li>
+</ul>
+<h3 id="解压功能"><a href="#解压功能" class="headerlink" title="解压功能"></a>解压功能</h3><ul>
+<li>支持的格式: 7Z, ACE, AES, ALZ, ARJ, BH, BIN, BZ, BZ2, CAB, Compound(MSI), EGG, GZ, IMG, ISO, ISZ, LHA, LZ, LZH, LZMA, PMA,  RAR, RAR5, SFX(EXE), TAR, TBZ, TBZ2, TGZ, TLZ, TXZ, UDF, WIM, XPI, XZ, Z, ZIP, ZIPX, ZPAQ</li>
+<li>轻松查看压缩包内文件</li>
+<li>可只解压选定文件，支持拖拽解压</li>
+<li>可对ZIP和RAR格式添加注释</li>
+<li>一步解压TGZ/TBZ格式的文件</li>
+</ul>
+<h3 id="其他功能"><a href="#其他功能" class="headerlink" title="其他功能"></a>其他功能</h3><ul>
+<li>测试文件完整性以确定压缩包是否损坏</li>
+<li>支持修改代码页改</li>
+<li>可集成至资源管理器右键菜单</li>
+</ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
+            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123云盘/资源杂侩/软件/BandiZip' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
+<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-Xizw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
+          </div>]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
   </entry>
   <entry>
     <title>EDGE浏览器双击即可关闭标签页，终于可以不用到处找增强版了</title>
@@ -238,25 +238,6 @@
       </tags>
   </entry>
   <entry>
-    <title>PotPlayer(网络播放器) v1.7.21760 绿色版</title>
-    <url>/posts/c45359f9/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>PotPlayer 是 KMPlayer 的原制作者姜龙喜（韩国）进入 Daum 公司后的新一代网络播放器。PotPlayer 的优势在于强大的内置解码器；而 KMPlayer 的优势在于强大的定制能力和个性化功能。PotPlayer 使用 VC++ 编写， KMPlayer 为 Delphi 编写。PotPlayer 是 Daum 公司的一款网络播放器，有自己的独立著作权，并非由姜龙喜先生原创，目前由 KMPlayer 的原始作者姜龙喜进行后续开发。目前(1428以后版本)的 KMPlayer 由 PandoraTV 团队负责集体开发。应 PandoraTV 的要求，PotPlayer 不会加入在 KMPlayer 中一些受欢迎功能，但作者答应加入一些近似的功能。</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030431.png" alt=""></p>
-<h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ul>
-<li><code>@闻雷、@果核剥壳</code>绿色便携制作</li>
-</ul>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
-            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123%E4%BA%91%E7%9B%98/%E8%B5%84%E6%BA%90%E6%9D%82%E4%BE%A9/%E8%BD%AF%E4%BB%B6/PotPlayer' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
-<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-Cizw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
-          </div>]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>SublimeText 4.4126 汉化特别版</title>
     <url>/posts/5909fb66/</url>
     <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>SublimeText是编辑器中的一款神级IDE，非常有名，虽然比较轻量，但是呢软件拓展性非常强大，适用于多种编程语言，当然，当一个编辑器，也是非常不错的。</p>
@@ -268,6 +249,25 @@
 <a class="button no-text-decoration" href='https://jxin.lanzouq.com/b02hhhbgb' title='蓝奏云盘'><img src='fas fa-download'>蓝奏云盘</a>
 <a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-95zw' title='123云盘'><img src='fas fa-download'>123云盘</a>
 <a class="button no-text-decoration" href='https://pan.quark.cn/s/72eb39ae37f0' title='夸克云盘'><img src='fas fa-download'>夸克云盘</a>
+          </div>]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PotPlayer(网络播放器) v1.7.21760 绿色版</title>
+    <url>/posts/c45359f9/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>PotPlayer 是 KMPlayer 的原制作者姜龙喜（韩国）进入 Daum 公司后的新一代网络播放器。PotPlayer 的优势在于强大的内置解码器；而 KMPlayer 的优势在于强大的定制能力和个性化功能。PotPlayer 使用 VC++ 编写， KMPlayer 为 Delphi 编写。PotPlayer 是 Daum 公司的一款网络播放器，有自己的独立著作权，并非由姜龙喜先生原创，目前由 KMPlayer 的原始作者姜龙喜进行后续开发。目前(1428以后版本)的 KMPlayer 由 PandoraTV 团队负责集体开发。应 PandoraTV 的要求，PotPlayer 不会加入在 KMPlayer 中一些受欢迎功能，但作者答应加入一些近似的功能。</p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/2022030431.png" alt=""></p>
+<h2 id="此版特点"><a href="#此版特点" class="headerlink" title="此版特点"></a>此版特点</h2><ul>
+<li><code>@闻雷、@果核剥壳</code>绿色便携制作</li>
+</ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><div class="btns rounded grid5">
+            <a class="button no-text-decoration" href='https://pan.jx-ll.cn/123%E4%BA%91%E7%9B%98/%E8%B5%84%E6%BA%90%E6%9D%82%E4%BE%A9/%E8%BD%AF%E4%BB%B6/PotPlayer' title='本地下载[荐]'><img src='fas fa-download'>本地下载[荐]</a>
+<a class="button no-text-decoration" href='https://www.123pan.com/s/68iA-Cizw' title='123云盘[备]'><img src='fas fa-download'>123云盘[备]</a>
           </div>]]></content>
       <categories>
         <category>资源中心</category>
@@ -369,6 +369,39 @@
       </tags>
   </entry>
   <entry>
+    <title>来自吾爱大佬的又一款Bilibili视频下载神器</title>
+    <url>/posts/8d089640/</url>
+    <content><![CDATA[<h2 id="视频介绍"><a href="#视频介绍" class="headerlink" title="视频介绍"></a>视频介绍</h2><iframe src="//player.bilibili.com/player.html?aid=289615827&bvid=BV13f4y1t7JK&cid=309392804&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0"> </iframe>
+
+<p><code>如视频不清晰请前往B站观看</code></p>
+<p>链接：<a href="https://www.bilibili.com/video/BV13f4y1t7JK">https://www.bilibili.com/video/BV13f4y1t7JK</a></p>
+<h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h3 id="1-0-1版本"><a href="#1-0-1版本" class="headerlink" title="1.0.1版本"></a>1.0.1版本</h3><p>修复bug：点击用户登录-&gt;扫码登录-&gt;关闭登录窗口会提示指定窗口尚未载入（52用户 他乡 反馈BUG）</p>
+<h3 id="1-0-2版本"><a href="#1-0-2版本" class="headerlink" title="1.0.2版本"></a>1.0.2版本</h3><p>修复点击下载后提示目录创建失败（52用户 kent52712 反馈BUG）</p>
+<p>修复下载时一直为正在解析的问题</p>
+<p>新增如果此视频没有选择的分辨率会默认下载可以下载的分辨率最高的视频</p>
+<h3 id="1-0-3版本"><a href="#1-0-3版本" class="headerlink" title="1.0.3版本"></a>1.0.3版本</h3><p>修改视频下载逻辑，临时文件与视频文件分离</p>
+<p>新增：支持avid，直接输入avid或视频地址点击解析即可</p>
+<h3 id="1-0-4版本"><a href="#1-0-4版本" class="headerlink" title="1.0.4版本"></a>1.0.4版本</h3><p>修复部分视频合并视频时可能会失败（感谢用户：EdLiya）</p>
+<p>新增可以多选了，选择多个然后右键-&gt;选中</p>
+<h3 id="1-0-5版本"><a href="#1-0-5版本" class="headerlink" title="1.0.5版本"></a>1.0.5版本</h3><p>修复部分视频提示无法创建目录（感谢用户：跳墙的爷）</p>
+<h3 id="1-0-6版本"><a href="#1-0-6版本" class="headerlink" title="1.0.6版本"></a>1.0.6版本</h3><p>修复部分视频提示无法创建目录（感谢用户：shanhaijing）</p>
+<p>修复登陆后选择视频质量提示未登录的问题（感谢用户：Fankilair、小生浩宁）</p>
+<p>新增下载时会在标题前添加序号，从01开始（感谢用户：叶灵兮何）</p>
+<h3 id="1-0-7版本"><a href="#1-0-7版本" class="headerlink" title="1.0.7版本"></a>1.0.7版本</h3><p>修复获取不到视频质量的问题</p>
+<p>某些视频无声音时无法下载，会提示视频解析失败。</p>
+<p>有些时候登录后选择清晰度后还是提示需要登录</p>
+<p>吾爱链接：<a href="https://www.52pojie.cn/thread-1354179-1-2.html">https://www.52pojie.cn/thread-1354179-1-2.html</a></p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】后在对话框中回复【bilibili视频下载器】即可获取下载地址</p>
+]]></content>
+      <categories>
+        <category>资源中心</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
+        <tag>哔哩哔哩</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>阿里云盘桌面端正式版总算来了，快来尝鲜吧！</title>
     <url>/posts/7c83cdf5/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>历经近半年的不断更新、内测，阿里云盘桌面端总算是迎来了正式版。不知道各位小伙伴还记不记得之前江小鑫之前给大家分享过的<a href="http://mp.weixin.qq.com/s?__biz=MzU3MDkzNjM3Ng==&amp;mid=2247496540&amp;idx=1&amp;sn=5ad3d550747155c82a6e900b640b5181&amp;chksm=fce56e0bcb92e71d0e41fef57bc65bafba6193d20361da7bcb5c49cc891e37360c5242e08075&amp;scene=21#wechat_redirect">泄露的阿里云盘桌面端测试版</a>。相信已经有不少小伙伴体验过了吧，那么体验结果如何呢，留言告诉我吧~</p>
@@ -411,36 +444,23 @@
       </tags>
   </entry>
   <entry>
-    <title>来自吾爱大佬的又一款Bilibili视频下载神器</title>
-    <url>/posts/8d089640/</url>
-    <content><![CDATA[<h2 id="视频介绍"><a href="#视频介绍" class="headerlink" title="视频介绍"></a>视频介绍</h2><iframe src="//player.bilibili.com/player.html?aid=289615827&bvid=BV13f4y1t7JK&cid=309392804&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0"> </iframe>
-
-<p><code>如视频不清晰请前往B站观看</code></p>
-<p>链接：<a href="https://www.bilibili.com/video/BV13f4y1t7JK">https://www.bilibili.com/video/BV13f4y1t7JK</a></p>
-<h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><h3 id="1-0-1版本"><a href="#1-0-1版本" class="headerlink" title="1.0.1版本"></a>1.0.1版本</h3><p>修复bug：点击用户登录-&gt;扫码登录-&gt;关闭登录窗口会提示指定窗口尚未载入（52用户 他乡 反馈BUG）</p>
-<h3 id="1-0-2版本"><a href="#1-0-2版本" class="headerlink" title="1.0.2版本"></a>1.0.2版本</h3><p>修复点击下载后提示目录创建失败（52用户 kent52712 反馈BUG）</p>
-<p>修复下载时一直为正在解析的问题</p>
-<p>新增如果此视频没有选择的分辨率会默认下载可以下载的分辨率最高的视频</p>
-<h3 id="1-0-3版本"><a href="#1-0-3版本" class="headerlink" title="1.0.3版本"></a>1.0.3版本</h3><p>修改视频下载逻辑，临时文件与视频文件分离</p>
-<p>新增：支持avid，直接输入avid或视频地址点击解析即可</p>
-<h3 id="1-0-4版本"><a href="#1-0-4版本" class="headerlink" title="1.0.4版本"></a>1.0.4版本</h3><p>修复部分视频合并视频时可能会失败（感谢用户：EdLiya）</p>
-<p>新增可以多选了，选择多个然后右键-&gt;选中</p>
-<h3 id="1-0-5版本"><a href="#1-0-5版本" class="headerlink" title="1.0.5版本"></a>1.0.5版本</h3><p>修复部分视频提示无法创建目录（感谢用户：跳墙的爷）</p>
-<h3 id="1-0-6版本"><a href="#1-0-6版本" class="headerlink" title="1.0.6版本"></a>1.0.6版本</h3><p>修复部分视频提示无法创建目录（感谢用户：shanhaijing）</p>
-<p>修复登陆后选择视频质量提示未登录的问题（感谢用户：Fankilair、小生浩宁）</p>
-<p>新增下载时会在标题前添加序号，从01开始（感谢用户：叶灵兮何）</p>
-<h3 id="1-0-7版本"><a href="#1-0-7版本" class="headerlink" title="1.0.7版本"></a>1.0.7版本</h3><p>修复获取不到视频质量的问题</p>
-<p>某些视频无声音时无法下载，会提示视频解析失败。</p>
-<p>有些时候登录后选择清晰度后还是提示需要登录</p>
-<p>吾爱链接：<a href="https://www.52pojie.cn/thread-1354179-1-2.html">https://www.52pojie.cn/thread-1354179-1-2.html</a></p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>关注微信公众号【美男子鑫鑫】后在对话框中回复【bilibili视频下载器】即可获取下载地址</p>
+    <title>剪映Pro正式版来啦：轻而易剪 上演大幕！</title>
+    <url>/posts/69695e5f/</url>
+    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>剪映专业版是抖音推出的一款免费的全能易用的视频剪辑软件。剪映手机版由于背靠抖音大树再加上操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。 </p>
+<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/20210203185724.png" alt=" "></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/20210203185734.png" alt=" "></p>
+<h2 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h2><h3 id="简单：界面布局清晰直观"><a href="#简单：界面布局清晰直观" class="headerlink" title="简单：界面布局清晰直观"></a>简单：界面布局清晰直观</h3><p>把时间线、素材库、播放器等界面布局化繁为简，让你能够得心应手地剪辑出精彩的视频。</p>
+<h3 id="高效：多轨道剪辑"><a href="#高效：多轨道剪辑" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
+<h3 id="专业：高阶功能"><a href="#专业：高阶功能" class="headerlink" title="专业：高阶功能"></a>专业：高阶功能</h3><p>曲线变速、蒙版、混合模式、色彩调节等强大功能覆盖剪辑全场景；音乐踩点功能，帮助你快速创作节奏感十足的镜头；更有语音识别功能，一键添加字幕与歌词，节省时间专注剪辑，尽情挥洒创意。</p>
+<h3 id="高效：多轨道剪辑-1"><a href="#高效：多轨道剪辑-1" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网地址：<a href="https://lv.ulikecam.com/">https://lv.ulikecam.com/</a></p>
+<p>关注公众号<code>【美男子鑫鑫】</code>，在对话框中回复【剪映Pro下载】，即可获取下载地址</p>
 ]]></content>
       <categories>
         <category>资源中心</category>
       </categories>
       <tags>
         <tag>实用软件</tag>
-        <tag>哔哩哔哩</tag>
       </tags>
   </entry>
   <entry>
@@ -467,26 +487,6 @@
       </categories>
       <tags>
         <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>剪映Pro正式版来啦：轻而易剪 上演大幕！</title>
-    <url>/posts/69695e5f/</url>
-    <content><![CDATA[<h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>剪映专业版是抖音推出的一款免费的全能易用的视频剪辑软件。剪映手机版由于背靠抖音大树再加上操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。 </p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p><img src="https://cdn.jx-ll.cn/post_img/20210203185724.png" alt=" "></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/20210203185734.png" alt=" "></p>
-<h2 id="软件特性"><a href="#软件特性" class="headerlink" title="软件特性"></a>软件特性</h2><h3 id="简单：界面布局清晰直观"><a href="#简单：界面布局清晰直观" class="headerlink" title="简单：界面布局清晰直观"></a>简单：界面布局清晰直观</h3><p>把时间线、素材库、播放器等界面布局化繁为简，让你能够得心应手地剪辑出精彩的视频。</p>
-<h3 id="高效：多轨道剪辑"><a href="#高效：多轨道剪辑" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
-<h3 id="专业：高阶功能"><a href="#专业：高阶功能" class="headerlink" title="专业：高阶功能"></a>专业：高阶功能</h3><p>曲线变速、蒙版、混合模式、色彩调节等强大功能覆盖剪辑全场景；音乐踩点功能，帮助你快速创作节奏感十足的镜头；更有语音识别功能，一键添加字幕与歌词，节省时间专注剪辑，尽情挥洒创意。</p>
-<h3 id="高效：多轨道剪辑-1"><a href="#高效：多轨道剪辑-1" class="headerlink" title="高效：多轨道剪辑"></a>高效：多轨道剪辑</h3><p>强大的多轨道剪辑功能，轨道排布井井有条，更拥有主视频轨道固定展示的能力，精准定位各种素材片段；通过常用键鼠操作，帮助你轻松完成各类剪辑。</p>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>官网地址：<a href="https://lv.ulikecam.com/">https://lv.ulikecam.com/</a></p>
-<p>关注公众号<code>【美男子鑫鑫】</code>，在对话框中回复【剪映Pro下载】，即可获取下载地址</p>
-]]></content>
-      <categories>
-        <category>资源中心</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
       </tags>
   </entry>
   <entry>
@@ -530,42 +530,6 @@
       <categories>
         <category>闲聊杂谈</category>
       </categories>
-  </entry>
-  <entry>
-    <title>腾讯QQ二代变无是什么意思？怎么避免？怎么解决？</title>
-    <url>/posts/d0eb61f9/</url>
-    <content><![CDATA[<h2 id="二代变无"><a href="#二代变无" class="headerlink" title="二代变无"></a>二代变无</h2><p>二代变无，即二代变无保，QQ密保工具失效。QQ账号有密保工具，比如密保手机，QQ令牌等，但是某一天此QQ突然被冻结保护，解冻需要修改QQ密码，但是修改密码却不能验证密保工具，只能填写资料申诉。</p>
-<h2 id="变无原因"><a href="#变无原因" class="headerlink" title="变无原因"></a>变无原因</h2><h3 id="原因1-怀疑号码被买卖了，冻结制裁"><a href="#原因1-怀疑号码被买卖了，冻结制裁" class="headerlink" title="原因1.怀疑号码被买卖了，冻结制裁"></a>原因1.怀疑号码被买卖了，冻结制裁</h3><p>比如从一个IP换成了另一个IP登录，同时进行了密保手机更换、头像昵称等资料的修改，以及好友的增删。基本可以断定号码被转让了，腾讯公司会采取二变无冻结的方式进行制裁。</p>
-<h3 id="原因2-登录IP异常"><a href="#原因2-登录IP异常" class="headerlink" title="原因2.登录IP异常"></a>原因2.登录IP异常</h3><p>异常IP主要是指<code>敏感IP</code>，如经常被举报的IP，腾讯公司怀疑该QQ被盗用，会进行冻结保护。</p>
-<h3 id="原因3-有多个异地IP登录"><a href="#原因3-有多个异地IP登录" class="headerlink" title="原因3.有多个异地IP登录"></a>原因3.有多个异地IP登录</h3><p>怀疑<code>多人共用账号</code>，腾讯会以违反使用条例进行冻结制裁，并且这种申诉基本是不给通过的。</p>
-<h2 id="如何避免"><a href="#如何避免" class="headerlink" title="如何避免"></a>如何避免</h2><ol>
-<li><p>更换密保手机时，尽量<code>避免异地登录</code>，更不能在密保手机更换前后进行修改QQ头像、资料、增删好友等敏感操作</p>
-</li>
-<li><p>不要在<code>敏感IP</code>登录，如经常有被举报封号的IP</p>
-</li>
-<li><p>避免<code>异地多IP来回切换</code>登录。</p>
-</li>
-</ol>
-<h2 id="解决方式"><a href="#解决方式" class="headerlink" title="解决方式"></a>解决方式</h2><ul>
-<li><p>由于<code>原因1</code>和<code>原因2</code>造成的二变无，验证资料正确、完整，申诉可以申诉成功的</p>
-</li>
-<li><p>由于<code>原因3</code>造成的二变无，基本无解，申诉通过概率小</p>
-</li>
-<li><p>刚收来的QQ不要去接着修改资料（心急吃不了热豆腐）以下是我对收来的QQ保养基本常识</p>
-</li>
-</ul>
-<ol>
-<li>登录安全中心找到异地登陆点击信任地区；</li>
-<li>头像、网名、地区等一系列资料在3-7天内不要去着急修改，因为这样会检测到风险，轻者冻结，重者可能会导致二代变无（二代变无保）</li>
-<li>在搜索界面搜索成长守护平台，查看是否拥有修改信息次数</li>
-</ol>
-]]></content>
-      <categories>
-        <category>转载内容</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
   </entry>
   <entry>
     <title>使用onedrive-vercel-index来搭建一个属于自己的网盘</title>
@@ -617,6 +581,42 @@
       </tags>
   </entry>
   <entry>
+    <title>腾讯QQ二代变无是什么意思？怎么避免？怎么解决？</title>
+    <url>/posts/d0eb61f9/</url>
+    <content><![CDATA[<h2 id="二代变无"><a href="#二代变无" class="headerlink" title="二代变无"></a>二代变无</h2><p>二代变无，即二代变无保，QQ密保工具失效。QQ账号有密保工具，比如密保手机，QQ令牌等，但是某一天此QQ突然被冻结保护，解冻需要修改QQ密码，但是修改密码却不能验证密保工具，只能填写资料申诉。</p>
+<h2 id="变无原因"><a href="#变无原因" class="headerlink" title="变无原因"></a>变无原因</h2><h3 id="原因1-怀疑号码被买卖了，冻结制裁"><a href="#原因1-怀疑号码被买卖了，冻结制裁" class="headerlink" title="原因1.怀疑号码被买卖了，冻结制裁"></a>原因1.怀疑号码被买卖了，冻结制裁</h3><p>比如从一个IP换成了另一个IP登录，同时进行了密保手机更换、头像昵称等资料的修改，以及好友的增删。基本可以断定号码被转让了，腾讯公司会采取二变无冻结的方式进行制裁。</p>
+<h3 id="原因2-登录IP异常"><a href="#原因2-登录IP异常" class="headerlink" title="原因2.登录IP异常"></a>原因2.登录IP异常</h3><p>异常IP主要是指<code>敏感IP</code>，如经常被举报的IP，腾讯公司怀疑该QQ被盗用，会进行冻结保护。</p>
+<h3 id="原因3-有多个异地IP登录"><a href="#原因3-有多个异地IP登录" class="headerlink" title="原因3.有多个异地IP登录"></a>原因3.有多个异地IP登录</h3><p>怀疑<code>多人共用账号</code>，腾讯会以违反使用条例进行冻结制裁，并且这种申诉基本是不给通过的。</p>
+<h2 id="如何避免"><a href="#如何避免" class="headerlink" title="如何避免"></a>如何避免</h2><ol>
+<li><p>更换密保手机时，尽量<code>避免异地登录</code>，更不能在密保手机更换前后进行修改QQ头像、资料、增删好友等敏感操作</p>
+</li>
+<li><p>不要在<code>敏感IP</code>登录，如经常有被举报封号的IP</p>
+</li>
+<li><p>避免<code>异地多IP来回切换</code>登录。</p>
+</li>
+</ol>
+<h2 id="解决方式"><a href="#解决方式" class="headerlink" title="解决方式"></a>解决方式</h2><ul>
+<li><p>由于<code>原因1</code>和<code>原因2</code>造成的二变无，验证资料正确、完整，申诉可以申诉成功的</p>
+</li>
+<li><p>由于<code>原因3</code>造成的二变无，基本无解，申诉通过概率小</p>
+</li>
+<li><p>刚收来的QQ不要去接着修改资料（心急吃不了热豆腐）以下是我对收来的QQ保养基本常识</p>
+</li>
+</ul>
+<ol>
+<li>登录安全中心找到异地登陆点击信任地区；</li>
+<li>头像、网名、地区等一系列资料在3-7天内不要去着急修改，因为这样会检测到风险，轻者冻结，重者可能会导致二代变无（二代变无保）</li>
+<li>在搜索界面搜索成长守护平台，查看是否拥有修改信息次数</li>
+</ol>
+]]></content>
+      <categories>
+        <category>转载内容</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo错误：Spawn Failed的解决方法</title>
     <url>/posts/e3433884/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>最近在部署部落格的时候出现了spawn failed错误，不管是挂梯子还是改代理，都部署不上。刚开始我以为是ssh key的问题，但后面重新设置了个key也还是链接不上。</p>
@@ -648,6 +648,41 @@
         <tag>GitHub</tag>
         <tag>Hexo</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>再见，2021！你好，2022！</title>
+    <url>/posts/519d21a7/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
+<p>2021年即将过去，在这个极具“仪式感”的转折口，为自己简单地做个总结。</p>
+</blockquote>
+<p>在追赶世界脚步和100%掌握自己人生这个问题上，我似乎总是完不成对自己的本有期待。年初立下的flag不少没有做到，就跟小时候常说的那句话一样，“愿望说出来就不灵了”。</p>
+<p>还记得在今年年初，我对自己立了一个flag：“希望今年吃苦的能力比去年强”，可事实却如同我们暂时被搁浅的人生。如果不是做这个总结，可能已经早已忘记。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202112311944385.webp" alt=""></p>
+<h2 id="微信公众号"><a href="#微信公众号" class="headerlink" title="微信公众号"></a>微信公众号</h2><p>2021年2月1日，我发布了今年的第一篇推文，也是这个微信公众号自建立以来的第二篇推文。</p>
+<p>从那时候就想着，一定要坚持下去，保证每日至少一篇推文的任务。就这样，我保持每日一推的频率，持续到了4月29日，但也是从那时开始，公众号开始了断更，后面就一两个月才发一篇。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202112311945495.webp" alt=""></p>
+<p>公众号截至目前共推送了89篇文章，其中有82篇标记了原创内容，共收获到了1629位粉丝。能有这个成绩，已经心满意足了，毕竟创建这个公众号的初心就是用来记录、学习、分享。</p>
+<h2 id="我的博客"><a href="#我的博客" class="headerlink" title="我的博客"></a>我的博客</h2><p><img src="https://cdn.jx-ll.cn/post_img/202112311945583.webp" alt=""></p>
+<p>江小鑫的部落格，是我用来记录生活的第二个地方，博客数据挂载在Github上，免去了服务器的费用。</p>
+<p>博客框架是一款静态程序Hexo，主题采用的是非常好看的butterfly主题。同时还使用了jsdeliver、又拍云来为博客加速，提高访问质量。</p>
+<p>但就在最近，jsdeliver国内服务出现了问题，导致博客的大部分图片出现了加载缓慢，十分影响体验，我也正考虑将图片迁移到腾讯云存储服务。<br><img src="https://cdn.jx-ll.cn/post_img/202112311945498.webp" alt=""></p>
+<h2 id="我的生活"><a href="#我的生活" class="headerlink" title="我的生活"></a>我的生活</h2><p>如果让我用一个关键词来形容的我2021，那一定是“遗憾”。</p>
+<p>遗憾的是，这一年我错过了太多太多，没考的证书、没参加的活动、没找到对的人…</p>
+<p>遗憾的是，没有完成年初立下的那些flag，对任何事情都没有坚持下去的决心，总是半途而废。</p>
+<p>遗憾的是，还没有对自己的人生找到一个正确的方向，对未来的生活依旧是一片迷茫。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202112311945339.webp" alt=""></p>
+<p>2021年对我来说，也是有非常有意义的一年。不仅是因为刚步入20岁，还在这一年做了许许多多重要的事。</p>
+<p>5月，凭借着自身的技能优势和为之付出的努力，被学校评为“团学新闻宣传工作先进个人”。（真的超级爱团团）</p>
+<p>10月，比较幸运，被身边的大佬们佬带飞，获得了重庆市第五届渝创渝新二等奖。</p>
+<p>10月，学校召开青春盛会，跟一起共事的小伙伴们完成了大部分宣传资料的制作，尽管熬了好几个夜，但成就感满满。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202112311946506.webp" alt=""></p>
+<p>好了，今年也就算真的过完了，又老了一岁。</p>
+<p>只希望所有的遗憾都终结于这个十二月！</p>
+<p>最后，祝大家新年快乐🎇</p>
+]]></content>
+      <categories>
+        <category>闲聊杂谈</category>
+      </categories>
   </entry>
   <entry>
     <title>利用又拍云实现Github Pages加速访问</title>
@@ -702,88 +737,6 @@
       </tags>
   </entry>
   <entry>
-    <title>再见，2021！你好，2022！</title>
-    <url>/posts/519d21a7/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
-<p>2021年即将过去，在这个极具“仪式感”的转折口，为自己简单地做个总结。</p>
-</blockquote>
-<p>在追赶世界脚步和100%掌握自己人生这个问题上，我似乎总是完不成对自己的本有期待。年初立下的flag不少没有做到，就跟小时候常说的那句话一样，“愿望说出来就不灵了”。</p>
-<p>还记得在今年年初，我对自己立了一个flag：“希望今年吃苦的能力比去年强”，可事实却如同我们暂时被搁浅的人生。如果不是做这个总结，可能已经早已忘记。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202112311944385.webp" alt=""></p>
-<h2 id="微信公众号"><a href="#微信公众号" class="headerlink" title="微信公众号"></a>微信公众号</h2><p>2021年2月1日，我发布了今年的第一篇推文，也是这个微信公众号自建立以来的第二篇推文。</p>
-<p>从那时候就想着，一定要坚持下去，保证每日至少一篇推文的任务。就这样，我保持每日一推的频率，持续到了4月29日，但也是从那时开始，公众号开始了断更，后面就一两个月才发一篇。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202112311945495.webp" alt=""></p>
-<p>公众号截至目前共推送了89篇文章，其中有82篇标记了原创内容，共收获到了1629位粉丝。能有这个成绩，已经心满意足了，毕竟创建这个公众号的初心就是用来记录、学习、分享。</p>
-<h2 id="我的博客"><a href="#我的博客" class="headerlink" title="我的博客"></a>我的博客</h2><p><img src="https://cdn.jx-ll.cn/post_img/202112311945583.webp" alt=""></p>
-<p>江小鑫的部落格，是我用来记录生活的第二个地方，博客数据挂载在Github上，免去了服务器的费用。</p>
-<p>博客框架是一款静态程序Hexo，主题采用的是非常好看的butterfly主题。同时还使用了jsdeliver、又拍云来为博客加速，提高访问质量。</p>
-<p>但就在最近，jsdeliver国内服务出现了问题，导致博客的大部分图片出现了加载缓慢，十分影响体验，我也正考虑将图片迁移到腾讯云存储服务。<br><img src="https://cdn.jx-ll.cn/post_img/202112311945498.webp" alt=""></p>
-<h2 id="我的生活"><a href="#我的生活" class="headerlink" title="我的生活"></a>我的生活</h2><p>如果让我用一个关键词来形容的我2021，那一定是“遗憾”。</p>
-<p>遗憾的是，这一年我错过了太多太多，没考的证书、没参加的活动、没找到对的人…</p>
-<p>遗憾的是，没有完成年初立下的那些flag，对任何事情都没有坚持下去的决心，总是半途而废。</p>
-<p>遗憾的是，还没有对自己的人生找到一个正确的方向，对未来的生活依旧是一片迷茫。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202112311945339.webp" alt=""></p>
-<p>2021年对我来说，也是有非常有意义的一年。不仅是因为刚步入20岁，还在这一年做了许许多多重要的事。</p>
-<p>5月，凭借着自身的技能优势和为之付出的努力，被学校评为“团学新闻宣传工作先进个人”。（真的超级爱团团）</p>
-<p>10月，比较幸运，被身边的大佬们佬带飞，获得了重庆市第五届渝创渝新二等奖。</p>
-<p>10月，学校召开青春盛会，跟一起共事的小伙伴们完成了大部分宣传资料的制作，尽管熬了好几个夜，但成就感满满。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202112311946506.webp" alt=""></p>
-<p>好了，今年也就算真的过完了，又老了一岁。</p>
-<p>只希望所有的遗憾都终结于这个十二月！</p>
-<p>最后，祝大家新年快乐🎇</p>
-]]></content>
-      <categories>
-        <category>闲聊杂谈</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>不装插件的浏览器，没有灵魂！</title>
-    <url>/posts/d8a4486f/</url>
-    <content><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>目前市面上的浏览器大都基于Trident, Gecko, Webkit, Presto, Blink, Chromium这五种内核开发，其中最热门的，还属Chromium内核。</p>
-<p>Chromium是由Google公司开发的一款浏览器内核，因为其不论是在稳定性、流畅性还是安全性上，都有较好的表现，所以深受各大浏览器厂商的喜爱。</p>
-<p>比如我们常见的Microsoft Edge和Google Chrome都是基于这一内核开发。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201201.webp" alt=""></p>
-<h2 id="扩展插件"><a href="#扩展插件" class="headerlink" title="扩展插件"></a>扩展插件</h2><p>俗话说的好，不装插件的浏览器，没有灵魂。今天江小鑫就给大家安利几款比较好用的Chromium内核扩展插件，让你的浏览器直接原地起飞~</p>
-<h3 id="Tampermonkey-油猴"><a href="#Tampermonkey-油猴" class="headerlink" title="Tampermonkey 油猴"></a>Tampermonkey 油猴</h3><p>说到浏览器扩展插件，油猴当数第一。这是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Firefox等浏览器。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201202.webp" alt=""></p>
-<p>Tampermonkey为用户提供了脚本安装、管理、自动检测更新以及编辑脚本等众多便捷的功能，让用户可以享受到各种免费实用的脚本为自己的浏览器附上「灵魂」。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201203.webp" alt=""></p>
-<p>江小鑫之前也为大家推荐过不少的油猴脚本，在美男子鑫鑫公众号后台搜索「油猴」即可查看。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201204.webp" alt=""></p>
-<h3 id="Block-Origin"><a href="#Block-Origin" class="headerlink" title="Block Origin"></a>Block Origin</h3><p>我想经常上网冲浪的你，一定遇到到这种「进服狂砍几个亿」的游戏广告，非常影响浏览体验。但如果你装上了去广告插件，那么界面就会清爽干净的多。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201205.webp" alt=""></p>
-<p>市面上常见的浏览器去广告扩展插件有很多，比如uBlock Origin, AdBlock Plus, Cloudopt。虽然这三款插件各有各的特色，但最好用的还是uBlock Origin。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201206.webp" alt=""></p>
-<p>uBlock Origin是一款去广告浏览器插件，它不仅能够去除掉网站的大部分广告，而且运行起来占用的内存和CPU极低，与其它常见的同类型扩展插件相比，它能够加载并执行上千条过滤规则。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201207.webp" alt=""></p>
-<p>在安装好浏览器插件后，首先要到控制面板里对拦截规则进行更新，保证它能更好地为我们服务。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201208.webp" alt=""></p>
-<h3 id="SuperCopy-超级复制"><a href="#SuperCopy-超级复制" class="headerlink" title="SuperCopy 超级复制"></a>SuperCopy 超级复制</h3><p>相信对于很多经常在网上copy文章的同学来说，一定遇到过这样的情况，有些网页需要我们注册会员才能复制，那么有没有什么可以白嫖的方法呢？</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/202201209.webp" alt=""></p>
-<p>当然，SuperCopy 超级复制这款浏览器扩展插件就是为此而生。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022012010.webp" alt=""></p>
-<p>当我们在访问被禁止右键或禁止复制的网站时，点击 SuperCopy 图标解除禁止即可，当图标灰色表示未启用解除功能，当图标彩色表示解除生效。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022012012.webp" alt=""></p>
-<p>SuperCopy 超级复制支持一键破解禁止右键、破解禁止选择、破解禁止复制、破解禁止粘贴，访问如百度文库VIP等。</p>
-<p>不仅如此，这款扩展插件还支持破解腾讯文档、金山文档、起点文学、豆瓣读书等站点的内容，从此开启白嫖生活。</p>
-<h2 id="安装扩展"><a href="#安装扩展" class="headerlink" title="安装扩展"></a>安装扩展</h2><p>说了这么多，那我们要怎么去下载安装这些扩展插件呢？别急，方法这就来。</p>
-<p>对于使用Microsoft Edge的用户来说，直接到扩展商店搜索对应的关键词即可下载。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022012013.webp" alt=""></p>
-<p>而对于使用Google Chrome的同学来说，由于国内的限制，无法访问谷歌商店。我们只能下载crx离线安装包或到第三方扩展插件网站下载安装。</p>
-<p>因此，江小鑫再给大家安利一款很好用的第三方扩展插件网站：「Crx 搜搜」。这个网站除了支持一键搜索并下载最新的 Chrome 扩展程序 crx 安装包之外，还支持 Edge，Firefox，Opera 等浏览器插件。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/2022012014.webp" alt=""></p>
-<p>搜索到我们需要的插件后，点击获取，就能跳转到安装界面，插件安装界面跟谷歌商店的页面布局大同小异。</p>
-<h2 id="懒人链接"><a href="#懒人链接" class="headerlink" title="懒人链接"></a>懒人链接</h2><p>🔗 微软商店：<a href="https://microsoftedge.microsoft.com/">https://microsoftedge.microsoft.com/</a><br>🔗 Crx搜索：<a href="https://crxsoso.com">https://crxsoso.com</a></p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>实用软件</tag>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>一键DD纯净系统脚本(萌咖) CentOS/Debian/Ubuntu</title>
     <url>/posts/916e1c19/</url>
     <content><![CDATA[<p>基本所有的VPS服务器商家，都会提供免费的Linux系统供安装，比如CentOS、Debian、Ubuntu等。那为什么还要使用一键DD脚本重装/更换系统呢？</p>
@@ -831,6 +784,53 @@
       </categories>
       <tags>
         <tag>系统运维</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>不装插件的浏览器，没有灵魂！</title>
+    <url>/posts/d8a4486f/</url>
+    <content><![CDATA[<h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>目前市面上的浏览器大都基于Trident, Gecko, Webkit, Presto, Blink, Chromium这五种内核开发，其中最热门的，还属Chromium内核。</p>
+<p>Chromium是由Google公司开发的一款浏览器内核，因为其不论是在稳定性、流畅性还是安全性上，都有较好的表现，所以深受各大浏览器厂商的喜爱。</p>
+<p>比如我们常见的Microsoft Edge和Google Chrome都是基于这一内核开发。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201201.webp" alt=""></p>
+<h2 id="扩展插件"><a href="#扩展插件" class="headerlink" title="扩展插件"></a>扩展插件</h2><p>俗话说的好，不装插件的浏览器，没有灵魂。今天江小鑫就给大家安利几款比较好用的Chromium内核扩展插件，让你的浏览器直接原地起飞~</p>
+<h3 id="Tampermonkey-油猴"><a href="#Tampermonkey-油猴" class="headerlink" title="Tampermonkey 油猴"></a>Tampermonkey 油猴</h3><p>说到浏览器扩展插件，油猴当数第一。这是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Firefox等浏览器。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201202.webp" alt=""></p>
+<p>Tampermonkey为用户提供了脚本安装、管理、自动检测更新以及编辑脚本等众多便捷的功能，让用户可以享受到各种免费实用的脚本为自己的浏览器附上「灵魂」。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201203.webp" alt=""></p>
+<p>江小鑫之前也为大家推荐过不少的油猴脚本，在美男子鑫鑫公众号后台搜索「油猴」即可查看。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201204.webp" alt=""></p>
+<h3 id="Block-Origin"><a href="#Block-Origin" class="headerlink" title="Block Origin"></a>Block Origin</h3><p>我想经常上网冲浪的你，一定遇到到这种「进服狂砍几个亿」的游戏广告，非常影响浏览体验。但如果你装上了去广告插件，那么界面就会清爽干净的多。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201205.webp" alt=""></p>
+<p>市面上常见的浏览器去广告扩展插件有很多，比如uBlock Origin, AdBlock Plus, Cloudopt。虽然这三款插件各有各的特色，但最好用的还是uBlock Origin。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201206.webp" alt=""></p>
+<p>uBlock Origin是一款去广告浏览器插件，它不仅能够去除掉网站的大部分广告，而且运行起来占用的内存和CPU极低，与其它常见的同类型扩展插件相比，它能够加载并执行上千条过滤规则。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201207.webp" alt=""></p>
+<p>在安装好浏览器插件后，首先要到控制面板里对拦截规则进行更新，保证它能更好地为我们服务。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201208.webp" alt=""></p>
+<h3 id="SuperCopy-超级复制"><a href="#SuperCopy-超级复制" class="headerlink" title="SuperCopy 超级复制"></a>SuperCopy 超级复制</h3><p>相信对于很多经常在网上copy文章的同学来说，一定遇到过这样的情况，有些网页需要我们注册会员才能复制，那么有没有什么可以白嫖的方法呢？</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/202201209.webp" alt=""></p>
+<p>当然，SuperCopy 超级复制这款浏览器扩展插件就是为此而生。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022012010.webp" alt=""></p>
+<p>当我们在访问被禁止右键或禁止复制的网站时，点击 SuperCopy 图标解除禁止即可，当图标灰色表示未启用解除功能，当图标彩色表示解除生效。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022012012.webp" alt=""></p>
+<p>SuperCopy 超级复制支持一键破解禁止右键、破解禁止选择、破解禁止复制、破解禁止粘贴，访问如百度文库VIP等。</p>
+<p>不仅如此，这款扩展插件还支持破解腾讯文档、金山文档、起点文学、豆瓣读书等站点的内容，从此开启白嫖生活。</p>
+<h2 id="安装扩展"><a href="#安装扩展" class="headerlink" title="安装扩展"></a>安装扩展</h2><p>说了这么多，那我们要怎么去下载安装这些扩展插件呢？别急，方法这就来。</p>
+<p>对于使用Microsoft Edge的用户来说，直接到扩展商店搜索对应的关键词即可下载。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022012013.webp" alt=""></p>
+<p>而对于使用Google Chrome的同学来说，由于国内的限制，无法访问谷歌商店。我们只能下载crx离线安装包或到第三方扩展插件网站下载安装。</p>
+<p>因此，江小鑫再给大家安利一款很好用的第三方扩展插件网站：「Crx 搜搜」。这个网站除了支持一键搜索并下载最新的 Chrome 扩展程序 crx 安装包之外，还支持 Edge，Firefox，Opera 等浏览器插件。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/2022012014.webp" alt=""></p>
+<p>搜索到我们需要的插件后，点击获取，就能跳转到安装界面，插件安装界面跟谷歌商店的页面布局大同小异。</p>
+<h2 id="懒人链接"><a href="#懒人链接" class="headerlink" title="懒人链接"></a>懒人链接</h2><p>🔗 微软商店：<a href="https://microsoftedge.microsoft.com/">https://microsoftedge.microsoft.com/</a><br>🔗 Crx搜索：<a href="https://crxsoso.com">https://crxsoso.com</a></p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>实用软件</tag>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -1307,101 +1307,6 @@
         <tag>闲聊新闻</tag>
         <tag>GitHub</tag>
         <tag>设计指北</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>无需服务器免费部署一个自己的主页，并套用CDN实现加速访问</title>
-    <url>/posts/31bccfd0/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天在 GitHub 无意间发现了 @imsyy 大佬开源的一款 <a href="https://github.com/imsyy/home">个人主页</a> ，整体界面非常好看，适合个人网站引导使用。下面就给大家演示一下怎么优雅地将这款个人主页程序部署到 <code>GitHub</code> 和 <code>vercel</code> 上，并套用 <code>免费CDN</code> 实现加速访问，追求零成本搭建网站。</p>
-<p>演示站：<a href="https://jx-ll.cn">https://jx-ll.cn</a></p>
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
-<li>电脑能正常访问 <a href="https://github.com/">GitHub</a> ，如果不能访问请自行挂梯子或更改本地 hosts</li>
-<li>如果要使用国内 CDN 则需要准备一个已备案域名</li>
-<li>没了</li>
-</ul>
-<h2 id="下载源码"><a href="#下载源码" class="headerlink" title="下载源码"></a>下载源码</h2><p>进入<a href="https://github.com/imsyy/home">项目主页</a>，点击右上角的<code>Code</code>按钮，再点击<code>Download ZIP</code></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142043.png" alt=""></p>
-<p>下载好后将压缩包解压，解压出来的文件夹里面就是该项目的完整源码了</p>
-<h2 id="修改源码"><a href="#修改源码" class="headerlink" title="修改源码"></a>修改源码</h2><p>可以看到，这个项目是一个 HTML 纯静态网页，网页内的大部分内容都可以直接在 <code>index.html</code> 文件里直接修改</p>
-<p>由于引入字体的 cdn 开启了防盗链，所以我们要在 <code>index.html</code> 文件的 <code>24行左右</code> 将 href 修改为作者提供的链接</p>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- HarmonyOS Sans --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 本站 CDN 已开启防盗链，非本站域名不可访问，请更改链接为下方内容，否则自定义字体将失效 --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;https://cdn.imsyy.top/gh/imsyy/file/font/HarmonyOS_Sans/regular.min.css&quot;</span> /&gt;</span></span><br></pre></td></tr></table></figure>
-<p>为了防止cdn失效，你还可以将该css文件下载到本地，将其引入</p>
-<p>其中， <code>old</code> 文件夹是作者之前开发的 <a href="https://github.com/imsyy/Snavigation">Snavigation</a> ，也是一个起始页，有兴趣的可以看看。</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142528.png" alt=""></p>
-<h3 id="自定义歌单"><a href="#自定义歌单" class="headerlink" title="自定义歌单"></a>自定义歌单</h3><p>本项目采用了基于 MetingJS 的 Aplayer 音乐播放器，可实现快速自定义歌单<br>默认仅支持 <strong>中国大陆地区</strong>，其他区域请将 <a href="https://cdn.jsdelivr.net/gh/imsyy/file/js/music/music-other.js">以下内容</a> 替换 <code>music.js</code> 以实现音乐播放器的正常使用</p>
-<p>如需自定义歌单，只需将 <code>/js/music.js</code> 文件的 <code>12-14行</code> 修改为你自己的信息即可</p>
-<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> server = <span class="string">&quot;netease&quot;</span>; <span class="comment">//netease: 网易云音乐; tencent: QQ音乐; kugou: 酷狗音乐; xiami: 虾米; kuwo: 酷我</span></span><br><span class="line"><span class="keyword">let</span> type = <span class="string">&quot;playlist&quot;</span>; <span class="comment">//song: 单曲; playlist: 歌单; album: 唱片</span></span><br><span class="line"><span class="keyword">let</span> id = <span class="string">&quot;7452421335&quot;</span>; <span class="comment">//封面 ID / 单曲 ID / 歌单 ID</span></span><br></pre></td></tr></table></figure>
-<p>网易云的歌单 id 一般在网页链接的 <code>?id</code> 后面，其他平台大同小异</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145302.png" alt=""></p>
-<h2 id="部署到-GitHub"><a href="#部署到-GitHub" class="headerlink" title="部署到 GitHub"></a>部署到 GitHub</h2><p>进入到自己的 GitHub 后台，<a href="https://github.com/new">新建一个仓库</a></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Repository name: 仓库名称</span><br><span class="line">Description(可选): 仓库描述介绍,不是必填项</span><br><span class="line">Public, Private : 仓库权限。public 公开共享，private 私有或指定合作者</span><br><span class="line">Initialize this repository with a README: 添加一个README.md</span><br><span class="line">gitignore: 不需要进行版本管理的仓库类型，对应生成文件.gitignore</span><br><span class="line">license: 证书类型，对应生成文件LICENSE</span><br></pre></td></tr></table></figure>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145735.png" alt=""></p>
-<p>创建好仓库后就要将刚刚修改好的源码上传到仓库，有两种方法</p>
-<p>推荐使用 <code>Git Bash</code>，如果没有的话也可以手动上传</p>
-<h3 id="方法一、用-Git-Bash-上传"><a href="#方法一、用-Git-Bash-上传" class="headerlink" title="方法一、用 Git Bash 上传"></a>方法一、用 Git Bash 上传</h3><p>下载并安装好 <a href="https://git-scm.com/download/win">Git Bash</a></p>
-<p>在本地新建个空文件夹，打开文件夹，在空白处单击右键，选择 <code>Git Bash Here</code></p>
-<p>返回刚刚创建好的 GitHub 项目地址，点击右上角的<code>Code</code>按钮，将 git 地址复制下来</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816151255.png" alt=""></p>
-<p>切换到 <code>Git Bash软件</code> ，将项目克隆到本地。命令为：<code>git clone + 刚刚复制的 git 地址</code></p>
-<p>如果弹出需要连接的提示框，点击 <code>Sign in with your browser</code> ，在浏览器中授权即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152056.png" alt=""></p>
-<p>等一会儿后就能看到文件夹里多了一个项目名称的文件夹</p>
-<p>接下来将之前修改好的项目源码复制到这个项目文件夹中</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152440.png" alt=""></p>
-<p>返回到 <code>Git Bash软件</code> ，输入 <code>cd + 文件夹名称</code> ，切换目录</p>
-<p>依次输入以下命令，将整个文件夹上传到 GitHub</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git add .</span><br><span class="line">git commit -m “你的提交信息”</span><br></pre></td></tr></table></figure>
-<p>这时可能会要求你输入以下内容来确认你的身份</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;you@example.com&quot;</span><br><span class="line">git config --global user.name &quot;Your Name&quot;</span><br></pre></td></tr></table></figure>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153212.png" alt=""></p>
-<p>接着再输入<code>git pull</code>，就可以开始上传了</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153129.png" alt=""></p>
-<p>上传结束后，返回到你的项目主页，可以看到文件已成功上传</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154119.png" alt=""></p>
-<p>这时就可以进行访问了，地址是：<a href="https://username.github.io/repositories">https://username.github.io/repositories</a> （username是你的用户名，repositories是你的项目名）</p>
-<p>例如我的就是：<del><a href="https://jonxinxin.github.io/myhome">https://jonxinxin.github.io/myhome</a></del> （已删除）</p>
-<h3 id="方法二、手动上传"><a href="#方法二、手动上传" class="headerlink" title="方法二、手动上传"></a>方法二、手动上传</h3><p>如果电脑没有 <code>Git Bash</code> ，而且不想下载的话，也可以直接手动进行上传</p>
-<p>进入 GitHub 项目主页，点击右上角的 <code>Add file</code> -&gt; <code>Upload files</code> 进入到上传页面</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163342.png" alt=""></p>
-<p>直接将整个项目文件夹拖到上传框内，即可自动上传项目内的文件夹及文件</p>
-<p>如果点击 <code>choose your files</code> 就只能上传单个文件，不方便</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154731.png" alt=""></p>
-<p>全部上传完毕后点击 <code>Commit changes</code> 提交即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155239.png" alt=""></p>
-<h2 id="部署到Vercel"><a href="#部署到Vercel" class="headerlink" title="部署到Vercel"></a>部署到Vercel</h2><p>进入 Vercel 的 <a href="https://vercel.com/dashboard">控制台</a> ，点击右上角的 <code>New Project</code> 来新建一个项目</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155642.png" alt=""></p>
-<p>这里我已经将 Vercel 与 Github 绑定了，如果没有绑定的可按照说明绑定</p>
-<p>绑定好后这里会出现绑定的 GitHub 下的所有项目，点击 <code>Import</code> 可以直接导入到 Vercel</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155814.png" alt=""></p>
-<p>这里直接点击 <code>Deploy</code> 部署即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160127.png" alt=""></p>
-<p>过一会儿就会出现满屏的彩带，部署成功</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160308.png" alt=""></p>
-<p>点击 <code>Go to Dashboard</code> 进入控制台，可以看到 Vercel 默认给我们分配了一个域名</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160353.png" alt=""></p>
-<p>访问该域名就能看到我们部署好的项目</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160556.png" alt=""></p>
-<p>但是这段时间 Vercel 在国内的访问速度非常拉跨，如果不套用 cdn 的话往往需要加载很久</p>
-<h2 id="使用DogeCloud免费加速网站"><a href="#使用DogeCloud免费加速网站" class="headerlink" title="使用DogeCloud免费加速网站"></a>使用DogeCloud免费加速网站</h2><p>DogeCloud 为用户免费提供了每月 20GB 的 CDN 流量包，对于普通用户来说，完全足够</p>
-<p>但想使用国内 CDN 有一个缺点就是加速域名必须是已备案的</p>
-<p>如果域名未备案也可套用 cloudflare 的 cdn ，但速度就没那么理想</p>
-<p>首先 <a href="https://console.dogecloud.com/register.html">注册</a> 一个 DogeCloud 账号，并完成实名验证</p>
-<p>然后在 <a href="https://console.dogecloud.com/cdn/list">域名管理</a> 中添加一个已备案的域名</p>
-<p>其中， <code>源站域名</code> 为刚刚 Vercel 分配的域名，回源 HOST 可以不填</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816161610.png" alt=""></p>
-<p>添加好域名后到将域名解析到 DogeCloud ，记录值为 DogeCloud 提供的 CNAME 域名</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163716.png" alt=""></p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162034.png" alt=""></p>
-<p>接着到 Vercel ，点击 <code>View Domains</code> 绑定刚刚添加的加速域名，等待生效即可</p>
-<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162334.png" alt=""></p>
-]]></content>
-      <categories>
-        <category>经验分享</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>GitHub</tag>
-        <tag>CDN</tag>
       </tags>
   </entry>
   <entry>
@@ -3546,6 +3451,101 @@
       </categories>
       <tags>
         <tag>音乐推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>无需服务器免费部署一个自己的主页，并套用CDN实现加速访问</title>
+    <url>/posts/31bccfd0/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今天在 GitHub 无意间发现了 @imsyy 大佬开源的一款 <a href="https://github.com/imsyy/home">个人主页</a> ，整体界面非常好看，适合个人网站引导使用。下面就给大家演示一下怎么优雅地将这款个人主页程序部署到 <code>GitHub</code> 和 <code>vercel</code> 上，并套用 <code>免费CDN</code> 实现加速访问，追求零成本搭建网站。</p>
+<p>演示站：<a href="https://jx-ll.cn">https://jx-ll.cn</a></p>
+<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><ul>
+<li>电脑能正常访问 <a href="https://github.com/">GitHub</a> ，如果不能访问请自行挂梯子或更改本地 hosts</li>
+<li>如果要使用国内 CDN 则需要准备一个已备案域名</li>
+<li>没了</li>
+</ul>
+<h2 id="下载源码"><a href="#下载源码" class="headerlink" title="下载源码"></a>下载源码</h2><p>进入<a href="https://github.com/imsyy/home">项目主页</a>，点击右上角的<code>Code</code>按钮，再点击<code>Download ZIP</code></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142043.png" alt=""></p>
+<p>下载好后将压缩包解压，解压出来的文件夹里面就是该项目的完整源码了</p>
+<h2 id="修改源码"><a href="#修改源码" class="headerlink" title="修改源码"></a>修改源码</h2><p>可以看到，这个项目是一个 HTML 纯静态网页，网页内的大部分内容都可以直接在 <code>index.html</code> 文件里直接修改</p>
+<p>由于引入字体的 cdn 开启了防盗链，所以我们要在 <code>index.html</code> 文件的 <code>24行左右</code> 将 href 修改为作者提供的链接</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="comment">&lt;!-- HarmonyOS Sans --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- 本站 CDN 已开启防盗链，非本站域名不可访问，请更改链接为下方内容，否则自定义字体将失效 --&gt;</span></span><br><span class="line"><span class="comment">&lt;!-- https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;https://cdn.imsyy.top/gh/imsyy/file/font/HarmonyOS_Sans/regular.min.css&quot;</span> /&gt;</span></span><br></pre></td></tr></table></figure>
+<p>为了防止cdn失效，你还可以将该css文件下载到本地，将其引入</p>
+<p>其中， <code>old</code> 文件夹是作者之前开发的 <a href="https://github.com/imsyy/Snavigation">Snavigation</a> ，也是一个起始页，有兴趣的可以看看。</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816142528.png" alt=""></p>
+<h3 id="自定义歌单"><a href="#自定义歌单" class="headerlink" title="自定义歌单"></a>自定义歌单</h3><p>本项目采用了基于 MetingJS 的 Aplayer 音乐播放器，可实现快速自定义歌单<br>默认仅支持 <strong>中国大陆地区</strong>，其他区域请将 <a href="https://cdn.jsdelivr.net/gh/imsyy/file/js/music/music-other.js">以下内容</a> 替换 <code>music.js</code> 以实现音乐播放器的正常使用</p>
+<p>如需自定义歌单，只需将 <code>/js/music.js</code> 文件的 <code>12-14行</code> 修改为你自己的信息即可</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="keyword">let</span> server = <span class="string">&quot;netease&quot;</span>; <span class="comment">//netease: 网易云音乐; tencent: QQ音乐; kugou: 酷狗音乐; xiami: 虾米; kuwo: 酷我</span></span><br><span class="line"><span class="keyword">let</span> type = <span class="string">&quot;playlist&quot;</span>; <span class="comment">//song: 单曲; playlist: 歌单; album: 唱片</span></span><br><span class="line"><span class="keyword">let</span> id = <span class="string">&quot;7452421335&quot;</span>; <span class="comment">//封面 ID / 单曲 ID / 歌单 ID</span></span><br></pre></td></tr></table></figure>
+<p>网易云的歌单 id 一般在网页链接的 <code>?id</code> 后面，其他平台大同小异</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145302.png" alt=""></p>
+<h2 id="部署到-GitHub"><a href="#部署到-GitHub" class="headerlink" title="部署到 GitHub"></a>部署到 GitHub</h2><p>进入到自己的 GitHub 后台，<a href="https://github.com/new">新建一个仓库</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Repository name: 仓库名称</span><br><span class="line">Description(可选): 仓库描述介绍,不是必填项</span><br><span class="line">Public, Private : 仓库权限。public 公开共享，private 私有或指定合作者</span><br><span class="line">Initialize this repository with a README: 添加一个README.md</span><br><span class="line">gitignore: 不需要进行版本管理的仓库类型，对应生成文件.gitignore</span><br><span class="line">license: 证书类型，对应生成文件LICENSE</span><br></pre></td></tr></table></figure>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816145735.png" alt=""></p>
+<p>创建好仓库后就要将刚刚修改好的源码上传到仓库，有两种方法</p>
+<p>推荐使用 <code>Git Bash</code>，如果没有的话也可以手动上传</p>
+<h3 id="方法一、用-Git-Bash-上传"><a href="#方法一、用-Git-Bash-上传" class="headerlink" title="方法一、用 Git Bash 上传"></a>方法一、用 Git Bash 上传</h3><p>下载并安装好 <a href="https://git-scm.com/download/win">Git Bash</a></p>
+<p>在本地新建个空文件夹，打开文件夹，在空白处单击右键，选择 <code>Git Bash Here</code></p>
+<p>返回刚刚创建好的 GitHub 项目地址，点击右上角的<code>Code</code>按钮，将 git 地址复制下来</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816151255.png" alt=""></p>
+<p>切换到 <code>Git Bash软件</code> ，将项目克隆到本地。命令为：<code>git clone + 刚刚复制的 git 地址</code></p>
+<p>如果弹出需要连接的提示框，点击 <code>Sign in with your browser</code> ，在浏览器中授权即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152056.png" alt=""></p>
+<p>等一会儿后就能看到文件夹里多了一个项目名称的文件夹</p>
+<p>接下来将之前修改好的项目源码复制到这个项目文件夹中</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816152440.png" alt=""></p>
+<p>返回到 <code>Git Bash软件</code> ，输入 <code>cd + 文件夹名称</code> ，切换目录</p>
+<p>依次输入以下命令，将整个文件夹上传到 GitHub</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git add .</span><br><span class="line">git commit -m “你的提交信息”</span><br></pre></td></tr></table></figure>
+<p>这时可能会要求你输入以下内容来确认你的身份</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.email &quot;you@example.com&quot;</span><br><span class="line">git config --global user.name &quot;Your Name&quot;</span><br></pre></td></tr></table></figure>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153212.png" alt=""></p>
+<p>接着再输入<code>git pull</code>，就可以开始上传了</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816153129.png" alt=""></p>
+<p>上传结束后，返回到你的项目主页，可以看到文件已成功上传</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154119.png" alt=""></p>
+<p>这时就可以进行访问了，地址是：<a href="https://username.github.io/repositories">https://username.github.io/repositories</a> （username是你的用户名，repositories是你的项目名）</p>
+<p>例如我的就是：<del><a href="https://jonxinxin.github.io/myhome">https://jonxinxin.github.io/myhome</a></del> （已删除）</p>
+<h3 id="方法二、手动上传"><a href="#方法二、手动上传" class="headerlink" title="方法二、手动上传"></a>方法二、手动上传</h3><p>如果电脑没有 <code>Git Bash</code> ，而且不想下载的话，也可以直接手动进行上传</p>
+<p>进入 GitHub 项目主页，点击右上角的 <code>Add file</code> -&gt; <code>Upload files</code> 进入到上传页面</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163342.png" alt=""></p>
+<p>直接将整个项目文件夹拖到上传框内，即可自动上传项目内的文件夹及文件</p>
+<p>如果点击 <code>choose your files</code> 就只能上传单个文件，不方便</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816154731.png" alt=""></p>
+<p>全部上传完毕后点击 <code>Commit changes</code> 提交即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155239.png" alt=""></p>
+<h2 id="部署到Vercel"><a href="#部署到Vercel" class="headerlink" title="部署到Vercel"></a>部署到Vercel</h2><p>进入 Vercel 的 <a href="https://vercel.com/dashboard">控制台</a> ，点击右上角的 <code>New Project</code> 来新建一个项目</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155642.png" alt=""></p>
+<p>这里我已经将 Vercel 与 Github 绑定了，如果没有绑定的可按照说明绑定</p>
+<p>绑定好后这里会出现绑定的 GitHub 下的所有项目，点击 <code>Import</code> 可以直接导入到 Vercel</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816155814.png" alt=""></p>
+<p>这里直接点击 <code>Deploy</code> 部署即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160127.png" alt=""></p>
+<p>过一会儿就会出现满屏的彩带，部署成功</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160308.png" alt=""></p>
+<p>点击 <code>Go to Dashboard</code> 进入控制台，可以看到 Vercel 默认给我们分配了一个域名</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160353.png" alt=""></p>
+<p>访问该域名就能看到我们部署好的项目</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816160556.png" alt=""></p>
+<p>但是这段时间 Vercel 在国内的访问速度非常拉跨，如果不套用 cdn 的话往往需要加载很久</p>
+<h2 id="使用DogeCloud免费加速网站"><a href="#使用DogeCloud免费加速网站" class="headerlink" title="使用DogeCloud免费加速网站"></a>使用DogeCloud免费加速网站</h2><p>DogeCloud 为用户免费提供了每月 20GB 的 CDN 流量包，对于普通用户来说，完全足够</p>
+<p>但想使用国内 CDN 有一个缺点就是加速域名必须是已备案的</p>
+<p>如果域名未备案也可套用 cloudflare 的 cdn ，但速度就没那么理想</p>
+<p>首先 <a href="https://console.dogecloud.com/register.html">注册</a> 一个 DogeCloud 账号，并完成实名验证</p>
+<p>然后在 <a href="https://console.dogecloud.com/cdn/list">域名管理</a> 中添加一个已备案的域名</p>
+<p>其中， <code>源站域名</code> 为刚刚 Vercel 分配的域名，回源 HOST 可以不填</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816161610.png" alt=""></p>
+<p>添加好域名后到将域名解析到 DogeCloud ，记录值为 DogeCloud 提供的 CNAME 域名</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816163716.png" alt=""></p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162034.png" alt=""></p>
+<p>接着到 Vercel ，点击 <code>View Domains</code> 绑定刚刚添加的加速域名，等待生效即可</p>
+<p><img src="https://cdn.jx-ll.cn/post_img/sudoxin_20220816162334.png" alt=""></p>
+]]></content>
+      <categories>
+        <category>经验分享</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>GitHub</tag>
+        <tag>CDN</tag>
       </tags>
   </entry>
   <entry>
